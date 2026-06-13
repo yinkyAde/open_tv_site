@@ -1,0 +1,53 @@
+[
+  {
+    "id": "radiotvsalone-cv-sd-7954",
+    "name": "Radio TV Sal One",
+    "slug": "radiotvsalone-cv-sd-7954",
+    "logoUrl": "https://i.imgur.com/pCz7ifY.jpg",
+    "streamUrl": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
+    "country": {
+      "code": "CV",
+      "name": "Cape Verde"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioTVSalOne.cv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tv-sal-one::cv::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

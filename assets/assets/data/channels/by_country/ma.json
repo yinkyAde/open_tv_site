@@ -1,0 +1,852 @@
+[
+  {
+    "id": "2mmonde-ma-hd-7",
+    "name": "2M Monde",
+    "slug": "2mmonde-ma-hd-7",
+    "logoUrl": "https://i.imgur.com/MvpntzA.png",
+    "streamUrl": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "2MMonde.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "2m-monde::ma::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "2mmonde-ma-plus1-9",
+    "name": "2M Monde +1",
+    "slug": "2mmonde-ma-plus1-9",
+    "logoUrl": "https://i.imgur.com/MvpntzA.png",
+    "streamUrl": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "2MMonde.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "2m-monde-1::ma::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alaoula-ma-hd-415",
+    "name": "Al Aoula",
+    "slug": "alaoula-ma-hd-415",
+    "logoUrl": "https://i.imgur.com/nq53d2N.png",
+    "streamUrl": "https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara",
+      "fra",
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlAoula.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-aoula::ma::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alaoula-ma-interhd-416",
+    "name": "Al Aoula Inter",
+    "slug": "alaoula-ma-interhd-416",
+    "logoUrl": "https://i.imgur.com/nq53d2N.png",
+    "streamUrl": "https://stream-lb.livemediama.com/alaoula/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara",
+      "fra",
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlAoula.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-aoula-inter::ma::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arryadia-ma-hd-879",
+    "name": "Arryadia",
+    "slug": "arryadia-ma-hd-879",
+    "logoUrl": "https://i.imgur.com/XjzK3gZ.png",
+    "streamUrl": "https://stream-lb.livemediama.com/arryadia/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Arryadia.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arryadia::ma::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medi1tvafrique-ma-sd-5829",
+    "name": "Medi1TV Afrique",
+    "slug": "medi1tvafrique-ma-sd-5829",
+    "logoUrl": "https://i.imgur.com/a20DHnj.png",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Medi1TVAfrique.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medi1tv-afrique::ma::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medi1tvafrique-ma-sd-5830",
+    "name": "Medi1TV Afrique (1080p) (DVR)",
+    "slug": "medi1tvafrique-ma-sd-5830",
+    "logoUrl": "https://i.imgur.com/a20DHnj.png",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Medi1TVAfrique.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medi1tv-afrique-1080p-dvr::ma::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arryadiahd1-ma-hd-880",
+    "name": "Arryadia HD 1",
+    "slug": "arryadiahd1-ma-hd-880",
+    "logoUrl": "https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png",
+    "streamUrl": "https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ArryadiaHD1.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arryadia-1::ma::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arryadiahd2-ma-hd-881",
+    "name": "Arryadia HD 2",
+    "slug": "arryadiahd2-ma-hd-881",
+    "logoUrl": "https://i.ibb.co/jPFCVFNS/image-removebg-preview-3.png",
+    "streamUrl": "https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ArryadiaHD2.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arryadia-2::ma::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arryadiahd3-ma-hd-882",
+    "name": "Arryadia HD 3",
+    "slug": "arryadiahd3-ma-hd-882",
+    "logoUrl": "https://i.ibb.co/mCnJzvvB/image-removebg-preview-4.png",
+    "streamUrl": "https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ArryadiaHD3.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arryadia-3::ma::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medi1tvarabic-ma-sd-5831",
+    "name": "Medi 1 TV Arabic",
+    "slug": "medi1tvarabic-ma-sd-5831",
+    "logoUrl": "https://i.imgur.com/3YsZPY6.jpeg",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Medi1TVArabic.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medi-1-tv-arabic::ma::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medi1tvarabic-ma-sd-5832",
+    "name": "Medi 1 TV Arabic (1080p) (DVR)",
+    "slug": "medi1tvarabic-ma-sd-5832",
+    "logoUrl": "https://i.imgur.com/3YsZPY6.jpeg",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Medi1TVArabic.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medi-1-tv-arabic-1080p-dvr::ma::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medi1tvmaghreb-ma-sd-5833",
+    "name": "Medi 1 TV Maghreb",
+    "slug": "medi1tvmaghreb-ma-sd-5833",
+    "logoUrl": "https://i.imgur.com/F5OFQsp.jpeg",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Medi1TVMaghreb.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medi-1-tv-maghreb::ma::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medi1tvmaghreb-ma-sd-5834",
+    "name": "Medi 1 TV Maghreb (1080p) (DVR)",
+    "slug": "medi1tvmaghreb-ma-sd-5834",
+    "logoUrl": "https://i.imgur.com/F5OFQsp.jpeg",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Medi1TVMaghreb.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medi-1-tv-maghreb-1080p-dvr::ma::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chadatv-ma-sd-2235",
+    "name": "Chada TV",
+    "slug": "chadatv-ma-sd-2235",
+    "logoUrl": "https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png",
+    "streamUrl": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ChadaTV.ma",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chada-tv::ma::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+        "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "storychanneltv-ma-sd-9503",
+    "name": "StoryChannel TV",
+    "slug": "storychanneltv-ma-sd-9503",
+    "logoUrl": "https://i.imgur.com/ZBV6xph.png",
+    "streamUrl": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "fra",
+      "eng",
+      "kab",
+      "ara",
+      "shy",
+      "shi",
+      "taq",
+      "tzm",
+      "rif",
+      "asp",
+      "xms"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "StoryChannelTV.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "storychannel-tv::ma::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

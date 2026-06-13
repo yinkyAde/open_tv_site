@@ -1,0 +1,724 @@
+[
+  {
+    "id": "centelevision-cm-sd-2181",
+    "name": "CEN Télévision",
+    "slug": "centelevision-cm-sd-2181",
+    "logoUrl": "https://i.ibb.co/2vJfdgN/unnamed.jpg",
+    "streamUrl": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CENTelevision.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cen-t-l-vision::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2international-cm-sd-1750",
+    "name": "Canal 2 International",
+    "slug": "canal2international-cm-sd-1750",
+    "logoUrl": "https://i.imgur.com/BzA2z7m.png",
+    "streamUrl": "http://69.64.57.208/canal2international/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2International.cm",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2-international::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "equinoxetv-cm-sd-3357",
+    "name": "Equinoxe TV",
+    "slug": "equinoxetv-cm-sd-3357",
+    "logoUrl": "https://i.imgur.com/GKbnBlo.png",
+    "streamUrl": "http://69.64.57.208/equinoxtv/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EquinoxeTV.cm",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "equinoxe-tv::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "transformerstv-cm-sd-10486",
+    "name": "Transformers TV",
+    "slug": "transformerstv-cm-sd-10486",
+    "logoUrl": "https://i.imgur.com/EQRyJMI.png",
+    "streamUrl": "https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TransformersTV.cm",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "transformers-tv::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afriquemedia-cm-sd-358",
+    "name": "Afrique Media",
+    "slug": "afriquemedia-cm-sd-358",
+    "logoUrl": "https://i.imgur.com/spQgX7X.png",
+    "streamUrl": "https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AfriqueMedia.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afrique-media::cm::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afrique54tv-cm-sd-357",
+    "name": "Afrique54 TV",
+    "slug": "afrique54tv-cm-sd-357",
+    "logoUrl": "https://i.imgur.com/WIaRpiS.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Afrique54TV.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afrique54-tv::cm::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cam10tv-cm-sd-1731",
+    "name": "CAM 10 TV",
+    "slug": "cam10tv-cm-sd-1731",
+    "logoUrl": "https://i.imgur.com/xspb9uY.png",
+    "streamUrl": "https://stream.it-innov.com/cam10tv/index.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CAM10TV.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cam-10-tv::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lauradavemediatv-cm-sd-5393",
+    "name": "Laura Dave Media TV",
+    "slug": "lauradavemediatv-cm-sd-5393",
+    "logoUrl": "https://i.imgur.com/zzG1S2n.png",
+    "streamUrl": "https://streaming.lauradavemedia.com/ldm/index.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LauraDaveMediaTV.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "laura-dave-media-tv::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tr24television-cm-sd-10453",
+    "name": "TR24",
+    "slug": "tr24television-cm-sd-10453",
+    "logoUrl": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+    "streamUrl": "https://stream.it-innov.com/tr24/index.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TR24Television.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tr24::cm::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mytvchannel-cm-sd-6308",
+    "name": "My TV Channel",
+    "slug": "mytvchannel-cm-sd-6308",
+    "logoUrl": "https://i.imgur.com/vh2373L.png",
+    "streamUrl": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MyTVChannel.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "my-tv-channel::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "playtv-cm-sd-7300",
+    "name": "Play TV",
+    "slug": "playtv-cm-sd-7300",
+    "logoUrl": "https://i.imgur.com/1dmBqpf.png",
+    "streamUrl": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "PlayTV.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "play-tv::cm::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "myrighteoustv-cm-sd-6285",
+    "name": "My Righteous TV",
+    "slug": "myrighteoustv-cm-sd-6285",
+    "logoUrl": "https://i.imgur.com/wKSLNHB.png",
+    "streamUrl": "https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MyRighteousTV.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "my-righteous-tv::cm::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plextv-cm-sd-7304",
+    "name": "PLEX TV",
+    "slug": "plextv-cm-sd-7304",
+    "logoUrl": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
+    "streamUrl": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PLEXTV.cm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plex-tv::cm::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crtv-cm-sd-2676",
+    "name": "CRTV",
+    "slug": "crtv-cm-sd-2676",
+    "logoUrl": "https://i.imgur.com/cQWNh3L.png",
+    "streamUrl": "http://69.64.57.208/crtv/playlist.m3u8",
+    "country": {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CRTV.cm",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crtv::cm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

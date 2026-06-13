@@ -1,0 +1,3072 @@
+[
+  {
+    "id": "girasoltv-hn-sd-3962",
+    "name": "Girasol TV",
+    "slug": "girasoltv-hn-sd-3962",
+    "logoUrl": "https://i.imgur.com/2t7A2yg.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GirasolTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "girasol-tv::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://s.emisoras.tv:8081/girasoltv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cholutecatv-hn-sd-2342",
+    "name": "Choluteca TV",
+    "slug": "cholutecatv-hn-sd-2342",
+    "logoUrl": "https://i.imgur.com/mpc4Isd.png",
+    "streamUrl": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CholutecaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "choluteca-tv::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chtv-hn-sd-2352",
+    "name": "CHTV",
+    "slug": "chtv-hn-sd-2352",
+    "logoUrl": "https://i.imgur.com/QLQgwc6.png",
+    "streamUrl": "https://viewhn.com/chtv/live/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CHTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chtv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diostvtalanga-hn-sd-2999",
+    "name": "Dios Tv Talanga",
+    "slug": "diostvtalanga-hn-sd-2999",
+    "logoUrl": "https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png",
+    "streamUrl": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DiosTvTalanga.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dios-tv-talanga::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebenezertv-hn-sd-3207",
+    "name": "Ebenezer TV",
+    "slug": "ebenezertv-hn-sd-3207",
+    "logoUrl": "https://i.imgur.com/IC30j61.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EbenezerTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebenezer-tv::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sulatv-hn-sd-9564",
+    "name": "Sula TV",
+    "slug": "sulatv-hn-sd-9564",
+    "logoUrl": "https://i.imgur.com/v90r5jS.png",
+    "streamUrl": "https://tv.webmedialive.com/sulatv/live/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SulaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sula-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telerayo-hn-sd-9987",
+    "name": "Telerayo",
+    "slug": "telerayo-hn-sd-9987",
+    "logoUrl": "https://i.imgur.com/jLQsU1u.png",
+    "streamUrl": "https://s.emisoras.tv:8081/telerayo/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Telerayo.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telerayo::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televisionolanchana-hn-sd-10054",
+    "name": "Television Olanchana",
+    "slug": "televisionolanchana-hn-sd-10054",
+    "logoUrl": "https://i.imgur.com/8LnLEQz.png",
+    "streamUrl": "https://viewhn.com/canal30/live/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisionOlanchana.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "television-olanchana::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal11-hn-sd-1813",
+    "name": "Canal 11",
+    "slug": "canal11-hn-sd-1813",
+    "logoUrl": "https://i.imgur.com/Sht2Rd4.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal11.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-11::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "edntv-hn-sd-3238",
+    "name": "EDN TV",
+    "slug": "edntv-hn-sd-3238",
+    "logoUrl": "https://i.imgur.com/5fPsYTz.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "EDNTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "edn-tv::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "globotv-hn-sd-3981",
+    "name": "Globo TV",
+    "slug": "globotv-hn-sd-3981",
+    "logoUrl": "https://i.imgur.com/hxGvZ77.png",
+    "streamUrl": "https://panel.dattalive.com/8122/8122/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GloboTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "globo-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televisionmetropolis191-hn-sd-10052",
+    "name": "Televisión Metrópolis 19.1",
+    "slug": "televisionmetropolis191-hn-sd-10052",
+    "logoUrl": "https://i.imgur.com/X5C1GzB.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisionMetropolis191.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televisi-n-metr-polis-19-1::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televisionmetropolis192-hn-sd-10053",
+    "name": "Televisión Metrópolis 19.2",
+    "slug": "televisionmetropolis192-hn-sd-10053",
+    "logoUrl": "https://i.imgur.com/QaocW5x.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisionMetropolis192.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televisi-n-metr-polis-19-2::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hch-hn-sd-4221",
+    "name": "HCH",
+    "slug": "hch-hn-sd-4221",
+    "logoUrl": "https://i.imgur.com/2CB5ezq.png",
+    "streamUrl": "https://live.streamhch.com/live/streams/hch1.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HCH.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hch::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleceiba-hn-sd-9855",
+    "name": "Teleceiba",
+    "slug": "teleceiba-hn-sd-9855",
+    "logoUrl": "https://i.imgur.com/oPSfsvy.png",
+    "streamUrl": "https://teleceiba.com/stream/tlcb720.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Teleceiba.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleceiba::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rsvhonduras-hn-sd-8347",
+    "name": "RSV Honduras",
+    "slug": "rsvhonduras-hn-sd-8347",
+    "logoUrl": "https://i.imgur.com/yr7Ellh.jpg",
+    "streamUrl": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RSVHonduras.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rsv-honduras::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alsaciastelevision-hn-sd-582",
+    "name": "Alsacias Televisión (ATV | Canal 28)",
+    "slug": "alsaciastelevision-hn-sd-582",
+    "logoUrl": "https://i.imgur.com/SbuD1UW.png",
+    "streamUrl": "https://s.emisoras.tv:8081/atv/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlsaciasTelevision.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alsacias-televisi-n-atv-canal-28::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal7talangavision-hn-sd-1790",
+    "name": "Canal 7 Talanga Visión",
+    "slug": "canal7talangavision-hn-sd-1790",
+    "logoUrl": "https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal7TalangaVision.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-7-talanga-visi-n::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diosteve-hn-sd-2997",
+    "name": "Dios Te Ve",
+    "slug": "diosteve-hn-sd-2997",
+    "logoUrl": "https://i.imgur.com/7hNwUV2.png",
+    "streamUrl": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DiosTeVe.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dios-te-ve::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diostevekids-hn-sd-2998",
+    "name": "Dios Te Ve Kids",
+    "slug": "diostevekids-hn-sd-2998",
+    "logoUrl": "https://i.imgur.com/GnZicVH.png",
+    "streamUrl": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DiosTeVeKids.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dios-te-ve-kids::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kerussotv-hn-sd-5067",
+    "name": "Kerusso TV",
+    "slug": "kerussotv-hn-sd-5067",
+    "logoUrl": "https://i.imgur.com/S79uof0.png",
+    "streamUrl": "https://s.emisoras.tv:8081/kerussotv/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KerussoTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kerusso-tv::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "latop1029-hn-sd-5388",
+    "name": "La Top 102.9",
+    "slug": "latop1029-hn-sd-5388",
+    "logoUrl": "https://i.imgur.com/ZqwLPag.jpg",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaTop1029.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-top-102-9::hn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "latop1077-hn-sd-5389",
+    "name": "La Top 107.7",
+    "slug": "latop1077-hn-sd-5389",
+    "logoUrl": "https://i.imgur.com/vgHhh1W.jpg",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaTop1077.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-top-107-7::hn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "litoralatlanticohd-hn-sd-5484",
+    "name": "Litoral Atlántico HD",
+    "slug": "litoralatlanticohd-hn-sd-5484",
+    "logoUrl": "https://i.imgur.com/UXsgEPX.png",
+    "streamUrl": "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LitoralAtlanticoHD.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "litoral-atl-ntico::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "metrotv-hn-sd-5889",
+    "name": "Metro TV",
+    "slug": "metrotv-hn-sd-5889",
+    "logoUrl": "https://i.imgur.com/BqS8BHi.png",
+    "streamUrl": "https://s.emisoras.tv:8081/metrotv/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MetroTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "metro-tv::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "masnoticiastelevision-hn-sd-5729",
+    "name": "Más Noticias Televisión",
+    "slug": "masnoticiastelevision-hn-sd-5729",
+    "logoUrl": "https://i.imgur.com/FG4nfRX.jpg",
+    "streamUrl": "https://www.amixtv.com:8081/mntvh/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MasNoticiasTelevision.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-s-noticias-televisi-n::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sanignaciotv-hn-sd-8890",
+    "name": "San Ignacio TV",
+    "slug": "sanignaciotv-hn-sd-8890",
+    "logoUrl": "https://i.ibb.co/XJNGsv0/903784d2b8df3f29a43579b78d4341d3.png",
+    "streamUrl": "https://amixtv.live:3753/live/sitvlive.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SanIgnacioTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "san-ignacio-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telavision-hn-sd-9822",
+    "name": "Telavisión",
+    "slug": "telavision-hn-sd-9822",
+    "logoUrl": "https://i.imgur.com/vzjqAZh.jpg",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telavision.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telavisi-n::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemas-hn-sd-9916",
+    "name": "Telemás",
+    "slug": "telemas-hn-sd-9916",
+    "logoUrl": "https://i.imgur.com/eORs1yt.jpg",
+    "streamUrl": "https://viewhn.com/telemas/live/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telemas.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telem-s::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcentro272hd-hn-sd-10787",
+    "name": "TV Centro 27.2 HD",
+    "slug": "tvcentro272hd-hn-sd-10787",
+    "logoUrl": "https://i.imgur.com/Wo2scQf.jpg",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVCentro272HD.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-centro-27-2::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcentrohd-hn-sd-10789",
+    "name": "TV Centro HD",
+    "slug": "tvcentrohd-hn-sd-10789",
+    "logoUrl": "https://i.imgur.com/bcfmqHb.png",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCentroHD.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-centro::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unetv-hn-sd-11314",
+    "name": "UNE TV",
+    "slug": "unetv-hn-sd-11314",
+    "logoUrl": "https://unetvhn.com/wp-content/uploads/2022/09/logo-1.png",
+    "streamUrl": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "UNETV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "une-tv::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tsi-hn-sd-10562",
+    "name": "TSi",
+    "slug": "tsi-hn-sd-10562",
+    "logoUrl": "https://i.imgur.com/GEyxDnf.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TSi.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tsi::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal5ellider-hn-sd-1775",
+    "name": "Canal 5 El Líder",
+    "slug": "canal5ellider-hn-sd-1775",
+    "logoUrl": "https://i.imgur.com/4hEYFa9.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5ElLider.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5-el-l-der::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal32sto-hn-sd-1852",
+    "name": "Canal 32 STO",
+    "slug": "canal32sto-hn-sd-1852",
+    "logoUrl": "https://i.imgur.com/dS4Gb0Q.jpg",
+    "streamUrl": "https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal32STO.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-32-sto::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "inmaculadatv-hn-sd-4606",
+    "name": "Inmaculada TV",
+    "slug": "inmaculadatv-hn-sd-4606",
+    "logoUrl": "https://i.imgur.com/2lisFJV.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "InmaculadaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "inmaculada-tv::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "la981tv-hn-sd-5317",
+    "name": "La 98.1 TV",
+    "slug": "la981tv-hn-sd-5317",
+    "logoUrl": "https://i.imgur.com/7380kTN.png",
+    "streamUrl": "https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "La981TV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-98-1-tv::hn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lencatv-hn-sd-5432",
+    "name": "Lenca Television Canal 40",
+    "slug": "lencatv-hn-sd-5432",
+    "logoUrl": "https://i.imgur.com/fc5IHSy.png",
+    "streamUrl": "https://lencatelevision.com/hls/stream.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LencaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lenca-television-canal-40::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ltv-hn-sd-5586",
+    "name": "LTV",
+    "slug": "ltv-hn-sd-5586",
+    "logoUrl": "https://i.imgur.com/KBYUOcP.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ltv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioomegatv-hn-sd-7911",
+    "name": "Omega TV",
+    "slug": "radioomegatv-hn-sd-7911",
+    "logoUrl": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+    "streamUrl": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RadioOmegaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "omega-tv::hn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioideal-hn-sd-7893",
+    "name": "Radio Ideal 104.7 FM (La Esperanza)",
+    "slug": "radioideal-hn-sd-7893",
+    "logoUrl": "https://i.imgur.com/chPfoOs.png",
+    "streamUrl": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioIdeal.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-ideal-104-7-fm-la-esperanza::hn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imagenfm1051-hn-sd-4530",
+    "name": "Radio Imagen 105.1 FM",
+    "slug": "imagenfm1051-hn-sd-4530",
+    "logoUrl": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+    "streamUrl": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ImagenFM1051.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-imagen-105-1-fm::hn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sercanotv-hn-sd-9010",
+    "name": "Sercano TV",
+    "slug": "sercanotv-hn-sd-9010",
+    "logoUrl": "https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg",
+    "streamUrl": "http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SercanoTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sercano-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teledanli-hn-sd-9875",
+    "name": "TeleDanlí Canal 9",
+    "slug": "teledanli-hn-sd-9875",
+    "logoUrl": "https://i.imgur.com/BACuUSc.png",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleDanli.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teledanl-canal-9::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televisioncomayaguacanal40-hn-sd-10047",
+    "name": "Televisión Comayagua Canal 40",
+    "slug": "televisioncomayaguacanal40-hn-sd-10047",
+    "logoUrl": "https://i.imgur.com/uDLhsDM.png",
+    "streamUrl": "https://mediacp.us:8081/8034/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisionComayaguaCanal40.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televisi-n-comayagua-canal-40::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tencanal10-hn-sd-10080",
+    "name": "TEN Canal 10",
+    "slug": "tencanal10-hn-sd-10080",
+    "logoUrl": "https://i.imgur.com/HQiKyHy.jpg",
+    "streamUrl": "https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TENCanal10.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ten-canal-10::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcopan-hn-sd-10809",
+    "name": "TV Copán",
+    "slug": "tvcopan-hn-sd-10809",
+    "logoUrl": "https://i.imgur.com/JiPmRFr.png",
+    "streamUrl": "https://s.emisoras.tv:8081/tvcopan/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCopan.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cop-n::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alfaomegavision-hn-sd-458",
+    "name": "Alfa & Omega Vision",
+    "slug": "alfaomegavision-hn-sd-458",
+    "logoUrl": "https://i.imgur.com/4BSKCQT.png",
+    "streamUrl": "https://srv.panelcast.net/dorian/dorian/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlfaOmegaVision.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alfa-omega-vision::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv-hn-sd-11611",
+    "name": "VTV",
+    "slug": "vtv-hn-sd-11611",
+    "logoUrl": "https://i.imgur.com/CsPkwD5.png",
+    "streamUrl": "https://d3q93l5bumjyoq.cloudfront.net/index.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV.hn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "campustv-hn-sd-1737",
+    "name": "Campus TV",
+    "slug": "campustv-hn-sd-1737",
+    "logoUrl": "https://i.imgur.com/E1TmADM.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "CampusTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "campus-tv::hn::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cvatv-hn-sd-2728",
+    "name": "CVA TV",
+    "slug": "cvatv-hn-sd-2728",
+    "logoUrl": "https://i.imgur.com/R8P5enu.jpg",
+    "streamUrl": "http://190.124.161.21:8086/cvatv/live.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CVATV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cva-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mayatv-hn-sd-5773",
+    "name": "Maya TV",
+    "slug": "mayatv-hn-sd-5773",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
+    "streamUrl": "https://media.streambrothers.com:19360/8356/8356.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MayaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maya-tv::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "talangatvcanal39-hn-sd-9721",
+    "name": "Talanga TV Canal 39",
+    "slug": "talangatvcanal39-hn-sd-9721",
+    "logoUrl": "https://i.imgur.com/5GiUzHC.jpg",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "TalangaTVCanal39.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "talanga-tv-canal-39::hn::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rcvtv-hn-sd-8096",
+    "name": "RCV TV",
+    "slug": "rcvtv-hn-sd-8096",
+    "logoUrl": "https://i.imgur.com/0TEeEFG.jpg",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RCVTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcv-tv::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdvtv-hn-sd-9805",
+    "name": "TDV TV",
+    "slug": "tdvtv-hn-sd-9805",
+    "logoUrl": "https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TDVTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdv-tv::hn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "avivatv-hn-sd-1028",
+    "name": "Aviva TV",
+    "slug": "avivatv-hn-sd-1028",
+    "logoUrl": "https://i.imgur.com/0jMM4TQ.png",
+    "streamUrl": "https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AvivaTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aviva-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cholusatsur36-hn-sd-2341",
+    "name": "Cholusat Sur 36",
+    "slug": "cholusatsur36-hn-sd-2341",
+    "logoUrl": "https://i.imgur.com/6qL2hE5.png",
+    "streamUrl": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CholusatSur36.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cholusat-sur-36::hn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qhubotv-hn-sd-7790",
+    "name": "Q'hubo TV",
+    "slug": "qhubotv-hn-sd-7790",
+    "logoUrl": "https://i.imgur.com/yZmnfvj.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "QhuboTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "q-hubo-tv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unahutv-hn-sd-11309",
+    "name": "UNAH UTV",
+    "slug": "unahutv-hn-sd-11309",
+    "logoUrl": "https://i.imgur.com/GhzaYbK.png",
+    "streamUrl": "https://live-utv.unah.edu.hn/web/salida.m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UNAHUTV.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unah-utv::hn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "deportestvc-hn-sd-2951",
+    "name": "Deportes TVC",
+    "slug": "deportestvc-hn-sd-2951",
+    "logoUrl": "https://i.imgur.com/Y1t8xkL.png",
+    "streamUrl": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+    "country": {
+      "code": "HN",
+      "name": "Honduras"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "DeportesTVC.hn",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "deportes-tvc::hn::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

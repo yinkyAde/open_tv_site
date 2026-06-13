@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "cmctv-hr-sd-2489",
+    "name": "CMC TV",
+    "slug": "cmctv-hr-sd-2489",
+    "logoUrl": "https://i.imgur.com/FCb7Ag2.png",
+    "streamUrl": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "CMCTV.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cmc-tv::hr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "klapeitamburetv-hr-sd-5142",
+    "name": "Klape i Tambure TV",
+    "slug": "klapeitamburetv-hr-sd-5142",
+    "logoUrl": "https://i.imgur.com/sKj3dgc.png",
+    "streamUrl": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "KlapeiTambureTV.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "klape-i-tambure-tv::hr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "novatv-hr-sd-6706",
+    "name": "Nova TV",
+    "slug": "novatv-hr-sd-6706",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png",
+    "streamUrl": "https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NovaTV.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nova-tv::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bravotv-hr-sd-1617",
+    "name": "Bravo! TV",
+    "slug": "bravotv-hr-sd-1617",
+    "logoUrl": "https://i.imgur.com/FN2J9hv.png",
+    "streamUrl": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BravoTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bravo-tv::hr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "extratv-hr-sd-3529",
+    "name": "Extra TV",
+    "slug": "extratv-hr-sd-3529",
+    "logoUrl": "https://i.imgur.com/5edYPBO.png",
+    "streamUrl": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ExtraTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "extra-tv::hr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "libertastv-hr-sd-5459",
+    "name": "Libertas TV",
+    "slug": "libertastv-hr-sd-5459",
+    "logoUrl": "https://i.imgur.com/4R4fhbd.png",
+    "streamUrl": "https://stream.luci.xyz/hls/LTV.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LibertasTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "libertas-tv::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotelevizijabanovina-hr-sd-7942",
+    "name": "Radio Televizija Banovina",
+    "slug": "radiotelevizijabanovina-hr-sd-7942",
+    "logoUrl": "https://i.imgur.com/gCFgC5D.png",
+    "streamUrl": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTelevizijaBanovina.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-televizija-banovina::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sbtv-hr-sd-8959",
+    "name": "SBTV",
+    "slug": "sbtv-hr-sd-8959",
+    "logoUrl": "https://i.imgur.com/MIampxZ.png",
+    "streamUrl": "https://live.leveex.hr/hls/live.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SBTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sbtv::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvzapad-hr-sd-11245",
+    "name": "TV Zapad",
+    "slug": "tvzapad-hr-sd-11245",
+    "logoUrl": "https://i.imgur.com/cgCeX12.png",
+    "streamUrl": "http://85.94.67.158/TVZAPAD/index.fmp4.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVZapad.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-zapad::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hrt1-hr-sd-4416",
+    "name": "HRT 1",
+    "slug": "hrt1-hr-sd-4416",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HRT1.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hrt-1::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
+      ]
+    }
+  },
+  {
+    "id": "hrt2-hr-sd-4418",
+    "name": "HRT 2",
+    "slug": "hrt2-hr-sd-4418",
+    "logoUrl": "https://i.imgur.com/yyePcl1.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HRT2.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hrt-2::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd"
+      ]
+    }
+  },
+  {
+    "id": "hrt3-hr-sd-4420",
+    "name": "HRT 3",
+    "slug": "hrt3-hr-sd-4420",
+    "logoUrl": "https://i.imgur.com/4OrOJRx.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HRT3.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hrt-3::hr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd"
+      ]
+    }
+  },
+  {
+    "id": "stv-hr-sd-9540",
+    "name": "STV",
+    "slug": "stv-hr-sd-9540",
+    "logoUrl": "https://i.imgur.com/Z3yRl17.png",
+    "streamUrl": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "STV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "stv::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnova-hr-sd-10990",
+    "name": "TV Nova",
+    "slug": "tvnova-hr-sd-10990",
+    "logoUrl": "https://i.imgur.com/gFjJ7YB.png",
+    "streamUrl": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVNova.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nova::hr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "otv-hr-sd-7056",
+    "name": "OTV",
+    "slug": "otv-hr-sd-7056",
+    "logoUrl": "https://i.imgur.com/67zVdu2.png",
+    "streamUrl": "https://stream.agatin.hr:3559/live/otvlive.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "OTV.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "otv::hr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvjadran-hr-sd-10896",
+    "name": "TV Jadran",
+    "slug": "tvjadran-hr-sd-10896",
+    "logoUrl": "https://i.imgur.com/UWMHnOG.png",
+    "streamUrl": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVJadran.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-jadran::hr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diadoratv-hr-sd-2977",
+    "name": "Diadora TV",
+    "slug": "diadoratv-hr-sd-2977",
+    "logoUrl": "https://i.imgur.com/qZzsASl.png",
+    "streamUrl": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DiadoraTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "diadora-tv::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trendtv-hr-sd-10503",
+    "name": "Trend TV",
+    "slug": "trendtv-hr-sd-10503",
+    "logoUrl": "https://i.imgur.com/4SmNISY.jpg",
+    "streamUrl": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TrendTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trend-tv::hr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "klasik-hr-sd-5145",
+    "name": "Klasik TV",
+    "slug": "klasik-hr-sd-5145",
+    "logoUrl": "https://i.imgur.com/C90BYlb.png",
+    "streamUrl": "https://178.253.194.105/klasiktv/playlist.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Klasik.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "klasik-tv::hr::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bravokidstv-hr-sd-1615",
+    "name": "Bravo! Kids TV",
+    "slug": "bravokidstv-hr-sd-1615",
+    "logoUrl": "https://i.imgur.com/JcJ6fQ9.png",
+    "streamUrl": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "BravoKidsTV.hr",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "bravo-kids-tv::hr::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hrt4-hr-hd-4421",
+    "name": "HRT 4 HD",
+    "slug": "hrt4-hr-hd-4421",
+    "logoUrl": "https://i.imgur.com/VcNrY0m.png",
+    "streamUrl": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HRT4.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 61,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "hrt-4::hr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

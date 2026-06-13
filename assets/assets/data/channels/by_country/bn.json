@@ -1,0 +1,163 @@
+[
+  {
+    "id": "rtbaneka-bn-sd-8361",
+    "name": "RTB Aneka",
+    "slug": "rtbaneka-bn-sd-8361",
+    "logoUrl": "https://i.imgur.com/MY40GrC.png",
+    "streamUrl": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+    "country": {
+      "code": "BN",
+      "name": "Brunei"
+    },
+    "languages": [
+      "msa",
+      "eng",
+      "kor",
+      "cmn",
+      "tgl",
+      "tha",
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTBAneka.bn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb-aneka::bn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtbgo-bn-sd-8362",
+    "name": "RTB Go",
+    "slug": "rtbgo-bn-sd-8362",
+    "logoUrl": "https://i.imgur.com/CGlzsD5.png",
+    "streamUrl": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+    "country": {
+      "code": "BN",
+      "name": "Brunei"
+    },
+    "languages": [
+      "msa",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTBGo.bn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb-go::bn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtbsukmaindera-bn-sd-8363",
+    "name": "RTB Sukmaindera",
+    "slug": "rtbsukmaindera-bn-sd-8363",
+    "logoUrl": "https://i.imgur.com/WpMGnTr.png",
+    "streamUrl": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8",
+    "country": {
+      "code": "BN",
+      "name": "Brunei"
+    },
+    "languages": [
+      "msa",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTBSukmaindera.bn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb-sukmaindera::bn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

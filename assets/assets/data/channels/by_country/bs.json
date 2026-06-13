@@ -1,0 +1,206 @@
+[
+  {
+    "id": "guardiantalkradio-bs-sd-4115",
+    "name": "Guardian Talk Radio",
+    "slug": "guardiantalkradio-bs-sd-4115",
+    "logoUrl": "https://i.imgur.com/o3cWUwL.png",
+    "streamUrl": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
+    "country": {
+      "code": "BS",
+      "name": "Bahamas"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "GuardianTalkRadio.bs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "guardian-talk-radio::bs::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "znstv-bs-sd-12203",
+    "name": "ZNS-TV",
+    "slug": "znstv-bs-sd-12203",
+    "logoUrl": "https://i.imgur.com/h6nC8fe.png",
+    "streamUrl": "https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8",
+    "country": {
+      "code": "BS",
+      "name": "Bahamas"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZNSTV.bs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zns-tv::bs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "theparliamentarychannel-bs-sd-10214",
+    "name": "The Parliamentary Channel",
+    "slug": "theparliamentarychannel-bs-sd-10214",
+    "logoUrl": "https://i.imgur.com/ZQagV0x.png",
+    "streamUrl": "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8",
+    "country": {
+      "code": "BS",
+      "name": "Bahamas"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "TheParliamentaryChannel.bs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-parliamentary-channel::bs::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "islandlucktv-bs-sd-4694",
+    "name": "Island Luck TV",
+    "slug": "islandlucktv-bs-sd-4694",
+    "logoUrl": "https://i.imgur.com/P0gDN5n.png",
+    "streamUrl": "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8",
+    "country": {
+      "code": "BS",
+      "name": "Bahamas"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "IslandLuckTV.bs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "island-luck-tv::bs::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,4568 @@
+[
+  {
+    "id": "neonews-pk-sd-6460",
+    "name": "Neo News",
+    "slug": "neonews-pk-sd-6460",
+    "logoUrl": "https://i.imgur.com/9mrbPRs.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a01p/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NeoNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "neo-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sindhtv-pk-sd-9150",
+    "name": "Sindh TV",
+    "slug": "sindhtv-pk-sd-9150",
+    "logoUrl": "https://i.imgur.com/izpeOsx.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00u/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SindhTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sindh-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mumt01.tangotv.in/SINDHTV/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aajentertainment-pk-sd-195",
+    "name": "Aaj Entertainment",
+    "slug": "aajentertainment-pk-sd-195",
+    "logoUrl": "https://i.imgur.com/WK5Cqap.png",
+    "streamUrl": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AajEntertainment.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aaj-entertainment::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arymusik-pk-sd-900",
+    "name": "ARY Musik",
+    "slug": "arymusik-pk-sd-900",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
+    "streamUrl": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ARYMusik.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ary-musik::pk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bolentertainment-pk-sd-1576",
+    "name": "Bol Entertainment",
+    "slug": "bolentertainment-pk-sd-1576",
+    "logoUrl": "https://i.imgur.com/eajSRFo.png",
+    "streamUrl": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BolEntertainment.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bol-entertainment::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "discoverpakistan-pk-sd-3004",
+    "name": "Discover Pakistan",
+    "slug": "discoverpakistan-pk-sd-3004",
+    "logoUrl": "https://i.imgur.com/IJH47fJ.png",
+    "streamUrl": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "DiscoverPakistan.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "discover-pakistan::pk::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "expressentertainment-pk-sd-3525",
+    "name": "Express Entertainment",
+    "slug": "expressentertainment-pk-sd-3525",
+    "logoUrl": "https://i.imgur.com/rgHbb8W.png",
+    "streamUrl": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ExpressEntertainment.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "express-entertainment::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fazaltv-pk-sd-3607",
+    "name": "Fazal TV",
+    "slug": "fazaltv-pk-sd-3607",
+    "logoUrl": "https://i.imgur.com/c0fvKia.png",
+    "streamUrl": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FazalTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fazal-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "humnews-pk-sd-4447",
+    "name": "Hum News",
+    "slug": "humnews-pk-sd-4447",
+    "logoUrl": "https://i.imgur.com/9OroocT.png",
+    "streamUrl": "http://116.90.120.151:8000/play/a024/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HumNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hum-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kay2hd-pk-sd-5030",
+    "name": "Kay2 HD",
+    "slug": "kay2hd-pk-sd-5030",
+    "logoUrl": "https://i.imgur.com/CRKk0iP.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a027/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Kay2HD.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kay2::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lahorerang-pk-sd-5333",
+    "name": "Lahore Rang",
+    "slug": "lahorerang-pk-sd-5333",
+    "logoUrl": "https://i.imgur.com/hglxHTa.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a01q/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LahoreRang.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lahore-rang::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "paighantv-pk-sd-7094",
+    "name": "Paighan TV",
+    "slug": "paighantv-pk-sd-7094",
+    "logoUrl": "https://i.imgur.com/zokC3gO.png",
+    "streamUrl": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PaighanTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "paighan-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pashto1-pk-sd-7144",
+    "name": "Pashto 1",
+    "slug": "pashto1-pk-sd-7144",
+    "logoUrl": "https://i.imgur.com/QB9xOSZ.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00t/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Pashto1.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pashto-1::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ptvnews-pk-sd-7735",
+    "name": "PTV News",
+    "slug": "ptvnews-pk-sd-7735",
+    "logoUrl": "https://i.imgur.com/Fpn8VU7.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a017/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PTVNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ptv-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ptvsports-pk-sd-7737",
+    "name": "PTV Sports",
+    "slug": "ptvsports-pk-sd-7737",
+    "logoUrl": "https://i.imgur.com/CPm6GHA.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a019/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "PTVSports.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ptv-sports::pk::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "publicnews-pk-sd-7740",
+    "name": "Public News",
+    "slug": "publicnews-pk-sd-7740",
+    "logoUrl": "https://i.imgur.com/q3ij8wO.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a04g/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PublicNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "public-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sabtv-pk-sd-8822",
+    "name": "SAB TV",
+    "slug": "sabtv-pk-sd-8822",
+    "logoUrl": "https://i.imgur.com/hC7Sidr.png",
+    "streamUrl": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "SABTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sab-tv::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sindhtvnews-pk-sd-9151",
+    "name": "Sindh TV News",
+    "slug": "sindhtvnews-pk-sd-9151",
+    "logoUrl": "https://i.imgur.com/Ap9K1lj.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00v/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SindhTVNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sindh-tv-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sunonewshd-pk-sd-9574",
+    "name": "Suno News HD",
+    "slug": "sunonewshd-pk-sd-9574",
+    "logoUrl": "https://i.imgur.com/FeSntVO.jpg",
+    "streamUrl": "http://103.250.28.74:8000/play/a02a/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SunoNewsHD.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suno-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "venushd-pk-sd-11451",
+    "name": "Venus HD",
+    "slug": "venushd-pk-sd-11451",
+    "logoUrl": "https://i.imgur.com/0C9KunR.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VenusHD.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "venus::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "madanichannelenglish-pk-sd-5619",
+    "name": "Madani Channel English",
+    "slug": "madanichannelenglish-pk-sd-5619",
+    "logoUrl": "https://i.imgur.com/Abi9j0A.png",
+    "streamUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MadaniChannelEnglish.pk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "madani-channel-english::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "newsone-pk-sd-6552",
+    "name": "News One",
+    "slug": "newsone-pk-sd-6552",
+    "logoUrl": "https://i.imgur.com/ivrRYMk.png",
+    "streamUrl": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NewsOne.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "news-one::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://103.250.28.74:8000/play/a04j/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "praisetv-pk-sd-7638",
+    "name": "Praise TV",
+    "slug": "praisetv-pk-sd-7638",
+    "logoUrl": "https://i.imgur.com/T9fIdLs.png",
+    "streamUrl": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PraiseTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "praise-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://pixelsmedia.live/livepraisetv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "92newshd-pk-sd-155",
+    "name": "92 News HD",
+    "slug": "92newshd-pk-sd-155",
+    "logoUrl": "https://i.imgur.com/gp1Ao4s.jpeg",
+    "streamUrl": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "92NewsHD.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "92-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gracenetwork-pk-sd-4061",
+    "name": "Grace Network",
+    "slug": "gracenetwork-pk-sd-4061",
+    "logoUrl": "https://i.imgur.com/QSaZPJ4.png",
+    "streamUrl": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GraceNetwork.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "grace-network::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "isaactv-pk-sd-4683",
+    "name": "Isaac TV",
+    "slug": "isaactv-pk-sd-4683",
+    "logoUrl": "https://i.imgur.com/RHDbsiO.png",
+    "streamUrl": "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IsaacTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "isaac-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "joomusic-pk-sd-4870",
+    "name": "JooMusic",
+    "slug": "joomusic-pk-sd-4870",
+    "logoUrl": "https://i.imgur.com/KHuKQQL.png",
+    "streamUrl": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JooMusic.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "joomusic::pk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "joshuatv-pk-sd-4881",
+    "name": "Joshua TV",
+    "slug": "joshuatv-pk-sd-4881",
+    "logoUrl": "https://i.imgur.com/x9xPR2h.png",
+    "streamUrl": "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "JoshuaTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "joshua-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kidszone-pk-sd-5103",
+    "name": "Kids Zone",
+    "slug": "kidszone-pk-sd-5103",
+    "logoUrl": "https://i.imgur.com/mJWBVH1.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a04m/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "KidsZone.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kids-zone::pk::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "madanichannelurdu-pk-sd-5620",
+    "name": "Madani Channel Urdu",
+    "slug": "madanichannelurdu-pk-sd-5620",
+    "logoUrl": "https://i.imgur.com/MitLeCJ.png",
+    "streamUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MadaniChannelUrdu.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "madani-channel-urdu::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onegolf-pk-sd-6979",
+    "name": "One Golf",
+    "slug": "onegolf-pk-sd-6979",
+    "logoUrl": "https://i.imgur.com/7JhaEW5.png",
+    "streamUrl": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "OneGolf.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-golf::pk::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starasia-pk-sd-9392",
+    "name": "Star Asia",
+    "slug": "starasia-pk-sd-9392",
+    "logoUrl": "https://i.imgur.com/9coLhX8.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a010/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "StarAsia.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-asia::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arydigital-pk-usa-898",
+    "name": "ARY Digital USA",
+    "slug": "arydigital-pk-usa-898",
+    "logoUrl": "https://i.imgur.com/TVP7g03.png",
+    "streamUrl": "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ARYDigital.pk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ary-digital-usa::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dunyanews-pk-sd-3171",
+    "name": "Dunya News (INT Feed)",
+    "slug": "dunyanews-pk-sd-3171",
+    "logoUrl": "https://i.imgur.com/1PbtW0y.png",
+    "streamUrl": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DunyaNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dunya-news-int-feed::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kingtv-pk-sd-5113",
+    "name": "King TV",
+    "slug": "kingtv-pk-sd-5113",
+    "logoUrl": "https://i.imgur.com/dujrwRE.png",
+    "streamUrl": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KingTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "king-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lahorenews-pk-sd-5332",
+    "name": "Lahore News",
+    "slug": "lahorenews-pk-sd-5332",
+    "logoUrl": "https://i.imgur.com/bQfQeEA.jpeg",
+    "streamUrl": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LahoreNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lahore-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pmitv-pk-sd-7560",
+    "name": "PMI TV",
+    "slug": "pmitv-pk-sd-7560",
+    "logoUrl": "https://i.imgur.com/SfyCwXj.png",
+    "streamUrl": "https://cdn.live247stream.com/pmi/tv/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PMITV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pmi-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shinestartv-pk-sd-9103",
+    "name": "Shine Star TV",
+    "slug": "shinestartv-pk-sd-9103",
+    "logoUrl": "https://i.imgur.com/I3lTIeN.png",
+    "streamUrl": "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ShineStarTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shine-star-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "geonews-pk-sd-3934",
+    "name": "Geo News",
+    "slug": "geonews-pk-sd-3934",
+    "logoUrl": "https://i.imgur.com/Op4EsaB.png",
+    "streamUrl": "http://116.90.120.151:8000/play/a020/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "GeoNews.pk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "geo-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "masalatv-pk-sd-5722",
+    "name": "Masala TV",
+    "slug": "masalatv-pk-sd-5722",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+    "streamUrl": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "MasalaTV.pk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "masala-tv::pk::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "samaatv-pk-sd-8866",
+    "name": "Samaa TV",
+    "slug": "samaatv-pk-sd-8866",
+    "logoUrl": "https://i.imgur.com/r3U4A1P.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a022/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SamaaTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "samaa-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aiknews-pk-sd-386",
+    "name": "Aik News",
+    "slug": "aiknews-pk-sd-386",
+    "logoUrl": "https://i.imgur.com/svPXoAP.png",
+    "streamUrl": "https://video.primexsports.com/pnn/live/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AikNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aik-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "filmax-pk-sd-3661",
+    "name": "Filmax",
+    "slug": "filmax-pk-sd-3661",
+    "logoUrl": "https://i.imgur.com/eLmdZ6k.png",
+    "streamUrl": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Filmax.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "filmax::pk::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "filmazia-pk-sd-3662",
+    "name": "Filmazia",
+    "slug": "filmazia-pk-sd-3662",
+    "logoUrl": "https://i.imgur.com/hpTCANa.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a02k/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Filmazia.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "filmazia::pk::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "geokahani-pk-sd-3933",
+    "name": "Geo Kahani",
+    "slug": "geokahani-pk-sd-3933",
+    "logoUrl": "https://i.imgur.com/uKYH0IM.png",
+    "streamUrl": "http://116.90.120.151:8000/play/a023/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GeoKahani.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "geo-kahani::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "geotez-pk-sd-3941",
+    "name": "Geo Tez",
+    "slug": "geotez-pk-sd-3941",
+    "logoUrl": "https://geotez.tv/assets/front/images/tez_logo.png",
+    "streamUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "GeoTez.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "geo-tez::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-main-4000",
+    "name": "God Stands TV",
+    "slug": "godstandstv-pk-main-4000",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-arabic-3996",
+    "name": "God Stands TV Arabic",
+    "slug": "godstandstv-pk-arabic-3996",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-arabic::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-chinese-3997",
+    "name": "God Stands TV Chinese",
+    "slug": "godstandstv-pk-chinese-3997",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-chinese::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-english-3998",
+    "name": "God Stands TV English",
+    "slug": "godstandstv-pk-english-3998",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-english::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-hindi-3999",
+    "name": "God Stands TV Hindi",
+    "slug": "godstandstv-pk-hindi-3999",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-hindi::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-punjabi-4001",
+    "name": "God Stands TV Punjabi",
+    "slug": "godstandstv-pk-punjabi-4001",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "pan"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-punjabi::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-tagalog-4002",
+    "name": "God Stands TV Tagalog",
+    "slug": "godstandstv-pk-tagalog-4002",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "tgl"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-tagalog::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "godstandstv-pk-urdu-4003",
+    "name": "God Stands TV Urdu",
+    "slug": "godstandstv-pk-urdu-4003",
+    "logoUrl": "https://i.imgur.com/EO6cYUI.png",
+    "streamUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GodStandsTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "god-stands-tv-urdu::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kohenoornews-pk-sd-5175",
+    "name": "Kohenoor News",
+    "slug": "kohenoornews-pk-sd-5175",
+    "logoUrl": "https://i.imgur.com/cD3Ogdh.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00r/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KohenoorNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kohenoor-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ltnfamily-pk-sd-5581",
+    "name": "LTN Family",
+    "slug": "ltnfamily-pk-sd-5581",
+    "logoUrl": "https://i.imgur.com/n4CenYn.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a02j/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "LTNFamily.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ltn-family::pk::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mashriqtv-pk-sd-5725",
+    "name": "Mashriq TV",
+    "slug": "mashriqtv-pk-sd-5725",
+    "logoUrl": "https://i.imgur.com/8pMiqcp.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a02s/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MashriqTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mashriq-tv::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mehrantv-pk-sd-5856",
+    "name": "Mehran TV",
+    "slug": "mehrantv-pk-sd-5856",
+    "logoUrl": "https://i.imgur.com/ma2bFXk.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00m/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MehranTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mehran-tv::pk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "metro1news-pk-sd-5883",
+    "name": "Metro1 News",
+    "slug": "metro1news-pk-sd-5883",
+    "logoUrl": "https://i.imgur.com/qD9cj27.jpg",
+    "streamUrl": "http://103.250.28.74:8000/play/a04u/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Metro1News.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "metro1-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onnewshd-pk-sd-6998",
+    "name": "ON News HD",
+    "slug": "onnewshd-pk-sd-6998",
+    "logoUrl": "https://i.imgur.com/h3IUrMI.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a046/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ONNewsHD.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "on-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "playentertainment-pk-sd-7298",
+    "name": "Play Entertainment",
+    "slug": "playentertainment-pk-sd-7298",
+    "logoUrl": "https://i.imgur.com/BnNNDrE.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a050/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PlayEntertainment.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "play-entertainment::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ptvglobal-pk-sd-7731",
+    "name": "PTV Global",
+    "slug": "ptvglobal-pk-sd-7731",
+    "logoUrl": "https://i.imgur.com/CWFI3wg.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a018/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PTVGlobal.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ptv-global::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qurantv-pk-sd-7817",
+    "name": "Quran TV",
+    "slug": "qurantv-pk-sd-7817",
+    "logoUrl": "https://i.imgur.com/nc7X3Ux.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a03e/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "QuranTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "quran-tv::pk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rohi-pk-sd-8303",
+    "name": "Rohi",
+    "slug": "rohi-pk-sd-8303",
+    "logoUrl": "https://i.imgur.com/zC8hXi4.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00d/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "lah"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Rohi.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rohi::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rozenews-pk-sd-8339",
+    "name": "Roze News",
+    "slug": "rozenews-pk-sd-8339",
+    "logoUrl": "https://i.imgur.com/TedWqfL.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a01k/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RozeNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roze-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "silverscreen-pk-sd-9143",
+    "name": "Silver Screen",
+    "slug": "silverscreen-pk-sd-9143",
+    "logoUrl": "https://i.imgur.com/s4Rv6pK.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a044/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SilverScreen.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "silver-screen::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suchtv-pk-sd-9555",
+    "name": "Such TV",
+    "slug": "suchtv-pk-sd-9555",
+    "logoUrl": "https://i.imgur.com/yYMh3JJ.png",
+    "streamUrl": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SuchTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "such-tv::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tensportspakistan-pk-sd-10092",
+    "name": "Ten Sports Pakistan",
+    "slug": "tensportspakistan-pk-sd-10092",
+    "logoUrl": "https://i.imgur.com/nnqpYNm.png",
+    "streamUrl": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TenSportsPakistan.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ten-sports-pakistan::pk::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvoneglobal-pk-sd-11007",
+    "name": "TV One Global",
+    "slug": "tvoneglobal-pk-sd-11007",
+    "logoUrl": "https://i.imgur.com/Xn3XxMY.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a04i/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVOneGlobal.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-one-global::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvtoday-pk-sd-11217",
+    "name": "TV Today",
+    "slug": "tvtoday-pk-sd-11217",
+    "logoUrl": "https://i.imgur.com/MYoosNo.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a06e/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVToday.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-today::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vshnews-pk-sd-11597",
+    "name": "VSH News",
+    "slug": "vshnews-pk-sd-11597",
+    "logoUrl": "https://i.imgur.com/pmPZoYC.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00w/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "VSHNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vsh-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wasebtv-pk-sd-11649",
+    "name": "Waseb TV",
+    "slug": "wasebtv-pk-sd-11649",
+    "logoUrl": "https://i.imgur.com/RsF5yVA.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a04k/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "lah"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WasebTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "waseb-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "city41-pk-sd-2404",
+    "name": "City 41",
+    "slug": "city41-pk-sd-2404",
+    "logoUrl": "",
+    "streamUrl": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "City41.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "city-41::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "raavitv-pk-sd-7842",
+    "name": "Raavi TV",
+    "slug": "raavitv-pk-sd-7842",
+    "logoUrl": "https://i.imgur.com/Sdvg5h2.png",
+    "streamUrl": "http://116.90.120.149:8000/play/a01f/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RaaviTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "raavi-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zindagitv-pk-sd-12195",
+    "name": "Zindagi TV",
+    "slug": "zindagitv-pk-sd-12195",
+    "logoUrl": "https://i.imgur.com/XBHvR5J.png",
+    "streamUrl": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZindagiTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zindagi-tv::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aurlifehd-pk-sd-1006",
+    "name": "aurLife HD",
+    "slug": "aurlifehd-pk-sd-1006",
+    "logoUrl": "https://i.imgur.com/GfWLn3O.jpg",
+    "streamUrl": "http://124.109.47.101/hls/stream1.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "aurLifeHD.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aurlife::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "harpalgeo-pk-sd-4201",
+    "name": "HarPal Geo",
+    "slug": "harpalgeo-pk-sd-4201",
+    "logoUrl": "https://i.imgur.com/NX3vvAX.png",
+    "streamUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HarPalGeo.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "harpal-geo::pk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktnnews-pk-sd-5238",
+    "name": "KTN News",
+    "slug": "ktnnews-pk-sd-5238",
+    "logoUrl": "https://i.imgur.com/RtEzpPQ.png",
+    "streamUrl": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "snd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KTNNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktn-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "minimax-pk-sd-5942",
+    "name": "Minimax",
+    "slug": "minimax-pk-sd-5942",
+    "logoUrl": "https://i.imgur.com/TJvf8vd.png",
+    "streamUrl": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Minimax.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "minimax::pk::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abnnews-pk-sd-270",
+    "name": "ABN News",
+    "slug": "abnnews-pk-sd-270",
+    "logoUrl": "",
+    "streamUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ABNNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 94,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abn-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://115.42.65.142:9981/stream/channelid/966869781"
+      ]
+    }
+  },
+  {
+    "id": "atv-pk-sd-981",
+    "name": "ATV",
+    "slug": "atv-pk-sd-981",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/299762256",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ATV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "atv::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "avtkhyber-pk-sd-1029",
+    "name": "AVT Khyber",
+    "slug": "avtkhyber-pk-sd-1029",
+    "logoUrl": "https://i.imgur.com/FqkABWT.png",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/1380586642",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AVTKhyber.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "avt-khyber::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "8xm-pk-sd-73",
+    "name": "8XM",
+    "slug": "8xm-pk-sd-73",
+    "logoUrl": "https://i.imgur.com/KLrfKRn.png",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/582886861",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "8XM.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "8xm::pk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aplustv-pk-sd-798",
+    "name": "A-Plus TV",
+    "slug": "aplustv-pk-sd-798",
+    "logoUrl": "https://i.imgur.com/uu0UJme.png",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/113328724",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "APlusTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "a-plus-tv::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aajnews-pk-sd-196",
+    "name": "Aaj News",
+    "slug": "aajnews-pk-sd-196",
+    "logoUrl": "https://i.imgur.com/VNGnHYz.png",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/750987367",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AajNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "aaj-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abbtakk-pk-sd-227",
+    "name": "Abb Takk",
+    "slug": "abbtakk-pk-sd-227",
+    "logoUrl": "https://i.imgur.com/D6IHRrP.png",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/852828604",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AbbTakk.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "abb-takk::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "apnachannel-pk-sd-800",
+    "name": "Apna Channel",
+    "slug": "apnachannel-pk-sd-800",
+    "logoUrl": "https://i.imgur.com/ICSA4W6.png",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/1273966657",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ApnaChannel.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "apna-channel::pk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arynews-pk-pakistan-901",
+    "name": "ARY News",
+    "slug": "arynews-pk-pakistan-901",
+    "logoUrl": "https://i.imgur.com/R4KtTbJ.jpg",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/322092446",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ARYNews.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ary-news::pk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aryzindagi-pk-sd-902",
+    "name": "ARY Zindagi",
+    "slug": "aryzindagi-pk-sd-902",
+    "logoUrl": "",
+    "streamUrl": "http://115.42.65.142:9981/stream/channelid/1064070262",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ARYZindagi.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 54,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 600
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ary-zindagi::pk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

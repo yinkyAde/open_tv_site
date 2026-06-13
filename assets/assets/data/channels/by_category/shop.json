@@ -1,0 +1,4043 @@
+[
+  {
+    "id": "ontv4u-us-sd-7009",
+    "name": "ONTV4U",
+    "slug": "ontv4u-us-sd-7009",
+    "logoUrl": "https://i.imgur.com/NcEygU5.png",
+    "streamUrl": "https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "OnTV4U.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ontv4u::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stirr.b-cdn.net/stirr/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "shoplc-us-sd-9108",
+    "name": "Shop LC",
+    "slug": "shoplc-us-sd-9108",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+    "streamUrl": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ShopLC.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shop-lc::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8",
+        "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+        "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tjc-uk-sd-10327",
+    "name": "TJC",
+    "slug": "tjc-uk-sd-10327",
+    "logoUrl": "https://i.imgur.com/fk5rEje.png",
+    "streamUrl": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TJC.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tjc::uk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "magnat-ru-sd-5642",
+    "name": "Магнат ТВ",
+    "slug": "magnat-ru-sd-5642",
+    "logoUrl": "https://i.imgur.com/r485aZL.png",
+    "streamUrl": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Magnat.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "gsmyshop-kr-sd-4089",
+    "name": "GS My Shop",
+    "slug": "gsmyshop-kr-sd-4089",
+    "logoUrl": "https://i.imgur.com/ETPQwui.png",
+    "streamUrl": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "GSMyShop.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gs-my-shop::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gsshop-kr-sd-4090",
+    "name": "GS Shop",
+    "slug": "gsshop-kr-sd-4090",
+    "logoUrl": "https://i.imgur.com/F7QDbEy.png",
+    "streamUrl": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "GSShop.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gs-shop::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hse-de-sd-4422",
+    "name": "HSE",
+    "slug": "hse-de-sd-4422",
+    "logoUrl": "https://i.imgur.com/IecRNCk.png",
+    "streamUrl": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HSE.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hse::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hseextra-de-sd-4423",
+    "name": "HSE24 Extra",
+    "slug": "hseextra-de-sd-4423",
+    "logoUrl": "https://i.imgur.com/nvMpbip.png",
+    "streamUrl": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HSEExtra.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hse24-extra::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kshopping-kr-sd-5231",
+    "name": "KShopping",
+    "slug": "kshopping-kr-sd-5231",
+    "logoUrl": "https://i.imgur.com/Tmb3xK8.png",
+    "streamUrl": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "KShopping.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kshopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc-jp-sd-7823",
+    "name": "QVC",
+    "slug": "qvc-jp-sd-7823",
+    "logoUrl": "https://i.imgur.com/6TWUVrh.png",
+    "streamUrl": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8",
+    "country": {
+      "code": "JP",
+      "name": "Japan"
+    },
+    "languages": [
+      "jpn"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC.jp",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc::jp::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc3-us-sd-7820",
+    "name": "QVC 3",
+    "slug": "qvc3-us-sd-7820",
+    "logoUrl": "https://i.imgur.com/edswdOO.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC3.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-3::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shoplc-us-sd-9109",
+    "name": "ShopLC",
+    "slug": "shoplc-us-sd-9109",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shoplc/master.m3u8?ads.vf=OwEgtt6_hCe",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ShopLC.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shoplc::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsn-au-sd-11178",
+    "name": "TVSN",
+    "slug": "tvsn-au-sd-11178",
+    "logoUrl": "https://i.imgur.com/lmoAFm3.png",
+    "streamUrl": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSN.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsn::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "leomax24-ru-sd-5435",
+    "name": "Leomax 24",
+    "slug": "leomax24-ru-sd-5435",
+    "logoUrl": "https://i.imgur.com/qU9ohQu.png",
+    "streamUrl": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Leomax24.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "leomax-24::ru::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsnbeauty-au-sd-11179",
+    "name": "TVSN Beauty",
+    "slug": "tvsnbeauty-au-sd-11179",
+    "logoUrl": "https://i.imgur.com/lmoAFm3.png",
+    "streamUrl": "https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSNBeauty.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsn-beauty::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsnjewellery-au-sd-11180",
+    "name": "TVSN Jewellery",
+    "slug": "tvsnjewellery-au-sd-11180",
+    "logoUrl": "https://i.imgur.com/lmoAFm3.png",
+    "streamUrl": "https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSNJewellery.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsn-jewellery::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shopchannel-jp-sd-9106",
+    "name": "Shop Channel",
+    "slug": "shopchannel-jp-sd-9106",
+    "logoUrl": "https://www.shopch.jp/com/images/common/logo_2021.png",
+    "streamUrl": "https://stream3.shopch.jp/HLS/master.m3u8",
+    "country": {
+      "code": "JP",
+      "name": "Japan"
+    },
+    "languages": [
+      "jpn"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ShopChannel.jp",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shop-channel::jp::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bajotechotv-do-sd-1109",
+    "name": "Bajo Techo TV",
+    "slug": "bajotechotv-do-sd-1109",
+    "logoUrl": "https://i.imgur.com/I2wRq88.png",
+    "streamUrl": "https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "BajoTechoTV.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bajo-techo-tv::do::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mango-pl-sd-5692",
+    "name": "Mango",
+    "slug": "mango-pl-sd-5692",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg",
+    "streamUrl": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Mango.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mango::pl::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hsn-us-east-4426",
+    "name": "HSN",
+    "slug": "hsn-us-east-4426",
+    "logoUrl": "https://i.imgur.com/rnZN7rD.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HSN.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hsn::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8",
+        "https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "qvc-us-sd-7825",
+    "name": "QVC",
+    "slug": "qvc-us-sd-7825",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8",
+        "https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "gemshoppingnetwork-us-sd-3926",
+    "name": "Gem Shopping Network",
+    "slug": "gemshoppingnetwork-us-sd-3926",
+    "logoUrl": "https://i.imgur.com/WlHEpAu.png",
+    "streamUrl": "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "GemShoppingNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gem-shopping-network::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hsn-us-west-4429",
+    "name": "HSN West",
+    "slug": "hsn-us-west-4429",
+    "logoUrl": "https://i.imgur.com/rnZN7rD.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HSN.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hsn-west::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hsn2-us-sd-4425",
+    "name": "HSN2",
+    "slug": "hsn2-us-sd-4425",
+    "logoUrl": "https://i.imgur.com/R6oC2A3.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HSN2.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hsn2::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hyundaihomeshopping-kr-sd-4464",
+    "name": "Hyundai Home Shopping",
+    "slug": "hyundaihomeshopping-kr-sd-4464",
+    "logoUrl": "https://i.imgur.com/NJpECmq.png",
+    "streamUrl": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HyundaiHomeShopping.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hyundai-home-shopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hyundaihomeshoppingplusshop-kr-sd-4465",
+    "name": "Hyundai Home Shopping Plus",
+    "slug": "hyundaihomeshoppingplusshop-kr-sd-4465",
+    "logoUrl": "https://i.imgur.com/DoNOuZE.png",
+    "streamUrl": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HyundaiHomeShoppingPlusShop.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hyundai-home-shopping-plus::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jewelrytv-us-sd-4796",
+    "name": "Jewelry Television",
+    "slug": "jewelrytv-us-sd-4796",
+    "logoUrl": "https://i.imgur.com/mBcwks7.png",
+    "streamUrl": "https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "JewelryTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jewelry-television::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lottehomeshopping-kr-sd-5543",
+    "name": "Lotte Home Shopping",
+    "slug": "lottehomeshopping-kr-sd-5543",
+    "logoUrl": "https://i.imgur.com/dJeNehc.png",
+    "streamUrl": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LotteHomeShopping.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lotte-home-shopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lotteonetv-kr-sd-5544",
+    "name": "Lotte OneTV",
+    "slug": "lotteonetv-kr-sd-5544",
+    "logoUrl": "https://i.imgur.com/bXe7tYE.png",
+    "streamUrl": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LotteOneTV.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lotte-onetv::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nshomeshopping-kr-sd-6768",
+    "name": "NS Home Shopping",
+    "slug": "nshomeshopping-kr-sd-6768",
+    "logoUrl": "https://i.imgur.com/Q9xsDQo.png",
+    "streamUrl": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "NSHomeShopping.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ns-home-shopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nsshopplus-kr-sd-6769",
+    "name": "NS Shop Plus",
+    "slug": "nsshopplus-kr-sd-6769",
+    "logoUrl": "https://i.imgur.com/7KmXNci.png",
+    "streamUrl": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "NSShopPlus.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ns-shop-plus::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc2-us-sd-7818",
+    "name": "QVC 2",
+    "slug": "qvc2-us-sd-7818",
+    "logoUrl": "https://i.imgur.com/NxbDjfI.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC2.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-2::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc-de-sd-7821",
+    "name": "QVC Germany",
+    "slug": "qvc-de-sd-7821",
+    "logoUrl": "https://i.imgur.com/EybRtsI.png",
+    "streamUrl": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-germany::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shinsegaetvshopping-kr-sd-9104",
+    "name": "Shinsegae Shopping TV",
+    "slug": "shinsegaetvshopping-kr-sd-9104",
+    "logoUrl": "https://i.imgur.com/Hq3yjqA.png",
+    "streamUrl": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ShinsegaeTVShopping.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shinsegae-shopping-tv::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shoppingnt-kr-sd-9113",
+    "name": "Shopping NT",
+    "slug": "shoppingnt-kr-sd-9113",
+    "logoUrl": "https://i.imgur.com/BgbJp5X.png",
+    "streamUrl": "https://live.shoppingntmall.com/live/10011.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ShoppingNT.kr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shopping-nt::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tsc-ca-sd-10560",
+    "name": "The Shopping Channel",
+    "slug": "tsc-ca-sd-10560",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png",
+    "streamUrl": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TSC.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-shopping-channel::ca::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tsc-ca-sd-10559",
+    "name": "Today's Shopping Choice (TSC)",
+    "slug": "tsc-ca-sd-10559",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png",
+    "streamUrl": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TSC.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "today-s-shopping-choice-tsc::ca::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tuso-ua-sd-10590",
+    "name": "Тюсо",
+    "slug": "tuso-ua-sd-10590",
+    "logoUrl": "https://i.imgur.com/kb4B9wN.png",
+    "streamUrl": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TUSO.ua",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ua::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "30athebeachshow-us-sd-136",
+    "name": "30A The Beach Show",
+    "slug": "30athebeachshow-us-sd-136",
+    "logoUrl": "https://i.imgur.com/0j5Aget.png",
+    "streamUrl": "https://30a-tv.com/beachy.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "30ATheBeachShow.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "30a-the-beach-show::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "casaitalia53-it-sd-2009",
+    "name": "Casa Italia 53",
+    "slug": "casaitalia53-it-sd-2009",
+    "logoUrl": "https://i.imgur.com/X8BI1Md.png",
+    "streamUrl": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "CasaItalia53.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "casa-italia-53::it::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashionfinds-us-sd-3597",
+    "name": "Fashion Finds",
+    "slug": "fashionfinds-us-sd-3597",
+    "logoUrl": "https://i.imgur.com/GvDRZgq.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "FashionFinds.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashion-finds::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gongyounghomeshopping-kr-sd-4026",
+    "name": "Gongyoung Shopping",
+    "slug": "gongyounghomeshopping-kr-sd-4026",
+    "logoUrl": "https://i.imgur.com/YL3rpd7.png",
+    "streamUrl": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "GongyoungHomeShopping.kr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gongyoung-shopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "homeshopping-kr-sd-4373",
+    "name": "Home & Shopping",
+    "slug": "homeshopping-kr-sd-4373",
+    "logoUrl": "https://i.imgur.com/IcexRXG.png",
+    "streamUrl": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HomeShopping.kr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "home-shopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "inthekitchen-us-sd-4620",
+    "name": "In the kitchen",
+    "slug": "inthekitchen-us-sd-4620",
+    "logoUrl": "https://i.imgur.com/HrRUd6r.png",
+    "streamUrl": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "IntheKitchen.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "in-the-kitchen::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "juwelo-de-sd-4924",
+    "name": "Juwelo",
+    "slug": "juwelo-de-sd-4924",
+    "logoUrl": "https://i.imgur.com/vmX8Qin.png",
+    "streamUrl": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Juwelo.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "juwelo::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "laothaitv-us-sd-5360",
+    "name": "Lao-Thai TV",
+    "slug": "laothaitv-us-sd-5360",
+    "logoUrl": "https://i.imgur.com/q6cQzbv.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LaoThaiTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lao-thai-tv::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redtvshop-bo-sd-8171",
+    "name": "Red TV Shop",
+    "slug": "redtvshop-bo-sd-8171",
+    "logoUrl": "https://i.imgur.com/I7yB176.png",
+    "streamUrl": "https://master.tucableip.com/redtvshop/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "RedTVShop.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-tv-shop::bo::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suketv-my-sd-9563",
+    "name": "Suke TV",
+    "slug": "suketv-my-sd-9563",
+    "logoUrl": "https://i.imgur.com/hCwH3s0.png",
+    "streamUrl": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "SukeTV.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suke-tv::my::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teatv-vn-sd-9809",
+    "name": "Tea TV",
+    "slug": "teatv-vn-sd-9809",
+    "logoUrl": "https://i.imgur.com/WorbnyD.jpg",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TeaTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tea-tv::vn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsconsumerdirect-us-sd-11148",
+    "name": "TVSConsumerDirect",
+    "slug": "tvsconsumerdirect-us-sd-11148",
+    "logoUrl": "https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSConsumerDirect.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsconsumerdirect::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uniquelythai-vn-sd-11331",
+    "name": "Uniquely Thai",
+    "slug": "uniquelythai-vn-sd-11331",
+    "logoUrl": "https://i.imgur.com/cTSDB8O.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "UniquelyThai.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uniquely-thai::vn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wshopping-kr-sd-11908",
+    "name": "W Shopping",
+    "slug": "wshopping-kr-sd-11908",
+    "logoUrl": "https://i.imgur.com/hfXjVJd.png",
+    "streamUrl": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "WShopping.kr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "w-shopping::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jewelrytv2-us-sd-4795",
+    "name": "Jewelry TV 2",
+    "slug": "jewelrytv2-us-sd-4795",
+    "logoUrl": "",
+    "streamUrl": "https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "JewelryTV2.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jewelry-tv-2::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "1001noites-br-sd-179",
+    "name": "1001 Noites",
+    "slug": "1001noites-br-sd-179",
+    "logoUrl": "https://i.imgur.com/dWA9y2J.png",
+    "streamUrl": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "1001Noites.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "1001-noites::br::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hightv-gr-sd-4269",
+    "name": "High TV",
+    "slug": "hightv-gr-sd-4269",
+    "logoUrl": "https://i.imgur.com/8gHuwt7.png",
+    "streamUrl": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HighTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "high-tv::gr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gm24-it-sd-3988",
+    "name": "GM24",
+    "slug": "gm24-it-sd-3988",
+    "logoUrl": "https://i.imgur.com/PoXd0su.png",
+    "streamUrl": "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "GM24.it",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gm24::it::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hsetrend-de-sd-4424",
+    "name": "HSE24 Trend",
+    "slug": "hsetrend-de-sd-4424",
+    "logoUrl": "https://i.imgur.com/qwh2urX.png",
+    "streamUrl": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HSETrend.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hse24-trend::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc2-us-sd-7819",
+    "name": "QVC2",
+    "slug": "qvc2-us-sd-7819",
+    "logoUrl": "https://i.imgur.com/NxbDjfI.png",
+    "streamUrl": "https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC2.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc2::us::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kaufbeitv-de-sd-5023",
+    "name": "KaufBei TV",
+    "slug": "kaufbeitv-de-sd-5023",
+    "logoUrl": "https://i.imgur.com/CVJWiM0.png",
+    "streamUrl": "https://api.alpaca.t62a.com/hls/9103/index.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "KaufBeiTV.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kaufbei-tv::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://elephant.t62a.com/hls/8103/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "juwelo-it-sd-4925",
+    "name": "Juwelo Italia",
+    "slug": "juwelo-it-sd-4925",
+    "logoUrl": "https://i.imgur.com/T3r1khc.png",
+    "streamUrl": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Juwelo.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "juwelo-italia::it::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "laosvtv-vn-sd-5359",
+    "name": "Lao SV TV",
+    "slug": "laosvtv-vn-sd-5359",
+    "logoUrl": "https://i.imgur.com/ZIXtazI.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LaoSVTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lao-sv-tv::vn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lstv-la-sd-5580",
+    "name": "LS TV",
+    "slug": "lstv-la-sd-5580",
+    "logoUrl": "https://i.imgur.com/fs3dQ6J.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LSTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ls-tv::la::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bstv-hk-sd-1651",
+    "name": "耀才財經台",
+    "slug": "bstv-hk-sd-1651",
+    "logoUrl": "https://i.imgur.com/GVYSSgm.png",
+    "streamUrl": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho",
+      "yue"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "BSTV.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::hk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shoppinglive-ru-sd-9112",
+    "name": "Shopping Live",
+    "slug": "shoppinglive-ru-sd-9112",
+    "logoUrl": "https://i.imgur.com/EMmGnjV.png",
+    "streamUrl": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ShoppingLive.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shopping::ru::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "123tv-de-sd-164",
+    "name": "1-2-3 TV",
+    "slug": "123tv-de-sd-164",
+    "logoUrl": "https://i.imgur.com/slSUDNX.png",
+    "streamUrl": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "123tv.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "1-2-3-tv::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "expochannel-au-sd-3522",
+    "name": "Expo Channel",
+    "slug": "expochannel-au-sd-3522",
+    "logoUrl": "https://i.imgur.com/2KzCShW.png",
+    "streamUrl": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ExpoChannel.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "expo-channel::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc-it-sd-7822",
+    "name": "QVC Italia",
+    "slug": "qvc-it-sd-7822",
+    "logoUrl": "https://i.imgur.com/6TWUVrh.png",
+    "streamUrl": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC.it",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-italia::it::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvcstyle-de-sd-7830",
+    "name": "QVC Style Germany",
+    "slug": "qvcstyle-de-sd-7830",
+    "logoUrl": "https://i.imgur.com/DwdkHGj.png",
+    "streamUrl": "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVCStyle.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-style-germany::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvc-uk-sd-7824",
+    "name": "QVC UK",
+    "slug": "qvc-uk-sd-7824",
+    "logoUrl": "https://i.imgur.com/6TWUVrh.png",
+    "streamUrl": "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVC.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-uk::uk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvcbeauty-uk-sd-7828",
+    "name": "QVC UK Beauty",
+    "slug": "qvcbeauty-uk-sd-7828",
+    "logoUrl": "https://i.imgur.com/ZBHtqk1.png",
+    "streamUrl": "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVCBeauty.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-uk-beauty::uk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvcextra-uk-sd-7829",
+    "name": "QVC UK Extra",
+    "slug": "qvcextra-uk-sd-7829",
+    "logoUrl": "https://i.imgur.com/TIe5T9Z.png",
+    "streamUrl": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVCExtra.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-uk-extra::uk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvcstyle-uk-sd-7831",
+    "name": "QVC UK Style",
+    "slug": "qvcstyle-uk-sd-7831",
+    "logoUrl": "https://i.imgur.com/6HZlLL3.png",
+    "streamUrl": "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVCStyle.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-uk-style::uk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cjonstyle-kr-sd-2448",
+    "name": "CJ OnStyle",
+    "slug": "cjonstyle-kr-sd-2448",
+    "logoUrl": "https://i.imgur.com/JiSfEBv.png",
+    "streamUrl": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "CJOnStyle.kr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cj-onstyle::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cjonstyleplus-kr-sd-2449",
+    "name": "CJ OnStyle Plus",
+    "slug": "cjonstyleplus-kr-sd-2449",
+    "logoUrl": "https://i.imgur.com/OYmOL20.png",
+    "streamUrl": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "CJOnStylePlus.kr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cj-onstyle-plus::kr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qvczwei-de-sd-7832",
+    "name": "QVC 2 Germany",
+    "slug": "qvczwei-de-sd-7832",
+    "logoUrl": "https://i.imgur.com/f94kPed.png",
+    "streamUrl": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "QVCZwei.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qvc-2-germany::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "handystar-de-sd-4173",
+    "name": "Handystar",
+    "slug": "handystar-de-sd-4173",
+    "logoUrl": "https://i.imgur.com/oMIygVf.png",
+    "streamUrl": "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Handystar.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "handystar::de::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fengshangshoppingchannel-cn-sd-3623",
+    "name": "风尚购物",
+    "slug": "fengshangshoppingchannel-cn-sd-3623",
+    "logoUrl": "https://i.imgur.com/WNhfnUR.png",
+    "streamUrl": "http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "FengshangShoppingChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "::cn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gstv-jp-sd-4093",
+    "name": "GSTV",
+    "slug": "gstv-jp-sd-4093",
+    "logoUrl": "https://i.imgur.com/ECnVG5I.png",
+    "streamUrl": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
+    "country": {
+      "code": "JP",
+      "name": "Japan"
+    },
+    "languages": [
+      "jpn"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "GSTV.jp",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 80,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "gstv::jp::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)"
+      ]
+    }
+  }
+]

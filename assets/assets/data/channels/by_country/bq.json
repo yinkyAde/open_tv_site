@@ -1,0 +1,264 @@
+[
+  {
+    "id": "live99fm-bq-sd-5491",
+    "name": "Live99FM",
+    "slug": "live99fm-bq-sd-5491",
+    "logoUrl": "https://i.imgur.com/U43UrQT.png",
+    "streamUrl": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
+    "country": {
+      "code": "BQ",
+      "name": "Bonaire"
+    },
+    "languages": [
+      "pap",
+      "nld",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Live99FM.bq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "live99fm::bq::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nostvbonaire-bq-sd-6687",
+    "name": "Nos TV Bonaire",
+    "slug": "nostvbonaire-bq-sd-6687",
+    "logoUrl": "https://i.imgur.com/GINI6oP.png",
+    "streamUrl": "http://streaming.flamingotv.net/nostv/live.m3u8",
+    "country": {
+      "code": "BQ",
+      "name": "Bonaire"
+    },
+    "languages": [
+      "pap",
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NosTVBonaire.bq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nos-tv-bonaire::bq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bonairetv-bq-sd-1588",
+    "name": "Bonaire.tv",
+    "slug": "bonairetv-bq-sd-1588",
+    "logoUrl": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
+    "streamUrl": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
+    "country": {
+      "code": "BQ",
+      "name": "Bonaire"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Bonairetv.bq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bonaire-tv::bq::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vozdibonairetv-bq-sd-11590",
+    "name": "Voz Di Bonaire TV",
+    "slug": "vozdibonairetv-bq-sd-11590",
+    "logoUrl": "https://i.imgur.com/WOokQmj.png",
+    "streamUrl": "https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8",
+    "country": {
+      "code": "BQ",
+      "name": "Bonaire"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "VozDiBonaireTV.bq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "voz-di-bonaire-tv::bq::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "energiatv-bq-sd-3324",
+    "name": "Energia TV",
+    "slug": "energiatv-bq-sd-3324",
+    "logoUrl": "https://i.imgur.com/GVKjI5c.jpeg",
+    "streamUrl": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
+    "country": {
+      "code": "BQ",
+      "name": "Bonaire"
+    },
+    "languages": [
+      "pap",
+      "nld",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EnergiaTV.bq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "energia-tv::bq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

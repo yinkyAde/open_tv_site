@@ -1,0 +1,209 @@
+[
+  {
+    "id": "tanasuhtv-ly-hd-9739",
+    "name": "Tanasuh TV",
+    "slug": "tanasuhtv-ly-hd-9739",
+    "logoUrl": "https://i.imgur.com/iBAhM2v.png",
+    "streamUrl": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+    "country": {
+      "code": "LY",
+      "name": "Libya"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TanasuhTV.ly",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tanasuh-tv::ly::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8",
+        "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "wasattv-ly-sd-11648",
+    "name": "Wasat TV",
+    "slug": "wasattv-ly-sd-11648",
+    "logoUrl": "https://i.imgur.com/f9pL2NE.png",
+    "streamUrl": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
+    "country": {
+      "code": "LY",
+      "name": "Libya"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WasatTV.ly",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wasat-tv::ly::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "almasartv-ly-sd-551",
+    "name": "Al Masar TV",
+    "slug": "almasartv-ly-sd-551",
+    "logoUrl": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+    "streamUrl": "https://starmenajo.com/hls/almasar/index.m3u8",
+    "country": {
+      "code": "LY",
+      "name": "Libya"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlMasarTV.ly",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-masar-tv::ly::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "libyaalwataniya-ly-sd-5461",
+    "name": "Libya Al Wataniya",
+    "slug": "libyaalwataniya-ly-sd-5461",
+    "logoUrl": "https://i.imgur.com/KSUny9D.jpeg",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+    "country": {
+      "code": "LY",
+      "name": "Libya"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LibyaAlWataniya.ly",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "libya-al-wataniya::ly::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

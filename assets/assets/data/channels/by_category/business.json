@@ -1,0 +1,3236 @@
+[
+  {
+    "id": "bloombergtv-us-plus-1543",
+    "name": "Bloomberg TV +",
+    "slug": "bloombergtv-us-plus-1543",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png",
+    "streamUrl": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 134,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified",
+        "11 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
+        "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
+        "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
+        "https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8",
+        "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
+        "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
+        "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8",
+        "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+        "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asharqnews-sa-sd-908",
+    "name": "Asharq News",
+    "slug": "asharqnews-sa-sd-908",
+    "logoUrl": "https://i.imgur.com/bqRC3sl.png",
+    "streamUrl": "https://live-news.asharq.com/asharq.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AsharqNews.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-news::sa::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "bfmbusiness-fr-sd-1439",
+    "name": "BFM Business",
+    "slug": "bfmbusiness-fr-sd-1439",
+    "logoUrl": "https://i.imgur.com/psqIHn4.png",
+    "streamUrl": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BFMBusiness.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bfm-business::fr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "defiancemedia-pr-sd-2916",
+    "name": "DeFiance Media",
+    "slug": "defiancemedia-pr-sd-2916",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "DeFianceMedia.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "defiance-media::pr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+        "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ndtvprofit-in-hd-6446",
+    "name": "NDTV Profit",
+    "slug": "ndtvprofit-in-hd-6446",
+    "logoUrl": "https://i.imgur.com/WK4tZ6p.png",
+    "streamUrl": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [],
+    "category": "Business",
+    "epg": {
+      "id": "NDTVProfit.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ndtv-profit::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "schwabnetwork-us-sd-8964",
+    "name": "Schwab Network",
+    "slug": "schwabnetwork-us-sd-8964",
+    "logoUrl": "https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png",
+    "streamUrl": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "SchwabNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "schwab-network::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canalz-be-sd-1958",
+    "name": "Trends Z",
+    "slug": "canalz-be-sd-1958",
+    "logoUrl": "https://i.imgur.com/qtiGLzZ.png",
+    "streamUrl": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CanalZ.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trends-z::be::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "yahoofinance-us-sd-12016",
+    "name": "Yahoo! Finance",
+    "slug": "yahoofinance-us-sd-12016",
+    "logoUrl": "https://i.imgur.com/43oHsHL.png",
+    "streamUrl": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "YahooFinance.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yahoo-finance::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8",
+        "https://yahoo-plex.amagi.tv/playlist.m3u8",
+        "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
+        "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+        "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
+        "https://yahoo-vizio.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alarabiyabusiness-ae-sd-421",
+    "name": "Al Arabiya Business",
+    "slug": "alarabiyabusiness-ae-sd-421",
+    "logoUrl": "https://i.imgur.com/eEV4r6J.jpg",
+    "streamUrl": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+    "country": {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AlArabiyaBusiness.ae",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-arabiya-business::ae::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-us-1550",
+    "name": "Bloomberg Television",
+    "slug": "bloombergtv-us-us-1550",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=XfUcpFmGLda",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-television::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cgtnglobalbiz-cn-sd-2220",
+    "name": "CGTN Global Biz",
+    "slug": "cgtnglobalbiz-cn-sd-2220",
+    "logoUrl": "https://i.imgur.com/qBmomnF.png",
+    "streamUrl": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CGTNGlobalBiz.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cgtn-global-biz::cn::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbcarabiya-ae-sd-2503",
+    "name": "CNBC Arabiya",
+    "slug": "cnbcarabiya-ae-sd-2503",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/CNBC_Arabia_2025.svg",
+    "streamUrl": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+    "country": {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCArabiya.ae",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-arabiya::ae::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbcawaaz-in-sd-2506",
+    "name": "CNBC Awaaz",
+    "slug": "cnbcawaaz-in-sd-2506",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCAwaaz.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-awaaz::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbcbajar-in-sd-2507",
+    "name": "CNBC Bajar",
+    "slug": "cnbcbajar-in-sd-2507",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "guj"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCBajar.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-bajar::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbctv18-in-sd-2512",
+    "name": "CNBC TV18",
+    "slug": "cnbctv18-in-sd-2512",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCTV18.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-tv18::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbctv18primehd-in-sd-2513",
+    "name": "CNBC TV18 Prime HD",
+    "slug": "cnbctv18primehd-in-sd-2513",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCTV18PrimeHD.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-tv18-prime::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "negociostv-es-sd-6452",
+    "name": "Negocios TV",
+    "slug": "negociostv-es-sd-6452",
+    "logoUrl": "https://i.imgur.com/yNRipxu.png",
+    "streamUrl": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "NegociosTV.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "negocios-tv::es::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bilyonaryonewschannel-ph-sd-1494",
+    "name": "Bilyonaryo News Channel",
+    "slug": "bilyonaryonewschannel-ph-sd-1494",
+    "logoUrl": "https://i.imgur.com/iTH9Z0j.png",
+    "streamUrl": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
+    "country": {
+      "code": "PH",
+      "name": "Philippines"
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BilyonaryoNewsChannel.ph",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bilyonaryo-news-channel::ph::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ekhontv-bd-sd-3253",
+    "name": "Ekhon TV",
+    "slug": "ekhontv-bd-sd-3253",
+    "logoUrl": "https://i.imgur.com/tRrDh6z.png",
+    "streamUrl": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "EkhonTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ekhon-tv::bd::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/ekhontv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asharqradio-sa-sd-912",
+    "name": "Asharq Radio",
+    "slug": "asharqradio-sa-sd-912",
+    "logoUrl": "https://i.imgur.com/M6K8cD3.jpeg",
+    "streamUrl": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AsharqRadio.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-radio::sa::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jobtv-ro-sd-4861",
+    "name": "JOB TV",
+    "slug": "jobtv-ro-sd-4861",
+    "logoUrl": "https://i.imgur.com/UzcZNe3.png",
+    "streamUrl": "https://jobtvserver.eu/hls/stream.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "JOBTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "job-tv::ro::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjabiznesowa-pl-sd-10062",
+    "name": "Telewizja Biznesowa",
+    "slug": "telewizjabiznesowa-pl-sd-10062",
+    "logoUrl": "https://i.imgur.com/XC7i7ZL.png",
+    "streamUrl": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "TelewizjaBiznesowa.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-biznesowa::pl::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classcnbc-it-sd-2460",
+    "name": "Class CNBC",
+    "slug": "classcnbc-it-sd-2460",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Class_CNBC_2026.svg",
+    "streamUrl": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "ClassCNBC.it",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "class-cnbc::it::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "xuzhoueconomiclifechannel-cn-sd-12011",
+    "name": "徐州經濟生活",
+    "slug": "xuzhoueconomiclifechannel-cn-sd-12011",
+    "logoUrl": "",
+    "streamUrl": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "XuzhouEconomicLifeChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://stream2.xiancity.cn/xatv3/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ameritrade-us-sd-649",
+    "name": "Ameritrade",
+    "slug": "ameritrade-us-sd-649",
+    "logoUrl": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
+    "streamUrl": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "Ameritrade.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ameritrade::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloomberght-tr-sd-1520",
+    "name": "Bloomberg HT",
+    "slug": "bloomberght-tr-sd-1520",
+    "logoUrl": "https://i.imgur.com/bmkXfIE.png",
+    "streamUrl": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergHT.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-ht::tr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bloombergtvmongolia-mn-sd-1553",
+    "name": "Bloomberg TV Mongolia HD",
+    "slug": "bloombergtvmongolia-mn-sd-1553",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTVMongolia.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-mongolia::mn::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd"
+      ]
+    }
+  },
+  {
+    "id": "cnbcasia-sg-sd-2504",
+    "name": "CNBC Asia",
+    "slug": "cnbcasia-sg-sd-2504",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-asia::sg::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cnbcindonesia-id-sd-2509",
+    "name": "CNBC Indonesia",
+    "slug": "cnbcindonesia-id-sd-2509",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg",
+    "streamUrl": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCIndonesia.id",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-indonesia::id::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "etnow-in-sd-3427",
+    "name": "ET Now",
+    "slug": "etnow-in-sd-3427",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143021_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "ETNow.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "et-now::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "zeebusiness-in-sd-12125",
+    "name": "Zee Business",
+    "slug": "zeebusiness-in-sd-12125",
+    "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540",
+    "streamUrl": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "ZeeBusiness.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zee-business::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://103.229.254.25:7001/play/a09r/index.m3u8",
+        "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bloombergtv-us-asia-1530",
+    "name": "Bloomberg TV Asia",
+    "slug": "bloombergtv-us-asia-1530",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-asia::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-asialiveevent-1531",
+    "name": "Bloomberg TV Asia Live Event",
+    "slug": "bloombergtv-us-asialiveevent-1531",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-asia-event::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-emealiveevent-1533",
+    "name": "Bloomberg TV EMEA Live Event",
+    "slug": "bloombergtv-us-emealiveevent-1533",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-emea-event::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-europe-1534",
+    "name": "Bloomberg TV Europe",
+    "slug": "bloombergtv-us-europe-1534",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-europe::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-plus-1538",
+    "name": "Bloomberg TV Plus",
+    "slug": "bloombergtv-us-plus-1538",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-plus::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-us-1549",
+    "name": "Bloomberg TV US",
+    "slug": "bloombergtv-us-us-1549",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-us::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-liveevent-1535",
+    "name": "Bloomberg TV US Live Event",
+    "slug": "bloombergtv-us-liveevent-1535",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-us-event::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-politicsliveevent-1548",
+    "name": "Bloomberg TV US Politics Live Event",
+    "slug": "bloombergtv-us-politicsliveevent-1548",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-us-politics-event::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloomberght-tr-sd-1521",
+    "name": "BloombergHT",
+    "slug": "bloomberght-tr-sd-1521",
+    "logoUrl": "https://i.imgur.com/bmkXfIE.png",
+    "streamUrl": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergHT.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberght::tr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctv2-cn-sd-2124",
+    "name": "CCTV-2",
+    "slug": "cctv2-cn-sd-2124",
+    "logoUrl": "https://i.imgur.com/ILamhwU.png",
+    "streamUrl": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CCTV2.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-2::cn::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbc-us-sd-2502",
+    "name": "CNBC",
+    "slug": "cnbc-us-sd-2502",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "streamUrl": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBC.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etnowswadesh-in-sd-3428",
+    "name": "ET Now Swadesh",
+    "slug": "etnowswadesh-in-sd-3428",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143022_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "ETNowSwadesh.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "et-now-swadesh::in::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "30ainvestmentpitch-us-sd-126",
+    "name": "30A Investment Pitch",
+    "slug": "30ainvestmentpitch-us-sd-126",
+    "logoUrl": "https://i.imgur.com/CKCtZo7.png",
+    "streamUrl": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "30AInvestmentPitch.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "30a-investment-pitch::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://www.30a-tv.com/InvPit.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canale-ar-sd-1898",
+    "name": "Canal E",
+    "slug": "canale-ar-sd-1898",
+    "logoUrl": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
+    "streamUrl": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CanalE.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-e::ar::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "firstbusiness-ua-sd-3680",
+    "name": "First Business",
+    "slug": "firstbusiness-ua-sd-3680",
+    "logoUrl": "https://i.imgur.com/0wotE9n.png",
+    "streamUrl": "https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "FirstBusiness.ua",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "first-business::ua::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ausbiztv-au-sd-1010",
+    "name": "ausbiz TV",
+    "slug": "ausbiztv-au-sd-1010",
+    "logoUrl": "https://i.imgur.com/8vGGdB0.png",
+    "streamUrl": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AusbizTV.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ausbiz-tv::au::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tevex-cl-sd-10105",
+    "name": "Tevex",
+    "slug": "tevex-cl-sd-10105",
+    "logoUrl": "https://i.imgur.com/FnInQRd.png",
+    "streamUrl": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "Tevex.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tevex::cl::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rbktv-ru-sd-8074",
+    "name": "РБК",
+    "slug": "rbktv-ru-sd-8074",
+    "logoUrl": "https://i.imgur.com/CwhmJby.png",
+    "streamUrl": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "RBKTV.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://31.148.48.15/RBK/index.m3u8",
+        "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+        "http://online-video.rbc.ru/online2/rbctv.m3u8",
+        "http://92.50.128.180/utv/1358/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cnbce-tr-sd-2508",
+    "name": "CNBC-e",
+    "slug": "cnbce-tr-sd-2508",
+    "logoUrl": "https://s.cnbce.com/dist/images/logo-nav.png",
+    "streamUrl": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCe.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-e::tr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "business24africa-ci-sd-1690",
+    "name": "Business 24 Africa",
+    "slug": "business24africa-ci-sd-1690",
+    "logoUrl": "https://i.imgur.com/zZFl3vy.png",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "Business24Africa.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "business-24-africa::ci::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cafetradetv-ir-sd-1719",
+    "name": "Cafe Trade TV",
+    "slug": "cafetradetv-ir-sd-1719",
+    "logoUrl": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
+    "streamUrl": "https://cafetradehls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CafeTradeTV.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cafe-trade-tv::ir::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalpro-py-sd-1931",
+    "name": "Canal Pro",
+    "slug": "canalpro-py-sd-1931",
+    "logoUrl": "https://i.imgur.com/ah8n7jL.png",
+    "streamUrl": "https://www.desde-paraguay.com/pro.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CanalPro.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-pro::py::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jiangxieconomylifechannel-cn-sd-4826",
+    "name": "Jiangxi Economy & Life Channel",
+    "slug": "jiangxieconomylifechannel-cn-sd-4826",
+    "logoUrl": "https://www.tvchinese.net/uploads/tv/jxtv3.jpg",
+    "streamUrl": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "JiangxiEconomyLifeChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jiangxi-economy-life-channel::cn::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jobplustv-kr-sd-4860",
+    "name": "Job Plus TV (한국직업방송)",
+    "slug": "jobplustv-kr-sd-4860",
+    "logoUrl": "https://i.imgur.com/Y5Zg5SR.png",
+    "streamUrl": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
+    "country": {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "JobplusTV.kr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "job-plus-tv::kr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nweconomie-tg-sd-6843",
+    "name": "NW Economie",
+    "slug": "nweconomie-tg-sd-6843",
+    "logoUrl": "https://i.imgur.com/OmlFQa8.png",
+    "streamUrl": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "NWEconomie.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nw-economie::tg::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "entrepreneurtv-us-sd-3345",
+    "name": "Entrepreneur TV",
+    "slug": "entrepreneurtv-us-sd-3345",
+    "logoUrl": "https://i.imgur.com/isRfHYZ.png",
+    "streamUrl": "https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "EntrepreneurTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "entrepreneur-tv::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bloombergtv-us-australia-1532",
+    "name": "Bloomberg TV Australia",
+    "slug": "bloombergtv-us-australia-1532",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-australia::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alephbusiness-ro-sd-449",
+    "name": "Aleph Business",
+    "slug": "alephbusiness-ro-sd-449",
+    "logoUrl": "https://i.imgur.com/IqvZBeo.png",
+    "streamUrl": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AlephBusiness.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aleph-business::ro::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "idxchannel-id-sd-4510",
+    "name": "IDX Channel",
+    "slug": "idxchannel-id-sd-4510",
+    "logoUrl": "https://i.imgur.com/xPvrcsr.png",
+    "streamUrl": "https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "IDXChannel.id",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "idx-channel::id::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bnnbloomberg-ca-sd-1564",
+    "name": "BNN Bloomberg",
+    "slug": "bnnbloomberg-ca-sd-1564",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png",
+    "streamUrl": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BNNBloomberg.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "bnn-bloomberg::ca::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

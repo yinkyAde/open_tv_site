@@ -1,0 +1,726 @@
+[
+  {
+    "id": "chambertv-lu-sd-2238",
+    "name": "Chamber TV",
+    "slug": "chambertv-lu-sd-2238",
+    "logoUrl": "https://i.imgur.com/0QHb3bc.png",
+    "streamUrl": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz",
+      "fra"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ChamberTV.lu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chamber-tv::lu::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eldotv-lu-sd-3270",
+    "name": "eldo.TV",
+    "slug": "eldotv-lu-sd-3270",
+    "logoUrl": "https://i.imgur.com/vCMQLlt.png",
+    "streamUrl": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "eldoTV.lu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eldo-tv::lu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "luxetv-lu-sd-5594",
+    "name": "Luxe TV",
+    "slug": "luxetv-lu-sd-5594",
+    "logoUrl": "https://i.imgur.com/24ehonx.png",
+    "streamUrl": "http://103.154.3.101:5001/live/1736.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "eng",
+      "zho",
+      "fra",
+      "rus"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "LuxeTV.lu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "luxe-tv::lu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlzwee-lu-sd-8420",
+    "name": "RTL Zwee",
+    "slug": "rtlzwee-lu-sd-8420",
+    "logoUrl": "https://i.imgur.com/7SmCtyy.png",
+    "streamUrl": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz",
+      "fra",
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLZwee.lu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-zwee::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aparttv-lu-sd-795",
+    "name": "apart TV",
+    "slug": "aparttv-lu-sd-795",
+    "logoUrl": "https://i.imgur.com/IBcMIcZ.png",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "apartTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "apart-tv::lu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hespertv-lu-sd-4259",
+    "name": "Hesper TV",
+    "slug": "hespertv-lu-sd-4259",
+    "logoUrl": "https://i.imgur.com/91CJCPs.png",
+    "streamUrl": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HesperTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hesper-tv::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mamertv-lu-sd-5682",
+    "name": "Mamer TV",
+    "slug": "mamertv-lu-sd-5682",
+    "logoUrl": "https://i.imgur.com/THnWggV.jpg",
+    "streamUrl": "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MamerTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mamer-tv::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mierschtv-lu-sd-5924",
+    "name": "MierschTV",
+    "slug": "mierschtv-lu-sd-5924",
+    "logoUrl": "https://i.imgur.com/Vdc1GYP.jpg",
+    "streamUrl": "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MierschTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mierschtv::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlgold-lu-sd-8412",
+    "name": "RTL Gold",
+    "slug": "rtlgold-lu-sd-8412",
+    "logoUrl": "https://i.imgur.com/LzHQoUv.png",
+    "streamUrl": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RTLGold.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-gold::lu::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlwebradiotv-lu-sd-8419",
+    "name": "RTL Radio Web TV",
+    "slug": "rtlwebradiotv-lu-sd-8419",
+    "logoUrl": "https://i.imgur.com/qyc8LsE.png",
+    "streamUrl": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLWebRadioTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-radio-web-tv::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlteleletzebuerg-lu-sd-8417",
+    "name": "RTL Télé Lëtzebuerg",
+    "slug": "rtlteleletzebuerg-lu-sd-8417",
+    "logoUrl": "https://i.imgur.com/fkW5Gbl.png",
+    "streamUrl": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLTeleLetzebuerg.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-t-l-l-tzebuerg::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dudelangetv-lu-sd-3160",
+    "name": "Dudelange TV",
+    "slug": "dudelangetv-lu-sd-3160",
+    "logoUrl": "https://i.imgur.com/2dLYZsc.png",
+    "streamUrl": "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DudelangeTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dudelange-tv::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "petangeinfotv-lu-sd-7245",
+    "name": "Pétange Info TV",
+    "slug": "petangeinfotv-lu-sd-7245",
+    "logoUrl": "https://i.imgur.com/qeaD5Az.png",
+    "streamUrl": "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PetangeInfoTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "p-tange-info-tv::lu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "todayradio-lu-sd-10376",
+    "name": "RTL Today Radio",
+    "slug": "todayradio-lu-sd-10376",
+    "logoUrl": "https://i.imgur.com/O1c6wpt.png",
+    "streamUrl": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TodayRadio.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-today-radio::lu::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

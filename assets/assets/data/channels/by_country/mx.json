@@ -1,0 +1,7429 @@
+[
+  {
+    "id": "aztecainternacional-mx-sd-1055",
+    "name": "Azteca Internacional",
+    "slug": "aztecainternacional-mx-sd-1055",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
+    "streamUrl": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AztecaInternacional.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "azteca-internacional::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "lasestrellas-mx-sd-5370",
+    "name": "Las Estrellas",
+    "slug": "lasestrellas-mx-sd-5370",
+    "logoUrl": "https://i.imgur.com/g5ShxZ7.png",
+    "streamUrl": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LasEstrellas.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "las-estrellas::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xeipntdt-mx-sd-11949",
+    "name": "Once México",
+    "slug": "xeipntdt-mx-sd-11949",
+    "logoUrl": "https://i.imgur.com/K0351vF.png",
+    "streamUrl": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "XEIPNTDT.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "once-m-xico::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcuatro41-mx-sd-10817",
+    "name": "TV Cuatro 4.1",
+    "slug": "tvcuatro41-mx-sd-10817",
+    "logoUrl": "https://i.imgur.com/Of044Jx.png",
+    "streamUrl": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCuatro41.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cuatro-4-1::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "8ntv-mx-sd-70",
+    "name": "8NTV",
+    "slug": "8ntv-mx-sd-70",
+    "logoUrl": "https://i.imgur.com/7ecgGIG.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "8NTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "8ntv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "b15fresnillo-mx-sd-1076",
+    "name": "B15 Fresnillo",
+    "slug": "b15fresnillo-mx-sd-1076",
+    "logoUrl": "https://i.imgur.com/kaUhEQy.png",
+    "streamUrl": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "B15Fresnillo.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "b15-fresnillo::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "b15zacatecas-mx-sd-1077",
+    "name": "B15 Zacatecas",
+    "slug": "b15zacatecas-mx-sd-1077",
+    "logoUrl": "https://i.imgur.com/kaUhEQy.png",
+    "streamUrl": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "B15Zacatecas.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "b15-zacatecas::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal10durango-mx-sd-1809",
+    "name": "Canal 10 Durango",
+    "slug": "canal10durango-mx-sd-1809",
+    "logoUrl": "https://i.imgur.com/H34quHQ.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal10Durango.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-10-durango::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal26-mx-sd-1845",
+    "name": "Canal 26 Aguascalientes",
+    "slug": "canal26-mx-sd-1845",
+    "logoUrl": "https://i.imgur.com/PAvnVN9.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal26.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-26-aguascalientes::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal5tvcozumel-mx-sd-1778",
+    "name": "Canal 5 TV Cozumel",
+    "slug": "canal5tvcozumel-mx-sd-1778",
+    "logoUrl": "https://i.imgur.com/0nzNMuP.jpeg",
+    "streamUrl": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5TVCozumel.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5-tv-cozumel::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crealatv-mx-sd-2648",
+    "name": "CreaLaTV",
+    "slug": "crealatv-mx-sd-2648",
+    "logoUrl": "https://i.imgur.com/Bnjj29f.png",
+    "streamUrl": "https://stream.crealatv.com/live.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CreaLaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crealatv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "icrtvcolima-mx-sd-4503",
+    "name": "ICRTV Colima",
+    "slug": "icrtvcolima-mx-sd-4503",
+    "logoUrl": "https://i.imgur.com/iUks0ot.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "IcrtvColima.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "icrtv-colima::mx::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "montemaria-mx-sd-6064",
+    "name": "Monte Maria",
+    "slug": "montemaria-mx-sd-6064",
+    "logoUrl": "https://i.imgur.com/0rMHbbM.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MonteMaria.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "monte-maria::mx::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nayaritcomunica-mx-sd-6398",
+    "name": "Nayarit Comunica",
+    "slug": "nayaritcomunica-mx-sd-6398",
+    "logoUrl": "https://i.imgur.com/aZCTkjU.jpg",
+    "streamUrl": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NayaritComunica.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nayarit-comunica::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhfgltdt-mx-sd-11954",
+    "name": "Notigram TV (XHFGL-TDT)",
+    "slug": "xhfgltdt-mx-sd-11954",
+    "logoUrl": "https://i.imgur.com/9ZXCQvy.png",
+    "streamUrl": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHFGLTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "notigram-tv-xhfgl-tdt::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rcgtv-mx-sd-8084",
+    "name": "RCG TV",
+    "slug": "rcgtv-mx-sd-8084",
+    "logoUrl": "https://i.imgur.com/kYtAR26.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RCGTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcg-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtqqueretaro-mx-sd-8443",
+    "name": "RTQ Querétaro",
+    "slug": "rtqqueretaro-mx-sd-8443",
+    "logoUrl": "https://i.imgur.com/RRckCvf.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTQQueretaro.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtq-quer-taro::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sqcscanal4-mx-sd-9377",
+    "name": "SQCS Canal 4",
+    "slug": "sqcscanal4-mx-sd-9377",
+    "logoUrl": "https://i.imgur.com/qnx8nBP.png",
+    "streamUrl": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SQCSCanal4.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sqcs-canal-4::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "superchannel12-mx-sd-9583",
+    "name": "Super Channel 12",
+    "slug": "superchannel12-mx-sd-9583",
+    "logoUrl": "https://i.imgur.com/dLHIvKz.png",
+    "streamUrl": "https://servilive.com:3263/live/channel12live.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SuperChannel12.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "super-channel-12::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xewhtdt-mx-sd-11951",
+    "name": "Telemax (XEWH-TDT)",
+    "slug": "xewhtdt-mx-sd-11951",
+    "logoUrl": "https://i.imgur.com/klhTyDU.png",
+    "streamUrl": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XEWHTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemax-xewh-tdt::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbuap-mx-sd-10760",
+    "name": "TV BUAP",
+    "slug": "tvbuap-mx-sd-10760",
+    "logoUrl": "https://i.imgur.com/hHrIn0r.png",
+    "streamUrl": "https://tvenvivo.buap.mx/livestream/stream/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVBUAP.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-buap::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcuatro42-mx-sd-10819",
+    "name": "TV Cuatro 4.2",
+    "slug": "tvcuatro42-mx-sd-10819",
+    "logoUrl": "https://i.imgur.com/Of044Jx.png",
+    "streamUrl": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVCuatro42.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cuatro-4-2::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcuatro43-mx-sd-10820",
+    "name": "TV Cuatro 4.3",
+    "slug": "tvcuatro43-mx-sd-10820",
+    "logoUrl": "https://i.imgur.com/Of044Jx.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TVCuatro43.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cuatro-4-3::mx::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcuatro44-mx-sd-10821",
+    "name": "TV Cuatro 4.4",
+    "slug": "tvcuatro44-mx-sd-10821",
+    "logoUrl": "https://i.imgur.com/Of044Jx.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVCuatro44.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cuatro-4-4::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvindependencia-mx-sd-10888",
+    "name": "TV Independencia",
+    "slug": "tvindependencia-mx-sd-10888",
+    "logoUrl": "https://i.imgur.com/kuyQvUP.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVIndependencia.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-independencia::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmarlapaz-mx-sd-10946",
+    "name": "TV Mar La Paz",
+    "slug": "tvmarlapaz-mx-sd-10946",
+    "logoUrl": "https://i.imgur.com/z9iVlMn.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMarLaPaz.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-mar-la-paz::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmarloscabos-mx-sd-10947",
+    "name": "TV Mar Los Cabos",
+    "slug": "tvmarloscabos-mx-sd-10947",
+    "logoUrl": "https://i.imgur.com/z9iVlMn.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMarLosCabos.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-mar-los-cabos::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmarpuertovallarta-mx-sd-10948",
+    "name": "TV Mar Puerto Vallarta",
+    "slug": "tvmarpuertovallarta-mx-sd-10948",
+    "logoUrl": "https://i.imgur.com/z9iVlMn.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMarPuertoVallarta.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-mar-puerto-vallarta::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vbmediatv-mx-sd-11431",
+    "name": "VB Media TV",
+    "slug": "vbmediatv-mx-sd-11431",
+    "logoUrl": "https://i.imgur.com/5qlVblr.png",
+    "streamUrl": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "VBMediaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vb-media-tv::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "filmex-mx-sd-3671",
+    "name": "Filmex (Xumo)",
+    "slug": "filmex-mx-sd-3671",
+    "logoUrl": "https://i.imgur.com/Hiz2OyC.png",
+    "streamUrl": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Filmex.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "filmex-xumo::mx::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "filmexclasico-mx-sd-3672",
+    "name": "Filmex Clásico",
+    "slug": "filmexclasico-mx-sd-3672",
+    "logoUrl": "https://i.imgur.com/D3dj4mv.png",
+    "streamUrl": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "FilmexClasico.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "filmex-cl-sico::mx::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zaz-mx-sd-12101",
+    "name": "ZAZ",
+    "slug": "zaz-mx-sd-12101",
+    "logoUrl": "",
+    "streamUrl": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ZAZ.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zaz::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bamostv-mx-sd-1124",
+    "name": "BAMOS TV",
+    "slug": "bamostv-mx-sd-1124",
+    "logoUrl": "https://i.imgur.com/ntK4D64.png",
+    "streamUrl": "https://video2.getstreamhosting.com:19360/8092/8092.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BAMOSTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bamos-tv::mx::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "capital21-mx-sd-1981",
+    "name": "Capital 21",
+    "slug": "capital21-mx-sd-1981",
+    "logoUrl": "https://i.imgur.com/8ign49i.png",
+    "streamUrl": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Capital21.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "capital-21::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "despiertatv-mx-sd-2960",
+    "name": "Despierta TV",
+    "slug": "despiertatv-mx-sd-2960",
+    "logoUrl": "https://i.imgur.com/hywjKNo.jpg",
+    "streamUrl": "https://video2.lhdserver.es/despiertatv/live.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DespiertaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "despierta-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elsonorense-mx-sd-3297",
+    "name": "El Sonorense",
+    "slug": "elsonorense-mx-sd-3297",
+    "logoUrl": "https://i.imgur.com/aKvPd4g.jpg",
+    "streamUrl": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ElSonorense.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-sonorense::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhbzctdt-mx-sd-11953",
+    "name": "IERTBCS Canal 8 La Paz",
+    "slug": "xhbzctdt-mx-sd-11953",
+    "logoUrl": "https://i.imgur.com/R3icGuG.png",
+    "streamUrl": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHBZCTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iertbcs-canal-8-la-paz::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iertbcscanal82-mx-sd-4512",
+    "name": "IERTBCS Canal 8.2 La Paz",
+    "slug": "iertbcscanal82-mx-sd-4512",
+    "logoUrl": "https://i.imgur.com/R3icGuG.png",
+    "streamUrl": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "IERTBCSCanal82.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iertbcs-canal-8-2-la-paz::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioytelevisioncrisoldelaalegria-mx-sd-7963",
+    "name": "Radio y Televisión Crisol de la Alegría",
+    "slug": "radioytelevisioncrisoldelaalegria-mx-sd-7963",
+    "logoUrl": "https://i.imgur.com/EW2z5Ko.jpg",
+    "streamUrl": "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioyTelevisionCrisoldelaAlegria.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-y-televisi-n-crisol-de-la-alegr-a::mx::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sipsetv81-mx-sd-9156",
+    "name": "SIPSE TV 8.1",
+    "slug": "sipsetv81-mx-sd-9156",
+    "logoUrl": "https://i.imgur.com/123P7dV.png",
+    "streamUrl": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SIPSETV81.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sipse-tv-8-1::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sipsetvcun81-mx-sd-9157",
+    "name": "SIPSE TVCUN 8.1",
+    "slug": "sipsetvcun81-mx-sd-9157",
+    "logoUrl": "https://i.imgur.com/uiTgClU.png",
+    "streamUrl": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SIPSETVCUN81.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sipse-tvcun-8-1::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sistemamichoacanodetv-mx-sd-9163",
+    "name": "Sistema Michoacano de TV",
+    "slug": "sistemamichoacanodetv-mx-sd-9163",
+    "logoUrl": "https://i.imgur.com/7MXF4Fd.png",
+    "streamUrl": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SistemaMichoacanodeTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sistema-michoacano-de-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleyucatan-mx-sd-10069",
+    "name": "Tele Yucatan",
+    "slug": "teleyucatan-mx-sd-10069",
+    "logoUrl": "https://i.imgur.com/XkpDSmO.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleYucatan.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-yucatan::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvug-mx-sd-11227",
+    "name": "TV UG",
+    "slug": "tvug-mx-sd-11227",
+    "logoUrl": "https://i.imgur.com/pxkDpTU.jpeg",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVUG.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-ug::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "umtv-mx-sd-11307",
+    "name": "UMTV",
+    "slug": "umtv-mx-sd-11307",
+    "logoUrl": "https://i.imgur.com/sjxVdPh.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UMTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "umtv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unisontv-mx-sd-11334",
+    "name": "Unison TV",
+    "slug": "unisontv-mx-sd-11334",
+    "logoUrl": "https://i.imgur.com/7ixWRId.png",
+    "streamUrl": "https://stream.unison.mx/hls/unisontvatem.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "UnisonTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unison-tv::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "itvdeportes-mx-sd-4719",
+    "name": "ITV Deportes",
+    "slug": "itvdeportes-mx-sd-4719",
+    "logoUrl": "https://iili.io/J1kV1Bn.png",
+    "streamUrl": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ITVDeportes.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "itv-deportes::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010"
+      ]
+    }
+  },
+  {
+    "id": "mileniotelevision-mx-sd-5932",
+    "name": "Milenio Televisión",
+    "slug": "mileniotelevision-mx-sd-5932",
+    "logoUrl": "https://i.imgur.com/TG1T5Oh.png",
+    "streamUrl": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MilenioTelevision.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "milenio-televisi-n::mx::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "teleformula-mx-sd-9886",
+    "name": "TeleFórmula",
+    "slug": "teleformula-mx-sd-9886",
+    "logoUrl": "https://i.imgur.com/y0a0xwY.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleFormula.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telef-rmula::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mexiquensetv-mx-sd-5894",
+    "name": "Mexiquense TV",
+    "slug": "mexiquensetv-mx-sd-5894",
+    "logoUrl": "https://i.imgur.com/iVfzakA.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MexiquenseTV.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mexiquense-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtg-mx-sd-8381",
+    "name": "RTG",
+    "slug": "rtg-mx-sd-8381",
+    "logoUrl": "https://i.imgur.com/k9M2MOT.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTG.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtg::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleplaysureste-mx-sd-9972",
+    "name": "Teleplay Sureste",
+    "slug": "teleplaysureste-mx-sd-9972",
+    "logoUrl": "https://i.imgur.com/MeV5N08.png",
+    "streamUrl": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TeleplaySureste.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleplay-sureste::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "adn40-mx-sd-324",
+    "name": "ADN 40",
+    "slug": "adn40-mx-sd-324",
+    "logoUrl": "https://i.imgur.com/Og17U9N.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ADN40.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "adn-40::mx::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alcancetv-mx-sd-440",
+    "name": "Alcance TV",
+    "slug": "alcancetv-mx-sd-440",
+    "logoUrl": "https://i.imgur.com/5nYjRlb.png",
+    "streamUrl": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlcanceTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alcance-tv::mx::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "californiamediostv-mx-sd-1723",
+    "name": "California Medios TV",
+    "slug": "californiamediostv-mx-sd-1723",
+    "logoUrl": "https://i.imgur.com/IDvpRNI.png",
+    "streamUrl": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CaliforniaMediosTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "california-medios-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhttgtdt-mx-sd-11960",
+    "name": "Canal 10 Chiapas",
+    "slug": "xhttgtdt-mx-sd-11960",
+    "logoUrl": "https://i.imgur.com/dw6puHC.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHTTGTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-10-chiapas::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ilcecanal15summasaberes-mx-sd-4525",
+    "name": "Canal 15 ILCE Summa Sabres",
+    "slug": "ilcecanal15summasaberes-mx-sd-4525",
+    "logoUrl": "https://i.imgur.com/r7czgOc.png",
+    "streamUrl": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ILCECanal15SummaSaberes.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-15-ilce-summa-sabres::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal33tijuana-mx-sd-1854",
+    "name": "Canal 33 Tijuana",
+    "slug": "canal33tijuana-mx-sd-1854",
+    "logoUrl": "https://iili.io/JCt1Nbn.png",
+    "streamUrl": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal33Tijuana.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-33-tijuana::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "conectatv-mx-sd-2600",
+    "name": "Conecta TV",
+    "slug": "conectatv-mx-sd-2600",
+    "logoUrl": "https://i.imgur.com/qEk0QGa.png",
+    "streamUrl": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ConectaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "conecta-tv::mx::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eclipsetv-mx-sd-3227",
+    "name": "Eclipse TV",
+    "slug": "eclipsetv-mx-sd-3227",
+    "logoUrl": "https://i.imgur.com/GiDD8xG.jpg",
+    "streamUrl": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EclipseTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eclipse-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elchavotv-mx-hd-3267",
+    "name": "El Chavo TV",
+    "slug": "elchavotv-mx-hd-3267",
+    "logoUrl": "https://gia.tv/streams/pptv/211465.png",
+    "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ElChavoTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-chavo-tv::mx::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "expresatv-mx-sd-3523",
+    "name": "Expresa TV",
+    "slug": "expresatv-mx-sd-3523",
+    "logoUrl": "https://i.imgur.com/kFVVGrg.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ExpresaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "expresa-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "giktvmx-mx-sd-3959",
+    "name": "GikTVMX",
+    "slug": "giktvmx-mx-sd-3959",
+    "logoUrl": "https://i.imgur.com/Gwz78jZ.png",
+    "streamUrl": "https://pistream.ddns.net/hls/stream.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "GikTVMX.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "giktvmx::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imagentv-mx-sd-4531",
+    "name": "Imagen TV+",
+    "slug": "imagentv-mx-sd-4531",
+    "logoUrl": "https://i.imgur.com/lKrRvtS.png",
+    "streamUrl": "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ImagenTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imagen-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imryt-mx-sd-4551",
+    "name": "IMRyT Morelos TV",
+    "slug": "imryt-mx-sd-4551",
+    "logoUrl": "https://i.imgur.com/D91O6ka.png",
+    "streamUrl": "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IMRyT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imryt-morelos-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jaliscotv-mx-sd-4749",
+    "name": "Jalisco TV",
+    "slug": "jaliscotv-mx-sd-4749",
+    "logoUrl": "https://i.imgur.com/N4meE8I.png",
+    "streamUrl": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JaliscoTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jalisco-tv::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "justiciatv-mx-sd-4922",
+    "name": "Justicia TV",
+    "slug": "justiciatv-mx-sd-4922",
+    "logoUrl": "https://i.imgur.com/zyAS1hk.png",
+    "streamUrl": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "JusticiaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "justicia-tv::mx::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lobotv-mx-sd-5516",
+    "name": "Lobo TV",
+    "slug": "lobotv-mx-sd-5516",
+    "logoUrl": "https://i.imgur.com/3fA50RJ.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LoboTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lobo-tv::mx::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mytimemovienetwork-mx-sd-6300",
+    "name": "MyTime Movie Network Mexico",
+    "slug": "mytimemovienetwork-mx-sd-6300",
+    "logoUrl": "https://i.imgur.com/pw4NZK1.png",
+    "streamUrl": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MyTimeMovieNetwork.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mytime-movie-network-mexico::mx::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nuevetv-mx-sd-6827",
+    "name": "Nueve TV San Luís Potosí",
+    "slug": "nuevetv-mx-sd-6827",
+    "logoUrl": "https://i.imgur.com/3fzB7zY.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NueveTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nueve-tv-san-lu-s-potos::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "presumiendomexico-mx-sd-7669",
+    "name": "Presumiendo México",
+    "slug": "presumiendomexico-mx-sd-7669",
+    "logoUrl": "https://i.imgur.com/bFG4Rqz.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "PresumiendoMexico.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "presumiendo-m-xico::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ralytv-mx-sd-8052",
+    "name": "Raly TV",
+    "slug": "ralytv-mx-sd-8052",
+    "logoUrl": "https://i.imgur.com/W8a1dIa.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RalyTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "raly-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhunestdt-mx-sd-11961",
+    "name": "Señal España (XHUNES-TDT)",
+    "slug": "xhunestdt-mx-sd-11961",
+    "logoUrl": "https://i.imgur.com/LbZkdca.png",
+    "streamUrl": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "XHUNESTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "se-al-espa-a-xhunes-tdt::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhzhztdt-mx-sd-11962",
+    "name": "SIZART Canal 24 (XHZHZ-TDT)",
+    "slug": "xhzhztdt-mx-sd-11962",
+    "logoUrl": "https://i.imgur.com/RxhABeK.png",
+    "streamUrl": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHZHZTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sizart-canal-24-xhzhz-tdt::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tele4ojocaliente-mx-sd-9824",
+    "name": "TELE 4 Ojocaliente",
+    "slug": "tele4ojocaliente-mx-sd-9824",
+    "logoUrl": "https://i.imgur.com/TkzIqR2.jpg",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TELE4Ojocaliente.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-4-ojocaliente::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trctv-mx-sd-10496",
+    "name": "TRC Televisión",
+    "slug": "trctv-mx-sd-10496",
+    "logoUrl": "https://i.imgur.com/W4xwCdl.png",
+    "streamUrl": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TRCTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trc-televisi-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "turistiktv-mx-sd-10581",
+    "name": "Turistik TV",
+    "slug": "turistiktv-mx-sd-10581",
+    "logoUrl": "https://i.imgur.com/g9j0ze8.png",
+    "streamUrl": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TuristikTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "turistik-tv::mx::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvguanajuato-mx-sd-10877",
+    "name": "TV Guanajuato",
+    "slug": "tvguanajuato-mx-sd-10877",
+    "logoUrl": "https://i.imgur.com/HbnCZSF.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVGuanajuato.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-guanajuato::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlibertad-mx-sd-10915",
+    "name": "TV Libertad",
+    "slug": "tvlibertad-mx-sd-10915",
+    "logoUrl": "https://i.imgur.com/yvbhH8c.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVLibertad.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-libertad::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlobo-mx-sd-10918",
+    "name": "TV Lobo Durango",
+    "slug": "tvlobo-mx-sd-10918",
+    "logoUrl": "https://i.imgur.com/q9p1Spj.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVLobo.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-lobo-durango::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhmnltdt-mx-sd-11957",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "slug": "xhmnltdt-mx-sd-11957",
+    "logoUrl": "https://i.imgur.com/9qL4LJF.png",
+    "streamUrl": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "XHMNLTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nuevo-le-n-canal-28-xhmnl-tdt::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "visiontelevision-mx-sd-11546",
+    "name": "Visión Televisión",
+    "slug": "visiontelevision-mx-sd-11546",
+    "logoUrl": "https://i.imgur.com/HV5tgcM.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VisionTelevision.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "visi-n-televisi-n::mx::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weatherspy-mx-sd-11712",
+    "name": "WeatherSpy",
+    "slug": "weatherspy-mx-sd-11712",
+    "logoUrl": "https://i.imgur.com/KIEKOt1.png",
+    "streamUrl": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weatherspy::mx::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "azteca7-mx-sd-1054",
+    "name": "Azteca 7",
+    "slug": "azteca7-mx-sd-1054",
+    "logoUrl": "https://i.imgur.com/UtFXjIn.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Azteca7.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "azteca-7::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aztecauno-mx-sd-1057",
+    "name": "Azteca Uno",
+    "slug": "aztecauno-mx-sd-1057",
+    "logoUrl": "https://i.imgur.com/rRxgBtI.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AztecaUno.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "azteca-uno::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal5-mx-sd-1773",
+    "name": "Canal 5",
+    "slug": "canal5-mx-sd-1773",
+    "logoUrl": "https://i.imgur.com/uZdVSoW.png",
+    "streamUrl": "http://45.5.119.43:4000/play/a05o/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ingeniotv-mx-sd-4599",
+    "name": "Ingenio TV",
+    "slug": "ingeniotv-mx-sd-4599",
+    "logoUrl": "https://i.imgur.com/pAppH1M.png",
+    "streamUrl": "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IngenioTV.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ingenio-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "15tv-mx-sd-103",
+    "name": "15TV",
+    "slug": "15tv-mx-sd-103",
+    "logoUrl": "https://i.imgur.com/CZ8LKmA.png",
+    "streamUrl": "https://cdn.fastocloud.com/leonel.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "15TV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "15tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "amxnoticias-mx-sd-663",
+    "name": "AMX Noticias",
+    "slug": "amxnoticias-mx-sd-663",
+    "logoUrl": "https://i.imgur.com/snIU1UA.jpg",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AMXNoticias.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amx-noticias::mx::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "asisucedeguanajuato-mx-sd-931",
+    "name": "Así Sucede Guanajuato",
+    "slug": "asisucedeguanajuato-mx-sd-931",
+    "logoUrl": "https://i.imgur.com/6W7HUtG.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AsiSucedeGuanajuato.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "as-sucede-guanajuato::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal10cancun-mx-sd-1807",
+    "name": "Canal 10 Cancún",
+    "slug": "canal10cancun-mx-sd-1807",
+    "logoUrl": "https://i.imgur.com/TvTn3hO.png",
+    "streamUrl": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal10Cancun.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-10-canc-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13bajio-mx-sd-1819",
+    "name": "Canal 13 Bajío",
+    "slug": "canal13bajio-mx-sd-1819",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Bajio.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-baj-o::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13campeche-mx-sd-1820",
+    "name": "Canal 13 Campeche",
+    "slug": "canal13campeche-mx-sd-1820",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee8847c303f3096501/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Campeche.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-campeche::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13chiapas-mx-sd-1821",
+    "name": "Canal 13 Chiapas",
+    "slug": "canal13chiapas-mx-sd-1821",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Chiapas.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-chiapas::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13guadalajara-mx-sd-1823",
+    "name": "Canal 13 Guadalajara",
+    "slug": "canal13guadalajara-mx-sd-1823",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_fa0ed380dfbe11eeabd66ba1b9ba93a1/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Guadalajara.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-guadalajara::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13michoacan-mx-sd-1826",
+    "name": "Canal 13 Michoacán",
+    "slug": "canal13michoacan-mx-sd-1826",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_0424eb20dfbf11ee821911a0b6ba5091/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Michoacan.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-michoac-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13oaxaca-mx-sd-1827",
+    "name": "Canal 13 Oaxaca",
+    "slug": "canal13oaxaca-mx-sd-1827",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Oaxaca.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-oaxaca::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13puebla-mx-sd-1828",
+    "name": "Canal 13 Puebla",
+    "slug": "canal13puebla-mx-sd-1828",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Puebla.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-puebla::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13tabasco-mx-sd-1830",
+    "name": "Canal 13 Tabasco",
+    "slug": "canal13tabasco-mx-sd-1830",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Tabasco.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-tabasco::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13tapachula-mx-sd-1831",
+    "name": "Canal 13 Tapachula",
+    "slug": "canal13tapachula-mx-sd-1831",
+    "logoUrl": "https://i.imgur.com/SlycKgZ.png",
+    "streamUrl": "https://stream-207963.castr.net/65313d270e749722b6474684/live_2b589fc0dfbf11ee9ce13534ca2a46c3/index.fmp4.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Tapachula.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-tapachula::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal22nacional-mx-sd-1840",
+    "name": "Canal 22 Nacional",
+    "slug": "canal22nacional-mx-sd-1840",
+    "logoUrl": "https://i.imgur.com/6qiYvhe.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal22Nacional.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-22-nacional::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal28-mx-sd-1848",
+    "name": "Canal 28",
+    "slug": "canal28-mx-sd-1848",
+    "logoUrl": "https://i.imgur.com/lr4MZFg.png",
+    "streamUrl": "https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal28.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-28::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal30cintalapa-mx-sd-1849",
+    "name": "Canal 30 Cintalapa",
+    "slug": "canal30cintalapa-mx-sd-1849",
+    "logoUrl": "https://i.imgur.com/xv13N7q.jpg",
+    "streamUrl": "https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal30Cintalapa.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-30-cintalapa::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal44-mx-sd-1857",
+    "name": "Canal 44 Chihuahua",
+    "slug": "canal44-mx-sd-1857",
+    "logoUrl": "https://i.imgur.com/YDp8MlN.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal44.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-44-chihuahua::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhijtdt-mx-sd-11956",
+    "name": "Canal 44 Ciudad Juárez",
+    "slug": "xhijtdt-mx-sd-11956",
+    "logoUrl": "https://i.imgur.com/oRudPXX.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHIJTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-44-ciudad-ju-rez::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalparlamentodelcongresodejalisco-mx-sd-1927",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "slug": "canalparlamentodelcongresodejalisco-mx-sd-1927",
+    "logoUrl": "https://i.imgur.com/fLpkHfZ.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "CanalParlamentodelCongresodeJalisco.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-parlamento-del-congreso-de-jalisco::mx::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimediosbajio-mx-sd-6231",
+    "name": "Multimedios Bajío",
+    "slug": "multimediosbajio-mx-sd-6231",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosBajio.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-baj-o::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimedioscdmx-mx-sd-6232",
+    "name": "Multimedios CDMX",
+    "slug": "multimedioscdmx-mx-sd-6232",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosCDMX.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-cdmx::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimediosciudadjuarez-mx-sd-6233",
+    "name": "Multimedios Ciudad Juárez",
+    "slug": "multimediosciudadjuarez-mx-sd-6233",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosCiudadJuarez.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-ciudad-ju-rez::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimediosguadalajara-mx-sd-6234",
+    "name": "Multimedios Guadalajara",
+    "slug": "multimediosguadalajara-mx-sd-6234",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosGuadalajara.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-guadalajara::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimedioslaguna-mx-sd-6235",
+    "name": "Multimedios Laguna",
+    "slug": "multimedioslaguna-mx-sd-6235",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosLaguna.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-laguna::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimediosmonterrey-mx-sd-6236",
+    "name": "Multimedios Monterrey",
+    "slug": "multimediosmonterrey-mx-sd-6236",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosMonterrey.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-monterrey::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimediospuebla-mx-sd-6237",
+    "name": "Multimedios Puebla",
+    "slug": "multimediospuebla-mx-sd-6237",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosPuebla.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-puebla::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimediossaltillo-mx-sd-6238",
+    "name": "Multimedios Saltillo",
+    "slug": "multimediossaltillo-mx-sd-6238",
+    "logoUrl": "https://i.imgur.com/4IGzNdq.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultimediosSaltillo.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimedios-saltillo::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhpbzctdt1-mx-sd-11958",
+    "name": "SET Televisión Canal 26.1",
+    "slug": "xhpbzctdt1-mx-sd-11958",
+    "logoUrl": "https://i.imgur.com/dbJKErB.png",
+    "streamUrl": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHPBZCTDT1.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "set-televisi-n-canal-26-1::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhpbzctdt2-mx-sd-11959",
+    "name": "SET Televisión Canal 26.2",
+    "slug": "xhpbzctdt2-mx-sd-11959",
+    "logoUrl": "https://i.imgur.com/dbJKErB.png",
+    "streamUrl": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "XHPBZCTDT2.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "set-televisi-n-canal-26-2::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleritmo-mx-sd-9991",
+    "name": "Teleritmo",
+    "slug": "teleritmo-mx-sd-9991",
+    "logoUrl": "https://i.imgur.com/9s380Bz.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Teleritmo.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleritmo::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvujat-mx-sd-11228",
+    "name": "TV UJAT (XHUJAT-TDT)",
+    "slug": "tvujat-mx-sd-11228",
+    "logoUrl": "https://i.imgur.com/4demWOi.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVUJAT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-ujat-xhujat-tdt::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpculiacan-mx-sd-11028",
+    "name": "TVP Culiacán",
+    "slug": "tvpculiacan-mx-sd-11028",
+    "logoUrl": "https://i.imgur.com/uX1S3kt.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPCuliacan.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-culiac-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvplosmochis-mx-sd-11041",
+    "name": "TVP Los Mochis",
+    "slug": "tvplosmochis-mx-sd-11041",
+    "logoUrl": "https://i.imgur.com/uX1S3kt.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPLosMochis.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-los-mochis::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpmazatlan-mx-sd-11044",
+    "name": "TVP Mazatlán",
+    "slug": "tvpmazatlan-mx-sd-11044",
+    "logoUrl": "https://i.imgur.com/uX1S3kt.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPMazatlan.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-mazatl-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpobregon-mx-sd-11046",
+    "name": "TVP Obregón",
+    "slug": "tvpobregon-mx-sd-11046",
+    "logoUrl": "https://i.imgur.com/uX1S3kt.png",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPObregon.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-obreg-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "udgtv-mx-sd-11289",
+    "name": "UDG TV Canal 44",
+    "slug": "udgtv-mx-sd-11289",
+    "logoUrl": "https://i.imgur.com/QKvINA6.png",
+    "streamUrl": "https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UDGTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "udg-tv-canal-44::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ultratvpuebla-mx-sd-11299",
+    "name": "Ultra TV Puebla",
+    "slug": "ultratvpuebla-mx-sd-11299",
+    "logoUrl": "https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png",
+    "streamUrl": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UltraTVPuebla.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ultra-tv-puebla::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "depeliculalatinamerica-mx-sd-2950",
+    "name": "De Pelicula Latin America",
+    "slug": "depeliculalatinamerica-mx-sd-2950",
+    "logoUrl": "https://i.imgur.com/aksM8pa.png",
+    "streamUrl": "http://181.119.93.83:8000/play/a1jw/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "DePeliculaLatinAmerica.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "de-pelicula-latin-america::mx::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telehitmusica-mx-sd-9896",
+    "name": "Telehit Musica",
+    "slug": "telehitmusica-mx-sd-9896",
+    "logoUrl": "https://i.imgur.com/CofYjWh.png",
+    "streamUrl": "http://190.61.55.34:2401/play/a06t/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TelehitMusica.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telehit-musica::mx::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaldelcongreso451-mx-sd-1883",
+    "name": "Canal del Congreso 45.1",
+    "slug": "canaldelcongreso451-mx-sd-1883",
+    "logoUrl": "https://i.imgur.com/xAC6gQO.png",
+    "streamUrl": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "CanaldelCongreso451.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-del-congreso-45-1::mx::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telesaltillo-mx-sd-9998",
+    "name": "Tele Saltillo",
+    "slug": "telesaltillo-mx-sd-9998",
+    "logoUrl": "https://i.imgur.com/PgBtvgO.png",
+    "streamUrl": "https://servilive.com:3879/live/telesaltillolive.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleSaltillo.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-saltillo::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aplus-mx-sd-796",
+    "name": "A+",
+    "slug": "aplus-mx-sd-796",
+    "logoUrl": "https://i.imgur.com/TWk9gfd.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "APlus.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mvstv-mx-sd-6274",
+    "name": "MVS TV",
+    "slug": "mvstv-mx-sd-6274",
+    "logoUrl": "https://i.imgur.com/TcB37yV.png",
+    "streamUrl": "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MVSTV.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mvs-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "super9tv-mx-sd-9579",
+    "name": "Super9 TV",
+    "slug": "super9tv-mx-sd-9579",
+    "logoUrl": "https://i.imgur.com/TntqGmR.png",
+    "streamUrl": "https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Super9TV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "super9-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleuv-mx-sd-10033",
+    "name": "Tele UV",
+    "slug": "teleuv-mx-sd-10033",
+    "logoUrl": "https://i.imgur.com/8MdUH69.jpeg",
+    "streamUrl": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TeleUV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-uv::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uacjtv-mx-sd-11277",
+    "name": "UACJ-TV",
+    "slug": "uacjtv-mx-sd-11277",
+    "logoUrl": "https://i.imgur.com/a1WaGTQ.jpeg",
+    "streamUrl": "https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "UACJTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uacj-tv::mx::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xejtdt-mx-sd-11950",
+    "name": "Canal 50.1 Juárez (XEJ-TDT)",
+    "slug": "xejtdt-mx-sd-11950",
+    "logoUrl": "https://i.imgur.com/iOYlKpF.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XEJTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-50-1-ju-rez-xej-tdt::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "psn-mx-sd-7713",
+    "name": "PSN",
+    "slug": "psn-mx-sd-7713",
+    "logoUrl": "https://i.imgur.com/7i7GkSL.png",
+    "streamUrl": "https://srspsn.live/live/livestream.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PSN.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "psn::mx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "psncanal452-mx-sd-7714",
+    "name": "PSN Canal 45.2",
+    "slug": "psncanal452-mx-sd-7714",
+    "logoUrl": "https://i.imgur.com/7i7GkSL.png",
+    "streamUrl": "https://srspsn2.live/live/livestream.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PSNCanal452.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "psn-canal-45-2::mx::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotele-mx-sd-7929",
+    "name": "Radiotele Morelia",
+    "slug": "radiotele-mx-sd-7929",
+    "logoUrl": "https://i.imgur.com/XpcCZvu.png",
+    "streamUrl": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Radiotele.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radiotele-morelia::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rcgtv-mx-sd-8085",
+    "name": "RCG TV (Timeshifted -2 Hours)",
+    "slug": "rcgtv-mx-sd-8085",
+    "logoUrl": "https://i.imgur.com/kYtAR26.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RCGTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcg-tv-timeshifted-2-hours::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "golden-mx-panregional-4007",
+    "name": "Golden TV",
+    "slug": "golden-mx-panregional-4007",
+    "logoUrl": "https://i.imgur.com/NNd1lYl.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Golden.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "golden-tv::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mariavision-mx-sd-5709",
+    "name": "María Visión Mexico",
+    "slug": "mariavision-mx-sd-5709",
+    "logoUrl": "https://i.imgur.com/GylOPxE.png",
+    "streamUrl": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MariaVision.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mar-a-visi-n-mexico::mx::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "transmediatelevisionmorelia-mx-sd-10487",
+    "name": "Transmedia Televisión Morelia",
+    "slug": "transmediatelevisionmorelia-mx-sd-10487",
+    "logoUrl": "https://i.imgur.com/jYMpVQA.png",
+    "streamUrl": "http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TransmediaTelevisionMorelia.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "transmedia-televisi-n-morelia::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rcgtv2-mx-sd-8083",
+    "name": "RCG TV 2",
+    "slug": "rcgtv2-mx-sd-8083",
+    "logoUrl": "https://i.imgur.com/hXs9b7v.png",
+    "streamUrl": "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RCGTV2.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcg-tv-2::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tlaxcalatv-mx-sd-10332",
+    "name": "Tlaxcala Televisión",
+    "slug": "tlaxcalatv-mx-sd-10332",
+    "logoUrl": "https://i.imgur.com/5vaEhfy.png",
+    "streamUrl": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TlaxcalaTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tlaxcala-televisi-n::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xhgvtdt-mx-sd-11955",
+    "name": "TVMÁS (XHGV-TDT)",
+    "slug": "xhgvtdt-mx-sd-11955",
+    "logoUrl": "https://i.imgur.com/15kcNRb.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XHGVTDT.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvm-s-xhgv-tdt::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tudn-mx-sd-10571",
+    "name": "TUDN",
+    "slug": "tudn-mx-sd-10571",
+    "logoUrl": "https://i.imgur.com/oT5CAvd.png",
+    "streamUrl": "https://streaming.alwaysdata.net/tudn.php",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TUDN.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tudn::mx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

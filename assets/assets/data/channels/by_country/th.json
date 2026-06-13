@@ -1,0 +1,3033 @@
+[
+  {
+    "id": "mono29-th-sd-6056",
+    "name": "MONO 29",
+    "slug": "mono29-th-sd-6056",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+    "streamUrl": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MONO29.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mono-29::th::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
+        "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd"
+      ]
+    }
+  },
+  {
+    "id": "altv-th-sd-608",
+    "name": "ALTV",
+    "slug": "altv-th-sd-608",
+    "logoUrl": "https://i.imgur.com/MCbCSWv.png",
+    "streamUrl": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ALTV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "altv::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "altv-th-sd-609",
+    "name": "ALTV 4",
+    "slug": "altv-th-sd-609",
+    "logoUrl": "https://i.imgur.com/MCbCSWv.png",
+    "streamUrl": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ALTV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "altv-4::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel7-th-sd-2255",
+    "name": "Channel 7",
+    "slug": "channel7-th-sd-2255",
+    "logoUrl": "https://i.imgur.com/SBCIwek.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel7.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-7::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv1-th-sd-3032",
+    "name": "DLTV 1",
+    "slug": "dltv1-th-sd-3032",
+    "logoUrl": "https://i.imgur.com/nLzdGeX.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV1.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-1::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv10-th-sd-3041",
+    "name": "DLTV 10",
+    "slug": "dltv10-th-sd-3041",
+    "logoUrl": "https://i.imgur.com/TgN81Zr.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV10.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-10::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv11-th-sd-3042",
+    "name": "DLTV 11",
+    "slug": "dltv11-th-sd-3042",
+    "logoUrl": "https://i.imgur.com/hFk2b5s.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV11.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-11::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv12-th-sd-3043",
+    "name": "DLTV 12",
+    "slug": "dltv12-th-sd-3043",
+    "logoUrl": "https://i.imgur.com/ITt6lY7.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV12.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-12::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv13-th-sd-3044",
+    "name": "DLTV 13",
+    "slug": "dltv13-th-sd-3044",
+    "logoUrl": "https://i.imgur.com/asB5w3v.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV13.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-13::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv14-th-sd-3045",
+    "name": "DLTV 14",
+    "slug": "dltv14-th-sd-3045",
+    "logoUrl": "https://i.imgur.com/HOjZRNS.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV14.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-14::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv15-th-sd-3046",
+    "name": "DLTV 15",
+    "slug": "dltv15-th-sd-3046",
+    "logoUrl": "https://i.imgur.com/onJi2b6.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV15.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-15::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv2-th-sd-3033",
+    "name": "DLTV 2",
+    "slug": "dltv2-th-sd-3033",
+    "logoUrl": "https://i.imgur.com/lDBSTfE.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV2.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-2::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv3-th-sd-3034",
+    "name": "DLTV 3",
+    "slug": "dltv3-th-sd-3034",
+    "logoUrl": "https://i.imgur.com/wmrxerm.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV3.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-3::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv4-th-sd-3035",
+    "name": "DLTV 4",
+    "slug": "dltv4-th-sd-3035",
+    "logoUrl": "https://i.imgur.com/WkpoQhU.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV4.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-4::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv5-th-sd-3036",
+    "name": "DLTV 5",
+    "slug": "dltv5-th-sd-3036",
+    "logoUrl": "https://i.imgur.com/J1E89jX.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV5.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-5::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv6-th-sd-3037",
+    "name": "DLTV 6",
+    "slug": "dltv6-th-sd-3037",
+    "logoUrl": "https://i.imgur.com/qeIHWC0.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV6.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-6::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv7-th-sd-3038",
+    "name": "DLTV 7",
+    "slug": "dltv7-th-sd-3038",
+    "logoUrl": "https://i.imgur.com/OjYwMe3.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV7.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-7::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv8-th-sd-3039",
+    "name": "DLTV 8",
+    "slug": "dltv8-th-sd-3039",
+    "logoUrl": "https://i.imgur.com/xIwn5Ha.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV8.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-8::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dltv9-th-sd-3040",
+    "name": "DLTV 9",
+    "slug": "dltv9-th-sd-3040",
+    "logoUrl": "https://i.imgur.com/yPeSAry.png",
+    "streamUrl": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "DLTV9.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dltv-9::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etv-th-sd-3435",
+    "name": "ETV",
+    "slug": "etv-th-sd-3435",
+    "logoUrl": "https://i.imgur.com/HTnQGcs.png",
+    "streamUrl": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ETV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv::th::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jkn18-th-sd-4854",
+    "name": "JKN 18",
+    "slug": "jkn18-th-sd-4854",
+    "logoUrl": "https://i.imgur.com/m4nPR2L.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "JKN18.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jkn-18::th::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel5-th-sd-2247",
+    "name": "Channel 5",
+    "slug": "channel5-th-sd-2247",
+    "logoUrl": "https://i.imgur.com/wOIaqg7.png",
+    "streamUrl": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel5.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-5::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "13siamthai-th-sd-100",
+    "name": "13 Siam Thai",
+    "slug": "13siamthai-th-sd-100",
+    "logoUrl": "https://i.imgur.com/FvEp1S2.png",
+    "streamUrl": "https://live.x2.co.th/live/13livetv-th.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "13SiamThai.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "13-siam-thai::th::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dramachannel-th-sd-3116",
+    "name": "MV Mall DD",
+    "slug": "dramachannel-th-sd-3116",
+    "logoUrl": "https://i.imgur.com/ill1Ux6.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "DramaChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mv-mall-dd::th::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "policetv-th-sd-7575",
+    "name": "Police TV",
+    "slug": "policetv-th-sd-7575",
+    "logoUrl": "https://i.imgur.com/GhboFGt.png",
+    "streamUrl": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PoliceTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "police-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "whitechannel-th-sd-11754",
+    "name": "White Channel",
+    "slug": "whitechannel-th-sd-11754",
+    "logoUrl": "https://i.imgur.com/Chx0AV9.png",
+    "streamUrl": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WhiteChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "white-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel8-th-sd-2261",
+    "name": "Channel 8",
+    "slug": "channel8-th-sd-2261",
+    "logoUrl": "https://i.imgur.com/P3c5jAu.png",
+    "streamUrl": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel8.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-8::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+        "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "thaiparliamenttelevision-th-sd-10122",
+    "name": "Thai Parliament TV",
+    "slug": "thaiparliamenttelevision-th-sd-10122",
+    "logoUrl": "https://i.imgur.com/Okcnmt6.png",
+    "streamUrl": "https://tv-live.tpchannel.org/live/tv.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ThaiParliamentTelevision.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thai-parliament-tv::th::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thaipbs-th-sd-10123",
+    "name": "Thai PBS",
+    "slug": "thaipbs-th-sd-10123",
+    "logoUrl": "https://i.imgur.com/CwalZjr.png",
+    "streamUrl": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ThaiPBS.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thai-pbs::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zeenung-th-sd-12150",
+    "name": "Zee Nung",
+    "slug": "zeenung-th-sd-12150",
+    "logoUrl": "https://i.imgur.com/OqlxU7t.png",
+    "streamUrl": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZeeNung.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zee-nung::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gmm25-th-sd-3990",
+    "name": "GMM 25",
+    "slug": "gmm25-th-sd-3990",
+    "logoUrl": "https://i.imgur.com/uARba6N.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GMM25.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gmm-25::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tnn16-th-sd-10356",
+    "name": "TNN 16",
+    "slug": "tnn16-th-sd-10356",
+    "logoUrl": "https://i.imgur.com/skpvuKq.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TNN16.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tnn-16::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mangorn-th-sd-5694",
+    "name": "Mangorn",
+    "slug": "mangorn-th-sd-5694",
+    "logoUrl": "",
+    "streamUrl": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Mangorn.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mangorn::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://161.82.243.133:8089/HDDragon/video.m3u8?token=qp_moaKmgt0xl1"
+      ]
+    }
+  },
+  {
+    "id": "one31-th-sd-6970",
+    "name": "ONE HD 31",
+    "slug": "one31-th-sd-6970",
+    "logoUrl": "https://i.imgur.com/HXFNbuc.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "One31.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-31::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "stouchannel-th-sd-9504",
+    "name": "STOU Channel",
+    "slug": "stouchannel-th-sd-9504",
+    "logoUrl": "https://i.imgur.com/L3T2QZz.png",
+    "streamUrl": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "STOUChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "stou-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suwannabhumichannel-th-sd-9640",
+    "name": "Suwannabhumi Channel",
+    "slug": "suwannabhumichannel-th-sd-9640",
+    "logoUrl": "https://i.imgur.com/6AGKP0A.png",
+    "streamUrl": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SuwannabhumiChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suwannabhumi-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topnews-th-sd-10421",
+    "name": "Top News",
+    "slug": "topnews-th-sd-10421",
+    "logoUrl": "https://i.imgur.com/tRFnV9M.png",
+    "streamUrl": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TopNews.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-news::th::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel5-th-sd-2249",
+    "name": "TV5 HD",
+    "slug": "channel5-th-sd-2249",
+    "logoUrl": "https://i.imgur.com/wOIaqg7.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel5.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv5::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zabbchannel-th-sd-12089",
+    "name": "Zabb Channel",
+    "slug": "zabbchannel-th-sd-12089",
+    "logoUrl": "https://i.imgur.com/4TMtUjW.png",
+    "streamUrl": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZabbChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zabb-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "goodideatv-th-sd-4029",
+    "name": "Good Idea TV",
+    "slug": "goodideatv-th-sd-4029",
+    "logoUrl": "https://i.imgur.com/ETgVyTy.png",
+    "streamUrl": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GoodIdeaTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "good-idea-tv::th::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "news1-th-sd-6478",
+    "name": "ASTV News 1",
+    "slug": "news1-th-sd-6478",
+    "logoUrl": "",
+    "streamUrl": "http://news1.live14.com/stream/news1.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "News1.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "astv-news-1::th::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mcothd-th-sd-5814",
+    "name": "MCOT HD",
+    "slug": "mcothd-th-sd-5814",
+    "logoUrl": "https://i.imgur.com/ejPxGmU.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MCOTHD.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mcot::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "amarintv-th-sd-622",
+    "name": "Amarin TV",
+    "slug": "amarintv-th-sd-622",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AmarinTV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amarin-tv::th::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationtv-th-sd-6367",
+    "name": "Nation TV",
+    "slug": "nationtv-th-sd-6367",
+    "logoUrl": "https://i.imgur.com/h3TY38F.png",
+    "streamUrl": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NationTV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nation-tv::th::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thairathtv-th-sd-10124",
+    "name": "Thairath TV",
+    "slug": "thairathtv-th-sd-10124",
+    "logoUrl": "https://i.imgur.com/qIorZoy.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ThairathTV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thairath-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "true4u-th-sd-10544",
+    "name": "True 4U (720)",
+    "slug": "true4u-th-sd-10544",
+    "logoUrl": "https://i.imgur.com/O6Xre1O.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "True4U.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "true-4u-720::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "workpointtv-th-sd-11860",
+    "name": "Workpoint TV",
+    "slug": "workpointtv-th-sd-11860",
+    "logoUrl": "https://i.imgur.com/zq6Xshf.png",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WorkpointTV.th",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "workpoint-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "boonniyomtv-th-sd-1595",
+    "name": "Boonniyom TV",
+    "slug": "boonniyomtv-th-sd-1595",
+    "logoUrl": "https://i.imgur.com/KvdFCD5.png",
+    "streamUrl": "https://live.x2.co.th/live/bntv.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BoonniyomTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "boonniyom-tv::th::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "coolchannel-th-sd-2613",
+    "name": "Cool Channel",
+    "slug": "coolchannel-th-sd-2613",
+    "logoUrl": "https://i.imgur.com/MU4E0A7.png",
+    "streamUrl": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CoolChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cool-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dopachannel-th-sd-3100",
+    "name": "Dopa Channel",
+    "slug": "dopachannel-th-sd-3100",
+    "logoUrl": "https://i.imgur.com/Z9vxti4.png",
+    "streamUrl": "http://dopachannel.truegse.com/live/dopatv03.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DopaChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dopa-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mayachannel-th-sd-5772",
+    "name": "Maya Channel",
+    "slug": "mayachannel-th-sd-5772",
+    "logoUrl": "https://i.imgur.com/UropueN.png",
+    "streamUrl": "http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MayaChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maya-channel::th::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ramachannel-th-sd-8053",
+    "name": "Rama Channel",
+    "slug": "ramachannel-th-sd-8053",
+    "logoUrl": "https://i.imgur.com/pnbzE2V.png",
+    "streamUrl": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RamaChannel.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rama-channel::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sbbtv-th-sd-8945",
+    "name": "SBB TV",
+    "slug": "sbbtv-th-sd-8945",
+    "logoUrl": "https://i.imgur.com/B1tyK1Z.png",
+    "streamUrl": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SBBTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sbb-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sbttv-th-sd-8958",
+    "name": "SBT TV",
+    "slug": "sbttv-th-sd-8958",
+    "logoUrl": "https://i.imgur.com/rmNDylW.png",
+    "streamUrl": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SBTTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sbt-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmuslimthailand-th-sd-10975",
+    "name": "TV Muslim Thailand",
+    "slug": "tvmuslimthailand-th-sd-10975",
+    "logoUrl": "https://i.imgur.com/aCFpuzW.png",
+    "streamUrl": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVMuslimThailand.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-muslim-thailand::th::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lanthungtv-th-sd-5355",
+    "name": "Lanthung TV",
+    "slug": "lanthungtv-th-sd-5355",
+    "logoUrl": "",
+    "streamUrl": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LanthungTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lanthung-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mediatv-th-sd-5837",
+    "name": "Media TV",
+    "slug": "mediatv-th-sd-5837",
+    "logoUrl": "",
+    "streamUrl": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MediaTV.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "media-tv::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thaiban83-th-sd-10120",
+    "name": "Thaiban 83",
+    "slug": "thaiban83-th-sd-10120",
+    "logoUrl": "",
+    "streamUrl": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
+    "country": {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    "languages": [
+      "tha"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Thaiban83.th",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thaiban-83::th::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

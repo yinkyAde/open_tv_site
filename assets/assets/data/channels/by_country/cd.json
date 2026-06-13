@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "bossbrotherstv-cd-sd-1597",
+    "name": "Boss Brothers TV",
+    "slug": "bossbrotherstv-cd-sd-1597",
+    "logoUrl": "https://i.imgur.com/rc9MXm5.png",
+    "streamUrl": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BossBrothersTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "boss-brothers-tv::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ccpvtelevision-cd-sd-2119",
+    "name": "CCPV TV",
+    "slug": "ccpvtelevision-cd-sd-2119",
+    "logoUrl": "https://i.imgur.com/VRhkEqz.jpg",
+    "streamUrl": "https://tnt-television.com/CCPV-TV/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CCPVTelevision.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ccpv-tv::cd::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lbfdrtv-cd-sd-5408",
+    "name": "LBFD RTV",
+    "slug": "lbfdrtv-cd-sd-5408",
+    "logoUrl": "https://i.imgur.com/buMvLJc.jpeg",
+    "streamUrl": "https://tnt-television.com/LBFD_RTV/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LBFDRTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lbfd-rtv::cd::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mishapivoicetv-cd-sd-5971",
+    "name": "Mishapi Voice TV",
+    "slug": "mishapivoicetv-cd-sd-5971",
+    "logoUrl": "https://i.imgur.com/GfOy2ok.png",
+    "streamUrl": "https://tnt-television.com/MISHAPI-STREAM1/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MishapiVoiceTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mishapi-voice-tv::cd::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "numericatv-cd-sd-6836",
+    "name": "Numerica TV",
+    "slug": "numericatv-cd-sd-6836",
+    "logoUrl": "https://i.imgur.com/ZUPJJ59.png",
+    "streamUrl": "https://tnt-television.com/NUMERICA/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NumericaTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "numerica-tv::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "congoplanettelevision-cd-sd-2603",
+    "name": "Congo Planet Télévision",
+    "slug": "congoplanettelevision-cd-sd-2603",
+    "logoUrl": "https://i.imgur.com/9IIIvPf.png",
+    "streamUrl": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CongoPlanetTelevision.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "congo-planet-t-l-vision::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "evitv-cd-sd-3499",
+    "name": "EVI TV",
+    "slug": "evitv-cd-sd-3499",
+    "logoUrl": "https://i.imgur.com/fBc9JSM.png",
+    "streamUrl": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "EVITV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "evi-tv::cd::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barakatelevision-cd-sd-1136",
+    "name": "Baraka Television",
+    "slug": "barakatelevision-cd-sd-1136",
+    "logoUrl": "https://i.imgur.com/IKXddHN.png",
+    "streamUrl": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BarakaTelevision.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "baraka-television::cd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onetv-cd-sd-6989",
+    "name": "ONE-TV",
+    "slug": "onetv-cd-sd-6989",
+    "logoUrl": "https://i.imgur.com/Wob7gjp.png",
+    "streamUrl": "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ONETV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-tv::cd::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "digitalcongotv-cd-sd-2991",
+    "name": "Digital Congo TV",
+    "slug": "digitalcongotv-cd-sd-2991",
+    "logoUrl": "https://i.imgur.com/uz2Rsu7.png",
+    "streamUrl": "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra",
+      "lin",
+      "kon",
+      "swa",
+      "lua"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DigitalCongoTV.cd",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "digital-congo-tv::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antennea-cd-sd-770",
+    "name": "Antenne A",
+    "slug": "antennea-cd-sd-770",
+    "logoUrl": "https://i.imgur.com/tgxrcv7.png",
+    "streamUrl": "http://51.254.199.122:8080/antenne_a-plus/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AntenneA.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antenne-a::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kin24-cd-sd-5110",
+    "name": "Kin24",
+    "slug": "kin24-cd-sd-5110",
+    "logoUrl": "https://i.imgur.com/Lak10Wo.png",
+    "streamUrl": "http://51.254.199.122:8080/kin24/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Kin24.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kin24::cd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lollywoodhdtv-cd-sd-5530",
+    "name": "Lollywood HD TV",
+    "slug": "lollywoodhdtv-cd-sd-5530",
+    "logoUrl": "https://i.imgur.com/fQhrsdr.png",
+    "streamUrl": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "LollywoodHDTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lollywood-tv::cd::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rlprotv-cd-sd-8280",
+    "name": "RL PRO TV",
+    "slug": "rlprotv-cd-sd-8280",
+    "logoUrl": "https://i.imgur.com/PIBtCEN.jpeg",
+    "streamUrl": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "RLPROTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rl-pro-tv::cd::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtnc3-cd-sd-8427",
+    "name": "RTNC 3",
+    "slug": "rtnc3-cd-sd-8427",
+    "logoUrl": "https://i.imgur.com/rr9Zsno.jpeg",
+    "streamUrl": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra",
+      "lin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTNC3.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtnc-3::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvs1-cd-sd-8515",
+    "name": "RTVS1",
+    "slug": "rtvs1-cd-sd-8515",
+    "logoUrl": "https://i.imgur.com/doaZCzy.png",
+    "streamUrl": "http://51.254.199.122:8080/RTVS1/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTVS1.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtvs1::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mikubatv-cd-sd-5929",
+    "name": "Mikuba TV",
+    "slug": "mikubatv-cd-sd-5929",
+    "logoUrl": "https://i.imgur.com/yJehCQM.png",
+    "streamUrl": "http://51.254.199.122:8080/MIKUBATV/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MikubaTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mikuba-tv::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pstvhd-cd-sd-7715",
+    "name": "PSTV HD",
+    "slug": "pstvhd-cd-sd-7715",
+    "logoUrl": "https://i.imgur.com/xQlkuAa.png",
+    "streamUrl": "http://51.254.199.122:8080/PSTV/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PSTVHD.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pstv::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtnc-cd-sd-8428",
+    "name": "RTNC",
+    "slug": "rtnc-cd-sd-8428",
+    "logoUrl": "https://i.imgur.com/oVXO950.jpeg",
+    "streamUrl": "http://69.64.57.208/rtnc/playlist.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra",
+      "lin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTNC.cd",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtnc::cd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tnt-television.com/rtnc_HD/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "compassiontv-cd-sd-2594",
+    "name": "Compassion TV",
+    "slug": "compassiontv-cd-sd-2594",
+    "logoUrl": "https://i.imgur.com/lfoUsyR.jpeg",
+    "streamUrl": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CompassionTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "compassion-tv::cd::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "geopolistv-cd-sd-3935",
+    "name": "Géopolis TV",
+    "slug": "geopolistv-cd-sd-3935",
+    "logoUrl": "https://i.imgur.com/WzGAIYe.jpg",
+    "streamUrl": "https://tnt-television.com/Geopolis_tv/index.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "GeopolisTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "g-opolis-tv::cd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

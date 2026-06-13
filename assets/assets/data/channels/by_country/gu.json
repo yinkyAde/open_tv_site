@@ -1,0 +1,53 @@
+[
+  {
+    "id": "star101fm-gu-sd-9391",
+    "name": "Star 101 FM (KNUT Guam)",
+    "slug": "star101fm-gu-sd-9391",
+    "logoUrl": "https://star101.gu/images/fb_icon.jpg",
+    "streamUrl": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+    "country": {
+      "code": "GU",
+      "name": "Guam"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Star101FM.gu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-101-fm-knut-guam::gu::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

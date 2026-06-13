@@ -1,0 +1,666 @@
+[
+  {
+    "id": "amc-af-sd-627",
+    "name": "AMC",
+    "slug": "amc-af-sd-627",
+    "logoUrl": "https://i.imgur.com/yj8RNnG.png",
+    "streamUrl": "https://amchls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AMC.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amc::af::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rta-af-sd-8355",
+    "name": "RTA",
+    "slug": "rta-af-sd-8355",
+    "logoUrl": "https://i.imgur.com/pJU2KPh.png",
+    "streamUrl": "https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "prd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTA.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rta::af::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sharqradiotv-af-sd-9074",
+    "name": "Sharq Radio TV",
+    "slug": "sharqradiotv-af-sd-9074",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg",
+    "streamUrl": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SharqRadioTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sharq-radio-tv::af::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barbudmusic-af-sd-1142",
+    "name": "Barbud Music",
+    "slug": "barbudmusic-af-sd-1142",
+    "logoUrl": "https://i.imgur.com/jbbxu0g.png",
+    "streamUrl": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BarbudMusic.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "barbud-music::af::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eslahtv-af-sd-3378",
+    "name": "Eslah TV",
+    "slug": "eslahtv-af-sd-3378",
+    "logoUrl": "https://i.imgur.com/To7VnsA.png",
+    "streamUrl": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EslahTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eslah-tv::af::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kayhantv-af-sd-5031",
+    "name": "Kayhan TV",
+    "slug": "kayhantv-af-sd-5031",
+    "logoUrl": "https://i.imgur.com/2MDjU7x.png",
+    "streamUrl": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "KayhanTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kayhan-tv::af::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tamadontv-af-sd-9728",
+    "name": "Tamadon TV",
+    "slug": "tamadontv-af-sd-9728",
+    "logoUrl": "https://i.imgur.com/edGyj5H.png",
+    "streamUrl": "https://hls.tamadon.live/hls/stream.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "prd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TamadonTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tamadon-tv::af::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tolonews-af-sd-10387",
+    "name": "Tolo News",
+    "slug": "tolonews-af-sd-10387",
+    "logoUrl": "https://i.imgur.com/oxaHaTq.png",
+    "streamUrl": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TOLOnews.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tolo-news::af::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bahartv-af-sd-1100",
+    "name": "Bahar TV",
+    "slug": "bahartv-af-sd-1100",
+    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nErN-N8qBYQy7YZnf-eAS2A97TFf1Ljs7yv2nxsc6T3A=s160-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "prd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BaharTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bahar-tv::af::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hewadtv-af-sd-4261",
+    "name": "Hewad TV",
+    "slug": "hewadtv-af-sd-4261",
+    "logoUrl": "https://i.imgur.com/cK2eWUZ.png",
+    "streamUrl": "http://51.210.199.58/hls/stream.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HewadTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hewad-tv::af::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dunyanawtv-af-sd-3170",
+    "name": "Dunya Naw TV",
+    "slug": "dunyanawtv-af-sd-3170",
+    "logoUrl": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+    "streamUrl": "https://dunyanhls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "prd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DunyaNawTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dunya-naw-tv::af::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shamstv-af-sd-9044",
+    "name": "Shams TV",
+    "slug": "shamstv-af-sd-9044",
+    "logoUrl": "https://i.imgur.com/Lsy31iZ.jpeg",
+    "streamUrl": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "prd",
+      "pus"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ShamsTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shams-tv::af::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shamshadtv-af-sd-9043",
+    "name": "Shamshad TV",
+    "slug": "shamshadtv-af-sd-9043",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
+    "streamUrl": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
+    "country": {
+      "code": "AF",
+      "name": "Afghanistan"
+    },
+    "languages": [
+      "pus"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ShamshadTV.af",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shamshad-tv::af::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

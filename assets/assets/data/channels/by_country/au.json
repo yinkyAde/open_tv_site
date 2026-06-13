@@ -1,0 +1,2487 @@
+[
+  {
+    "id": "abcaustralia-au-sd-229",
+    "name": "ABC Australia",
+    "slug": "abcaustralia-au-sd-229",
+    "logoUrl": "https://i.imgur.com/qQ33TVM.png",
+    "streamUrl": "http://103.154.3.101:5001/live/2782.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCAustralia.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-australia::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "cricketgold-au-sd-2656",
+    "name": "Cricket Gold",
+    "slug": "cricketgold-au-sd-2656",
+    "logoUrl": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+    "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "CricketGold.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cricket-gold::au::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8",
+        "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "10bold-au-sydney-91",
+    "name": "10 Bold Adelaide",
+    "slug": "10bold-au-sydney-91",
+    "logoUrl": "https://i.imgur.com/2xglh33.png",
+    "streamUrl": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "10Bold.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "10-bold-adelaide::au::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsn-au-sd-11178",
+    "name": "TVSN",
+    "slug": "tvsn-au-sd-11178",
+    "logoUrl": "https://i.imgur.com/lmoAFm3.png",
+    "streamUrl": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSN.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsn::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "2gb-au-sd-6",
+    "name": "2GB Sydney",
+    "slug": "2gb-au-sd-6",
+    "logoUrl": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+    "streamUrl": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "2GB.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "2gb-sydney::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "3aw-au-sd-28",
+    "name": "3AW Melbourne",
+    "slug": "3aw-au-sd-28",
+    "logoUrl": "https://i.imgur.com/Z4MdB0S.png",
+    "streamUrl": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "3AW.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3aw-melbourne::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "6pr-au-sd-62",
+    "name": "6PR Perth",
+    "slug": "6pr-au-sd-62",
+    "logoUrl": "https://i.imgur.com/Q9iCxg1.png",
+    "streamUrl": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "6PR.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "6pr-perth::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hopechannelaustralia-au-sd-4390",
+    "name": "Hope Channel Australia",
+    "slug": "hopechannelaustralia-au-sd-4390",
+    "logoUrl": "https://i.imgur.com/8Zs7rDm.png",
+    "streamUrl": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HopeChannelAustralia.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hope-channel-australia::au::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "missionasia-au-sd-5974",
+    "name": "Mission Asia",
+    "slug": "missionasia-au-sd-5974",
+    "logoUrl": "https://i.imgur.com/B5mKwF6.png",
+    "streamUrl": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng",
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MissionAsia.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mission-asia::au::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skynewsextra3-au-sd-9187",
+    "name": "Sky News Extra 3",
+    "slug": "skynewsextra3-au-sd-9187",
+    "logoUrl": "https://i.imgur.com/ZsPb8nL.png",
+    "streamUrl": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SkyNewsExtra3.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-news-extra-3::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsnbeauty-au-sd-11179",
+    "name": "TVSN Beauty",
+    "slug": "tvsnbeauty-au-sd-11179",
+    "logoUrl": "https://i.imgur.com/lmoAFm3.png",
+    "streamUrl": "https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSNBeauty.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsn-beauty::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsnjewellery-au-sd-11180",
+    "name": "TVSN Jewellery",
+    "slug": "tvsnjewellery-au-sd-11180",
+    "logoUrl": "https://i.imgur.com/lmoAFm3.png",
+    "streamUrl": "https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TVSNJewellery.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvsn-jewellery::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abcnews-au-sydney-233",
+    "name": "ABC News",
+    "slug": "abcnews-au-sydney-233",
+    "logoUrl": "https://i.imgur.com/BrW7gk8.png",
+    "streamUrl": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ABCNews.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-news::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://c.mjh.nz/abc-news.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "skyracing1-au-sd-9192",
+    "name": "Sky Racing 1",
+    "slug": "skyracing1-au-sd-9192",
+    "logoUrl": "https://i.imgur.com/Hf0EiaW.png",
+    "streamUrl": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SkyRacing1.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-racing-1::au::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "skyracing2-au-sd-9194",
+    "name": "Sky Racing 2",
+    "slug": "skyracing2-au-sd-9194",
+    "logoUrl": "https://i.imgur.com/TxQvFnQ.png",
+    "streamUrl": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SkyRacing2.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-racing-2::au::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "abctvplus-au-sydney-258",
+    "name": "ABC TV Plus",
+    "slug": "abctvplus-au-sydney-258",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png",
+    "streamUrl": "https://c.mjh.nz/abc-tv-plus.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ABCTVPlus.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-plus::au::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "racingcom-au-sd-7850",
+    "name": "Racing.com",
+    "slug": "racingcom-au-sd-7850",
+    "logoUrl": "https://i.imgur.com/Q55HX1O.png",
+    "streamUrl": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Racingcom.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "racing-com::au::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abcentertains-au-sydney-231",
+    "name": "ABC Entertains",
+    "slug": "abcentertains-au-sydney-231",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
+    "streamUrl": "https://c.mjh.nz/abc-me.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ABCEntertains.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-entertains::au::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-act-249",
+    "name": "ABC TV ACT",
+    "slug": "abctv-au-act-249",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-act.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-act::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-nsw-250",
+    "name": "ABC TV NSW",
+    "slug": "abctv-au-nsw-250",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-nsw.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-nsw::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-nt-251",
+    "name": "ABC TV NT",
+    "slug": "abctv-au-nt-251",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-nt.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-nt::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-qld-252",
+    "name": "ABC TV QLD",
+    "slug": "abctv-au-qld-252",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-qld.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-qld::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-sa-253",
+    "name": "ABC TV SA",
+    "slug": "abctv-au-sa-253",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-sa.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-sa::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-tas-254",
+    "name": "ABC TV TAS",
+    "slug": "abctv-au-tas-254",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-tas.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-tas::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-vic-255",
+    "name": "ABC TV VIC",
+    "slug": "abctv-au-vic-255",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-vic.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-vic::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctv-au-wa-256",
+    "name": "ABC TV WA",
+    "slug": "abctv-au-wa-256",
+    "logoUrl": "https://i.imgur.com/DPVQSjM.png",
+    "streamUrl": "https://c.mjh.nz/abc-wa.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ABCTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-wa::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctbperth-au-sd-2691",
+    "name": "CTB Perth",
+    "slug": "ctbperth-au-sd-2691",
+    "logoUrl": "https://i.imgur.com/VB8gtCy.jpeg",
+    "streamUrl": "https://live.ctbperth.net.au/hls/0/stream.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTBPerth.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctb-perth::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctbperthmovieschannel-au-sd-2692",
+    "name": "CTB Perth Movies",
+    "slug": "ctbperthmovieschannel-au-sd-2692",
+    "logoUrl": "https://i.imgur.com/VB8gtCy.jpeg",
+    "streamUrl": "https://movies.ctbperth.net.au/hls/stream.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "CTBPerthMoviesChannel.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctb-perth-movies::au::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "folkklubtv-au-sd-3710",
+    "name": "Folk Klub",
+    "slug": "folkklubtv-au-sd-3710",
+    "logoUrl": "https://i.imgur.com/Seq7Od7.png",
+    "streamUrl": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FolkKlubTV.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "folk-klub::au::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "intvaustralia-au-sd-4631",
+    "name": "INTV Australia",
+    "slug": "intvaustralia-au-sd-4631",
+    "logoUrl": "https://i.imgur.com/1nJl0Pv.png",
+    "streamUrl": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "INTVAustralia.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "intv-australia::au::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weatherspy-au-sd-11710",
+    "name": "WeatherSpy",
+    "slug": "weatherspy-au-sd-11710",
+    "logoUrl": "https://i.imgur.com/GTxN2nH.png",
+    "streamUrl": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weatherspy::au::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "9gem-au-sydney-74",
+    "name": "9Gem",
+    "slug": "9gem-au-sydney-74",
+    "logoUrl": "https://i.imgur.com/cwLzqaw.png",
+    "streamUrl": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "9Gem.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "9gem::au::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "9go-au-sydney-75",
+    "name": "9Go!",
+    "slug": "9go-au-sydney-75",
+    "logoUrl": "https://i.imgur.com/RLijQI8.png",
+    "streamUrl": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "9Go.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "9go::au::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "9life-au-sydney-77",
+    "name": "9Life",
+    "slug": "9life-au-sydney-77",
+    "logoUrl": "https://i.imgur.com/HlJOrGI.png",
+    "streamUrl": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "9Life.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "9life::au::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ausbiztv-au-sd-1010",
+    "name": "ausbiz TV",
+    "slug": "ausbiztv-au-sd-1010",
+    "logoUrl": "https://i.imgur.com/8vGGdB0.png",
+    "streamUrl": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AusbizTV.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ausbiz-tv::au::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel7-au-sydney-2253",
+    "name": "Channel 7",
+    "slug": "channel7-au-sydney-2253",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/500px-Seven_Network_logo.svg.png",
+    "streamUrl": "https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel7.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-7::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel9-au-adelaide-2265",
+    "name": "Channel 9 Adelaide",
+    "slug": "channel9-au-adelaide-2265",
+    "logoUrl": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+    "streamUrl": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel9.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-9-adelaide::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel9-au-brisbane-2266",
+    "name": "Channel 9 Brisbane",
+    "slug": "channel9-au-brisbane-2266",
+    "logoUrl": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+    "streamUrl": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel9.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-9-brisbane::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel9-au-perth-2267",
+    "name": "Channel 9 Perth",
+    "slug": "channel9-au-perth-2267",
+    "logoUrl": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+    "streamUrl": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel9.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-9-perth::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel9-au-sydney-2268",
+    "name": "Channel 9 Sydney",
+    "slug": "channel9-au-sydney-2268",
+    "logoUrl": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+    "streamUrl": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel9.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-9-sydney::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skythoroughbredcentral-au-sd-9195",
+    "name": "Sky Thoroughbred Central",
+    "slug": "skythoroughbredcentral-au-sd-9195",
+    "logoUrl": "https://i.imgur.com/1SxIsnw.png",
+    "streamUrl": "https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SkyThoroughbredCentral.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-thoroughbred-central::au::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mistelevizija-au-sd-5986",
+    "name": "MIS Televizija",
+    "slug": "mistelevizija-au-sd-5986",
+    "logoUrl": "https://i.imgur.com/qvrNVFg.png",
+    "streamUrl": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "bos",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MISTelevizija.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mis-televizija::au::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abckids-au-sydney-232",
+    "name": "ABC Kids",
+    "slug": "abckids-au-sydney-232",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+    "streamUrl": "https://c.mjh.nz/abc-kids.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ABCKids.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-kids::au::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel44-au-sd-2285",
+    "name": "Channel 44",
+    "slug": "channel44-au-sd-2285",
+    "logoUrl": "https://i.imgur.com/P2wUGh9.png",
+    "streamUrl": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel44.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-44::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "c31melbourne-au-sd-1710",
+    "name": "C31 Melbourne",
+    "slug": "c31melbourne-au-sd-1710",
+    "logoUrl": "https://i.imgur.com/Ge1EutY.png",
+    "streamUrl": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "C31Melbourne.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c31-melbourne::au::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "expochannel-au-sd-3522",
+    "name": "Expo Channel",
+    "slug": "expochannel-au-sd-3522",
+    "logoUrl": "https://i.imgur.com/2KzCShW.png",
+    "streamUrl": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "ExpoChannel.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "expo-channel::au::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skynewsextra1-au-sd-9185",
+    "name": "Sky News Extra 1",
+    "slug": "skynewsextra1-au-sd-9185",
+    "logoUrl": "https://i.imgur.com/ZsPb8nL.png",
+    "streamUrl": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SkyNewsExtra1.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-news-extra-1::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skynewsextra2-au-sd-9186",
+    "name": "Sky News Extra 2",
+    "slug": "skynewsextra2-au-sd-9186",
+    "logoUrl": "https://i.imgur.com/ZsPb8nL.png",
+    "streamUrl": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SkyNewsExtra2.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-news-extra-2::au::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

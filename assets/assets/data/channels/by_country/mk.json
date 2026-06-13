@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "nasatv-mk-sd-6345",
+    "name": "Naša TV",
+    "slug": "nasatv-mk-sd-6345",
+    "logoUrl": "https://i.imgur.com/9rB4VZy.png",
+    "streamUrl": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NasaTV.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "na-a-tv::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cooltv-mk-sd-2616",
+    "name": "Cool TV",
+    "slug": "cooltv-mk-sd-2616",
+    "logoUrl": "https://i.imgur.com/2tFrjUz.png",
+    "streamUrl": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CoolTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cool-tv::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "folktv-mk-sd-3711",
+    "name": "Folk TV",
+    "slug": "folktv-mk-sd-3711",
+    "logoUrl": "https://i.imgur.com/4b9aZ9P.png",
+    "streamUrl": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FolkTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "folk-tv::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jazztv-mk-sd-4776",
+    "name": "Jazz TV",
+    "slug": "jazztv-mk-sd-4776",
+    "logoUrl": "https://i.imgur.com/CbQlSFX.png",
+    "streamUrl": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JazzTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jazz-tv::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lovetv-mk-sd-5566",
+    "name": "Love TV",
+    "slug": "lovetv-mk-sd-5566",
+    "logoUrl": "https://i.imgur.com/B8iaejQ.png",
+    "streamUrl": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LoveTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-tv::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rocktv-mk-sd-8295",
+    "name": "Rock TV",
+    "slug": "rocktv-mk-sd-8295",
+    "logoUrl": "https://i.imgur.com/Y9miDQo.png",
+    "streamUrl": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RockTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rock-tv::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starplustelevizija-mk-sd-9420",
+    "name": "Star Plus Music",
+    "slug": "starplustelevizija-mk-sd-9420",
+    "logoUrl": "https://i.imgur.com/01yz22a.png",
+    "streamUrl": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "StarPlusTelevizija.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-plus-music::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mnethd-mk-sd-6021",
+    "name": "M-Net HD",
+    "slug": "mnethd-mk-sd-6021",
+    "logoUrl": "https://i.imgur.com/HDYqWuR.png",
+    "streamUrl": "http://ares.mnet.mk/hls/mnet.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MNetHD.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-net::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.mnet.mk/hls/mnet.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mnetsport-mk-sd-6025",
+    "name": "M-Net Sport",
+    "slug": "mnetsport-mk-sd-6025",
+    "logoUrl": "https://i.imgur.com/7k8ar1Z.png",
+    "streamUrl": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "MNetSport.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-net-sport::mk::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.mnet.mk/hls/mnet-sport.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mnetkids-mk-sd-6024",
+    "name": "M-Net Kids",
+    "slug": "mnetkids-mk-sd-6024",
+    "logoUrl": "https://i.imgur.com/SbKkpuH.png",
+    "streamUrl": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "MNetKids.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-net-kids::mk::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topestradatv-mk-sd-10406",
+    "name": "TopEstrada TV",
+    "slug": "topestradatv-mk-sd-10406",
+    "logoUrl": "https://i.imgur.com/0Dh1FJZ.png",
+    "streamUrl": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TopEstradaTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "topestrada-tv::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skyfolktv-mk-sd-9176",
+    "name": "Sky Folk TV",
+    "slug": "skyfolktv-mk-sd-9176",
+    "logoUrl": "https://i.imgur.com/ya5xpUL.png",
+    "streamUrl": "https://eu.live.skyfolk.mk/live.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SkyFolkTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-folk-tv::mk::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://skyfolk.mk/live.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sitel-mk-sd-9165",
+    "name": "Sitel",
+    "slug": "sitel-mk-sd-9165",
+    "logoUrl": "https://i.imgur.com/pdobwKt.png",
+    "streamUrl": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Sitel.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sitel::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://teve.mk/tvstanici/s1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mrt1-mk-sd-6132",
+    "name": "MRT 1",
+    "slug": "mrt1-mk-sd-6132",
+    "logoUrl": "https://i.imgur.com/EkkyAE0.png",
+    "streamUrl": "https://s1.teve.mk/tvstanici/6/playlist.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MRT1.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrt-1::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv24-mk-sd-10689",
+    "name": "TV 24",
+    "slug": "tv24-mk-sd-10689",
+    "logoUrl": "https://i.imgur.com/o5n40jq.png",
+    "streamUrl": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV24.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-24::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mnetinfo-mk-sd-6023",
+    "name": "M-Net Info",
+    "slug": "mnetinfo-mk-sd-6023",
+    "logoUrl": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
+    "streamUrl": "https://live.mnet.mk/hls/mnet-info.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MNetInfo.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-net-info::mk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alsat-mk-sd-584",
+    "name": "Alsat",
+    "slug": "alsat-mk-sd-584",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd",
+      "sqi"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Alsat.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alsat::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrt2-mk-sd-6133",
+    "name": "MRT 2",
+    "slug": "mrt2-mk-sd-6133",
+    "logoUrl": "https://i.imgur.com/YvOrUnN.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MRT2.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrt-2::mk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrtsobraniskikanal-mk-sd-6134",
+    "name": "MRT Sobraniski kanal",
+    "slug": "mrtsobraniskikanal-mk-sd-6134",
+    "logoUrl": "https://i.imgur.com/fyNQ8Nf.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd",
+      "sqi"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "MRTSobraniskikanal.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrt-sobraniski-kanal::mk::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvshenja-mk-sd-11159",
+    "name": "TV Shenja",
+    "slug": "tvshenja-mk-sd-11159",
+    "logoUrl": "https://i.imgur.com/JsdUpB8.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVShenja.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-shenja::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv21-mk-sd-10688",
+    "name": "TV21",
+    "slug": "tv21-mk-sd-10688",
+    "logoUrl": "https://i.imgur.com/IC1f4h3.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "sqi",
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV21.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv21::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtm-mk-sd-6164",
+    "name": "MTM 1",
+    "slug": "mtm-mk-sd-6164",
+    "logoUrl": "https://i.ibb.co/HCRZVVz/images-4.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MTM.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtm-1::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suteltv-mk-sd-9639",
+    "name": "Sutel TV",
+    "slug": "suteltv-mk-sd-9639",
+    "logoUrl": "https://i.imgur.com/hk3lhuF.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SutelTV.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sutel-tv::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvera-mk-sd-10856",
+    "name": "TV ERA",
+    "slug": "tvera-mk-sd-10856",
+    "logoUrl": "https://i.imgur.com/ds0uf7A.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVERA.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-era::mk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnova12-mk-sd-10989",
+    "name": "TV NOVA 12",
+    "slug": "tvnova12-mk-sd-10989",
+    "logoUrl": "https://i.imgur.com/Qo3Hj3t.png",
+    "streamUrl": "http://151.236.247.171:8080/nova/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNOVA12.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nova-12::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanal5-mk-sd-4961",
+    "name": "Kanal 5",
+    "slug": "kanal5-mk-sd-4961",
+    "logoUrl": "https://i.imgur.com/Qw7N3S2.png",
+    "streamUrl": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Kanal5.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-5::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvzdravkin-mk-sd-11246",
+    "name": "TV Zdravkin",
+    "slug": "tvzdravkin-mk-sd-11246",
+    "logoUrl": "https://i.imgur.com/w4rRUNQ.png",
+    "streamUrl": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "mkd"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVZdravkin.mk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-zdravkin::mk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

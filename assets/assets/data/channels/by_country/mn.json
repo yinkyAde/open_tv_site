@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "edutainmenttv-mn-sd-3241",
+    "name": "Education",
+    "slug": "edutainmenttv-mn-sd-3241",
+    "logoUrl": "https://i.imgur.com/0m8t3vh.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "EdutainmentTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "education::mn::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd"
+      ]
+    }
+  },
+  {
+    "id": "mnbsport-mn-sd-6014",
+    "name": "MNB Sport",
+    "slug": "mnbsport-mn-sd-6014",
+    "logoUrl": "https://i.imgur.com/z854PC3.png",
+    "streamUrl": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "MNBSport.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mnb-sport::mn::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tv5-mn-sd-10628",
+    "name": "TV5",
+    "slug": "tv5-mn-sd-10628",
+    "logoUrl": "https://i.imgur.com/asGQfGN.png",
+    "streamUrl": "https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV5.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv5::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd"
+      ]
+    }
+  },
+  {
+    "id": "dreamtv-mn-sd-3118",
+    "name": "DreamTV",
+    "slug": "dreamtv-mn-sd-3118",
+    "logoUrl": "https://i.imgur.com/YPbvzgV.png",
+    "streamUrl": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "DreamTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dreamtv::mn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mnbworld-mn-sd-6019",
+    "name": "MNB World",
+    "slug": "mnbworld-mn-sd-6019",
+    "logoUrl": "https://i.imgur.com/PHlj84Q.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MNBWorld.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mnb-world::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.mnb.mn/hls/mnb_world.stream.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd"
+      ]
+    }
+  },
+  {
+    "id": "asianbox-mn-sd-915",
+    "name": "AsianBox",
+    "slug": "asianbox-mn-sd-915",
+    "logoUrl": "https://i.imgur.com/WAYZSgx.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AsianBox.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asianbox::mn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd"
+      ]
+    }
+  },
+  {
+    "id": "bloombergtvmongolia-mn-sd-1553",
+    "name": "Bloomberg TV Mongolia HD",
+    "slug": "bloombergtvmongolia-mn-sd-1553",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTVMongolia.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv-mongolia::mn::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd"
+      ]
+    }
+  },
+  {
+    "id": "c1-mn-sd-1708",
+    "name": "C1",
+    "slug": "c1-mn-sd-1708",
+    "logoUrl": "https://i.imgur.com/v1mHG5x.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "C1.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c1::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
+      ]
+    }
+  },
+  {
+    "id": "centraltv-mn-sd-2184",
+    "name": "Central TV",
+    "slug": "centraltv-mn-sd-2184",
+    "logoUrl": "https://i.imgur.com/E9wAUrT.png",
+    "streamUrl": "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CentralTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "central-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
+      ]
+    }
+  },
+  {
+    "id": "dreamtv-mn-sd-3120",
+    "name": "Dream TV",
+    "slug": "dreamtv-mn-sd-3120",
+    "logoUrl": "https://i.imgur.com/YPbvzgV.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "DreamTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dream-tv::mn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd"
+      ]
+    }
+  },
+  {
+    "id": "etv-mn-sd-3434",
+    "name": "ETV",
+    "slug": "etv-mn-sd-3434",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ETV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv::mn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tv25-mn-sd-10691",
+    "name": "MN25",
+    "slug": "tv25-mn-sd-10691",
+    "logoUrl": "https://i.imgur.com/F3MMJMd.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV25.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mn25::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
+      ]
+    }
+  },
+  {
+    "id": "mnb-mn-sd-6010",
+    "name": "MNB",
+    "slug": "mnb-mn-sd-6010",
+    "logoUrl": "https://i.imgur.com/RdRd0to.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MNB.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mnb::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8",
+        "https://live.mnb.mn/hls/mnb.stream.m3u8",
+        "https://live.mnb.mn/hls/mn2.stream.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
+        "https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd"
+      ]
+    }
+  },
+  {
+    "id": "mongoliannewschannel-mn-sd-6055",
+    "name": "MNC",
+    "slug": "mongoliannewschannel-mn-sd-6055",
+    "logoUrl": "https://i.imgur.com/gMVqbwU.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MongolianNewsChannel.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mnc::mn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "moviebox-mn-sd-6098",
+    "name": "MovieBox",
+    "slug": "moviebox-mn-sd-6098",
+    "logoUrl": "https://i.imgur.com/xeO1Zb4.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MovieBox.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "moviebox::mn::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd"
+      ]
+    }
+  },
+  {
+    "id": "ntv-mn-sd-6798",
+    "name": "NTV",
+    "slug": "ntv-mn-sd-6798",
+    "logoUrl": "https://i.imgur.com/2JbqbPY.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
+      ]
+    }
+  },
+  {
+    "id": "parliamenttv-mn-sd-7137",
+    "name": "Parliament TV",
+    "slug": "parliamenttv-mn-sd-7137",
+    "logoUrl": "https://i.imgur.com/OD7YKuz.jpeg",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ParliamentTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "parliament-tv::mn::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd"
+      ]
+    }
+  },
+  {
+    "id": "sbn-mn-sd-8950",
+    "name": "SBN",
+    "slug": "sbn-mn-sd-8950",
+    "logoUrl": "https://i.imgur.com/E3fvpwn.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SBN.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sbn::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd"
+      ]
+    }
+  },
+  {
+    "id": "startv-mn-sd-9439",
+    "name": "Star TV",
+    "slug": "startv-mn-sd-9439",
+    "logoUrl": "https://i.imgur.com/R6hxJgl.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "StarTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
+      ]
+    }
+  },
+  {
+    "id": "suldtv-mn-sd-9566",
+    "name": "Suld TV",
+    "slug": "suldtv-mn-sd-9566",
+    "logoUrl": "https://i.imgur.com/CnLxehv.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SuldTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suld-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tengertv-mn-sd-10082",
+    "name": "TenGer TV",
+    "slug": "tengertv-mn-sd-10082",
+    "logoUrl": "https://i.imgur.com/MmPvkcO.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TenGerTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tenger-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tmtv-mn-sd-10342",
+    "name": "TM TV",
+    "slug": "tmtv-mn-sd-10342",
+    "logoUrl": "https://i.imgur.com/Bza9r7U.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TMTV.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tm-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tv8-mn-sd-10653",
+    "name": "TV8",
+    "slug": "tv8-mn-sd-10653",
+    "logoUrl": "https://i.imgur.com/EguOdxW.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV8.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv8::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tv9-mn-sd-10661",
+    "name": "TV9",
+    "slug": "tv9-mn-sd-10661",
+    "logoUrl": "https://i.imgur.com/QFteAgd.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV9.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv9::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
+      ]
+    }
+  },
+  {
+    "id": "ubs-mn-sd-11284",
+    "name": "UBS",
+    "slug": "ubs-mn-sd-11284",
+    "logoUrl": "https://i.imgur.com/dIRMYYd.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UBS.mn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ubs::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd"
+      ]
+    }
+  },
+  {
+    "id": "channel11-mn-sd-2275",
+    "name": "Channel 11",
+    "slug": "channel11-mn-sd-2275",
+    "logoUrl": "https://i.imgur.com/GztOajC.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel11.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-11::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd"
+      ]
+    }
+  },
+  {
+    "id": "cinema-mn-sd-2371",
+    "name": "Cinema",
+    "slug": "cinema-mn-sd-2371",
+    "logoUrl": "https://i.imgur.com/yib6dM2.png",
+    "streamUrl": "https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Cinema.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cinema::mn::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "eaglenews-mn-sd-3202",
+    "name": "Eagle News HD",
+    "slug": "eaglenews-mn-sd-3202",
+    "logoUrl": "https://i.imgur.com/2oqXpve.jpg",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EagleNews.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eagle-news::mn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
+      ]
+    }
+  },
+  {
+    "id": "gtv-mn-sd-4106",
+    "name": "Gandan TV",
+    "slug": "gtv-mn-sd-4106",
+    "logoUrl": "https://i.imgur.com/z18PSIo.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GTV.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gandan-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "globaltv-mn-sd-3978",
+    "name": "Global TV",
+    "slug": "globaltv-mn-sd-3978",
+    "logoUrl": "https://i.imgur.com/Es5FX4z.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GlobalTV.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "global-tv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "malchintv-mn-sd-5678",
+    "name": "Malchin TV",
+    "slug": "malchintv-mn-sd-5678",
+    "logoUrl": "https://i.imgur.com/vCdEBZo.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MalchinTV.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "malchin-tv::mn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd"
+      ]
+    }
+  },
+  {
+    "id": "ontv-mn-sd-7013",
+    "name": "ONTV",
+    "slug": "ontv-mn-sd-7013",
+    "logoUrl": "https://i.imgur.com/EzODUBO.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ONTV.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ontv::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "soyongegeeruulegchtv-mn-sd-9316",
+    "name": "Соён Гэгээрүүлэгч",
+    "slug": "soyongegeeruulegchtv-mn-sd-9316",
+    "logoUrl": "https://i.imgur.com/iBZVvtW.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SoyonGegeeruulegchTV.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
+        "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd",
+        "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
+      ]
+    }
+  },
+  {
+    "id": "cnbcmongolia-mn-sd-2511",
+    "name": "CNBC Mongolia",
+    "slug": "cnbcmongolia-mn-sd-2511",
+    "logoUrl": "https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "eng",
+      "mon"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CNBCMongolia.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-mongolia::mn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sevenchannel-mn-sd-9017",
+    "name": "Seven Channel",
+    "slug": "sevenchannel-mn-sd-9017",
+    "logoUrl": "https://i.imgur.com/9Ld5ATz.png",
+    "streamUrl": "https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SevenChannel.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "seven-channel::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mnplus-mn-sd-6029",
+    "name": "MN+",
+    "slug": "mnplus-mn-sd-6029",
+    "logoUrl": "https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MNPlus.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mn::mn::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv4-mn-sd-10623",
+    "name": "TV4",
+    "slug": "tv4-mn-sd-10623",
+    "logoUrl": "https://i.imgur.com/WSvUsxy.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV4.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv4::mn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

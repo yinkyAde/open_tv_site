@@ -1,0 +1,210 @@
+[
+  {
+    "id": "tvmanamocambique-mz-sd-10941",
+    "name": "TV Maná Moçambique",
+    "slug": "tvmanamocambique-mz-sd-10941",
+    "logoUrl": "https://i.imgur.com/R5YrV5s.png",
+    "streamUrl": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+    "country": {
+      "code": "MZ",
+      "name": "Mozambique"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVManaMocambique.mz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-mo-ambique::mz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvvitoria-mz-sd-11238",
+    "name": "TV Vitória",
+    "slug": "tvvitoria-mz-sd-11238",
+    "logoUrl": "https://i.imgur.com/HlWzzfj.png",
+    "streamUrl": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
+    "country": {
+      "code": "MZ",
+      "name": "Mozambique"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVVitoria.mz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-vit-ria::mz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvm-mz-sd-10930",
+    "name": "TVM",
+    "slug": "tvm-mz-sd-10930",
+    "logoUrl": "https://i.imgur.com/Vqv7R3Y.png",
+    "streamUrl": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+    "country": {
+      "code": "MZ",
+      "name": "Mozambique"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVM.mz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvm::mz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvminternacional-mz-sd-10963",
+    "name": "TVM Internacional",
+    "slug": "tvminternacional-mz-sd-10963",
+    "logoUrl": "https://i.imgur.com/fRV6p50.png",
+    "streamUrl": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "country": {
+      "code": "MZ",
+      "name": "Mozambique"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMInternacional.mz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvm-internacional::mz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

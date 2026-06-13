@@ -1,0 +1,2233 @@
+[
+  {
+    "id": "channeli-bd-sd-2291",
+    "name": "Channel I",
+    "slug": "channeli-bd-sd-2291",
+    "logoUrl": "https://i.imgur.com/X0JJlOX.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ChannelI.bd",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-i::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/channeli/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ntv-bd-sd-6792",
+    "name": "NTV",
+    "slug": "ntv-bd-sd-6792",
+    "logoUrl": "https://i.imgur.com/l75bDTx.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV.bd",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "anandatv-bd-sd-667",
+    "name": "Ananda TV",
+    "slug": "anandatv-bd-sd-667",
+    "logoUrl": "https://i.imgur.com/jkbo7Qe.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AnandaTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ananda-tv::bd::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/anandatv/index.m3u8",
+        "http://103.99.249.139/anandatv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "atnnews-bd-sd-963",
+    "name": "ATN News",
+    "slug": "atnnews-bd-sd-963",
+    "logoUrl": "https://i.imgur.com/4qZQKjo.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ATNNews.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atn-news::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "banglavision-bd-sd-1129",
+    "name": "Bangla Vision",
+    "slug": "banglavision-bd-sd-1129",
+    "logoUrl": "https://i.imgur.com/nCWgp38.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BanglaVision.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bangla-vision::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen5.aynaott.com/banglavision/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "btvchattogram-bd-sd-1668",
+    "name": "BTV Chattogram",
+    "slug": "btvchattogram-bd-sd-1668",
+    "logoUrl": "https://i.imgur.com/hvpyuek.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTVChattogram.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv-chattogram::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/btvctg/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "btvnational-bd-sd-1670",
+    "name": "BTV National",
+    "slug": "btvnational-bd-sd-1670",
+    "logoUrl": "https://i.imgur.com/5OE2FDt.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTVNational.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv-national::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8",
+        "https://tvsen6.aynaott.com/btvhd/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "btvworld-bd-sd-1676",
+    "name": "BTV World",
+    "slug": "btvworld-bd-sd-1676",
+    "logoUrl": "https://i.imgur.com/sSnrg7o.png",
+    "streamUrl": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTVWorld.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv-world::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/btv_world/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "channel24-bd-sd-2282",
+    "name": "Channel 24",
+    "slug": "channel24-bd-sd-2282",
+    "logoUrl": "https://i.imgur.com/4JLkaF7.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Channel24.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-24::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "channel9-bd-sd-2269",
+    "name": "Channel 9",
+    "slug": "channel9-bd-sd-2269",
+    "logoUrl": "https://i.imgur.com/Xf5YuoE.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel9.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-9::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/channel9/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "dbcnews-bd-sd-2807",
+    "name": "DBC News",
+    "slug": "dbcnews-bd-sd-2807",
+    "logoUrl": "https://i.imgur.com/Qbt6q4z.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DBCNews.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dbc-news::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
+        "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "deeptotv-bd-sd-2914",
+    "name": "Deepto TV",
+    "slug": "deeptotv-bd-sd-2914",
+    "logoUrl": "https://i.imgur.com/F62GUqS.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "DeeptoTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "deepto-tv::bd::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "deshtv-bd-sd-2955",
+    "name": "Desh TV",
+    "slug": "deshtv-bd-sd-2955",
+    "logoUrl": "https://i.imgur.com/ItrZok1.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DeshTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "desh-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/deshtv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ekattortv-bd-sd-3250",
+    "name": "Ekattor TV",
+    "slug": "ekattortv-bd-sd-3250",
+    "logoUrl": "https://i.imgur.com/zoLwwUK.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EkattorTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ekattor-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ekhontv-bd-sd-3253",
+    "name": "Ekhon TV",
+    "slug": "ekhontv-bd-sd-3253",
+    "logoUrl": "https://i.imgur.com/tRrDh6z.png",
+    "streamUrl": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "EkhonTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ekhon-tv::bd::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/ekhontv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "gazitv-bd-sd-3880",
+    "name": "Gazi TV",
+    "slug": "gazitv-bd-sd-3880",
+    "logoUrl": "https://i.imgur.com/2Lzhiq6.png",
+    "streamUrl": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GaziTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gazi-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "independenttv-bd-sd-4556",
+    "name": "Independent TV",
+    "slug": "independenttv-bd-sd-4556",
+    "logoUrl": "https://i.imgur.com/POXFhGN.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "IndependentTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "independent-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8",
+        "https://tvsen6.aynaott.com/independenttv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "jamunatv-bd-sd-4753",
+    "name": "Jamuna TV",
+    "slug": "jamunatv-bd-sd-4753",
+    "logoUrl": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "JamunaTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jamuna-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/jamunatv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "maasrangatv-bd-sd-5616",
+    "name": "Maasranga TV",
+    "slug": "maasrangatv-bd-sd-5616",
+    "logoUrl": "https://i.imgur.com/uVZJMed.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MaasrangaTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maasranga-tv::bd::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mohonatv-bd-sd-6042",
+    "name": "Mohona TV",
+    "slug": "mohonatv-bd-sd-6042",
+    "logoUrl": "https://i.imgur.com/E6doEWH.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MohonaTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mohona-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/mohonatv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "news24-bd-sd-6520",
+    "name": "News 24",
+    "slug": "news24-bd-sd-6520",
+    "logoUrl": "https://i.imgur.com/fkTHh75.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-News24HD/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "News24.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "news-24::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8",
+        "https://tvsen6.aynaott.com/news24/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rtv-bd-sd-8478",
+    "name": "RTV",
+    "slug": "rtv-bd-sd-8478",
+    "logoUrl": "https://i.imgur.com/yu8ugqt.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-RTV/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+        "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "somoynewstv-bd-sd-9251",
+    "name": "Somoy News TV",
+    "slug": "somoynewstv-bd-sd-9251",
+    "logoUrl": "https://i.imgur.com/i54AQic.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SomoyNewsTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "somoy-news-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+        "https://tvsen6.aynaott.com/somoytv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "greentv-bd-sd-4072",
+    "name": "Green TV",
+    "slug": "greentv-bd-sd-4072",
+    "logoUrl": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
+    "streamUrl": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "GreenTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "green-tv::bd::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "madanichannelbangla-bd-sd-5618",
+    "name": "Madani Channel Bangla",
+    "slug": "madanichannelbangla-bd-sd-5618",
+    "logoUrl": "https://i.imgur.com/vIJTVia.png",
+    "streamUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MadaniChannelBangla.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "madani-channel-bangla::bd::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sangsadtv-bd-sd-8889",
+    "name": "Sangsad TV",
+    "slug": "sangsadtv-bd-sd-8889",
+    "logoUrl": "https://i.imgur.com/jkouxLg.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "SangsadTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sangsad-tv::bd::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starnews-bd-sd-9418",
+    "name": "Star News",
+    "slug": "starnews-bd-sd-9418",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1280px-Star_News_Bangladesh_Logo.svg.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "StarNews.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-news::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "boishakhitv-bd-sd-1571",
+    "name": "Boishakhi TV",
+    "slug": "boishakhitv-bd-sd-1571",
+    "logoUrl": "https://i.imgur.com/gxL05Y4.png",
+    "streamUrl": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BoishakhiTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "boishakhi-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "durontotv-bd-sd-3179",
+    "name": "Duronto TV",
+    "slug": "durontotv-bd-sd-3179",
+    "logoUrl": "https://i.imgur.com/gXsddRK.png",
+    "streamUrl": "https://tvsen5.aynaott.com/durontotv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "DurontoTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duronto-tv::bd::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen6.aynaott.com/durontotv-live/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ekusheytv-bd-sd-3257",
+    "name": "Ekushey TV",
+    "slug": "ekusheytv-bd-sd-3257",
+    "logoUrl": "https://i.imgur.com/lRpkGHj.png",
+    "streamUrl": "https://tvsen6.aynaott.com/etv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EkusheyTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ekushey-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://ekusheyserver.com/etvlivesn.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tsports-bd-sd-10567",
+    "name": "T Sports",
+    "slug": "tsports-bd-sd-10567",
+    "logoUrl": "https://i.imgur.com/2JzlorD.png",
+    "streamUrl": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TSports.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-sports::bd::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asiantv-bd-sd-927",
+    "name": "Asian TV",
+    "slug": "asiantv-bd-sd-927",
+    "logoUrl": "https://i.imgur.com/k2adSjA.png",
+    "streamUrl": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AsianTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asian-tv::bd::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atnbangla-bd-sd-960",
+    "name": "ATN Bangla",
+    "slug": "atnbangla-bd-sd-960",
+    "logoUrl": "https://i.imgur.com/K1HmMRz.png",
+    "streamUrl": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATNBangla.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atn-bangla::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "banglatv-bd-sd-1128",
+    "name": "Bangla TV",
+    "slug": "banglatv-bd-sd-1128",
+    "logoUrl": "https://i.imgur.com/DLGjTfI.png",
+    "streamUrl": "https://tvsen6.aynaott.com/banglatv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BanglaTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bangla-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bijoytv-bd-sd-1488",
+    "name": "Bijoy TV",
+    "slug": "bijoytv-bd-sd-1488",
+    "logoUrl": "https://i.imgur.com/Faetm0C.png",
+    "streamUrl": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BijoyTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bijoy-tv::bd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btvnews-bd-sd-1673",
+    "name": "BTV News",
+    "slug": "btvnews-bd-sd-1673",
+    "logoUrl": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=3840&q=75",
+    "streamUrl": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTVNews.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv-news::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "globaltelevision-bd-sd-3975",
+    "name": "Global TV",
+    "slug": "globaltelevision-bd-sd-3975",
+    "logoUrl": "https://i.imgur.com/oe0pq1R.png",
+    "streamUrl": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GlobalTelevision.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "global-tv::bd::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mytv-bd-sd-6306",
+    "name": "My TV",
+    "slug": "mytv-bd-sd-6306",
+    "logoUrl": "https://i.imgur.com/475qK5T.png",
+    "streamUrl": "https://tvsen6.aynaott.com/mytv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MyTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "my-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "satv-bd-sd-8939",
+    "name": "SA TV",
+    "slug": "satv-bd-sd-8939",
+    "logoUrl": "https://i.imgur.com/tL9kxxB.png",
+    "streamUrl": "https://tvsen6.aynaott.com/satv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SATV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sa-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "voktatv-bd-sd-11574",
+    "name": "Vokta TV",
+    "slug": "voktatv-bd-sd-11574",
+    "logoUrl": "https://i.imgur.com/szAGBCU.png",
+    "streamUrl": "https://vokta.raytahost.com/live/voktatv/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VoktaTV.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vokta-tv::bd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moviebangla-bd-sd-6096",
+    "name": "Movie Bangla",
+    "slug": "moviebangla-bd-sd-6096",
+    "logoUrl": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
+    "streamUrl": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MovieBangla.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "movie-bangla::bd::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atnmusic-bd-sd-962",
+    "name": "ATN Music",
+    "slug": "atnmusic-bd-sd-962",
+    "logoUrl": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",
+    "streamUrl": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+    "country": {
+      "code": "BD",
+      "name": "Bangladesh"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ATNMusic.bd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atn-music::bd::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

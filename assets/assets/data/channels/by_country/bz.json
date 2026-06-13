@@ -1,0 +1,921 @@
+[
+  {
+    "id": "belizeadventisttelevisionnetwork-bz-sd-1389",
+    "name": "Belize Adventist Television Network",
+    "slug": "belizeadventisttelevisionnetwork-bz-sd-1389",
+    "logoUrl": "https://i.imgur.com/JV2BYDw.png",
+    "streamUrl": "https://streamer1.nexgen.bz/ATN/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BelizeAdventistTelevisionNetwork.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "belize-adventist-television-network::bz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bhatv-bz-sd-1463",
+    "name": "BHA TV",
+    "slug": "bhatv-bz-sd-1463",
+    "logoUrl": "https://i.imgur.com/Nz5zM3H.png",
+    "streamUrl": "https://streamer2.nexgen.bz/15-BHA/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BHATV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bha-tv::bz::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "colorblindtv-bz-sd-2540",
+    "name": "Color Blind TV",
+    "slug": "colorblindtv-bz-sd-2540",
+    "logoUrl": "https://i.imgur.com/vlVZa7N.png",
+    "streamUrl": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ColorBlindTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "color-blind-tv::bz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hitztv-bz-sd-4312",
+    "name": "Hitz TV",
+    "slug": "hitztv-bz-sd-4312",
+    "logoUrl": "https://i.imgur.com/SbZgsDh.png",
+    "streamUrl": "https://streamer2.nexgen.bz/13-HITZ/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HitzTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hitz-tv::bz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maxtv-bz-sd-5769",
+    "name": "Max TV",
+    "slug": "maxtv-bz-sd-5769",
+    "logoUrl": "https://i.imgur.com/TF4snV6.jpeg",
+    "streamUrl": "https://streamer2.nexgen.bz/14-MAX/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MaxTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "max-tv::bz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thenationalchannel10-bz-sd-10203",
+    "name": "The National Channel 10",
+    "slug": "thenationalchannel10-bz-sd-10203",
+    "logoUrl": "https://i.imgur.com/j2SJ9tA.png",
+    "streamUrl": "https://streamer2.nexgen.bz/10-TNC/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TheNationalChannel10.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-national-channel-10::bz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tncsports-bz-sd-10351",
+    "name": "TNC Sports",
+    "slug": "tncsports-bz-sd-10351",
+    "logoUrl": "https://i.imgur.com/jT2VFzA.jpeg",
+    "streamUrl": "https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TNCSports.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tnc-sports::bz::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bbntv-bz-sd-1338",
+    "name": "BBN TV",
+    "slug": "bbntv-bz-sd-1338",
+    "logoUrl": "https://i.imgur.com/Hs988Ku.jpg",
+    "streamUrl": "https://streamer2.nexgen.bz/06-BBN/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BBNTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbn-tv::bz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel7-bz-sd-2254",
+    "name": "Channel 7",
+    "slug": "channel7-bz-sd-2254",
+    "logoUrl": "https://i.imgur.com/bazepkM.png",
+    "streamUrl": "https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel7.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-7::bz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctv3-bz-sd-2702",
+    "name": "CTV3",
+    "slug": "ctv3-bz-sd-2702",
+    "logoUrl": "https://i.imgur.com/8UlIKtS.png",
+    "streamUrl": "https://streamer2.nexgen.bz/03-CTVOW/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CTV3.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctv3::bz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "guadalupemedia-bz-sd-4109",
+    "name": "Guadalupe Media",
+    "slug": "guadalupemedia-bz-sd-4109",
+    "logoUrl": "https://i.imgur.com/EfaOwRE.png",
+    "streamUrl": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GuadalupeMedia.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "guadalupe-media::bz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lovetelevision-bz-sd-5560",
+    "name": "Love Television",
+    "slug": "lovetelevision-bz-sd-5560",
+    "logoUrl": "https://i.imgur.com/nT3Wxr6.png",
+    "streamUrl": "https://streamer2.nexgen.bz/01-LOVE/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LoveTelevision.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-television::bz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pgtv-bz-sd-7256",
+    "name": "PGTV",
+    "slug": "pgtv-bz-sd-7256",
+    "logoUrl": "https://i.imgur.com/GwDoH4C.png",
+    "streamUrl": "https://streamer2.nexgen.bz/16-PGTV/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PGTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pgtv::bz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plustv-bz-sd-7308",
+    "name": "PlusTV",
+    "slug": "plustv-bz-sd-7308",
+    "logoUrl": "https://i.imgur.com/76U55vI.png",
+    "streamUrl": "https://streamer2.nexgen.bz/04-PLUS/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PlusTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plustv::bz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtv-bz-sd-12010",
+    "name": "XTV",
+    "slug": "xtv-bz-sd-12010",
+    "logoUrl": "https://i.imgur.com/zDDM5hP.png",
+    "streamUrl": "https://streamer2.nexgen.bz/02-KREM/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xtv::bz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vibesmedia-bz-sd-11515",
+    "name": "Vibes Media",
+    "slug": "vibesmedia-bz-sd-11515",
+    "logoUrl": "https://i.imgur.com/SQr4IX4.jpeg",
+    "streamUrl": "https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VibesMedia.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vibes-media::bz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wavetv-bz-sd-11659",
+    "name": "WAVE TV",
+    "slug": "wavetv-bz-sd-11659",
+    "logoUrl": "https://i.imgur.com/V8Hfgis.jpg",
+    "streamUrl": "https://streamer2.nexgen.bz/08-WAVE/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "WAVETV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wave-tv::bz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "flexstudioradiotv-bz-sd-3700",
+    "name": "Flex Studio Radio TV",
+    "slug": "flexstudioradiotv-bz-sd-3700",
+    "logoUrl": "https://i.imgur.com/tZjqtxd.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FlexStudioRadioTV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "flex-studio-radio-tv::bz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,4268 @@
+[
+  {
+    "id": "ltv-cl-sd-5584",
+    "name": "LTV",
+    "slug": "ltv-cl-sd-5584",
+    "logoUrl": "https://i.imgur.com/XHs06BX.png",
+    "streamUrl": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ltv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "13c-cl-sd-97",
+    "name": "13C",
+    "slug": "13c-cl-sd-97",
+    "logoUrl": "https://i.imgur.com/Zfe2f5j.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "13C.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "13c::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13-cl-sd-1818",
+    "name": "Canal 13",
+    "slug": "canal13-cl-sd-1818",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
+    "streamUrl": "http://38.250.127.17:9800/play/a067/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chilevision-cl-sd-2334",
+    "name": "ChileVision",
+    "slug": "chilevision-cl-sd-2334",
+    "logoUrl": "https://i.imgur.com/PRijvR0.png",
+    "streamUrl": "http://38.250.127.17:9800/play/a05h/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ChileVision.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chilevision::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "energeekradio-cl-sd-3323",
+    "name": "EnerGeek Radio",
+    "slug": "energeekradio-cl-sd-3323",
+    "logoUrl": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "EnerGeekRadio.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "energeek-radio::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvn-cl-sd-10980",
+    "name": "TVN",
+    "slug": "tvn-cl-sd-10980",
+    "logoUrl": "https://i.imgur.com/3FKZHL4.png",
+    "streamUrl": "http://217.26.190.76:8888/play/a0m6/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVN.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvn::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "13festival-cl-sd-98",
+    "name": "13 Festival",
+    "slug": "13festival-cl-sd-98",
+    "logoUrl": "https://i.imgur.com/Ymk6j5o.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "13Festival.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "13-festival::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "13realities-cl-sd-99",
+    "name": "13 Realities",
+    "slug": "13realities-cl-sd-99",
+    "logoUrl": "https://i.imgur.com/m0SuwMU.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "13Realities.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "13-realities::cl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antofagastatv-cl-sd-789",
+    "name": "Antofagasta TV (ATV)",
+    "slug": "antofagastatv-cl-sd-789",
+    "logoUrl": "https://i.imgur.com/XIQr0fs.png",
+    "streamUrl": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AntofagastaTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antofagasta-tv-atv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "energeekfan-cl-sd-3322",
+    "name": "EnerGeek Fan",
+    "slug": "energeekfan-cl-sd-3322",
+    "logoUrl": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "EnerGeekFAN.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "energeek-fan::cl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanade-cl-sd-4956",
+    "name": "Kanade",
+    "slug": "kanade-cl-sd-4956",
+    "logoUrl": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa",
+      "jpn"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Kanade.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanade::cl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nctv-cl-sd-6429",
+    "name": "NCTV",
+    "slug": "nctv-cl-sd-6429",
+    "logoUrl": "https://i.imgur.com/oo5vDBv.png",
+    "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NCTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nctv::cl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orbitachiletv-cl-hd-7021",
+    "name": "Orbita Chile TV",
+    "slug": "orbitachiletv-cl-hd-7021",
+    "logoUrl": "https://i.imgur.com/gbNh79Z.png",
+    "streamUrl": "https://orbitachiletv.org/hls/0/stream.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "OrbitaChileTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orbita-chile-tv::cl::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pichilemutv-cl-sd-7270",
+    "name": "Pichilemu TV",
+    "slug": "pichilemutv-cl-sd-7270",
+    "logoUrl": "https://i.imgur.com/eaJVCwM.png",
+    "streamUrl": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PichilemuTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pichilemu-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pridetvlatam-cl-hd-7671",
+    "name": "PRIDEtv LATAM",
+    "slug": "pridetvlatam-cl-hd-7671",
+    "logoUrl": "https://neotv.cl/img/pridetv-512.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PRIDEtvLATAM.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pridetv-latam::cl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "surtv-cl-sd-9618",
+    "name": "SUR TV",
+    "slug": "surtv-cl-sd-9618",
+    "logoUrl": "https://i.imgur.com/wDCqoor.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SURTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sur-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suyaitv-cl-sd-9641",
+    "name": "Suyai TV",
+    "slug": "suyaitv-cl-sd-9641",
+    "logoUrl": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
+    "streamUrl": "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SuyaiTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suyai-tv::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televida-cl-sd-10041",
+    "name": "Televida",
+    "slug": "televida-cl-sd-10041",
+    "logoUrl": "https://i.imgur.com/bmNA8hq.png",
+    "streamUrl": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Televida.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televida::cl::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvuct-cl-sd-11224",
+    "name": "TV UCT",
+    "slug": "tvuct-cl-sd-11224",
+    "logoUrl": "https://i.imgur.com/tpI0WQH.png",
+    "streamUrl": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVUCT.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-uct::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvu-cl-sd-11223",
+    "name": "TVU Concepción",
+    "slug": "tvu-cl-sd-11223",
+    "logoUrl": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+    "streamUrl": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVU.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvu-concepci-n::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "visionplustv-cl-sd-11544",
+    "name": "Vision Plus TV",
+    "slug": "visionplustv-cl-sd-11544",
+    "logoUrl": "https://i.imgur.com/mpNcG5F.png",
+    "streamUrl": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VisionPlusTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vision-plus-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal9biobiotelevision-cl-sd-1800",
+    "name": "Canal 9 Bío Bío Televisión",
+    "slug": "canal9biobiotelevision-cl-sd-1800",
+    "logoUrl": "https://i.imgur.com/J2G1WMs.png",
+    "streamUrl": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal9BioBioTelevision.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-9-b-o-b-o-televisi-n::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvchile-cl-sd-10794",
+    "name": "TV Chile",
+    "slug": "tvchile-cl-sd-10794",
+    "logoUrl": "https://i.imgur.com/oYFto0V.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVChile.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-chile::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiosuyaitv-cl-hd-7924",
+    "name": "Radio Suyai TV",
+    "slug": "radiosuyaitv-cl-hd-7924",
+    "logoUrl": "",
+    "streamUrl": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RadioSuyaiTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-suyai-tv::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvr-cl-sd-11065",
+    "name": "TVR",
+    "slug": "tvr-cl-sd-11065",
+    "logoUrl": "https://i.postimg.cc/prDRDZw3/TVR-Logo.png",
+    "streamUrl": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVR.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "uatv-cl-sd-11281",
+    "name": "Universidad Autónoma Temuco (UATV)",
+    "slug": "uatv-cl-sd-11281",
+    "logoUrl": "https://i.imgur.com/BdZGS66.png",
+    "streamUrl": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UATV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "universidad-aut-noma-temuco-uatv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "pucontv-cl-sd-7744",
+    "name": "Pucón TV",
+    "slug": "pucontv-cl-sd-7744",
+    "logoUrl": "https://i.imgur.com/nO4cV3E.png",
+    "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PuconTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "puc-n-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioritmofm-cl-sd-7915",
+    "name": "Radio Ritmo",
+    "slug": "radioritmofm-cl-sd-7915",
+    "logoUrl": "https://i.imgur.com/qU3E0kX.png",
+    "streamUrl": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioRitmoFM.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-ritmo::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2quellon-cl-sd-1753",
+    "name": "TV Quellón",
+    "slug": "canal2quellon-cl-sd-1753",
+    "logoUrl": "https://i.imgur.com/MOwLCwT.png",
+    "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2Quellon.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-quell-n::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvn3-cl-sd-10977",
+    "name": "TVN3",
+    "slug": "tvn3-cl-sd-10977",
+    "logoUrl": "https://i.imgur.com/9LEiQPJ.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVN3.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvn3::cl::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uloslagostv-cl-sd-11295",
+    "name": "U Los Lagos TV",
+    "slug": "uloslagostv-cl-sd-11295",
+    "logoUrl": "https://i.imgur.com/HxUZseV.png",
+    "streamUrl": "http://tv.ulagos.cl/web/live.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ULosLagosTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "u-los-lagos-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalclaro-cl-sd-1877",
+    "name": "Canal Claro",
+    "slug": "canalclaro-cl-sd-1877",
+    "logoUrl": "https://i.imgur.com/Kgjfd3J.png",
+    "streamUrl": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalClaro.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-claro::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalisb-cl-sd-1909",
+    "name": "Canal ISB (Iglesia San Bernardo)",
+    "slug": "canalisb-cl-sd-1909",
+    "logoUrl": "https://i.imgur.com/cQ4ggTw.png",
+    "streamUrl": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalISB.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-isb-iglesia-san-bernardo::cl::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teletraktv-cl-sd-10020",
+    "name": "Teletrak",
+    "slug": "teletraktv-cl-sd-10020",
+    "logoUrl": "https://i.imgur.com/NoJvlig.png",
+    "streamUrl": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TeletrakTV.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teletrak::cl::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ucvtv-cl-sd-11288",
+    "name": "UCV TV",
+    "slug": "ucvtv-cl-sd-11288",
+    "logoUrl": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
+    "streamUrl": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "UCVTV.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ucv-tv::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "utv-cl-sd-11382",
+    "name": "UTV",
+    "slug": "utv-cl-sd-11382",
+    "logoUrl": "https://i.imgur.com/ZJNSpfZ.png",
+    "streamUrl": "https://v2.tustreaming.cl/utv/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UTV.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "utv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "itvpatagonia-cl-sd-4726",
+    "name": "ITV Patagonia",
+    "slug": "itvpatagonia-cl-sd-4726",
+    "logoUrl": "https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png",
+    "streamUrl": "https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ITVPatagonia.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "itv-patagonia::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "13t-cl-sd-101",
+    "name": "13 Teleseries",
+    "slug": "13t-cl-sd-101",
+    "logoUrl": "https://i.imgur.com/csBNi2L.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "13T.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "13-teleseries::cl::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aysentv-cl-sd-1046",
+    "name": "Aysen TV",
+    "slug": "aysentv-cl-sd-1046",
+    "logoUrl": "https://i.imgur.com/DmdBf9S.png",
+    "streamUrl": "https://v1.tustreaming.cl/aysentv/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AysenTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aysen-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chilechannel-cl-sd-2332",
+    "name": "Chile Channel",
+    "slug": "chilechannel-cl-sd-2332",
+    "logoUrl": "https://i.imgur.com/F1it6fh.png",
+    "streamUrl": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "ChileChannel.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chile-channel::cl::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chiloered25-cl-sd-2335",
+    "name": "Chiloe Red 25",
+    "slug": "chiloered25-cl-sd-2335",
+    "logoUrl": "https://i.imgur.com/3tqrImm.png",
+    "streamUrl": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ChiloeRed25.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chiloe-red-25::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "clicktvchile-cl-sd-2473",
+    "name": "Click TV (Coronel)",
+    "slug": "clicktvchile-cl-sd-2473",
+    "logoUrl": "https://i.imgur.com/H0XNbMS.png",
+    "streamUrl": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ClickTVChile.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "click-tv-coronel::cl::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "contivision-cl-sd-2610",
+    "name": "Contivision",
+    "slug": "contivision-cl-sd-2610",
+    "logoUrl": "https://i.imgur.com/Lz2OlKf.png",
+    "streamUrl": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Contivision.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "contivision::cl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancefm-cl-sd-2759",
+    "name": "Dance FM",
+    "slug": "dancefm-cl-sd-2759",
+    "logoUrl": "https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",
+    "streamUrl": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceFM.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dance-fm::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "decimatv-cl-sd-2910",
+    "name": "Décima TV (Ancud)",
+    "slug": "decimatv-cl-sd-2910",
+    "logoUrl": "https://i.imgur.com/eu8hDDc.png",
+    "streamUrl": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DecimaTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "d-cima-tv-ancud::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "girovisual-cl-sd-3965",
+    "name": "Girovisual",
+    "slug": "girovisual-cl-sd-3965",
+    "logoUrl": "https://i.imgur.com/BYBMuhf.png",
+    "streamUrl": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Girovisual.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "girovisual::cl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nublevision-cl-sd-6824",
+    "name": "Nublevision",
+    "slug": "nublevision-cl-sd-6824",
+    "logoUrl": "https://i.imgur.com/nkQyR1X.png",
+    "streamUrl": "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Nublevision.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nublevision::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "puranoticiatv-cl-sd-7759",
+    "name": "Puranoticia TV",
+    "slug": "puranoticiatv-cl-sd-7759",
+    "logoUrl": "https://i.imgur.com/NklUi6Y.png",
+    "streamUrl": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PuranoticiaTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "puranoticia-tv::cl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "retroplus2-cl-sd-8229",
+    "name": "Retro Plus 2",
+    "slug": "retroplus2-cl-sd-8229",
+    "logoUrl": "https://i.imgur.com/5G5kian.png",
+    "streamUrl": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RetroPlus2.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retro-plus-2::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "t13-cl-sd-9704",
+    "name": "T13",
+    "slug": "t13-cl-sd-9704",
+    "logoUrl": "https://i.imgur.com/2Vlkl2x.png",
+    "streamUrl": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "T13.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t13::cl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecanal-cl-sd-9852",
+    "name": "Telecanal",
+    "slug": "telecanal-cl-sd-9852",
+    "logoUrl": "https://i.imgur.com/3g6SbSt.png",
+    "streamUrl": "http://45.232.210.1:8029/play/a00s/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Telecanal.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecanal::cl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "turfmovil-cl-sd-10578",
+    "name": "Turf Movil",
+    "slug": "turfmovil-cl-sd-10578",
+    "logoUrl": "https://i.imgur.com/TwIe4lK.png",
+    "streamUrl": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TurfMovil.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "turf-movil::cl::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvosanvicente-cl-sd-11010",
+    "name": "TVO San Vicente",
+    "slug": "tvosanvicente-cl-sd-11010",
+    "logoUrl": "https://i.imgur.com/PCVWtHd.png",
+    "streamUrl": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVOSanVicente.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvo-san-vicente::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uestv-cl-sd-11291",
+    "name": "UESTV",
+    "slug": "uestv-cl-sd-11291",
+    "logoUrl": "https://i.imgur.com/tAyiNZV.png",
+    "streamUrl": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UESTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uestv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vclassictv-cl-sd-11434",
+    "name": "V Classic TV",
+    "slug": "vclassictv-cl-sd-11434",
+    "logoUrl": "https://i.imgur.com/WIACJSy.png",
+    "streamUrl": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VClassicTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-classic-tv::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vconline-cl-sd-11435",
+    "name": "VC Online",
+    "slug": "vconline-cl-sd-11435",
+    "logoUrl": "https://i.imgur.com/VlKl2VB.png",
+    "streamUrl": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VCOnline.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vc-online::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lared-cl-sd-5365",
+    "name": "La Red",
+    "slug": "lared-cl-sd-5365",
+    "logoUrl": "https://i.imgur.com/nJOVM6e.png",
+    "streamUrl": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LaRed.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-red::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thematelevision-cl-sd-10196",
+    "name": "Thema Televisión (La Serena)",
+    "slug": "thematelevision-cl-sd-10196",
+    "logoUrl": "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png",
+    "streamUrl": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ThemaTelevision.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thema-televisi-n-la-serena::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "vtvvalledeaconcagua-cl-sd-11623",
+    "name": "VTV Valle de Aconcagua",
+    "slug": "vtvvalledeaconcagua-cl-sd-11623",
+    "logoUrl": "https://i.imgur.com/0bFVvKj.png",
+    "streamUrl": "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTVValledeAconcagua.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv-valle-de-aconcagua::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aeradiotv-cl-sd-336",
+    "name": "AE Radio TV",
+    "slug": "aeradiotv-cl-sd-336",
+    "logoUrl": "https://i.imgur.com/425dj2i.jpeg",
+    "streamUrl": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AERadioTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ae-radio-tv::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atacamanoticias-cl-sd-945",
+    "name": "Atacama Noticias",
+    "slug": "atacamanoticias-cl-sd-945",
+    "logoUrl": "https://i.imgur.com/Avx4Ecf.png",
+    "streamUrl": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AtacamaNoticias.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atacama-noticias::cl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atacamatv-cl-sd-946",
+    "name": "Atacama TV (Copiapó)",
+    "slug": "atacamatv-cl-sd-946",
+    "logoUrl": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
+    "streamUrl": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AtacamaTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atacama-tv-copiap::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "buinsomostodos-cl-sd-1681",
+    "name": "Buin Somos Todos",
+    "slug": "buinsomostodos-cl-sd-1681",
+    "logoUrl": "https://i.imgur.com/zzeBtux.png",
+    "streamUrl": "https://bst.buin.cl/0.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BuinSomosTodos.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "buin-somos-todos::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "campustv-cl-sd-1736",
+    "name": "Campus TV (Talca)",
+    "slug": "campustv-cl-sd-1736",
+    "logoUrl": "https://i.imgur.com/LvzLg33.png",
+    "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CampusTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "campus-tv-talca::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cdtv-cl-sd-2172",
+    "name": "CDTV",
+    "slug": "cdtv-cl-sd-2172",
+    "logoUrl": "https://i.imgur.com/pMnk2TH.png",
+    "streamUrl": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "CDTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cdtv::cl::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "energeek-cl-sd-3321",
+    "name": "EnerGeek",
+    "slug": "energeek-cl-sd-3321",
+    "logoUrl": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "EnerGeek.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "energeek::cl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "holvoettv-cl-sd-4353",
+    "name": "Holvoet TV (Copiapó)",
+    "slug": "holvoettv-cl-sd-4353",
+    "logoUrl": "https://i.imgur.com/9JKRO3R.png",
+    "streamUrl": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HolvoetTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "holvoet-tv-copiap::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "santamariatelevision-cl-sd-8915",
+    "name": "Santa María Televisión",
+    "slug": "santamariatelevision-cl-sd-8915",
+    "logoUrl": "https://i.imgur.com/SnbGpoK.png",
+    "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SantaMariaTelevision.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "santa-mar-a-televisi-n::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tevex-cl-sd-10105",
+    "name": "Tevex",
+    "slug": "tevex-cl-sd-10105",
+    "logoUrl": "https://i.imgur.com/FnInQRd.png",
+    "streamUrl": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "Tevex.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tevex::cl::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tne-cl-sd-10352",
+    "name": "TNE",
+    "slug": "tne-cl-sd-10352",
+    "logoUrl": "https://i.imgur.com/8QbvXva.png",
+    "streamUrl": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TNE.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tne::cl::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "solobailalo-cl-sd-9240",
+    "name": "SoloBáilalo",
+    "slug": "solobailalo-cl-sd-9240",
+    "logoUrl": "https://i.imgur.com/SImJE7c.png",
+    "streamUrl": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SoloBailalo.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "solob-ilalo::cl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal1nuble-cl-sd-1744",
+    "name": "Canal 1 Nuble",
+    "slug": "canal1nuble-cl-sd-1744",
+    "logoUrl": "https://i.imgur.com/PGSixH5.png",
+    "streamUrl": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal1Nuble.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-1-nuble::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal74sanantonio-cl-sd-1863",
+    "name": "Canal 74 San Antonio",
+    "slug": "canal74sanantonio-cl-sd-1863",
+    "logoUrl": "https://i.imgur.com/WRYsbjX.png",
+    "streamUrl": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal74SanAntonio.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-74-san-antonio::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "egmchannel-cl-sd-3247",
+    "name": "EGM Channel",
+    "slug": "egmchannel-cl-sd-3247",
+    "logoUrl": "https://i.imgur.com/RXRKPvs.png",
+    "streamUrl": "https://paneltv.online:1936/8186/8186/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EGMChannel.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "egm-channel::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "huascotelevision-cl-sd-4441",
+    "name": "Huasco Television",
+    "slug": "huascotelevision-cl-sd-4441",
+    "logoUrl": "https://i.imgur.com/Fo2DV70.png",
+    "streamUrl": "https://paneltv.online:1936/huasco/huasco/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HuascoTelevision.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "huasco-television::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lapopulartv-cl-sd-5363",
+    "name": "La Popular TV",
+    "slug": "lapopulartv-cl-sd-5363",
+    "logoUrl": "https://i.imgur.com/AWdgMCC.png",
+    "streamUrl": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LaPopularTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-popular-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "latinanetworktv-cl-sd-5383",
+    "name": "Latina Network TV",
+    "slug": "latinanetworktv-cl-sd-5383",
+    "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3782-294x165-FFFFFF.jpg",
+    "streamUrl": "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LatinaNetworkTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "latina-network-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtnatv-cl-sd-6166",
+    "name": "MTNA TV",
+    "slug": "mtnatv-cl-sd-6166",
+    "logoUrl": "https://i.imgur.com/v7SA92F.png",
+    "streamUrl": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MTNATV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtna-tv::cl::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nativatv-cl-sd-6370",
+    "name": "Nativa TV",
+    "slug": "nativatv-cl-sd-6370",
+    "logoUrl": "https://i.imgur.com/0SFE2Fr.png",
+    "streamUrl": "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NativaTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nativa-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvinet-cl-sd-10889",
+    "name": "T-Vinet",
+    "slug": "tvinet-cl-sd-10889",
+    "logoUrl": "https://i.imgur.com/KisHIpA.png",
+    "streamUrl": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVinet.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-vinet::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aricatv-cl-sd-845",
+    "name": "Arica TV",
+    "slug": "aricatv-cl-sd-845",
+    "logoUrl": "https://i.imgur.com/I67WOgT.png",
+    "streamUrl": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AricaTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arica-tv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsenado-cl-sd-11153",
+    "name": "TV Senado",
+    "slug": "tvsenado-cl-sd-11153",
+    "logoUrl": "https://i.imgur.com/CNUZ6ig.png",
+    "streamUrl": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSenado.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-senado::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "huascotelevision-cl-sd-4442",
+    "name": "Huasco Televisión",
+    "slug": "huascotelevision-cl-sd-4442",
+    "logoUrl": "https://i.imgur.com/Fo2DV70.png",
+    "streamUrl": "https://paneltv.online:1936/8024/8024/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HuascoTelevision.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "huasco-televisi-n::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

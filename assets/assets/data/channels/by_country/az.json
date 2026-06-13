@@ -1,0 +1,884 @@
+[
+  {
+    "id": "cbcsport-az-hd-2038",
+    "name": "CBC Sport HD",
+    "slug": "cbcsport-az-hd-2038",
+    "logoUrl": "https://i.imgur.com/3mEdjuq.png",
+    "streamUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "CBCSport.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbc-sport::az::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bakutv-az-sd-1110",
+    "name": "Baku TV",
+    "slug": "bakutv-az-sd-1110",
+    "logoUrl": "https://i.imgur.com/r4FzxSg.png",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BakuTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "baku-tv::az::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rtmp.baku.tv/hls/bakutv.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "naxcivantv-az-sd-6397",
+    "name": "Naxcivan TV",
+    "slug": "naxcivantv-az-sd-6397",
+    "logoUrl": "https://i.imgur.com/8yLFkdE.png",
+    "streamUrl": "https://str2.yodacdn.net/ntv/video.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze",
+      "rus",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NaxcivanTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "naxcivan-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aztv-az-sd-1058",
+    "name": "Az TV",
+    "slug": "aztv-az-sd-1058",
+    "logoUrl": "https://i.imgur.com/snBMMeH.png",
+    "streamUrl": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AzTV.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "az-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8",
+        "https://str.yodacdn.net/azertv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "arb-az-sd-823",
+    "name": "ARB",
+    "slug": "arb-az-sd-823",
+    "logoUrl": "https://i.imgur.com/E97M2OL.png",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ARB.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arb::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arbgunes-az-sd-824",
+    "name": "ARB Gunes",
+    "slug": "arbgunes-az-sd-824",
+    "logoUrl": "https://i.imgur.com/dSg7KUK.png",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ARBGunes.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arb-gunes::az::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ictimaitv-az-sd-4504",
+    "name": "Ictimai TV",
+    "slug": "ictimaitv-az-sd-4504",
+    "logoUrl": "https://i.imgur.com/HzY4VMo.png",
+    "streamUrl": "https://live.itv.az/itv.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IctimaiTV.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ictimai-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medeniyyettv-az-sd-5828",
+    "name": "Medeniyyet TV",
+    "slug": "medeniyyettv-az-sd-5828",
+    "logoUrl": "https://i.imgur.com/PlvaDIa.png",
+    "streamUrl": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MedeniyyetTV.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medeniyyet-tv::az::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "spacetv-az-sd-9330",
+    "name": "Space TV",
+    "slug": "spacetv-az-sd-9330",
+    "logoUrl": "https://i.imgur.com/ufvVQJH.png",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SpaceTV.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "space-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xezertv-az-sd-11952",
+    "name": "Xezer TV",
+    "slug": "xezertv-az-sd-11952",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XezerTV.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xezer-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "anewztv-az-sd-693",
+    "name": "AnewZ",
+    "slug": "anewztv-az-sd-693",
+    "logoUrl": "https://i.imgur.com/Lwgdbuu.png",
+    "streamUrl": "https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AnewZTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anewz::az::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arb24-az-sd-822",
+    "name": "ARB 24",
+    "slug": "arb24-az-sd-822",
+    "logoUrl": "https://i.imgur.com/mtvIFyq.png",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ARB24.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arb-24::az::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kapaztv-az-sd-5006",
+    "name": "Kapaz TV",
+    "slug": "kapaztv-az-sd-5006",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
+    "streamUrl": "http://85.132.78.122:8050/hls/stream/index.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KapazTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kapaz-tv::az::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dunyatv-az-sd-3174",
+    "name": "Dunya TV",
+    "slug": "dunyatv-az-sd-3174",
+    "logoUrl": "",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DunyaTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dunya-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starttv-az-sd-9436",
+    "name": "Kanal S TV",
+    "slug": "starttv-az-sd-9436",
+    "logoUrl": "",
+    "streamUrl": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "StartTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-s-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alvinchanneltv-az-sd-612",
+    "name": "Alvin Channel TV",
+    "slug": "alvinchanneltv-az-sd-612",
+    "logoUrl": "https://i.imgur.com/m6CM7VU.png",
+    "streamUrl": "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlvinChannelTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alvin-channel-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eltv-az-sd-3301",
+    "name": "EL TV",
+    "slug": "eltv-az-sd-3301",
+    "logoUrl": "https://i.imgur.com/tTlokZ2.png",
+    "streamUrl": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ELTV.az",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-tv::az::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

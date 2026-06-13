@@ -1,0 +1,57 @@
+[
+  {
+    "id": "andorratv-ad-sd-677",
+    "name": "Andorra TV",
+    "slug": "andorratv-ad-sd-677",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png",
+    "streamUrl": "https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8",
+    "country": {
+      "code": "AD",
+      "name": "Andorra"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AndorraTV.ad",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "andorra-tv::ad::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8"
+      ]
+    }
+  }
+]

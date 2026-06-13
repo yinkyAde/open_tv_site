@@ -1,0 +1,586 @@
+[
+  {
+    "id": "tv1kg-kg-sd-10600",
+    "name": "TV1 KG",
+    "slug": "tv1kg-kg-sd-10600",
+    "logoUrl": "https://i.imgur.com/Mti9t9C.png",
+    "streamUrl": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV1KG.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv1-kg::kg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manastv-kg-sd-5689",
+    "name": "Manas TV",
+    "slug": "manastv-kg-sd-5689",
+    "logoUrl": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+    "streamUrl": "http://212.42.111.152:8080/hls/manas.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "tur"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "ManasTV.kg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "manas-tv::kg::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oshpirim-kg-sd-7045",
+    "name": "Ош Пирим",
+    "slug": "oshpirim-kg-sd-7045",
+    "logoUrl": "https://i.ibb.co/9VBnyQ1/cropped-white.png",
+    "streamUrl": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OshPirim.kg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::kg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8",
+        "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nexttv-kg-sd-6568",
+    "name": "Next TV",
+    "slug": "nexttv-kg-sd-6568",
+    "logoUrl": "https://i.imgur.com/9MiwdgD.png",
+    "streamUrl": "http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NextTV.kg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "next-tv::kg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv15-kg-sd-10685",
+    "name": "TV15",
+    "slug": "tv15-kg-sd-10685",
+    "logoUrl": "https://i.ibb.co/1byxRtp/tv15.png",
+    "streamUrl": "http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "rus",
+      "kir"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV15.kg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv15::kg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "balastan-kg-sd-1113",
+    "name": "УТРК Баластан",
+    "slug": "balastan-kg-sd-1113",
+    "logoUrl": "https://i.imgur.com/D5ylCiX.png",
+    "streamUrl": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "rus"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Balastan.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::kg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alatoo24-kg-sd-431",
+    "name": "УТРК Ала-Тоо 24",
+    "slug": "alatoo24-kg-sd-431",
+    "logoUrl": "https://i.imgur.com/vBPmUQA.png",
+    "streamUrl": "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "rus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlaToo24.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "24::kg::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "music-kg-sd-6251",
+    "name": "УТРК Музыка",
+    "slug": "music-kg-sd-6251",
+    "logoUrl": "https://www.utrk.kg/img/stream/45.png",
+    "streamUrl": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "rus"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Music.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::kg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sport-kg-sd-9342",
+    "name": "УТРК Спорт",
+    "slug": "sport-kg-sd-9342",
+    "logoUrl": "https://i.imgur.com/ORCu0w0.png",
+    "streamUrl": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "kir",
+      "rus",
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Sport.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::kg::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "312kino-kg-sd-167",
+    "name": "312 Кино",
+    "slug": "312kino-kg-sd-167",
+    "logoUrl": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+    "streamUrl": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "rus",
+      "kir"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "312Kino.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "312::kg::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "312tv-kg-sd-168",
+    "name": "312 ТВ",
+    "slug": "312tv-kg-sd-168",
+    "logoUrl": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+    "streamUrl": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+    "country": {
+      "code": "KG",
+      "name": "Kyrgyzstan"
+    },
+    "languages": [
+      "rus",
+      "kir"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "312TV.kg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "312::kg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

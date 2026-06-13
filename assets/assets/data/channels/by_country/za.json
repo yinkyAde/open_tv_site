@@ -1,0 +1,1511 @@
+[
+  {
+    "id": "wildearth-za-sd-11762",
+    "name": "WildEarth",
+    "slug": "wildearth-za-sd-11762",
+    "logoUrl": "https://i.imgur.com/Vhv5gjN.png",
+    "streamUrl": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "WildEarth.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wildearth::za::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+        "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+        "https://wildearth-xumo.amagi.tv/master.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "hopechannelafrica-za-sd-4389",
+    "name": "Hope Channel Africa",
+    "slug": "hopechannelafrica-za-sd-4389",
+    "logoUrl": "https://i.imgur.com/SFacyYO.png",
+    "streamUrl": "https://jstre.am/live/jsl:i1onRBELcGV.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HopeChannelAfrica.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hope-channel-africa::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ln24sa-za-sd-5514",
+    "name": "LN24SA",
+    "slug": "ln24sa-za-sd-5514",
+    "logoUrl": "https://i.imgur.com/Hg5YTwu.png",
+    "streamUrl": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LN24SA.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ln24sa::za::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbricsafrica-za-sd-10750",
+    "name": "TV BRICS Africa",
+    "slug": "tvbricsafrica-za-sd-10750",
+    "logoUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVBRICSAfrica.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-brics-africa::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afriwoodblockbuster-za-sd-359",
+    "name": "Afriwood Blockbuster",
+    "slug": "afriwoodblockbuster-za-sd-359",
+    "logoUrl": "https://i.imgur.com/aESdqiB.png",
+    "streamUrl": "https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "AfriwoodBlockbuster.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afriwood-blockbuster::za::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cinemahausa-za-sd-2374",
+    "name": "Cinema Hausa",
+    "slug": "cinemahausa-za-sd-2374",
+    "logoUrl": "https://i.imgur.com/uV5cHDW.png",
+    "streamUrl": "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "CinemaHausa.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cinema-hausa::za::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sportsconnect-za-sd-9357",
+    "name": "Sports Connect",
+    "slug": "sportsconnect-za-sd-9357",
+    "logoUrl": "https://i.imgur.com/0sNWg54.png",
+    "streamUrl": "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SportsConnect.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sports-connect::za::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trueafrican-za-sd-10545",
+    "name": "True African",
+    "slug": "trueafrican-za-sd-10545",
+    "logoUrl": "https://i.imgur.com/nDi2br7.png",
+    "streamUrl": "https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TrueAfrican.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "true-african::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crimeandevidence-za-sd-2667",
+    "name": "Crime and Evidence",
+    "slug": "crimeandevidence-za-sd-2667",
+    "logoUrl": "https://i.imgur.com/xwGquEb.png",
+    "streamUrl": "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CrimeandEvidence.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crime-and-evidence::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etvnewssport-za-sd-3447",
+    "name": "ETVN",
+    "slug": "etvnewssport-za-sd-3447",
+    "logoUrl": "https://i.imgur.com/lXMzsNM.png",
+    "streamUrl": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "afr"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "etvNewsSport.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etvn::za::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redemptiontelevisionministry-za-sd-8154",
+    "name": "Redemption TV Ministry",
+    "slug": "redemptiontelevisionministry-za-sd-8154",
+    "logoUrl": "https://i.imgur.com/63SmAby.png",
+    "streamUrl": "https://live.nixsat.com/play/rtm/index.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RedemptionTelevisionMinistry.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "redemption-tv-ministry::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sabc1-za-sd-8816",
+    "name": "SABC 1",
+    "slug": "sabc1-za-sd-8816",
+    "logoUrl": "https://i.imgur.com/G8OXWe4.png",
+    "streamUrl": "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SABC1.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sabc-1::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "boktv-za-sd-1574",
+    "name": "BOKTV",
+    "slug": "boktv-za-sd-1574",
+    "logoUrl": "https://i.imgur.com/mcNjuuO.png",
+    "streamUrl": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng",
+      "afr"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BOKTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "boktv::za::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sabcnews-za-sd-8820",
+    "name": "SABC News",
+    "slug": "sabcnews-za-sd-8820",
+    "logoUrl": "https://i.imgur.com/liLta8j.png",
+    "streamUrl": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SABCNews.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sabc-news::za::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "1kzntv-za-sd-1",
+    "name": "1KZN TV",
+    "slug": "1kzntv-za-sd-1",
+    "logoUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "1KZNTV.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "1kzn-tv::za::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "capetowntv-za-sd-1980",
+    "name": "Cape Town TV",
+    "slug": "capetowntv-za-sd-1980",
+    "logoUrl": "https://i.imgur.com/Y8FK1Kk.png",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CapeTownTV.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cape-town-tv::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sowetotv-za-sd-9314",
+    "name": "Soweto TV",
+    "slug": "sowetotv-za-sd-9314",
+    "logoUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "SowetoTV.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "soweto-tv::za::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tshwanetv-za-sd-10561",
+    "name": "Tshwane TV",
+    "slug": "tshwanetv-za-sd-10561",
+    "logoUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TshwaneTV.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tshwane-tv::za::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "homebasetv-za-sd-4358",
+    "name": "Homebase TV",
+    "slug": "homebasetv-za-sd-4358",
+    "logoUrl": "https://i.imgur.com/MaLNfJG.png",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng",
+      "afr"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HomebaseTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "homebase-tv::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "faithtv-za-sd-3562",
+    "name": "Faith TV",
+    "slug": "faithtv-za-sd-3562",
+    "logoUrl": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FaithTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "faith-tv::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gnftv-za-sd-3992",
+    "name": "GNF TV",
+    "slug": "gnftv-za-sd-3992",
+    "logoUrl": "https://i.imgur.com/vCB7u0e.png",
+    "streamUrl": "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GNFTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gnf-tv::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rovtv-za-sd-8329",
+    "name": "ROV TV",
+    "slug": "rovtv-za-sd-8329",
+    "logoUrl": "https://i.imgur.com/sbeuEYY.png",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ROVTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rov-tv::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trigger-za-sd-10508",
+    "name": "Trigger",
+    "slug": "trigger-za-sd-10508",
+    "logoUrl": "https://i.imgur.com/TrlrcWf.png",
+    "streamUrl": "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Trigger.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trigger::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sabc2-za-sd-8817",
+    "name": "SABC 2",
+    "slug": "sabc2-za-sd-8817",
+    "logoUrl": "https://i.imgur.com/rj6i9sn.png",
+    "streamUrl": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SABC2.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sabc-2::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sabc3-za-sd-8818",
+    "name": "SABC 3",
+    "slug": "sabc3-za-sd-8818",
+    "logoUrl": "https://i.imgur.com/eEhLk1D.png",
+    "streamUrl": "https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SABC3.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sabc-3::za::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rlwtv-za-sd-8281",
+    "name": "RLW TV",
+    "slug": "rlwtv-za-sd-8281",
+    "logoUrl": "https://i.imgur.com/VcwqoEF.png",
+    "streamUrl": "https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RLWTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rlw-tv::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sabclehae-za-sd-8819",
+    "name": "SABC Lehae",
+    "slug": "sabclehae-za-sd-8819",
+    "logoUrl": "https://i.imgur.com/YhdnZHH.png",
+    "streamUrl": "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng",
+      "zul",
+      "ssw",
+      "nbl",
+      "xho",
+      "tso",
+      "ven",
+      "sfs"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SABCLehae.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sabc-lehae::za::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "seraphimtv-za-sd-9009",
+    "name": "Seraphim TV",
+    "slug": "seraphimtv-za-sd-9009",
+    "logoUrl": "https://i.imgur.com/MfeKk07.png",
+    "streamUrl": "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SeraphimTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "seraphim-tv::za::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nuviewtv-za-sd-6841",
+    "name": "NuView TV",
+    "slug": "nuviewtv-za-sd-6841",
+    "logoUrl": "https://i.imgur.com/dYRJ7F0.png",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NuViewTV.za",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nuview-tv::za::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

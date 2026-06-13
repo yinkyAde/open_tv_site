@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "americateve-pr-sd-646",
+    "name": "América TeVé",
+    "slug": "americateve-pr-sd-646",
+    "logoUrl": "https://i.imgur.com/K9o3mLP.png",
+    "streamUrl": "https://live.gideo.video/americateve2/master.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaTeVe.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "am-rica-tev::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "defiancemedia-pr-sd-2916",
+    "name": "DeFiance Media",
+    "slug": "defiancemedia-pr-sd-2916",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "DeFianceMedia.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "defiance-media::pr::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+        "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "teleonce-pr-sd-9954",
+    "name": "TeleOnce",
+    "slug": "teleonce-pr-sd-9954",
+    "logoUrl": "https://i.imgur.com/Crt3P4N.png",
+    "streamUrl": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleOnce.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleonce::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "wiprtv61-pr-hd-11801",
+    "name": "WIPR",
+    "slug": "wiprtv61-pr-hd-11801",
+    "logoUrl": "https://i.imgur.com/MGJaxFO.png",
+    "streamUrl": "https://streamwipr.pr/hls/stream/index.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WIPRTV61.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wipr::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wkaqtv21-pr-hd-11818",
+    "name": "WKAQ-DT1 (Telemundo PR)",
+    "slug": "wkaqtv21-pr-hd-11818",
+    "logoUrl": "https://i.imgur.com/DVASpQj.png",
+    "streamUrl": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WKAQTV21.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wkaq-dt1-telemundo-pr::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "buenatv-pr-sd-1680",
+    "name": "Buena TV",
+    "slug": "buenatv-pr-sd-1680",
+    "logoUrl": "https://i.imgur.com/tsajuxi.png",
+    "streamUrl": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BuenaTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "buena-tv::pr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wwxydt1-pr-sd-11940",
+    "name": "WWXY-DT1 (Boricua TV)",
+    "slug": "wwxydt1-pr-sd-11940",
+    "logoUrl": "https://i.imgur.com/Qs4szHD.png",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WWXYDT1.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wwxy-dt1-boricua-tv::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "catv-pr-sd-2016",
+    "name": "Caribbean Advantage TV",
+    "slug": "catv-pr-sd-2016",
+    "logoUrl": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
+    "streamUrl": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CAtv.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "caribbean-advantage-tv::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zeta93-pr-sd-12175",
+    "name": "WZNT (Zeta 93)",
+    "slug": "zeta93-pr-sd-12175",
+    "logoUrl": "https://i.ibb.co/KzqWLZR/images-57.jpg",
+    "streamUrl": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Zeta93.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wznt-zeta-93::pr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wkaqtv22-pr-hd-11819",
+    "name": "WKAQ-DT2 (Punto 2)",
+    "slug": "wkaqtv22-pr-hd-11819",
+    "logoUrl": "https://i.imgur.com/TL6xy4y.png",
+    "streamUrl": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WKAQTV22.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wkaq-dt2-punto-2::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wruadt1-pr-sd-11902",
+    "name": "WRUA-DT1 (Tiva TV)",
+    "slug": "wruadt1-pr-sd-11902",
+    "logoUrl": "https://i.imgur.com/YtTlZq3.png",
+    "streamUrl": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "WRUADT1.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wrua-dt1-tiva-tv::pr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "dnjtv-pr-sd-3053",
+    "name": "DNJ TV",
+    "slug": "dnjtv-pr-sd-3053",
+    "logoUrl": "https://i.imgur.com/YqTcGJZ.png",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DNJTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dnj-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebntelevision-pr-sd-3208",
+    "name": "EBN Televisión",
+    "slug": "ebntelevision-pr-sd-3208",
+    "logoUrl": "https://i.imgur.com/4OCptwT.png",
+    "streamUrl": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EBNTelevision.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebn-televisi-n::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "farodesantidadtv-pr-sd-3586",
+    "name": "Faro de Santidad TV",
+    "slug": "farodesantidadtv-pr-sd-3586",
+    "logoUrl": "https://i.imgur.com/GoNBFzI.png",
+    "streamUrl": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FarodeSantidadTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "faro-de-santidad-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lax-pr-sd-5403",
+    "name": "La-X",
+    "slug": "lax-pr-sd-5403",
+    "logoUrl": "https://i.imgur.com/i2GnQTq.png",
+    "streamUrl": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaX.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-x::pr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nuevavidafm-pr-sd-6825",
+    "name": "Nueva Vida TV",
+    "slug": "nuevavidafm-pr-sd-6825",
+    "logoUrl": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
+    "streamUrl": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NuevaVidaFM.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nueva-vida-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "paraisotv-pr-sd-7118",
+    "name": "Paraíso TV",
+    "slug": "paraisotv-pr-sd-7118",
+    "logoUrl": "https://i.imgur.com/wE31GIP.jpg",
+    "streamUrl": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ParaisoTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "para-so-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioislatv-pr-sd-7897",
+    "name": "Radio Isla TV",
+    "slug": "radioislatv-pr-sd-7897",
+    "logoUrl": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
+    "streamUrl": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RadioIslaTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-isla-tv::pr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "salvaciontv-pr-sd-8861",
+    "name": "Salvación TV",
+    "slug": "salvaciontv-pr-sd-8861",
+    "logoUrl": "https://i.imgur.com/6HOViG9.png",
+    "streamUrl": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SalvacionTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "salvaci-n-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telenorte-pr-sd-9950",
+    "name": "Telenorte",
+    "slug": "telenorte-pr-sd-9950",
+    "logoUrl": "https://i.imgur.com/LCiYFrh.jpg",
+    "streamUrl": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telenorte.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telenorte::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wecn-pr-sd-11715",
+    "name": "WECN (Único TV)",
+    "slug": "wecn-pr-sd-11715",
+    "logoUrl": "https://i.imgur.com/NYBZBY0.png",
+    "streamUrl": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "WECN.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wecn-nico-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wxwzld231-pr-hd-11945",
+    "name": "WXWZ-LD1 (MásTV Canal 23)",
+    "slug": "wxwzld231-pr-hd-11945",
+    "logoUrl": "https://i.imgur.com/rjmGc9p.png",
+    "streamUrl": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WXWZLD231.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wxwz-ld1-m-stv-canal-23::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wdwl581-pr-hd-11706",
+    "name": "WDWL-DT1 (Teleadoración/Enlace PR)",
+    "slug": "wdwl581-pr-hd-11706",
+    "logoUrl": "https://i.imgur.com/B7lqYZe.png",
+    "streamUrl": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "WDWL581.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wdwl-dt1-teleadoraci-n-enlace-pr::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wwxydt3-pr-sd-11941",
+    "name": "WWXY-DT3 (Maranatha Radio Ministries)",
+    "slug": "wwxydt3-pr-sd-11941",
+    "logoUrl": "https://i.imgur.com/lAhIGsI.png",
+    "streamUrl": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "WWXYDT3.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wwxy-dt3-maranatha-radio-ministries::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "candelitatv-pr-sd-1964",
+    "name": "Candelita TV",
+    "slug": "candelitatv-pr-sd-1964",
+    "logoUrl": "https://i.imgur.com/34BvVDl.png",
+    "streamUrl": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CandelitaTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "candelita-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cdminternacional-pr-sd-2168",
+    "name": "CDM Internacional",
+    "slug": "cdminternacional-pr-sd-2168",
+    "logoUrl": "https://i.imgur.com/N7IneVk.png",
+    "streamUrl": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CDMInternacional.pr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cdm-internacional::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "acsnetwork-pr-sd-309",
+    "name": "ACS Network",
+    "slug": "acsnetwork-pr-sd-309",
+    "logoUrl": "https://i.imgur.com/7aIab2r.png",
+    "streamUrl": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ACSNetwork.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "acs-network::pr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "welu81-pr-hd-11726",
+    "name": "CTNi (Christian Television Network International)",
+    "slug": "welu81-pr-hd-11726",
+    "logoUrl": "https://i.imgur.com/42UdwD0.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "WELU81.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctni-christian-television-network-international::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "familiavisionhd-pr-sd-3571",
+    "name": "Familia Visión HD",
+    "slug": "familiavisionhd-pr-sd-3571",
+    "logoUrl": "https://i.imgur.com/uqTH7m5.jpg",
+    "streamUrl": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FamiliaVisionHD.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "familia-visi-n::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ngradiotv-pr-sd-6575",
+    "name": "NG Radio TV",
+    "slug": "ngradiotv-pr-sd-6575",
+    "logoUrl": "https://i.imgur.com/KsNI3vQ.jpg",
+    "streamUrl": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NGRadioTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ng-radio-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "triunfo969fm-pr-sd-10513",
+    "name": "Triunfo 96.9 FM TV",
+    "slug": "triunfo969fm-pr-sd-10513",
+    "logoUrl": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+    "streamUrl": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Triunfo969FM.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "triunfo-96-9-fm-tv::pr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "notiunotv-pr-sd-6694",
+    "name": "NotiUno TV",
+    "slug": "notiunotv-pr-sd-6694",
+    "logoUrl": "https://i.imgur.com/qNdywBT.png",
+    "streamUrl": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NotiUnoTV.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "notiuno-tv::pr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "purapalabra-pr-sd-7760",
+    "name": "Pura Palabra",
+    "slug": "purapalabra-pr-sd-7760",
+    "logoUrl": "https://i.imgur.com/nl5vyIw.png",
+    "streamUrl": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
+    "country": {
+      "code": "PR",
+      "name": "Puerto Rico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PuraPalabra.pr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pura-palabra::pr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

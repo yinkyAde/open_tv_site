@@ -1,0 +1,803 @@
+[
+  {
+    "id": "inwonder-nl-sd-4638",
+    "name": "InWonder",
+    "slug": "inwonder-nl-sd-4638",
+    "logoUrl": "https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png",
+    "streamUrl": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "InWonder.nl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "inwonder::nl::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8",
+        "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8",
+        "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
+        "https://inwonder-samsung-canada.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "wonder-uk-sd-11856",
+    "name": "Wonder",
+    "slug": "wonder-uk-sd-11856",
+    "logoUrl": "https://i.imgur.com/LquGNbh.png",
+    "streamUrl": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "Wonder.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wonder::uk::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bfmtechco-fr-sd-1449",
+    "name": "BFM Tech & Co",
+    "slug": "bfmtechco-fr-sd-1449",
+    "logoUrl": "https://i.imgur.com/FQ0FpXV.png",
+    "streamUrl": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "BFMTechCo.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bfm-tech-co::fr::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canthotv2-vn-sd-1969",
+    "name": "Cần Thơ TV2",
+    "slug": "canthotv2-vn-sd-1969",
+    "logoUrl": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png",
+    "streamUrl": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "CanThoTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-n-th-tv2::vn::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ilmvatabiat-tj-sd-4528",
+    "name": "Ilm va Tabiat",
+    "slug": "ilmvatabiat-tj-sd-4528",
+    "logoUrl": "https://i.imgur.com/MDULX7X.png",
+    "streamUrl": "https://live.teleradiocom.tj/15/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "IlmvaTabiat.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ilm-va-tabiat::tj::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cosmostv-py-sd-2632",
+    "name": "Cosmos TV",
+    "slug": "cosmostv-py-sd-2632",
+    "logoUrl": "https://i.imgur.com/dAMyExY.jpg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "CosmosTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cosmos-tv::py::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ekotv-ua-sd-3255",
+    "name": "Eko TV",
+    "slug": "ekotv-ua-sd-3255",
+    "logoUrl": "https://i.imgur.com/WovATGb.png",
+    "streamUrl": "https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "EkoTV.ua",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eko-tv::ua::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medibiztv-in-sd-5838",
+    "name": "MediBizTV",
+    "slug": "medibiztv-in-sd-5838",
+    "logoUrl": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
+    "streamUrl": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "MediBizTV.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medibiztv::in::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "exctv-ve-sd-3515",
+    "name": "Explosión Creativa",
+    "slug": "exctv-ve-sd-3515",
+    "logoUrl": "https://i.imgur.com/Znd1Ml9.png",
+    "streamUrl": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "EXCTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "explosi-n-creativa::ve::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvscience-us-uk-7491",
+    "name": "Pluto TV Science",
+    "slug": "plutotvscience-us-uk-7491",
+    "logoUrl": "https://i.imgur.com/uhunRoU.png",
+    "streamUrl": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "PlutoTVScience.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-science::us::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
+        "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvspace-us-germany-7518",
+    "name": "Pluto TV Space",
+    "slug": "plutotvspace-us-germany-7518",
+    "logoUrl": "https://i.imgur.com/hQwS3ui.png",
+    "streamUrl": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "PlutoTVSpace.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-space::us::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8",
+        "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "smithsonianchannelselects-us-sd-9213",
+    "name": "Smithsonian Channel Selects",
+    "slug": "smithsonianchannelselects-us-sd-9213",
+    "logoUrl": "https://i.imgur.com/Kt5j8Vr.png",
+    "streamUrl": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "SmithsonianChannelSelects.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "smithsonian-channel-selects::us::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
+        "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "scifi-ru-sd-8967",
+    "name": ".sci-fi",
+    "slug": "scifi-ru-sd-8967",
+    "logoUrl": "https://i.imgur.com/nSSUHcg.png",
+    "streamUrl": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "scifi.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sci-fi::ru::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "smithsonianchannelselects-us-sd-9212",
+    "name": "Smithsonian Channel Pluto TV",
+    "slug": "smithsonianchannelselects-us-sd-9212",
+    "logoUrl": "https://i.imgur.com/Kt5j8Vr.png",
+    "streamUrl": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "SmithsonianChannelSelects.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "smithsonian-channel-pluto-tv::us::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chuzhouscienceeducationchannel-cn-sd-2355",
+    "name": "滁州市广播电视台 科教频道",
+    "slug": "chuzhouscienceeducationchannel-cn-sd-2355",
+    "logoUrl": "https://i.imgur.com/9JfZJRv.png",
+    "streamUrl": "http://live.cztv.cc:85/live/sjpd.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "ChuzhouScienceEducationChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://183.167.193.45:1935/live/cztvkj/playlist.m3u8",
+        "http://livealone302.iqilu.com/iqilu/nkpd.m3u8"
+      ]
+    }
+  }
+]

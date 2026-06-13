@@ -1,0 +1,2471 @@
+[
+  {
+    "id": "aliraqia-iq-sd-477",
+    "name": "Al Iraqia",
+    "slug": "aliraqia-iq-sd-477",
+    "logoUrl": "https://i.imgur.com/8qQouTW.jpg",
+    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlIraqia.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-iraqia::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alsharqiya-iq-sd-591",
+    "name": "Al-Sharqiya",
+    "slug": "alsharqiya-iq-sd-591",
+    "logoUrl": "https://i.imgur.com/mJIG5IV.png",
+    "streamUrl": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlSharqiya.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-sharqiya::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alsharqiyanews-iq-sd-593",
+    "name": "Al-Sharqiya News",
+    "slug": "alsharqiyanews-iq-sd-593",
+    "logoUrl": "https://i.imgur.com/PeAcXB9.png",
+    "streamUrl": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlSharqiyaNews.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-sharqiya-news::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dijlahtv-iq-sd-2993",
+    "name": "Dijlah TV",
+    "slug": "dijlahtv-iq-sd-2993",
+    "logoUrl": "https://i.imgur.com/kyzH3G5.png",
+    "streamUrl": "https://ghaasiflu.online/Dijlah/index.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DijlahTV.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dijlah-tv::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdsat-iq-sd-5277",
+    "name": "Kurdsat",
+    "slug": "kurdsat-iq-sd-5277",
+    "logoUrl": "https://i.imgur.com/UAbSwYA.png",
+    "streamUrl": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur",
+      "ara"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Kurdsat.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdsat::iq::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbciraq-iq-sd-5793",
+    "name": "MBC Iraq",
+    "slug": "mbciraq-iq-sd-5793",
+    "logoUrl": "https://i.imgur.com/D0LxiPE.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MBCIraq.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-iraq::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rudawtv-iq-sd-8523",
+    "name": "Rudaw TV",
+    "slug": "rudawtv-iq-sd-8523",
+    "logoUrl": "https://i.imgur.com/Zo3IWOn.png",
+    "streamUrl": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RudawTV.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rudaw-tv::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "utv-iq-sd-11384",
+    "name": "UTV",
+    "slug": "utv-iq-sd-11384",
+    "logoUrl": "https://i.imgur.com/9qFHjnu.png",
+    "streamUrl": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UTV.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "utv::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afarinbaxcha-iq-sd-337",
+    "name": "Afarin Baxcha",
+    "slug": "afarinbaxcha-iq-sd-337",
+    "logoUrl": "https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png",
+    "streamUrl": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "AfarinBaxcha.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afarin-baxcha::iq::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alaimmatv-iq-sd-409",
+    "name": "Al-Aimma TV",
+    "slug": "alaimmatv-iq-sd-409",
+    "logoUrl": "https://alaimma.tv/alaimma-logo.png",
+    "streamUrl": "https://alaimma.tv/live/index.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlAimmaTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-aimma-tv::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alabbassiatv-iq-hd-407",
+    "name": "Alabbassia TV",
+    "slug": "alabbassiatv-iq-hd-407",
+    "logoUrl": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
+    "streamUrl": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlabbassiaTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alabbassia-tv::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alquran-iq-sd-568",
+    "name": "Alquran",
+    "slug": "alquran-iq-sd-568",
+    "logoUrl": "https://i.imgur.com/lqVwrAF.png",
+    "streamUrl": "https://ktvlive.online/stream/hls/ch1.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Alquran.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alquran::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "avartv-iq-hd-1021",
+    "name": "Avar TV",
+    "slug": "avartv-iq-hd-1021",
+    "logoUrl": "https://i.imgur.com/JazFBkW.jpeg",
+    "streamUrl": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AvarTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "avar-tv::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "emantv-iq-hd-3309",
+    "name": "EmanTv",
+    "slug": "emantv-iq-hd-3309",
+    "logoUrl": "https://i.imgur.com/QmgaPSi.png",
+    "streamUrl": "https://avr.host247.net/live/emantv/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "EmanTv.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "emantv::iq::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "farmodatv-iq-hd-3585",
+    "name": "FarmodaTV",
+    "slug": "farmodatv-iq-hd-3585",
+    "logoUrl": "https://i.imgur.com/x4KCQlH.png",
+    "streamUrl": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FarmodaTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "farmodatv::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "inews-iq-sd-4584",
+    "name": "iNEWS TV",
+    "slug": "inews-iq-sd-4584",
+    "logoUrl": "https://i.imgur.com/9lOuzHQ.png",
+    "streamUrl": "https://live.i-news.tv/hls/stream.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "INews.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "inews-tv::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdmaxsorani-iq-sd-5276",
+    "name": "KurdMax Sorani",
+    "slug": "kurdmaxsorani-iq-sd-5276",
+    "logoUrl": "https://i.imgur.com/JkK8HG8.png",
+    "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ckb"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "KurdMaxSorani.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdmax-sorani::iq::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdsatnews-iq-sd-5278",
+    "name": "Kurdsat News",
+    "slug": "kurdsatnews-iq-sd-5278",
+    "logoUrl": "https://i.imgur.com/F3XRwkt.png",
+    "streamUrl": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur",
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KurdsatNews.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdsat-news::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "marjaeyattvarabic-iq-sd-5713",
+    "name": "Marjaeyat TV Arabic",
+    "slug": "marjaeyattvarabic-iq-sd-5713",
+    "logoUrl": "https://i.imgur.com/LsYYkUI.png",
+    "streamUrl": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MarjaeyatTVArabic.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "marjaeyat-tv-arabic::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "marjaeyattvenglish-iq-sd-5714",
+    "name": "Marjaeyat TV English",
+    "slug": "marjaeyattvenglish-iq-sd-5714",
+    "logoUrl": "https://i.imgur.com/Dvf61Jp.png",
+    "streamUrl": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MarjaeyatTVEnglish.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "marjaeyat-tv-english::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mixkurdy-iq-hd-5994",
+    "name": "Mixkurdy",
+    "slug": "mixkurdy-iq-hd-5994",
+    "logoUrl": "https://i.imgur.com/WHeH5i7.png",
+    "streamUrl": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "Mixkurdy.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mixkurdy::iq::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shamstv-iq-sd-9045",
+    "name": "Shams TV",
+    "slug": "shamstv-iq-sd-9045",
+    "logoUrl": "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
+    "streamUrl": "https://stream.shams.tv/hls/stream.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ShamsTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shams-tv::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "waartv-iq-sd-11633",
+    "name": "Waar TV",
+    "slug": "waartv-iq-sd-11633",
+    "logoUrl": "https://i.imgur.com/rK0y02d.png",
+    "streamUrl": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WaarTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "waar-tv::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alrasheedtv-iq-sd-574",
+    "name": "Al Rasheed TV",
+    "slug": "alrasheedtv-iq-sd-574",
+    "logoUrl": "https://i.imgur.com/ltyRjPK.png",
+    "streamUrl": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlRasheedTV.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-rasheed-tv::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imamhusseintv2-iq-sd-4535",
+    "name": "Imam Hussein TV 2",
+    "slug": "imamhusseintv2-iq-sd-4535",
+    "logoUrl": "https://i.imgur.com/IXVSPdJ.png",
+    "streamUrl": "https://live.imamhossaintv.com/live/ih2.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ImamHusseinTV2.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imam-hussein-tv-2::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aljawadaintv-iq-sd-485",
+    "name": "Al-Jawadain TV",
+    "slug": "aljawadaintv-iq-sd-485",
+    "logoUrl": "https://i.imgur.com/Eo3UYCK.png",
+    "streamUrl": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlJawadainTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-jawadain-tv::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imamhusseintv1-iq-sd-4534",
+    "name": "Imam Hussein TV 1",
+    "slug": "imamhusseintv1-iq-sd-4534",
+    "logoUrl": "https://i.imgur.com/pDdUvz7.png",
+    "streamUrl": "https://live.imamhossaintv.com/live/ih1.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ImamHusseinTV1.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imam-hussein-tv-1::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imamhusseintv3-iq-sd-4536",
+    "name": "Imam Hussein TV 3",
+    "slug": "imamhusseintv3-iq-sd-4536",
+    "logoUrl": "https://i.imgur.com/emQRHQZ.png",
+    "streamUrl": "https://live.imamhossaintv.com/live/ih3.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ImamHusseinTV3.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imam-hussein-tv-3::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imamhusseintv4-iq-sd-4537",
+    "name": "Imam Hussein TV 4",
+    "slug": "imamhusseintv4-iq-sd-4537",
+    "logoUrl": "https://i.imgur.com/0UYcylY.png",
+    "streamUrl": "https://live.imamhossaintv.com/live/ih4.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ImamHusseinTV4.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imam-hussein-tv-4::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "anwartv2-iq-sd-791",
+    "name": "Anwar TV2",
+    "slug": "anwartv2-iq-sd-791",
+    "logoUrl": "https://i.imgur.com/yHZXPcn.png",
+    "streamUrl": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AnwarTV2.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anwar-tv2::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdistan24-iq-sd-5272",
+    "name": "Kurdistan 24",
+    "slug": "kurdistan24-iq-sd-5272",
+    "logoUrl": "https://i.imgur.com/9QWs2ms.png",
+    "streamUrl": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Kurdistan24.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdistan-24::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abnsat-iq-sd-271",
+    "name": "ABNsat",
+    "slug": "abnsat-iq-sd-271",
+    "logoUrl": "https://i.imgur.com/WhPlJzh.jpeg",
+    "streamUrl": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ABNsat.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abnsat::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aliraqiakurdish-iq-hd-478",
+    "name": "Al Iraqia Kurdish",
+    "slug": "aliraqiakurdish-iq-hd-478",
+    "logoUrl": "https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png",
+    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlIraqiaKurdish.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-iraqia-kurdish::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aliraqianews-iq-sd-479",
+    "name": "Al Iraqia News",
+    "slug": "aliraqianews-iq-sd-479",
+    "logoUrl": "https://i.imgur.com/feQTXeZ.jpg",
+    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlIraqiaNews.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-iraqia-news::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aliraqiasport-iq-sd-480",
+    "name": "Al Iraqia Sport",
+    "slug": "aliraqiasport-iq-sd-480",
+    "logoUrl": "https://i.imgur.com/DrrlxTO.png",
+    "streamUrl": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "AlIraqiaSport.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-iraqia-sport::iq::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beitolabbastvchannel-iq-sd-1374",
+    "name": "BeitolAbbas TV Channel",
+    "slug": "beitolabbastvchannel-iq-sd-1374",
+    "logoUrl": "https://i.imgur.com/s8PfUQy.png",
+    "streamUrl": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BeitolAbbasTVChannel.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beitolabbas-tv-channel::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel8-iq-sd-2259",
+    "name": "Channel 8 Kurdish",
+    "slug": "channel8-iq-sd-2259",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png",
+    "streamUrl": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur",
+      "ara",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Channel8.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-8-kurdish::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdmaxmusic-iq-sd-5274",
+    "name": "KurdMax Music",
+    "slug": "kurdmaxmusic-iq-sd-5274",
+    "logoUrl": "https://i.imgur.com/otnIdEu.png",
+    "streamUrl": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "KurdMaxMusic.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdmax-music::iq::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdmaxshow-iq-sd-5275",
+    "name": "KurdMax Show",
+    "slug": "kurdmaxshow-iq-sd-5275",
+    "logoUrl": "https://i.imgur.com/XTmyGmL.png",
+    "streamUrl": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "KurdMaxShow.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdmax-show::iq::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nubarplusplus-iq-sd-6823",
+    "name": "NUBAR Plus TV",
+    "slug": "nubarplusplus-iq-sd-6823",
+    "logoUrl": "https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg",
+    "streamUrl": "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NUBARPlusPlus.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nubar-plus-tv::iq::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdistantv-iq-sd-5273",
+    "name": "Kurdistan TV",
+    "slug": "kurdistantv-iq-sd-5273",
+    "logoUrl": "https://i.imgur.com/mjQptpc.png",
+    "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur",
+      "ara",
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KurdistanTV.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurdistan-tv::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "payamtv-iq-sd-7151",
+    "name": "Payam TV",
+    "slug": "payamtv-iq-sd-7151",
+    "logoUrl": "https://i.imgur.com/qySEibb.png",
+    "streamUrl": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PayamTV.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "payam-tv::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afarintv-iq-sd-338",
+    "name": "Afarin TV",
+    "slug": "afarintv-iq-sd-338",
+    "logoUrl": "https://i.postimg.cc/QCRGLPBS/Afarin-Kids-200.png",
+    "streamUrl": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "AfarinTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afarin-tv::iq::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrttv-iq-sd-6765",
+    "name": "NRT TV",
+    "slug": "nrttv-iq-sd-6765",
+    "logoUrl": "https://i.imgur.com/uGKGtbW.png",
+    "streamUrl": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NRTTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrt-tv::iq::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zagrostv-iq-sd-12091",
+    "name": "Zagros",
+    "slug": "zagrostv-iq-sd-12091",
+    "logoUrl": "https://i.imgur.com/9Mspf32.png",
+    "streamUrl": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZagrosTV.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zagros::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iraqfuture-iq-sd-4667",
+    "name": "Iraq Future",
+    "slug": "iraqfuture-iq-sd-4667",
+    "logoUrl": "https://i.imgur.com/Z7woTe5.png",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IraqFuture.iq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iraq-future::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kurdchannel-iq-sd-5271",
+    "name": "Kurd Channel",
+    "slug": "kurdchannel-iq-sd-5271",
+    "logoUrl": "https://i.imgur.com/xPwzad9.png",
+    "streamUrl": "https://kurdchhls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KurdChannel.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kurd-channel::iq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "marjaeyattvpersian-iq-sd-5715",
+    "name": "Marjaeyat TV Persian",
+    "slug": "marjaeyattvpersian-iq-sd-5715",
+    "logoUrl": "https://i.imgur.com/fCj05f0.png",
+    "streamUrl": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "country": {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MarjaeyatTVPersian.iq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "marjaeyat-tv-persian::iq::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "superyachttv-mc-sd-9604",
+    "name": "Superyacht TV",
+    "slug": "superyachttv-mc-sd-9604",
+    "logoUrl": "https://i.imgur.com/cgjgjE1.png",
+    "streamUrl": "https://sy.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "MC",
+      "name": "Monaco"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "SuperyachtTV.mc",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "superyacht-tv::mc::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmonaco-mc-sd-10968",
+    "name": "TV Monaco",
+    "slug": "tvmonaco-mc-sd-10968",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TVMonaco_2023.svg",
+    "streamUrl": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+    "country": {
+      "code": "MC",
+      "name": "Monaco"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMonaco.mc",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-monaco::mc::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "monacoinfo-mc-sd-6051",
+    "name": "Monaco Info",
+    "slug": "monacoinfo-mc-sd-6051",
+    "logoUrl": "https://i.imgur.com/dIrKYH7.png",
+    "streamUrl": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+    "country": {
+      "code": "MC",
+      "name": "Monaco"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MonacoInfo.mc",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "monaco-info::mc::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

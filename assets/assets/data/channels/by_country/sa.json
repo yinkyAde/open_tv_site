@@ -1,0 +1,3179 @@
+[
+  {
+    "id": "alarabiyaenglish-sa-sd-422",
+    "name": "Al Arabiya English",
+    "slug": "alarabiyaenglish-sa-sd-422",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png",
+    "streamUrl": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlArabiyaEnglish.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-arabiya-english::sa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alekhbariya-sa-sd-446",
+    "name": "Al Ekhbariya",
+    "slug": "alekhbariya-sa-sd-446",
+    "logoUrl": "https://i.imgur.com/WcRlHQm.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/4/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlEkhbariya.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-ekhbariya::sa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alquranalkareemtv-sa-sd-569",
+    "name": "Al Quran Al Kareem TV",
+    "slug": "alquranalkareemtv-sa-sd-569",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlQuranAlKareemTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-quran-al-kareem-tv::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
+        "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alriyadhradio-sa-sd-580",
+    "name": "Al Riyadh Radio",
+    "slug": "alriyadhradio-sa-sd-580",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/37/1a/fullhd_399eddcc4305f34f41c7fab24c3518fab5d55d97.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/12/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlRiyadhRadio.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-riyadh-radio::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alsaudiya-sa-sd-585",
+    "name": "Al Saudiya",
+    "slug": "alsaudiya-sa-sd-585",
+    "logoUrl": "https://i.imgur.com/GRQTndk.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/2/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlSaudiya.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-saudiya::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alsaudiyaalaan-sa-sd-588",
+    "name": "Al Saudiya Alaan",
+    "slug": "alsaudiyaalaan-sa-sd-588",
+    "logoUrl": "https://i.imgur.com/sEOjApe.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/17/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlSaudiyaAlaan.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-saudiya-alaan::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alsunnahalnabawiyahtv-sa-sd-595",
+    "name": "Al Sunnah Al Nabawiyah TV",
+    "slug": "alsunnahalnabawiyahtv-sa-sd-595",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/6/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlSunnahAlNabawiyahTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-sunnah-al-nabawiyah-tv::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
+        "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alkhuzamaradio-sa-sd-534",
+    "name": "Alkhuzama Radio",
+    "slug": "alkhuzamaradio-sa-sd-534",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b",
+    "streamUrl": "https://aloula-redirect.vercel.app/18/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlkhuzamaRadio.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alkhuzama-radio::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asharqnews-sa-sd-908",
+    "name": "Asharq News",
+    "slug": "asharqnews-sa-sd-908",
+    "logoUrl": "https://i.imgur.com/bqRC3sl.png",
+    "streamUrl": "https://live-news.asharq.com/asharq.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AsharqNews.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-news::sa::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "jeddahradio-sa-sd-4783",
+    "name": "Jeddah Radio",
+    "slug": "jeddahradio-sa-sd-4783",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/15/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JeddahRadio.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jeddah-radio::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "panoramafm-sa-sd-7112",
+    "name": "Panorama FM",
+    "slug": "panoramafm-sa-sd-7112",
+    "logoUrl": "https://i.imgur.com/JkDD3bK.png",
+    "streamUrl": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "PanoramaFM.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "panorama-fm::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sbc-sa-sd-8946",
+    "name": "SBC",
+    "slug": "sbc-sa-sd-8946",
+    "logoUrl": "https://i.imgur.com/9JSQglj.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/1/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SBC.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sbc::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "thikrayattv-sa-sd-10255",
+    "name": "Thikrayat TV",
+    "slug": "thikrayattv-sa-sd-10255",
+    "logoUrl": "https://i.imgur.com/AKa1X9d.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/3/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ThikrayatTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thikrayat-tv::sa::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "abdulmajeedabdullah-sa-sd-259",
+    "name": "Abdulmajeed Abdullah",
+    "slug": "abdulmajeedabdullah-sa-sd-259",
+    "logoUrl": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
+    "streamUrl": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AbdulmajeedAbdullah.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abdulmajeed-abdullah::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aflam-sa-sd-344",
+    "name": "Aflam",
+    "slug": "aflam-sa-sd-344",
+    "logoUrl": "https://i.imgur.com/cTLj7Yt.png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "arz",
+      "ara"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Aflam.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aflam::sa::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alhadath-sa-sd-464",
+    "name": "Al Hadath",
+    "slug": "alhadath-sa-sd-464",
+    "logoUrl": "https://i.imgur.com/De4SEWE.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlHadath.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-hadath::sa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "asharqdiscovery-sa-sd-906",
+    "name": "Asharq Discovery",
+    "slug": "asharqdiscovery-sa-sd-906",
+    "logoUrl": "https://i.imgur.com/Czxi7yk.png",
+    "streamUrl": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AsharqDiscovery.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-discovery::sa::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "asharqdocumentary-sa-sd-907",
+    "name": "Asharq Documentary",
+    "slug": "asharqdocumentary-sa-sd-907",
+    "logoUrl": "https://i.imgur.com/v6VsFEt.png",
+    "streamUrl": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AsharqDocumentary.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-documentary::sa::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "babalhara-sa-sd-1078",
+    "name": "Bab Al Hara",
+    "slug": "babalhara-sa-sd-1078",
+    "logoUrl": "https://i.imgur.com/QtlnZbq.png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "BabAlHara.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bab-al-hara::sa::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bigtimeplus-sa-sd-1483",
+    "name": "Big Time Plus",
+    "slug": "bigtimeplus-sa-sd-1483",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BigTimePlus.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "big-time-plus::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fairuz-sa-hd-3561",
+    "name": "Fairuz",
+    "slug": "fairuz-sa-hd-3561",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Fairuz.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fairuz::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iqraaafricaeurope-sa-sd-4653",
+    "name": "Iqraa Africa & Europe",
+    "slug": "iqraaafricaeurope-sa-sd-4653",
+    "logoUrl": "https://i.imgur.com/nUlZvSe.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "fra",
+      "eng",
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IqraaAfricaEurope.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iqraa-africa-europe::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ksasports1-sa-sd-5218",
+    "name": "KSA Sports 1",
+    "slug": "ksasports1-sa-sd-5218",
+    "logoUrl": "https://i.imgur.com/ONKNOAp.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/9/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "KSASports1.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ksa-sports-1::sa::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mplus-sa-sd-6118",
+    "name": "M+",
+    "slug": "mplus-sa-sd-6118",
+    "logoUrl": "https://i.imgur.com/Ho8N310.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=99_BajuDhjC",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MPlus.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "majidalmohandis-sa-sd-5661",
+    "name": "Majid Al Mohandis",
+    "slug": "majidalmohandis-sa-sd-5661",
+    "logoUrl": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MajidAlMohandis.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "majid-al-mohandis::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maraya-sa-hd-5706",
+    "name": "Maraya",
+    "slug": "maraya-sa-hd-5706",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "Maraya.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maraya::sa::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbcmasrdrama-sa-sd-5796",
+    "name": "MBC Masr Drama",
+    "slug": "mbcmasrdrama-sa-sd-5796",
+    "logoUrl": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "MBCMasrDrama.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-masr-drama::sa::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbcplusdrama-sa-sd-5803",
+    "name": "MBC+ Drama",
+    "slug": "mbcplusdrama-sa-sd-5803",
+    "logoUrl": "https://i.imgur.com/lxWdjXG.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MBCPlusDrama.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-drama::sa::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mohammedabdo-sa-sd-6041",
+    "name": "Mohammed Abdo",
+    "slug": "mohammedabdo-sa-sd-6041",
+    "logoUrl": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
+    "streamUrl": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MohammedAbdo.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mohammed-abdo::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moviesaction-sa-sd-6102",
+    "name": "Movies Action",
+    "slug": "moviesaction-sa-sd-6102",
+    "logoUrl": "https://i.imgur.com/NIVhISa.png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MoviesAction.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "movies-action::sa::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moviesthriller-sa-sd-6115",
+    "name": "Movies Thriller",
+    "slug": "moviesthriller-sa-sd-6115",
+    "logoUrl": "https://i.imgur.com/JWihdcl.png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MoviesThriller.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "movies-thriller::sa::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rabehsaqer-sa-hd-7843",
+    "name": "Rabeh Saqer",
+    "slug": "rabehsaqer-sa-hd-7843",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+    "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RabehSaqer.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rabeh-saqer::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rashidalmajed-sa-sd-8064",
+    "name": "Rashid AlMajed",
+    "slug": "rashidalmajed-sa-sd-8064",
+    "logoUrl": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
+    "streamUrl": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RashidAlMajed.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rashid-almajed::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanaaflamplus-sa-sd-8316",
+    "name": "Rotana Aflam+",
+    "slug": "rotanaaflamplus-sa-sd-8316",
+    "logoUrl": "https://i.imgur.com/DLDfFpu.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=sU-keyuh83m",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RotanaAflamPlus.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-aflam::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "saudithaqafiyatv-sa-sd-8942",
+    "name": "Saudi Thaqafiya TV",
+    "slug": "saudithaqafiyatv-sa-sd-8942",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SaudiThaqafiyaTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "saudi-thaqafiya-tv::sa::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tarab-sa-sd-9748",
+    "name": "Tarab",
+    "slug": "tarab-sa-sd-9748",
+    "logoUrl": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+    "streamUrl": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Tarab.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tarab::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atfalmawahebtv-sa-sd-951",
+    "name": "Atfal & Mawaheb TV",
+    "slug": "atfalmawahebtv-sa-sd-951",
+    "logoUrl": "https://i.imgur.com/Y2BqP9m.png",
+    "streamUrl": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "AtfalMawahebTV.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atfal-mawaheb-tv::sa::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mbcmood-sa-hd-5798",
+    "name": "MBC Mood",
+    "slug": "mbcmood-sa-hd-5798",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MBCMood.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-mood::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nidaealislamradio-sa-sd-6620",
+    "name": "Nidae AlIslam Radio",
+    "slug": "nidaealislamradio-sa-sd-6620",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/14/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NidaeAlIslamRadio.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nidae-alislam-radio::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "saudiaradio-sa-sd-8940",
+    "name": "Saudia Radio",
+    "slug": "saudiaradio-sa-sd-8940",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/11/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SaudiaRadio.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "saudia-radio::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asharqradio-sa-sd-912",
+    "name": "Asharq Radio",
+    "slug": "asharqradio-sa-sd-912",
+    "logoUrl": "https://i.imgur.com/M6K8cD3.jpeg",
+    "streamUrl": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AsharqRadio.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-radio::sa::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "holyquranradio-sa-sd-4354",
+    "name": "Holy Quran Radio",
+    "slug": "holyquranradio-sa-sd-4354",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/13/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HolyQuranRadio.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "holy-quran-radio::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iqraaquran-sa-sd-4655",
+    "name": "Iqraa Quran",
+    "slug": "iqraaquran-sa-sd-4655",
+    "logoUrl": "https://i.imgur.com/HPVsIa4.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara",
+      "fra",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IqraaQuran.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iqraa-quran::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ksasports2-sa-sd-5219",
+    "name": "KSA Sports 2",
+    "slug": "ksasports2-sa-sd-5219",
+    "logoUrl": "https://i.imgur.com/v8ULLqg.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/10/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "KSASports2.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ksa-sports-2::sa::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ksasports3-sa-sd-5220",
+    "name": "KSA Sports 3",
+    "slug": "ksasports3-sa-sd-5220",
+    "logoUrl": "https://i.imgur.com/BXfCvez.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/16/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "KSASports3.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ksa-sports-3::sa::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "holyquranradio-sa-sd-4355",
+    "name": "Quran Radio",
+    "slug": "holyquranradio-sa-sd-4355",
+    "logoUrl": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+    "streamUrl": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HolyQuranRadio.sa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "quran-radio::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alhadath-sa-sd-463",
+    "name": "Al Arabiya Al Hadath",
+    "slug": "alhadath-sa-sd-463",
+    "logoUrl": "https://i.imgur.com/De4SEWE.png",
+    "streamUrl": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlHadath.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-arabiya-al-hadath::sa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alhadath-sa-sd-465",
+    "name": "Al Hadath TV",
+    "slug": "alhadath-sa-sd-465",
+    "logoUrl": "https://i.imgur.com/De4SEWE.png",
+    "streamUrl": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlHadath.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-hadath-tv::sa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alresalah-sa-sd-579",
+    "name": "Al Resalah",
+    "slug": "alresalah-sa-sd-579",
+    "logoUrl": "https://i.imgur.com/7o4HgrP.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlResalah.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-resalah::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iqraaarabic-sa-sd-4654",
+    "name": "Iqraa Arabic",
+    "slug": "iqraaarabic-sa-sd-4654",
+    "logoUrl": "https://i.imgur.com/HPVsIa4.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IqraaArabic.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iqraa-arabic::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lbc-sa-sd-5407",
+    "name": "LBC",
+    "slug": "lbc-sa-sd-5407",
+    "logoUrl": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LBC.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lbc::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanacinemaksa-sa-sd-8318",
+    "name": "Rotana Cinema KSA",
+    "slug": "rotanacinemaksa-sa-sd-8318",
+    "logoUrl": "https://i.imgur.com/pGgp38I.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "RotanaCinemaKSA.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-cinema-ksa::sa::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanaclassic-sa-sd-8319",
+    "name": "Rotana Classic",
+    "slug": "rotanaclassic-sa-sd-8319",
+    "logoUrl": "https://i.imgur.com/pMMUvkt.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "RotanaClassic.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-classic::sa::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanaclip-sa-sd-8320",
+    "name": "Rotana Clip",
+    "slug": "rotanaclip-sa-sd-8320",
+    "logoUrl": "https://i.imgur.com/nhREk0o.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RotanaClip.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-clip::sa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanacomedy-sa-sd-8321",
+    "name": "Rotana Comedy",
+    "slug": "rotanacomedy-sa-sd-8321",
+    "logoUrl": "https://i.imgur.com/IlT8U6S.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "RotanaComedy.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-comedy::sa::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanadrama-sa-sd-8322",
+    "name": "Rotana Drama",
+    "slug": "rotanadrama-sa-sd-8322",
+    "logoUrl": "https://i.imgur.com/btnhPjZ.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "RotanaDrama.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-drama::sa::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanakhalijia-sa-sd-8324",
+    "name": "Rotana Khalijia",
+    "slug": "rotanakhalijia-sa-sd-8324",
+    "logoUrl": "https://i.imgur.com/6HMluzv.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RotanaKhalijia.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-khalijia::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanamusic-sa-sd-8325",
+    "name": "Rotana Music",
+    "slug": "rotanamusic-sa-sd-8325",
+    "logoUrl": "https://i.imgur.com/2zFQbQi.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RotanaMusic.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-music::sa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "makkahtv-sa-sd-5666",
+    "name": "Makkah TV",
+    "slug": "makkahtv-sa-sd-5666",
+    "logoUrl": "https://i.ibb.co/r2k71w5N/download.png",
+    "streamUrl": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MakkahTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "makkah-tv::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "makkahtv-sa-sd-5665",
+    "name": "Makkah",
+    "slug": "makkahtv-sa-sd-5665",
+    "logoUrl": "https://i.ibb.co/r2k71w5N/download.png",
+    "streamUrl": "https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MakkahTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "makkah::sa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

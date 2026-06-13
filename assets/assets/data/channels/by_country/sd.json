@@ -1,0 +1,155 @@
+[
+  {
+    "id": "dabangatv-sd-sd-2746",
+    "name": "Dabanga TV",
+    "slug": "dabangatv-sd-sd-2746",
+    "logoUrl": "https://i.imgur.com/BH1N6TA.png",
+    "streamUrl": "https://hls.dabangasudan.org/hls/stream.m3u8",
+    "country": {
+      "code": "SD",
+      "name": "Sudan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DabangaTV.sd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dabanga-tv::sd::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alalamiya2-sd-sd-411",
+    "name": "Al Alamiya 2",
+    "slug": "alalamiya2-sd-sd-411",
+    "logoUrl": "https://i.imgur.com/5FrE3Nv.png",
+    "streamUrl": "http://82.212.74.98:8000/live/7815.m3u8",
+    "country": {
+      "code": "SD",
+      "name": "Sudan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "AlAlamiya2.sd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-alamiya-2::sd::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sudantv-sd-sd-9556",
+    "name": "Sudan TV",
+    "slug": "sudantv-sd-sd-9556",
+    "logoUrl": "https://i.imgur.com/XUPAYAA.png",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+    "country": {
+      "code": "SD",
+      "name": "Sudan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SudanTV.sd",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sudan-tv::sd::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

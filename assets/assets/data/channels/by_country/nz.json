@@ -1,0 +1,731 @@
+[
+  {
+    "id": "parliamenttv-nz-sd-7138",
+    "name": "Parliament TV",
+    "slug": "parliamenttv-nz-sd-7138",
+    "logoUrl": "https://i.imgur.com/2aHW4q7.png",
+    "streamUrl": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ParliamentTV.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "parliament-tv::nz::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tereo-nz-sd-10093",
+    "name": "Te Reo",
+    "slug": "tereo-nz-sd-10093",
+    "logoUrl": "https://i.imgur.com/3CNvYUN.png",
+    "streamUrl": "https://i.mjh.nz/.r/te-reo.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "mri"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeReo.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "te-reo::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "whakaatamaori-nz-sd-11747",
+    "name": "Whakaata Maori",
+    "slug": "whakaatamaori-nz-sd-11747",
+    "logoUrl": "https://i.imgur.com/oT3PrHZ.png",
+    "streamUrl": "https://i.mjh.nz/.r/maori-tv.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "mri"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WhakaataMaori.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "whakaata-maori::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kordiatv-nz-sd-5195",
+    "name": "Kordia TV",
+    "slug": "kordiatv-nz-sd-5195",
+    "logoUrl": "https://i.imgur.com/BQ0qWzX.png",
+    "streamUrl": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KordiaTV.nz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kordia-tv::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wairarapatv-nz-sd-11636",
+    "name": "Wairarapa TV",
+    "slug": "wairarapatv-nz-sd-11636",
+    "logoUrl": "https://i.imgur.com/xm4KBwE.png",
+    "streamUrl": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WairarapaTV.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wairarapa-tv::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+        "https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "skyopen-nz-sd-9190",
+    "name": "Sky Open",
+    "slug": "skyopen-nz-sd-9190",
+    "logoUrl": "https://i.imgur.com/eYyYojh.png",
+    "streamUrl": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SkyOpen.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-open::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "juicetv-nz-sd-4901",
+    "name": "Juice TV",
+    "slug": "juicetv-nz-sd-4901",
+    "logoUrl": "https://i.imgur.com/WaaaW0w.png",
+    "streamUrl": "https://juicex.nz/hls/mystream.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JuiceTV.nz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "juice-tv::nz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bravo-nz-plus1-1613",
+    "name": "Bravo +1",
+    "slug": "bravo-nz-plus1-1613",
+    "logoUrl": "https://i.imgur.com/hphQ2kw.png",
+    "streamUrl": "https://i.mjh.nz/.r/bravo-plus1.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Bravo.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bravo-1::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "firstlight-nz-sd-3685",
+    "name": "Firstlight",
+    "slug": "firstlight-nz-sd-3685",
+    "logoUrl": "https://i.imgur.com/gtDROeT.png",
+    "streamUrl": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Firstlight.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "firstlight::nz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skyopen-nz-plus1-9189",
+    "name": "Sky open +1",
+    "slug": "skyopen-nz-plus1-9189",
+    "logoUrl": "https://i.imgur.com/eYyYojh.png",
+    "streamUrl": "https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SkyOpen.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-open-1::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnz1-nz-sd-10992",
+    "name": "TVNZ 1",
+    "slug": "tvnz1-nz-sd-10992",
+    "logoUrl": "https://i.imgur.com/Nx76HUE.png",
+    "streamUrl": "https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNZ1.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvnz-1::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnz2-nz-sd-10993",
+    "name": "TVNZ 2",
+    "slug": "tvnz2-nz-sd-10993",
+    "logoUrl": "https://i.imgur.com/9sV4dbH.png",
+    "streamUrl": "https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNZ2.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvnz-2::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnzduke-nz-sd-10994",
+    "name": "TVNZ Duke",
+    "slug": "tvnzduke-nz-sd-10994",
+    "logoUrl": "https://i.imgur.com/tJf9DEI.png",
+    "streamUrl": "https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNZDUKE.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvnz-duke::nz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel200-nz-sd-2286",
+    "name": "Channel 200",
+    "slug": "channel200-nz-sd-2286",
+    "logoUrl": "https://i.imgur.com/gAebu4q.png",
+    "streamUrl": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "country": {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Channel200.nz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-200::nz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

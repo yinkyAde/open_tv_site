@@ -1,0 +1,158 @@
+[
+  {
+    "id": "sankhyatv-tt-sd-8894",
+    "name": "Sankhya TV",
+    "slug": "sankhyatv-tt-sd-8894",
+    "logoUrl": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
+    "streamUrl": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
+    "country": {
+      "code": "TT",
+      "name": "Trinidad and Tobago"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SankhyaTV.tt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sankhya-tv::tt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "theislamicnetwork-tt-sd-10185",
+    "name": "The Islamic Network",
+    "slug": "theislamicnetwork-tt-sd-10185",
+    "logoUrl": "https://i.imgur.com/EtQolw6.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8",
+    "country": {
+      "code": "TT",
+      "name": "Trinidad and Tobago"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TheIslamicNetwork.tt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-islamic-network::tt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "trinitytv-tt-sd-10511",
+    "name": "Trinity TV",
+    "slug": "trinitytv-tt-sd-10511",
+    "logoUrl": "https://i.imgur.com/69igLlk.png",
+    "streamUrl": "https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8",
+    "country": {
+      "code": "TT",
+      "name": "Trinidad and Tobago"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TrinityTV.tt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trinity-tv::tt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

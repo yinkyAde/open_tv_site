@@ -1,0 +1,432 @@
+[
+  {
+    "id": "arubatv-aw-sd-894",
+    "name": "Aruba.TV",
+    "slug": "arubatv-aw-sd-894",
+    "logoUrl": "https://i.imgur.com/9fWY09U.png",
+    "streamUrl": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "ArubaTV.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aruba-tv::aw::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nosislatv-aw-sd-6683",
+    "name": "Nos Isla TV",
+    "slug": "nosislatv-aw-sd-6683",
+    "logoUrl": "https://i.imgur.com/sH7ZkPx.png",
+    "streamUrl": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NosIslaTV.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nos-isla-tv::aw::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "telearuba-aw-sd-9838",
+    "name": "Telearuba",
+    "slug": "telearuba-aw-sd-9838",
+    "logoUrl": "https://i.imgur.com/PY3P0aM.png",
+    "streamUrl": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "nld",
+      "pap",
+      "eng",
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telearuba.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telearuba::aw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "viptv-aw-sd-11539",
+    "name": "VIP TV",
+    "slug": "viptv-aw-sd-11539",
+    "logoUrl": "https://i.imgur.com/6N0qITv.png",
+    "streamUrl": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "nld",
+      "pap",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VIPTV.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vip-tv::aw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "coolfm989-aw-sd-2614",
+    "name": "Cool FM 98.9",
+    "slug": "coolfm989-aw-sd-2614",
+    "logoUrl": "https://i.imgur.com/uGE6lZ2.png",
+    "streamUrl": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "nld",
+      "pap",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "CoolFM989.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cool-fm-98-9::aw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "power1017fm-aw-sd-7617",
+    "name": "Power 101.7 FM",
+    "slug": "power1017fm-aw-sd-7617",
+    "logoUrl": "https://i.imgur.com/bkQrXjB.png",
+    "streamUrl": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "nld",
+      "pap",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Power1017FM.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "power-101-7-fm::aw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "x1027fm-aw-sd-11948",
+    "name": "X 102.7 FM",
+    "slug": "x1027fm-aw-sd-11948",
+    "logoUrl": "https://i.imgur.com/28b810Y.png",
+    "streamUrl": "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "eng",
+      "pap"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "X1027FM.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "x-102-7-fm::aw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wavezfm-aw-sd-11660",
+    "name": "Wavez FM",
+    "slug": "wavezfm-aw-sd-11660",
+    "logoUrl": "https://i.imgur.com/uyROZSS.png",
+    "streamUrl": "https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "WavezFM.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wavez-fm::aw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

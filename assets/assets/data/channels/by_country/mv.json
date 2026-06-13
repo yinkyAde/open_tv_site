@@ -1,0 +1,569 @@
+[
+  {
+    "id": "mmtv-mv-sd-6005",
+    "name": "MMTV",
+    "slug": "mmtv-mv-sd-6005",
+    "logoUrl": "https://i.imgur.com/21tpl5b.png",
+    "streamUrl": "https://sendlive.online/hls/mmtv.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "eng",
+      "div"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MMTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mmtv::mv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sstv-mv-sd-9388",
+    "name": "SSTV",
+    "slug": "sstv-mv-sd-9388",
+    "logoUrl": "https://i.imgur.com/jtIhDZk.png",
+    "streamUrl": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SSTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sstv::mv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv-mv-sd-11614",
+    "name": "VTV",
+    "slug": "vtv-mv-sd-11614",
+    "logoUrl": "https://i.imgur.com/6bY9Umo.png",
+    "streamUrl": "https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "VTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv::mv::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "maldivestv-mv-sd-5679",
+    "name": "Maldives TV",
+    "slug": "maldivestv-mv-sd-5679",
+    "logoUrl": "https://i.imgur.com/Zl2FmFC.png",
+    "streamUrl": "https://lana.psm.mv/live/mtv.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "MaldivesTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maldives-tv::mv::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel13-mv-sd-2280",
+    "name": "Channel 13",
+    "slug": "channel13-mv-sd-2280",
+    "logoUrl": "https://i.imgur.com/lR5jUSU.jpeg",
+    "streamUrl": "https://stream.theyraonline.com/live/channel13@live/index.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel13.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-13::mv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "munnaaru-mv-sd-6245",
+    "name": "Munnaaru",
+    "slug": "munnaaru-mv-sd-6245",
+    "logoUrl": "https://i.imgur.com/Adhr5xq.png",
+    "streamUrl": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Munnaaru.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "munnaaru::mv::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ntv-mv-sd-6799",
+    "name": "NTV",
+    "slug": "ntv-mv-sd-6799",
+    "logoUrl": "https://i.imgur.com/jnXpcwV.png",
+    "streamUrl": "https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv::mv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "psmnews-mv-sd-7712",
+    "name": "PSM News",
+    "slug": "psmnews-mv-sd-7712",
+    "logoUrl": "https://i.imgur.com/mGuBbPv.png",
+    "streamUrl": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PSMNews.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "psm-news::mv::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "raajjetv-mv-sd-7841",
+    "name": "Raajje TV",
+    "slug": "raajjetv-mv-sd-7841",
+    "logoUrl": "https://i.imgur.com/QxdkiCZ.png",
+    "streamUrl": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RaajjeTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "raajje-tv::mv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmaldives-mv-sd-10934",
+    "name": "TV Maldives",
+    "slug": "tvmaldives-mv-sd-10934",
+    "logoUrl": "https://i.imgur.com/1c7rFKC.png",
+    "streamUrl": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMaldives.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-maldives::mv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "yes-mv-sd-12036",
+    "name": "YES",
+    "slug": "yes-mv-sd-12036",
+    "logoUrl": "https://i.imgur.com/HARIGQl.png",
+    "streamUrl": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "div"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "YES.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yes::mv::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "omantv-om-sd-6927",
+    "name": "Oman TV",
+    "slug": "omantv-om-sd-6927",
+    "logoUrl": "https://i.imgur.com/rBftT9x.png",
+    "streamUrl": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "OM",
+      "name": "Oman"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OmanTV.om",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oman-tv::om::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://trn03.bozztv.com/gin-omantv/index.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "omantvcultural-om-sd-6930",
+    "name": "Oman Althakafia",
+    "slug": "omantvcultural-om-sd-6930",
+    "logoUrl": "https://i.imgur.com/b38wNPK.png",
+    "streamUrl": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "OM",
+      "name": "Oman"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OmanTVCultural.om",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oman-althakafia::om::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "omantvmubashir-om-sd-6931",
+    "name": "Oman Mubashir",
+    "slug": "omantvmubashir-om-sd-6931",
+    "logoUrl": "https://i.imgur.com/UkQTR5b.png",
+    "streamUrl": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "OM",
+      "name": "Oman"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "OmanTVMubashir.om",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oman-mubashir::om::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "omansportstv-om-sd-6926",
+    "name": "Oman Sports TV",
+    "slug": "omansportstv-om-sd-6926",
+    "logoUrl": "https://i.imgur.com/1omi7p8.png",
+    "streamUrl": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "OM",
+      "name": "Oman"
+    },
+    "languages": [
+      "eng",
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "OmanSportsTV.om",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oman-sports-tv::om::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alistiqamatv-om-sd-481",
+    "name": "Alistiqama TV",
+    "slug": "alistiqamatv-om-sd-481",
+    "logoUrl": "https://i.imgur.com/2FPtYZr.png",
+    "streamUrl": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "country": {
+      "code": "OM",
+      "name": "Oman"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlistiqamaTV.om",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alistiqama-tv::om::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

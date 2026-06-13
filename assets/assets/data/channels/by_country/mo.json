@@ -1,0 +1,366 @@
+[
+  {
+    "id": "tdmoumun-mo-sd-9799",
+    "name": "TDM Ou Mun Macau Ch. 91",
+    "slug": "tdmoumun-mo-sd-9799",
+    "logoUrl": "https://i.imgur.com/qDI3aMp.png",
+    "streamUrl": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TDMOuMun.mo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdm-ou-mun-macau-ch-91::mo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "lotustv-mo-sd-5545",
+    "name": "Lotus Macau HD 720p",
+    "slug": "lotustv-mo-sd-5545",
+    "logoUrl": "https://i.imgur.com/7j8Lnog.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "yue",
+      "zho",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LotusTV.mo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lotus-macau-720p::mo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdmmacausatellite-mo-sd-9798",
+    "name": "Ou-Mun Macau Satellite Ch. 96",
+    "slug": "tdmmacausatellite-mo-sd-9798",
+    "logoUrl": "https://i.imgur.com/iIfZsD6.png",
+    "streamUrl": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TDMMacauSatellite.mo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ou-mun-macau-satellite-ch-96::mo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdmentertainment-mo-sd-9796",
+    "name": "TDM Entertainment Ch. 95",
+    "slug": "tdmentertainment-mo-sd-9796",
+    "logoUrl": "https://i.imgur.com/7ml2bfx.png",
+    "streamUrl": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "zho",
+      "yue"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TDMEntertainment.mo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdm-entertainment-ch-95::mo::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdmsports-mo-sd-9801",
+    "name": "TDM Sports Ch. 93",
+    "slug": "tdmsports-mo-sd-9801",
+    "logoUrl": "https://i.imgur.com/AsWLf8S.png",
+    "streamUrl": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TDMSports.mo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdm-sports-ch-93::mo::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalmacau-mo-sd-1912",
+    "name": "Canal Macau Ch. 92",
+    "slug": "canalmacau-mo-sd-1912",
+    "logoUrl": "https://i.imgur.com/oFPUZ97.png",
+    "streamUrl": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalMacau.mo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-macau-ch-92::mo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdminformation-mo-sd-9797",
+    "name": "TDM Info. Macau",
+    "slug": "tdminformation-mo-sd-9797",
+    "logoUrl": "https://i.imgur.com/h7HfsLx.png",
+    "streamUrl": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+    "country": {
+      "code": "MO",
+      "name": "Macao"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TDMInformation.mo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdm-info-macau::mo::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

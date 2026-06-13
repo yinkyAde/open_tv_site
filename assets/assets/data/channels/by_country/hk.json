@@ -1,0 +1,800 @@
+[
+  {
+    "id": "petclubtv-hk-sd-7246",
+    "name": "Pet Club TV",
+    "slug": "petclubtv-hk-sd-7246",
+    "logoUrl": "https://i.imgur.com/ykPNNwQ.png",
+    "streamUrl": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "yue"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PetClubTV.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pet-club-tv::hk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "newsworld-hk-fast-6558",
+    "name": "NewsWorld",
+    "slug": "newsworld-hk-fast-6558",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+    "streamUrl": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NewsWorld.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "newsworld::hk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rthktv31-hk-sd-8384",
+    "name": "RTHK TV 31 (港台電視31)",
+    "slug": "rthktv31-hk-sd-8384",
+    "logoUrl": "https://i.imgur.com/kf818kM.png",
+    "streamUrl": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTHKTV31.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rthk-tv-31-31::hk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rthktv32-hk-sd-8386",
+    "name": "RTHK TV 32 (港台電視32)",
+    "slug": "rthktv32-hk-sd-8386",
+    "logoUrl": "https://i.imgur.com/MXLuUoU.png",
+    "streamUrl": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTHKTV32.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rthk-tv-32-32::hk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rthktv33-hk-sd-8388",
+    "name": "RTHK TV 33 (港台電視33)",
+    "slug": "rthktv33-hk-sd-8388",
+    "logoUrl": "https://i.imgur.com/2MProun.png",
+    "streamUrl": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTHKTV33.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rthk-tv-33-33::hk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rthktv34-hk-sd-8389",
+    "name": "RTHK TV 34 (港台電視34)",
+    "slug": "rthktv34-hk-sd-8389",
+    "logoUrl": "https://i.imgur.com/Kq5A6Qn.png",
+    "streamUrl": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTHKTV34.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rthk-tv-34-34::hk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rthktv35-hk-hd-8390",
+    "name": "RTHK TV 35 (港台電視35)",
+    "slug": "rthktv35-hk-hd-8390",
+    "logoUrl": "https://i.imgur.com/FQmNKDS.png",
+    "streamUrl": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RTHKTV35.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rthk-tv-35-35::hk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "phoenixchinesechannel-hk-sd-7261",
+    "name": "凤凰中文",
+    "slug": "phoenixchinesechannel-hk-sd-7261",
+    "logoUrl": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+    "streamUrl": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PhoenixChineseChannel.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::hk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+        "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "http://125.210.152.18:9090/live/FHZW_1200.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "phoenixinfonewschannel-hk-sd-7265",
+    "name": "凤凰资讯",
+    "slug": "phoenixinfonewschannel-hk-sd-7265",
+    "logoUrl": "https://i.imgur.com/mt4h3VO.png",
+    "streamUrl": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PhoenixInfoNewsChannel.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::hk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://php.17186.eu.org/phtv/fhzx.m3u8",
+        "http://125.210.152.18:9090/live/FHZX_1200.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "anione-hk-sd-732",
+    "name": "Ani-Blast",
+    "slug": "anione-hk-sd-732",
+    "logoUrl": "https://www.medialink.com.hk/img/anione/AOYC1.png",
+    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [],
+    "category": "Animation",
+    "epg": {
+      "id": "AniOne.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ani-blast::hk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "celestialmovies-hk-sd-2178",
+    "name": "Celestial Movies",
+    "slug": "celestialmovies-hk-sd-2178",
+    "logoUrl": "https://i.imgur.com/Mb5ssnu.png",
+    "streamUrl": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "CelestialMovies.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "celestial-movies::hk::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kix-hk-sd-5138",
+    "name": "KIX",
+    "slug": "kix-hk-sd-5138",
+    "logoUrl": "https://i.imgur.com/zWcUAdb.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "eng",
+      "zho",
+      "msa",
+      "ind"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "KIX.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kix::hk::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bstv-hk-sd-1651",
+    "name": "耀才財經台",
+    "slug": "bstv-hk-sd-1651",
+    "logoUrl": "https://i.imgur.com/GVYSSgm.png",
+    "streamUrl": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho",
+      "yue"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "BSTV.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::hk::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "phoenixinfonewschannel-hk-sd-7268",
+    "name": "Phoenix InfoNews Channel",
+    "slug": "phoenixinfonewschannel-hk-sd-7268",
+    "logoUrl": "https://i.imgur.com/mt4h3VO.png",
+    "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PhoenixInfoNewsChannel.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "phoenix-infonews-channel::hk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thrill-hk-sd-10264",
+    "name": "Thrill",
+    "slug": "thrill-hk-sd-10264",
+    "logoUrl": "https://i.imgur.com/Y282owj.png",
+    "streamUrl": "https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [
+      "zho",
+      "eng",
+      "tha"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Thrill.hk",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 62,
+      "badges": [
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "thrill::hk::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

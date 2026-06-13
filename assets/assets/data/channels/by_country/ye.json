@@ -1,0 +1,313 @@
+[
+  {
+    "id": "yemenshababchannel-ye-sd-12032",
+    "name": "Yemen Shabab Channel",
+    "slug": "yemenshababchannel-ye-sd-12032",
+    "logoUrl": "https://i.imgur.com/H5Oi2NS.png",
+    "streamUrl": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "YemenShababChannel.ye",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yemen-shabab-channel::ye::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alsahattv-ye-sd-583",
+    "name": "Al-Sahat TV",
+    "slug": "alsahattv-ye-sd-583",
+    "logoUrl": "https://i.imgur.com/UVndAta.png",
+    "streamUrl": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlSahatTV.ye",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-sahat-tv::ye::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "almasirah-ye-sd-552",
+    "name": "Al Masirah",
+    "slug": "almasirah-ye-sd-552",
+    "logoUrl": "https://i.imgur.com/V055t5e.png",
+    "streamUrl": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlMasirah.ye",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-masirah::ye::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "yementv-ye-sd-12034",
+    "name": "Yemen TV",
+    "slug": "yementv-ye-sd-12034",
+    "logoUrl": "https://i.imgur.com/wN3REXv.png",
+    "streamUrl": "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "YemenTV.ye",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yemen-tv::ye::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8?session=a3Ukc9eUVXdFTN58aiYFdR"
+      ]
+    }
+  },
+  {
+    "id": "yementodaytv-ye-sd-12033",
+    "name": "Yemen Today TV",
+    "slug": "yementodaytv-ye-sd-12033",
+    "logoUrl": "https://i.imgur.com/8TzcJu5.png",
+    "streamUrl": "https://video.yementdy.tv/hls/yementoday.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "YemenTodayTV.ye",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yemen-today-tv::ye::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "almasirahmubacher-ye-sd-553",
+    "name": "Al Masirah Mubacher",
+    "slug": "almasirahmubacher-ye-sd-553",
+    "logoUrl": "https://i.imgur.com/0xHb3XM.jpg",
+    "streamUrl": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlMasirahMubacher.ye",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-masirah-mubacher::ye::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "id": "dronetv-us-sd-3127",
+    "name": "DroneTV",
+    "slug": "dronetv-us-sd-3127",
+    "logoUrl": "https://i.ibb.co/S71C9RJC/dronetv.webp",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Relax",
+    "epg": {
+      "id": "DroneTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dronetv::us::relax",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "myzentv-fr-sd-6309",
+    "name": "MyZen TV",
+    "slug": "myzentv-fr-sd-6309",
+    "logoUrl": "https://i.imgur.com/fIi8o0C.png",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra",
+      "eng",
+      "rus",
+      "spa",
+      "tur",
+      "bul"
+    ],
+    "category": "Relax",
+    "epg": {
+      "id": "MyZenTV.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "myzen-tv::fr::relax",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "spacelivepoweredbysen-uk-sd-9321",
+    "name": "Space Live",
+    "slug": "spacelivepoweredbysen-uk-sd-9321",
+    "logoUrl": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "streamUrl": "https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Relax",
+    "epg": {
+      "id": "SpaceLivepoweredbysen.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "7 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "space::uk::relax",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8",
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+        "https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8",
+        "https://jmp2.uk/plu-69b16dc543d0f313203b714c.m3u8",
+        "https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8",
+        "https://jmp2.uk/plu-69b16df6ed2a2444365e7ff1.m3u8",
+        "https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "spacelivepoweredbysen-uk-sd-9326",
+    "name": "Space Live powered by sen",
+    "slug": "spacelivepoweredbysen-uk-sd-9326",
+    "logoUrl": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "streamUrl": "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Relax",
+    "epg": {
+      "id": "SpaceLivepoweredbysen.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "space-powered-by-sen::uk::relax",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "zenlifebystingray-ca-hd-12174",
+    "name": "ZenLIFE by Stingray",
+    "slug": "zenlifebystingray-ca-hd-12174",
+    "logoUrl": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
+    "streamUrl": "https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Relax",
+    "epg": {
+      "id": "ZenLIFEbyStingray.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zenlife-by-stingray::ca::relax",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "betterlifenaturechannel-us-sd-1427",
+    "name": "Better Life Nature Channel",
+    "slug": "betterlifenaturechannel-us-sd-1427",
+    "logoUrl": "https://i.imgur.com/D8Vuw6I.png",
+    "streamUrl": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Relax",
+    "epg": {
+      "id": "BetterLifeNatureChannel.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "better-life-nature-channel::us::relax",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

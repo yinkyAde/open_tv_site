@@ -1,0 +1,990 @@
+[
+  {
+    "id": "amanitv-sn-sd-621",
+    "name": "Amani TV",
+    "slug": "amanitv-sn-sd-621",
+    "logoUrl": "https://i.imgur.com/0cY4K7G.png",
+    "streamUrl": "https://goccn.cloud/hls/amanitv/index.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AmaniTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amani-tv::sn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tfm-sn-sd-10108",
+    "name": "TFM",
+    "slug": "tfm-sn-sd-10108",
+    "logoUrl": "https://i.imgur.com/TQWBlXn.png",
+    "streamUrl": "http://69.64.57.208/tfm/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TFM.sn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tfm::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://trn03.bozztv.com/gin-tfmtv/index.m3u8",
+        "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tfm.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "2stv-sn-sd-12",
+    "name": "2STV",
+    "slug": "2stv-sn-sd-12",
+    "logoUrl": "https://i.imgur.com/WByVBZf.png",
+    "streamUrl": "http://69.64.57.208/2stv/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra",
+      "wol",
+      "fuc"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "2STV.sn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "2stv::sn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rts1-sn-sd-8453",
+    "name": "RTS 1",
+    "slug": "rts1-sn-sd-8453",
+    "logoUrl": "https://i.imgur.com/HHGktpF.png",
+    "streamUrl": "http://69.64.57.208/rts1/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTS1.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rts-1::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cs2.push2stream.com/RTS1-DVR/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rts2-sn-sd-8456",
+    "name": "RTS 2",
+    "slug": "rts2-sn-sd-8456",
+    "logoUrl": "https://i.imgur.com/YypHsF4.png",
+    "streamUrl": "http://69.64.57.208/rts2/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RTS2.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rts-2::sn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cs2.push2stream.com/RTS2-DVR/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "telemusiksenegal-sn-sd-9940",
+    "name": "TeleMusik Senegal",
+    "slug": "telemusiksenegal-sn-sd-9940",
+    "logoUrl": "https://i.imgur.com/dPAPLsd.png",
+    "streamUrl": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TeleMusikSenegal.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemusik-senegal::sn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onenationtv-sn-sd-6981",
+    "name": "One Nation TV",
+    "slug": "onenationtv-sn-sd-6981",
+    "logoUrl": "https://i.imgur.com/RGHbkZU.png",
+    "streamUrl": "https://endour.net/hls/One_nationtv/index.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OneNationTV.sn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-nation-tv::sn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "a2imusic-sn-sd-185",
+    "name": "A2i Music",
+    "slug": "a2imusic-sn-sd-185",
+    "logoUrl": "https://i.imgur.com/Fykhzxh.jpg",
+    "streamUrl": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "wol",
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "A2iMusic.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a2i-music::sn::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "a2inaija-sn-sd-186",
+    "name": "A2i Naija",
+    "slug": "a2inaija-sn-sd-186",
+    "logoUrl": "https://i.imgur.com/yq7ghPE.jpg",
+    "streamUrl": "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "wol",
+      "fra"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "A2iNaija.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a2i-naija::sn::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "a2ireligion-sn-sd-187",
+    "name": "A2i Religion",
+    "slug": "a2ireligion-sn-sd-187",
+    "logoUrl": "https://i.imgur.com/54WrwyN.jpg",
+    "streamUrl": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "wol",
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "A2iReligion.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a2i-religion::sn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnmtv-sn-sd-2529",
+    "name": "CNM TV",
+    "slug": "cnmtv-sn-sd-2529",
+    "logoUrl": "https://i.ibb.co/0cfdGKv/1630802325205.jpg",
+    "streamUrl": "https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNMTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnm-tv::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lougatv-sn-sd-5546",
+    "name": "Louga TV",
+    "slug": "lougatv-sn-sd-5546",
+    "logoUrl": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+    "streamUrl": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LougaTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "louga-tv::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diaspora24-sn-sd-2978",
+    "name": "Diaspora 24",
+    "slug": "diaspora24-sn-sd-2978",
+    "logoUrl": "https://i.imgur.com/4devfx1.png",
+    "streamUrl": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Diaspora24.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "diaspora-24::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "senewebtv-sn-sd-9002",
+    "name": "Seneweb TV",
+    "slug": "senewebtv-sn-sd-9002",
+    "logoUrl": "https://i.imgur.com/i9P2qjs.png",
+    "streamUrl": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SenewebTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "seneweb-tv::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "senjeunestv-sn-sd-9003",
+    "name": "SenJeunes TV",
+    "slug": "senjeunestv-sn-sd-9003",
+    "logoUrl": "https://i.imgur.com/MeCSPsI.jpg",
+    "streamUrl": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SenJeunesTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "senjeunes-tv::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sunulabeltv-sn-sd-9577",
+    "name": "Sunu Label TV",
+    "slug": "sunulabeltv-sn-sd-9577",
+    "logoUrl": "https://i.imgur.com/Ibp7IBk.jpeg",
+    "streamUrl": "https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SunuLabelTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sunu-label-tv::sn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sentv-sn-sd-9006",
+    "name": "Sen TV",
+    "slug": "sentv-sn-sd-9006",
+    "logoUrl": "https://i.imgur.com/beVCugh.png",
+    "streamUrl": "http://69.64.57.208/sentv/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SenTV.sn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sen-tv::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "walftv-sn-sd-11639",
+    "name": "Walf TV",
+    "slug": "walftv-sn-sd-11639",
+    "logoUrl": "https://i.imgur.com/IrBAqIJ.png",
+    "streamUrl": "http://69.64.57.208/walftv/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WalfTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "walf-tv::sn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chabibatv-sn-sd-2233",
+    "name": "Chabiba TV",
+    "slug": "chabibatv-sn-sd-2233",
+    "logoUrl": "https://i.imgur.com/qVTOklV.png",
+    "streamUrl": "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ChabibaTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chabiba-tv::sn::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

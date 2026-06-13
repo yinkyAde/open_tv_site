@@ -1,0 +1,879 @@
+[
+  {
+    "id": "bloombergtv-us-plus-1543",
+    "name": "Bloomberg TV +",
+    "slug": "bloombergtv-us-plus-1543",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png",
+    "streamUrl": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 134,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified",
+        "11 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
+        "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
+        "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
+        "https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8",
+        "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
+        "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
+        "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8",
+        "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+        "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "dragontv-cn-sd-3114",
+    "name": "东方卫视",
+    "slug": "dragontv-cn-sd-3114",
+    "logoUrl": "https://i.imgur.com/WqM6xnF.png",
+    "streamUrl": "http://118.81.195.79:9003/hls/23/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DragonTV.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 134,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified",
+        "130 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://118.81.195.79:9003/hls/19/index.m3u8",
+        "http://118.81.195.79:9003/hls/26/index.m3u8",
+        "http://118.81.195.79:9003/hls/29/index.m3u8",
+        "http://118.81.195.79:9003/hls/30/index.m3u8",
+        "http://118.81.195.79:9003/hls/31/index.m3u8",
+        "http://118.81.195.79:9003/hls/34/index.m3u8",
+        "http://118.81.195.79:9003/hls/21/index.m3u8",
+        "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8",
+        "http://112.25.48.68/live/program/live/tjwshd/4000000/mnf.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8",
+        "http://223.110.245.170/PLTV/3/224/3221227212/index.m3u8",
+        "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227407/index.m3u8",
+        "http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227382/index.m3u8",
+        "http://117.169.120.140:8080/live/hdtianjinstv/.m3u8",
+        "http://117.169.120.140:8080/live/hdshandongstv/.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8",
+        "http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8",
+        "http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8",
+        "http://223.110.245.139/PLTV/4/224/3221227448/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8",
+        "http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8",
+        "http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8",
+        "http://112.25.48.68/live/program/live/jxwshd/4000000/mnf.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8",
+        "http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8",
+        "http://183.207.249.34/PLTV/4/224/3221227393/index.m3u8",
+        "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8",
+        "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8",
+        "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8",
+        "http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8",
+        "http://112.25.48.68/live/program/live/zjwshd/4000000/mnf.m3u8",
+        "http://118.81.195.79:9003/hls/32/index.m3u8",
+        "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8",
+        "http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8",
+        "http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8",
+        "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8",
+        "http://live.geermurmt.com/qhws/sd/live.m3u8",
+        "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8",
+        "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8",
+        "http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8",
+        "http://117.156.28.119/270000001111/1110000028/index.m3u8",
+        "http://112.25.48.68/live/program/live/jswshd/4000000/mnf.m3u8",
+        "http://117.169.120.140:8080/live/hdjiangsustv/.m3u8",
+        "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8",
+        "http://223.110.245.170/PLTV/3/224/3221227255/index.m3u8",
+        "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8",
+        "http://183.207.249.34/PLTV/4/224/3221227402/index.m3u8",
+        "http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8",
+        "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+        "http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8",
+        "http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8",
+        "http://183.207.249.37/PLTV/4/224/3221227307/index.m3u8",
+        "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8",
+        "http://223.110.245.139/PLTV/4/224/3221227307/index.m3u8",
+        "http://112.25.48.68/live/program/live/szwshd/4000000/mnf.m3u8",
+        "http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8",
+        "http://118.81.195.79:9003/hls/22/index.m3u8",
+        "http://117.156.28.119/270000001111/1110000146/index.m3u8",
+        "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8",
+        "http://livealone302.iqilu.com/iqilu/shpd.m3u8",
+        "http://livealone302.iqilu.com/iqilu/qlpd.m3u8",
+        "http://117.169.120.140:8080/live/jiangxistv/.m3u8",
+        "http://125.210.152.18:9090/live/LNWSHD_H265.m3u8",
+        "http://125.210.152.18:9090/live/SDWSHD_H265.m3u8",
+        "http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8",
+        "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8",
+        "http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8",
+        "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225804/index.m3u8",
+        "http://118.81.195.79:9003/hls/27/index.m3u8",
+        "http://183.207.249.15/PLTV/4/224/3221225798/index.m3u8",
+        "http://118.81.195.79:9003/hls/28/index.m3u8",
+        "http://118.81.195.79:9003/hls/25/index.m3u8",
+        "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8",
+        "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
+        "http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8",
+        "http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8",
+        "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8",
+        "http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8",
+        "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8",
+        "http://117.156.28.119/270000001111/1110000149/index.m3u8",
+        "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
+        "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+        "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8",
+        "http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8",
+        "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8",
+        "https://live.funhillrm.com/2/playlist.m3u8",
+        "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8",
+        "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+        "http://125.210.152.18:9090/live/JXWSHD_H265.m3u8",
+        "http://125.210.152.18:9090/live/GZWSHD_H265.m3u8",
+        "http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8",
+        "http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8",
+        "http://125.210.152.18:9090/live/SCWSHD_H265.m3u8",
+        "http://112.25.48.68/live/program/live/scws/1300000/mnf.m3u8",
+        "http://live.cztv.cc:85/live/ggpd.m3u8",
+        "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8",
+        "http://livealone302.iqilu.com/iqilu/zypd.m3u8",
+        "http://stream2.xiancity.cn/xatv5/playlist.m3u8",
+        "http://183.207.248.71/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv",
+        "http://183.207.248.71/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv",
+        "http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv",
+        "http://183.207.248.71/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv",
+        "http://183.207.248.71/cntv/live1/zhejiangstv/zhejiangstv",
+        "http://183.207.248.71/cntv/live1/jiangsustv/jiangsustv",
+        "http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv",
+        "http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv",
+        "http://183.207.248.71/gitv/live1/SDWS/SDWS",
+        "http://183.207.248.71/gitv/live1/JXWS/JXWS",
+        "http://183.207.248.71/gitv/live1/G_ZHEJIANG/G_ZHEJIANG",
+        "http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU",
+        "http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv",
+        "http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG",
+        "http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN",
+        "http://183.207.248.71/gitv/live1/SCWS/SCWS",
+        "http://183.207.248.71/gitv/live1/AHWS/AHWS",
+        "http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG",
+        "http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD",
+        "http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS",
+        "http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv"
+      ]
+    }
+  },
+  {
+    "id": "hebeitv-cn-sd-4228",
+    "name": "Hebei TV",
+    "slug": "hebeitv-cn-sd-4228",
+    "logoUrl": "https://i.imgur.com/Z5Ppzbi.png",
+    "streamUrl": "https://event.pull.hebtv.com/live/live101.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HebeiTV.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hebei-tv::cn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hunantv-cn-sd-4454",
+    "name": "Hunan TV",
+    "slug": "hunantv-cn-sd-4454",
+    "logoUrl": "https://parco-zh.github.io/demo/HNWS.png",
+    "streamUrl": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HunanTV.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hunan-tv::cn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "insayttv-ru-4k-4608",
+    "name": "Insayt TV",
+    "slug": "insayttv-ru-4k-4608",
+    "logoUrl": "https://i.imgur.com/slLuRel.png",
+    "streamUrl": "https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "InsaytTV.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "insayt-tv::ru::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iribuhd-ir-4k-4674",
+    "name": "IRIB UHD",
+    "slug": "iribuhd-ir-4k-4674",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png",
+    "streamUrl": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IRIBUHD.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "irib::ir::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "itvlife-ir-sd-4724",
+    "name": "ITV Life",
+    "slug": "itvlife-ir-sd-4724",
+    "logoUrl": "https://i.ibb.co/pvLQmQK7/itv.png",
+    "streamUrl": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ITVLife.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "itv-life::ir::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "privesceutv-md-sd-7688",
+    "name": "Privesc.Eu TV",
+    "slug": "privesceutv-md-sd-7688",
+    "logoUrl": "https://i.imgur.com/ukBacSn.png",
+    "streamUrl": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "PrivescEuTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "privesc-eu-tv::md::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shenzhensatellitetv-cn-sd-9091",
+    "name": "Shenzhen Satellite TV",
+    "slug": "shenzhensatellitetv-cn-sd-9091",
+    "logoUrl": "",
+    "streamUrl": "https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ShenzhenSatelliteTV.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shenzhen-satellite-tv::cn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lovenature-ca-4k-5549",
+    "name": "Love Nature 4K",
+    "slug": "lovenature-ca-4k-5549",
+    "logoUrl": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+    "streamUrl": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "LoveNature.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 119,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-nature::ca::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+        "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8",
+        "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "clarity4k-us-sd-2457",
+    "name": "Clarity 4K",
+    "slug": "clarity4k-us-sd-2457",
+    "logoUrl": "https://i.imgur.com/M87kbVk.png",
+    "streamUrl": "https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Clarity4K.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "clarity::us::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "travelxp-in-4khdr-10492",
+    "name": "Travelxp 4K HDR",
+    "slug": "travelxp-in-4khdr-10492",
+    "logoUrl": "https://i.imgur.com/HUWEnc5.png",
+    "streamUrl": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "ben",
+      "tam"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Travelxp.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travelxp-hdr::in::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ltv-cl-sd-5584",
+    "name": "LTV",
+    "slug": "ltv-cl-sd-5584",
+    "logoUrl": "https://i.imgur.com/XHs06BX.png",
+    "streamUrl": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ltv::cl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tn-ar-sd-10347",
+    "name": "TN",
+    "slug": "tn-ar-sd-10347",
+    "logoUrl": "https://i.imgur.com/vFwPhPS.png",
+    "streamUrl": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TN.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 82,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tn::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "id": "bloombergtv-us-plus-1543",
+    "name": "Bloomberg TV +",
+    "slug": "bloombergtv-us-plus-1543",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png",
+    "streamUrl": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "BloombergTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 134,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified",
+        "11 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-tv::us::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
+        "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
+        "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
+        "https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8",
+        "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
+        "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
+        "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8",
+        "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+        "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8"
+      ]
+    }
+  },
+  "shelves": [
+    {
+      "id": "featured",
+      "title": "Featured Live Channels",
+      "asset": "assets/data/channels/featured.json"
+    },
+    {
+      "id": "top",
+      "title": "Top Public Channels",
+      "asset": "assets/data/channels/top.json"
+    },
+    {
+      "id": "quality",
+      "title": "High Quality Streams",
+      "asset": "assets/data/channels/high_quality.json"
+    },
+    {
+      "id": "epg",
+      "title": "Channels With Guide Data",
+      "asset": "assets/data/channels/with_epg.json"
+    }
+  ]
+}

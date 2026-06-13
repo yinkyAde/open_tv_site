@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "balapan-kz-sd-1112",
+    "name": "Balapan TV",
+    "slug": "balapan-kz-sd-1112",
+    "logoUrl": "https://i.imgur.com/2o5T0gi.png",
+    "streamUrl": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Balapan.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "balapan-tv::kz::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qazaqstan-kz-sd-7782",
+    "name": "Qazaqstan",
+    "slug": "qazaqstan-kz-sd-7782",
+    "logoUrl": "https://i.imgur.com/oI8g396.png",
+    "streamUrl": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Qazaqstan.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qazaqstan::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "semei-kz-sd-8993",
+    "name": "Semeı",
+    "slug": "semei-kz-sd-8993",
+    "logoUrl": "https://i.ibb.co/P9V0532/Captura.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Semei.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "seme::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qazaqstaninternational-kz-sd-7784",
+    "name": "Qazaqstan International",
+    "slug": "qazaqstaninternational-kz-sd-7784",
+    "logoUrl": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
+    "streamUrl": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "eng",
+      "rus",
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "QazaqstanInternational.kz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qazaqstan-international::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktk-kz-sd-5236",
+    "name": "КТК",
+    "slug": "ktk-kz-sd-5236",
+    "logoUrl": "https://i.imgur.com/BurrNTo.png",
+    "streamUrl": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "rus",
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KTK.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+        "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+        "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ertis-kz-sd-3364",
+    "name": "Ertis",
+    "slug": "ertis-kz-sd-3364",
+    "logoUrl": "https://i.imgur.com/tghMiwW.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Ertis.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ertis::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abaitv-kz-sd-222",
+    "name": "Abai TV",
+    "slug": "abaitv-kz-sd-222",
+    "logoUrl": "https://i.imgur.com/Nw2R7Dq.png",
+    "streamUrl": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AbaiTV.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abai-tv::kz::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atyray-kz-sd-997",
+    "name": "Atyraý",
+    "slug": "atyray-kz-sd-997",
+    "logoUrl": "https://i.imgur.com/kva4O3T.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/atyrautv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Atyray.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atyra::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qyzyljar-kz-sd-7838",
+    "name": "Qyzyljar",
+    "slug": "qyzyljar-kz-sd-7838",
+    "logoUrl": "https://i.imgur.com/7l1WSDJ.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Qyzyljar.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qyzyljar::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qyzylorda-kz-sd-7839",
+    "name": "Qyzylorda",
+    "slug": "qyzylorda-kz-sd-7839",
+    "logoUrl": "https://i.imgur.com/r4BFQpE.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Qyzylorda.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qyzylorda::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kokshe-kz-sd-5178",
+    "name": "Kókshe",
+    "slug": "kokshe-kz-sd-5178",
+    "logoUrl": "https://i.imgur.com/pOR3FSR.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Kokshe.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "k-kshe::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qazaqstan-kz-sd-7783",
+    "name": "Qazaqstan TV",
+    "slug": "qazaqstan-kz-sd-7783",
+    "logoUrl": "https://i.imgur.com/oI8g396.png",
+    "streamUrl": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Qazaqstan.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qazaqstan-tv::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "saryarqa-kz-sd-8927",
+    "name": "Saryarqa",
+    "slug": "saryarqa-kz-sd-8927",
+    "logoUrl": "https://i.imgur.com/EIXwi1c.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Saryarqa.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "saryarqa::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "24kz-kz-sd-115",
+    "name": "24KZ",
+    "slug": "24kz-kz-sd-115",
+    "logoUrl": "https://24.kz/templates/khabar24/img/logo-new.png",
+    "streamUrl": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "24KZ.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "24kz::kz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "31kanal-kz-sd-139",
+    "name": "31 Kanal",
+    "slug": "31kanal-kz-sd-139",
+    "logoUrl": "https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg",
+    "streamUrl": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "31Kanal.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "31-kanal::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aqjaiyq-kz-sd-811",
+    "name": "Aqjaiyq",
+    "slug": "aqjaiyq-kz-sd-811",
+    "logoUrl": "https://i.imgur.com/ZqIzzmf.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Aqjaiyq.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aqjaiyq::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aqtobe-kz-sd-813",
+    "name": "Aqtóbe",
+    "slug": "aqtobe-kz-sd-813",
+    "logoUrl": "https://i.imgur.com/csKl1z6.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/aktobetv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Aqtobe.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aqt-be::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "muzzone-kz-sd-6272",
+    "name": "MuzzOne",
+    "slug": "muzzone-kz-sd-6272",
+    "logoUrl": "https://i.imgur.com/nHVABXh.png",
+    "streamUrl": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz",
+      "rus",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MuzzOne.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "muzzone::kz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alautv-kz-sd-432",
+    "name": "Alau TV",
+    "slug": "alautv-kz-sd-432",
+    "logoUrl": "https://i.imgur.com/gK6ZRzp.png",
+    "streamUrl": "https://otv.wotom.net/alau/stream.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlauTV.kz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alau-tv::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "silkway-kz-sd-9140",
+    "name": "Silk Way",
+    "slug": "silkway-kz-sd-9140",
+    "logoUrl": "https://i.imgur.com/SJNDksF.png",
+    "streamUrl": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz",
+      "rus",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SilkWay.kz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "silk-way::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qostanai-kz-sd-7797",
+    "name": "Qostanai",
+    "slug": "qostanai-kz-sd-7797",
+    "logoUrl": "https://i.imgur.com/eOz4xJ8.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Qostanai.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qostanai::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qazsport-kz-sd-7785",
+    "name": "QazSport",
+    "slug": "qazsport-kz-sd-7785",
+    "logoUrl": "https://i.imgur.com/UDJ0P5Q.png",
+    "streamUrl": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "QazSport.kz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qazsport::kz::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ontustik-kz-sd-7008",
+    "name": "Ontústik",
+    "slug": "ontustik-kz-sd-7008",
+    "logoUrl": "https://i.imgur.com/xqr1hjN.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Ontustik.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ont-stik::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jambyl-kz-sd-4752",
+    "name": "Jambyl",
+    "slug": "jambyl-kz-sd-4752",
+    "logoUrl": "https://i.imgur.com/X7N3JK4.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Jambyl.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jambyl::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mangystay-kz-sd-5696",
+    "name": "Mańǵystaý",
+    "slug": "mangystay-kz-sd-5696",
+    "logoUrl": "https://i.imgur.com/9JfLseu.png",
+    "streamUrl": "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz",
+      "rus",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Mangystay.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ma-ysta::kz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

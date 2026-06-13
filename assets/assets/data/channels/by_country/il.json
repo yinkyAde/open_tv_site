@@ -1,0 +1,929 @@
+[
+  {
+    "id": "i24newsenglishusa-il-sd-4466",
+    "name": "i24NEWS English USA",
+    "slug": "i24newsenglishusa-il-sd-4466",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "streamUrl": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "i24NEWSEnglishUSA.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "i24news-english-usa::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kan11-il-sd-4954",
+    "name": "Kan 11",
+    "slug": "kan11-il-sd-4954",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
+    "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Kan11.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kan-11::il::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "makan33-il-sd-5662",
+    "name": "Makan 33",
+    "slug": "makan33-il-sd-5662",
+    "logoUrl": "https://i.imgur.com/RVtQTed.png",
+    "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Makan33.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "makan-33::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "now14-il-sd-6716",
+    "name": "Now 14",
+    "slug": "now14-il-sd-6716",
+    "logoUrl": "https://i.imgur.com/Iq2Kb69.png",
+    "streamUrl": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Now14.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "now-14::il::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hidabroot-il-sd-4264",
+    "name": "Hidabroot",
+    "slug": "hidabroot-il-sd-4264",
+    "logoUrl": "https://i.imgur.com/CTH4Hu2.png",
+    "streamUrl": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Hidabroot.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hidabroot::il::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "i24newshebrew-il-sd-4470",
+    "name": "i24NEWS Hebrew",
+    "slug": "i24newshebrew-il-sd-4470",
+    "logoUrl": "https://www.i24news.tv/images/favicon.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "i24NEWSHebrew.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "i24news-hebrew::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "relevanttv-il-sd-8187",
+    "name": "Relevant TV",
+    "slug": "relevanttv-il-sd-8187",
+    "logoUrl": "https://i.imgur.com/jCZ5gFO.png",
+    "streamUrl": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RelevantTV.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "relevant-tv::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "halatv-il-sd-4163",
+    "name": "Hala TV",
+    "slug": "halatv-il-sd-4163",
+    "logoUrl": "https://i.imgur.com/028M4Ew.png",
+    "streamUrl": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HalaTV.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hala-tv::il::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "i24newsenglishworld-il-sd-4467",
+    "name": "I24 News English",
+    "slug": "i24newsenglishworld-il-sd-4467",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "i24NEWSEnglishWorld.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "i24-news-english::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "i24newsfrench-il-sd-4468",
+    "name": "I24 News French",
+    "slug": "i24newsfrench-il-sd-4468",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "i24NEWSFrench.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "i24-news-french::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kaneducational-il-sd-5000",
+    "name": "Kan Kids",
+    "slug": "kaneducational-il-sd-5000",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+    "streamUrl": "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "KanEducational.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kan-kids::il::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel13-il-sd-2279",
+    "name": "Reshet 13",
+    "slug": "channel13-il-sd-2279",
+    "logoUrl": "https://i.imgur.com/eFM3bTq.png",
+    "streamUrl": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel13.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "reshet-13::il::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "i24newshebrew-il-sd-4469",
+    "name": "I24 News Hebrew",
+    "slug": "i24newshebrew-il-sd-4469",
+    "logoUrl": "https://www.i24news.tv/images/favicon.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "i24NEWSHebrew.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "i24-news-hebrew::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shelanutv-il-sd-9079",
+    "name": "Shelanu TV",
+    "slug": "shelanutv-il-sd-9079",
+    "logoUrl": "https://i.imgur.com/UVz2Ojq.png",
+    "streamUrl": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ShelanuTV.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shelanu-tv::il::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "knessetchannel-il-sd-5158",
+    "name": "Knesset Channel",
+    "slug": "knessetchannel-il-sd-5158",
+    "logoUrl": "https://i.imgur.com/QXB1jv8.png",
+    "streamUrl": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "KnessetChannel.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "knesset-channel::il::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teennick-il-sd-9816",
+    "name": "TeenNick",
+    "slug": "teennick-il-sd-9816",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "TeenNick.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teennick::il::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel9-il-sd-2271",
+    "name": "Channel 9",
+    "slug": "channel9-il-sd-2271",
+    "logoUrl": "https://i.imgur.com/pttM3KQ.png",
+    "streamUrl": "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "rus",
+      "heb"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Channel9.il",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-9::il::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kabbalahforthepeopleisrael-il-sd-4929",
+    "name": "Kabbalah for the People (Israel)",
+    "slug": "kabbalahforthepeopleisrael-il-sd-4929",
+    "logoUrl": "https://i.imgur.com/VxAHOgr.png",
+    "streamUrl": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+    "country": {
+      "code": "IL",
+      "name": "Israel"
+    },
+    "languages": [
+      "heb"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KabbalahforthePeopleIsrael.il",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kabbalah-for-the-people-israel::il::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

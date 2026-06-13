@@ -1,0 +1,1575 @@
+[
+  {
+    "id": "canalz-be-sd-1958",
+    "name": "Trends Z",
+    "slug": "canalz-be-sd-1958",
+    "logoUrl": "https://i.imgur.com/qtiGLzZ.png",
+    "streamUrl": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CanalZ.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trends-z::be::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "atv-be-sd-974",
+    "name": "ATV",
+    "slug": "atv-be-sd-974",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png",
+    "streamUrl": "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATV.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atv::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "belrtl-be-sd-1395",
+    "name": "Bel RTL",
+    "slug": "belrtl-be-sd-1395",
+    "logoUrl": "https://i.imgur.com/0DUprIW.png",
+    "streamUrl": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BelRTL.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bel-rtl::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ln24-be-sd-5513",
+    "name": "LN24",
+    "slug": "ln24-be-sd-5513",
+    "logoUrl": "https://i.imgur.com/1EkZRwn.png",
+    "streamUrl": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LN24.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ln24::be::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qmusic-be-sd-7794",
+    "name": "Q-Music (Belgium)",
+    "slug": "qmusic-be-sd-7794",
+    "logoUrl": "https://i.imgur.com/VX5e9Xt.png",
+    "streamUrl": "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "QMusic.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "q-music-belgium::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qu4treliegemedia-be-sd-7808",
+    "name": "Qu4tre",
+    "slug": "qu4treliegemedia-be-sd-7808",
+    "logoUrl": "https://i.imgur.com/GHFuvmZ.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "QU4TRELiegeMedia.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qu4tre::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiocontact-be-sd-7879",
+    "name": "Radio Contact",
+    "slug": "radiocontact-be-sd-7879",
+    "logoUrl": "https://i.imgur.com/32mmGvB.png",
+    "streamUrl": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioContact.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-contact::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemb-be-sd-9920",
+    "name": "TeleMB",
+    "slug": "telemb-be-sd-9920",
+    "logoUrl": "https://i.imgur.com/XAggjM4.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleMB.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemb::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlux-be-sd-10921",
+    "name": "TV Lux",
+    "slug": "tvlux-be-sd-10921",
+    "logoUrl": "https://i.imgur.com/ljbdWkC.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVLux.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-lux::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vedia-be-sd-11438",
+    "name": "Vedia",
+    "slug": "vedia-be-sd-11438",
+    "logoUrl": "https://i.imgur.com/7LnH6yu.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Vedia.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vedia::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "japanimtv-be-sd-4762",
+    "name": "Japanim TV",
+    "slug": "japanimtv-be-sd-4762",
+    "logoUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+    "streamUrl": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "JapanimTV.be",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "japanim-tv::be::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sterktv-be-sd-9449",
+    "name": "Stêrk TV",
+    "slug": "sterktv-be-sd-9449",
+    "logoUrl": "https://i.imgur.com/bIheNAI.png",
+    "streamUrl": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SterkTV.be",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "st-rk-tv::be::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcom-be-sd-10806",
+    "name": "TVcom",
+    "slug": "tvcom-be-sd-10806",
+    "logoUrl": "https://i.imgur.com/3KuRD19.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVcom.be",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcom::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "matele-be-sd-5744",
+    "name": "MaTele",
+    "slug": "matele-be-sd-5744",
+    "logoUrl": "https://i.imgur.com/rw72POr.png",
+    "streamUrl": "https://live.matele.be/hls/live.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Matele.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "matele::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtltvi-be-sd-8418",
+    "name": "RTL-TVI",
+    "slug": "rtltvi-be-sd-8418",
+    "logoUrl": "https://i.imgur.com/2CimAAN.png",
+    "streamUrl": "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLTVI.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-tvi::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mnm-be-sd-6027",
+    "name": "MNM",
+    "slug": "mnm-be-sd-6027",
+    "logoUrl": "https://i.imgur.com/L4cD18H.png",
+    "streamUrl": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MNM.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mnm::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd"
+      ]
+    }
+  },
+  {
+    "id": "radio1-be-sd-7854",
+    "name": "VRT Radio 1",
+    "slug": "radio1-be-sd-7854",
+    "logoUrl": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "streamUrl": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Radio1.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vrt-radio-1::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd"
+      ]
+    }
+  },
+  {
+    "id": "radio2-be-sd-7856",
+    "name": "VRT Radio 2",
+    "slug": "radio2-be-sd-7856",
+    "logoUrl": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "streamUrl": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Radio2.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vrt-radio-2::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd"
+      ]
+    }
+  },
+  {
+    "id": "klara-be-sd-5143",
+    "name": "VRT Radio Klara",
+    "slug": "klara-be-sd-5143",
+    "logoUrl": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "streamUrl": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Klara.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vrt-radio-klara::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd"
+      ]
+    }
+  },
+  {
+    "id": "stubru-be-sd-9531",
+    "name": "VRT Radio StuBru",
+    "slug": "stubru-be-sd-9531",
+    "logoUrl": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "streamUrl": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "StuBru.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vrt-radio-stubru::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd"
+      ]
+    }
+  },
+  {
+    "id": "bruzz-be-sd-1647",
+    "name": "Bruzz",
+    "slug": "bruzz-be-sd-1647",
+    "logoUrl": "https://i.imgur.com/OYlYidF.png",
+    "streamUrl": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Bruzz.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bruzz::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hlnlive-be-sd-4337",
+    "name": "HLN Live",
+    "slug": "hlnlive-be-sd-4337",
+    "logoUrl": "https://i.ibb.co/zbCrZG9/hq-hln.png",
+    "streamUrl": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HLNLive.be",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hln::be::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bx1-be-sd-1699",
+    "name": "BX1",
+    "slug": "bx1-be-sd-1699",
+    "logoUrl": "https://i.imgur.com/0OkSa6c.png",
+    "streamUrl": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BX1.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bx1::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "joefm-be-sd-4864",
+    "name": "Joe FM",
+    "slug": "joefm-be-sd-4864",
+    "logoUrl": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
+    "streamUrl": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JoeFM.be",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "joe-fm::be::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tipik-be-sd-10318",
+    "name": "Tipik",
+    "slug": "tipik-be-sd-10318",
+    "logoUrl": "https://i.imgur.com/LKLjnrp.png",
+    "streamUrl": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra",
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Tipik.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tipik::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "actv-be-sd-314",
+    "name": "ACTV",
+    "slug": "actv-be-sd-314",
+    "logoUrl": "https://files.catbox.moe/8v2y8m.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ACTV.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "actv::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bouke-be-sd-1598",
+    "name": "Bouke",
+    "slug": "bouke-be-sd-1598",
+    "logoUrl": "https://i.imgur.com/STLavel.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Bouke.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bouke::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalzoom-be-sd-1959",
+    "name": "Canal Zoom",
+    "slug": "canalzoom-be-sd-1959",
+    "logoUrl": "https://i.imgur.com/JUNP8Rx.png",
+    "streamUrl": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalZoom.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-zoom::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "notele-be-sd-6688",
+    "name": "Notele",
+    "slug": "notele-be-sd-6688",
+    "logoUrl": "https://i.imgur.com/fGS55nR.png",
+    "streamUrl": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Notele.be",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "notele::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "playcrime-be-sd-7297",
+    "name": "Play Crime",
+    "slug": "playcrime-be-sd-7297",
+    "logoUrl": "https://i.imgur.com/hPh8tRq.png",
+    "streamUrl": "https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PlayCrime.be",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 53,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "play-crime::be::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

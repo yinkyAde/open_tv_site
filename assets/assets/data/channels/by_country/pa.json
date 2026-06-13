@@ -1,0 +1,972 @@
+[
+  {
+    "id": "planet1009fm-pa-sd-7293",
+    "name": "Planet 100.9 FM",
+    "slug": "planet1009fm-pa-sd-7293",
+    "logoUrl": "https://i.imgur.com/8ZIBs8l.png",
+    "streamUrl": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Planet1009FM.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "planet-100-9-fm::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "superqpanama-pa-sd-9591",
+    "name": "Súper Q Panamá",
+    "slug": "superqpanama-pa-sd-9591",
+    "logoUrl": "https://i.imgur.com/ocTnqi7.png",
+    "streamUrl": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SuperQPanama.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "s-per-q-panam::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tropiq997fm-pa-sd-10522",
+    "name": "Tropi Q 99.7 FM",
+    "slug": "tropiq997fm-pa-sd-10522",
+    "logoUrl": "https://i.imgur.com/5rPdHhb.png",
+    "streamUrl": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TropiQ997FM.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tropi-q-99-7-fm::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmax-pa-sd-10957",
+    "name": "TVMAX",
+    "slug": "tvmax-pa-sd-10957",
+    "logoUrl": "https://i.imgur.com/XcrkfGh.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVMax.pa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvmax::pa::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvn-pa-sd-10981",
+    "name": "TVN",
+    "slug": "tvn-pa-sd-10981",
+    "logoUrl": "https://i.imgur.com/tGeHwxd.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVN.pa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvn::pa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arcanal-pa-sd-826",
+    "name": "A&R Canal Adventista",
+    "slug": "arcanal-pa-sd-826",
+    "logoUrl": "https://i.imgur.com/ejRJqSI.png",
+    "streamUrl": "http://51.222.9.192:3589/stream/play.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ARCanal.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a-r-canal-adventista::pa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fabulosaestereo1005fm-pa-sd-3536",
+    "name": "Fabulosa Estéreo 100.5 FM",
+    "slug": "fabulosaestereo1005fm-pa-sd-3536",
+    "logoUrl": "https://i.imgur.com/YFmzkOp.png",
+    "streamUrl": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FabulosaEstereo1005FM.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fabulosa-est-reo-100-5-fm::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioancon-pa-sd-7869",
+    "name": "Radio Ancón",
+    "slug": "radioancon-pa-sd-7869",
+    "logoUrl": "https://i.imgur.com/xum8PNe.jpg",
+    "streamUrl": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RadioAncon.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-anc-n::pa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiohogar-pa-sd-7891",
+    "name": "Radio Hogar",
+    "slug": "radiohogar-pa-sd-7891",
+    "logoUrl": "https://i.imgur.com/P4A1Zwl.jpg",
+    "streamUrl": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioHogar.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-hogar::pa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tropicalmooncumbiatv-pa-sd-10519",
+    "name": "Tropical Moon Cumbia TV",
+    "slug": "tropicalmooncumbiatv-pa-sd-10519",
+    "logoUrl": "https://i.imgur.com/jL1kLyS.png",
+    "streamUrl": "https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TropicalMoonCumbiaTV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tropical-moon-cumbia-tv::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tropicalmooneventostv-pa-sd-10520",
+    "name": "Tropical Moon Eventos TV",
+    "slug": "tropicalmooneventostv-pa-sd-10520",
+    "logoUrl": "https://i.imgur.com/RklPmml.png",
+    "streamUrl": "https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TropicalMoonEventosTV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tropical-moon-eventos-tv::pa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btvpanama-pa-sd-1675",
+    "name": "BTV Panamá",
+    "slug": "btvpanama-pa-sd-1675",
+    "logoUrl": "https://i.imgur.com/CiYVtgB.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTVPanama.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv-panam::pa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dreikotv-pa-sd-3122",
+    "name": "DreikoTv",
+    "slug": "dreikotv-pa-sd-3122",
+    "logoUrl": "https://i.imgur.com/k8U0e0b.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DreikoTV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dreikotv::pa::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hosannavision-pa-sd-4412",
+    "name": "Hosanna Vision",
+    "slug": "hosannavision-pa-sd-4412",
+    "logoUrl": "https://i.imgur.com/v0tc51l.png",
+    "streamUrl": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HosannaVision.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hosanna-vision::pa::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plustv-pa-sd-7310",
+    "name": "Plus TV",
+    "slug": "plustv-pa-sd-7310",
+    "logoUrl": "https://i.imgur.com/MmpwhAG.png",
+    "streamUrl": "https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PlusTV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plus-tv::pa::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hispaniatv-pa-sd-4287",
+    "name": "Hispania TV",
+    "slug": "hispaniatv-pa-sd-4287",
+    "logoUrl": "https://i.imgur.com/647WCF8.png",
+    "streamUrl": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "HispaniaTV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hispania-tv::pa::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mas23tv-pa-sd-5721",
+    "name": "Mas23 TV",
+    "slug": "mas23tv-pa-sd-5721",
+    "logoUrl": "https://i.imgur.com/y0h8dlX.png",
+    "streamUrl": "https://movil.ejeserver.com/live/mas23tv.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Mas23TV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mas23-tv::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nextvcanal21-pa-sd-6569",
+    "name": "Nex TV Canal 21",
+    "slug": "nextvcanal21-pa-sd-6569",
+    "logoUrl": "https://i.imgur.com/QQBd052.png",
+    "streamUrl": "https://movil.ejeserver.com/live/nextv.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NexTVCanal21.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nex-tv-canal-21::pa::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "laxitosapanama-pa-sd-5404",
+    "name": "LaXitosa Panamá",
+    "slug": "laxitosapanama-pa-sd-5404",
+    "logoUrl": "https://i.imgur.com/Pt4F9Xz.png",
+    "streamUrl": "https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaXitosaPanama.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "laxitosa-panam::pa::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

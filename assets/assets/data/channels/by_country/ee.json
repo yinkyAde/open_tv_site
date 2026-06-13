@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "tbnbaltia-ee-sd-9782",
+    "name": "TBN Baltia",
+    "slug": "tbnbaltia-ee-sd-9782",
+    "logoUrl": "https://i.imgur.com/rKBaK56.png",
+    "streamUrl": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TBNBaltia.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tbn-baltia::ee::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vantagemusic-ee-uk-11420",
+    "name": "Vantage Music UK",
+    "slug": "vantagemusic-ee-uk-11420",
+    "logoUrl": "https://vantagetv.ee/vantage_music.png",
+    "streamUrl": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VantageMusic.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vantage-music-uk::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bestofdancetv-ee-sd-1412",
+    "name": "Best of Dance TV",
+    "slug": "bestofdancetv-ee-sd-1412",
+    "logoUrl": "",
+    "streamUrl": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BestofDanceTV.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "best-of-dance-tv::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetvalgorhythm-ee-sd-2764",
+    "name": "DanceTV Algorhythm",
+    "slug": "dancetvalgorhythm-ee-sd-2764",
+    "logoUrl": "",
+    "streamUrl": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTVAlgorhythm.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dancetv-algorhythm::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetvdeephousedistrict-ee-sd-2765",
+    "name": "DanceTV Deep House District",
+    "slug": "dancetvdeephousedistrict-ee-sd-2765",
+    "logoUrl": "",
+    "streamUrl": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTVDeepHouseDistrict.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dancetv-deep-house-district::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetvedmmainstage-ee-sd-2766",
+    "name": "DanceTV EDM Mainstage",
+    "slug": "dancetvedmmainstage-ee-sd-2766",
+    "logoUrl": "",
+    "streamUrl": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTVEDMMainstage.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dancetv-edm-mainstage::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetvhousefloor-ee-sd-2767",
+    "name": "DanceTV House Floor",
+    "slug": "dancetvhousefloor-ee-sd-2767",
+    "logoUrl": "",
+    "streamUrl": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTVHouseFloor.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dancetv-house-floor::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetvminimaltech-ee-sd-2768",
+    "name": "DanceTV Minimal Tech",
+    "slug": "dancetvminimaltech-ee-sd-2768",
+    "logoUrl": "",
+    "streamUrl": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTVMinimalTech.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dancetv-minimal-tech::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetvtechnowarehouse-ee-sd-2769",
+    "name": "DanceTV Techno Warehouse",
+    "slug": "dancetvtechnowarehouse-ee-sd-2769",
+    "logoUrl": "",
+    "streamUrl": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTVTechnoWarehouse.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dancetv-techno-warehouse::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etv-ee-sd-3430",
+    "name": "ETV",
+    "slug": "etv-ee-sd-3430",
+    "logoUrl": "https://i.imgur.com/5URjPgG.png",
+    "streamUrl": "https://sb.err.ee/live/etv.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ETV.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv::ee::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etvplus-ee-sd-3448",
+    "name": "ETV+",
+    "slug": "etvplus-ee-sd-3448",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+    "streamUrl": "https://sb.err.ee/live/etvpluss.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "rus",
+      "est"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ETVPlus.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv::ee::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etv2-ee-sd-3429",
+    "name": "ETV2",
+    "slug": "etv2-ee-sd-3429",
+    "logoUrl": "https://i.imgur.com/fUjGHDa.png",
+    "streamUrl": "https://sb.err.ee/live/etv2.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ETV2.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv2::ee::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "riigikogu-ee-sd-8271",
+    "name": "Riigikogu",
+    "slug": "riigikogu-ee-sd-8271",
+    "logoUrl": "https://i.imgur.com/dJRGDt2.png",
+    "streamUrl": "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Riigikogu.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "riigikogu::ee::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vantagedance-ee-hd-11418",
+    "name": "Vantage Dance",
+    "slug": "vantagedance-ee-hd-11418",
+    "logoUrl": "https://vantagetv.ee/vantage_dance.png",
+    "streamUrl": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VantageDance.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vantage-dance::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vantagemusic-ee-hd-11419",
+    "name": "Vantage Music",
+    "slug": "vantagemusic-ee-hd-11419",
+    "logoUrl": "https://vantagetv.ee/vantage_music.png",
+    "streamUrl": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VantageMusic.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vantage-music::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vantagerock-ee-hd-11421",
+    "name": "Vantage Rock",
+    "slug": "vantagerock-ee-hd-11421",
+    "logoUrl": "https://vantagetv.ee/vantage_rock.png",
+    "streamUrl": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VantageRock.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vantage-rock::ee::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pingviin-ee-sd-7277",
+    "name": "Pingviin",
+    "slug": "pingviin-ee-sd-7277",
+    "logoUrl": "https://i.imgur.com/b6xupqO.png",
+    "streamUrl": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Pingviin.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pingviin::ee::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fxlife-ee-sd-3852",
+    "name": "FX Life",
+    "slug": "fxlife-ee-sd-3852",
+    "logoUrl": "https://i.imgur.com/VLv4r50.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/9232/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "FXLife.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fx-life::ee::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanal7-ee-sd-4963",
+    "name": "Kanal 7",
+    "slug": "kanal7-ee-sd-4963",
+    "logoUrl": "https://i.imgur.com/XRA4tVE.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/20079/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Kanal7.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-7::ee::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fx-ee-sd-3850",
+    "name": "FX",
+    "slug": "fx-ee-sd-3850",
+    "logoUrl": "https://i.imgur.com/qSeBqMg.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19216/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "FX.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fx::ee::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lifetv-ee-sd-5466",
+    "name": "Life TV",
+    "slug": "lifetv-ee-sd-5466",
+    "logoUrl": "https://i.imgur.com/JhrTB82.png",
+    "streamUrl": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LifeTV.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "life-tv::ee::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lifetv.bitflip.ee/live/stream1.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kidzonemax-ee-sd-5104",
+    "name": "KidZone Max",
+    "slug": "kidzonemax-ee-sd-5104",
+    "logoUrl": "https://i.imgur.com/qJSvxE2.png",
+    "streamUrl": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng",
+      "est",
+      "lav",
+      "lit",
+      "rus"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "KidZoneMax.ee",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "kidzone-max::ee::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nickelodeon-ee-sd-6593",
+    "name": "Nickelodeon",
+    "slug": "nickelodeon-ee-sd-6593",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png",
+    "streamUrl": "http://195.64.140.147:10121/121",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng",
+      "est",
+      "rus"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Nickelodeon.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "nickelodeon::ee::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

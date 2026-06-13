@@ -1,0 +1,310 @@
+[
+  {
+    "id": "tvcgmne-me-sd-10793",
+    "name": "TVCG MNE",
+    "slug": "tvcgmne-me-sd-10793",
+    "logoUrl": "https://i.imgur.com/pf8VEwf.png",
+    "streamUrl": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+    "country": {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCGMNE.me",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcg-mne::me::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcg1-me-sd-10790",
+    "name": "TVCG 1",
+    "slug": "tvcg1-me-sd-10790",
+    "logoUrl": "https://i.imgur.com/QORHrXu.png",
+    "streamUrl": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8",
+    "country": {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCG1.me",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcg-1::me::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcg2-me-sd-10791",
+    "name": "TVCG 2",
+    "slug": "tvcg2-me-sd-10791",
+    "logoUrl": "https://i.imgur.com/WECmUKH.png",
+    "streamUrl": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8",
+    "country": {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCG2.me",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcg-2::me::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcg3-me-sd-10792",
+    "name": "TVCG 3",
+    "slug": "tvcg3-me-sd-10792",
+    "logoUrl": "https://i.imgur.com/0ZT3Bc2.png",
+    "streamUrl": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
+    "country": {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "TVCG3.me",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcg-3::me::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvniksic-me-sd-10986",
+    "name": "TV Niksic",
+    "slug": "tvniksic-me-sd-10986",
+    "logoUrl": "https://i.imgur.com/51fGwzn.png",
+    "streamUrl": "https://tv.rtv-niksic.me/hls/stream.m3u8",
+    "country": {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNiksic.me",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-niksic::me::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotelevizijarozaje-me-sd-7943",
+    "name": "Radio televizija Rožaje",
+    "slug": "radiotelevizijarozaje-me-sd-7943",
+    "logoUrl": "https://i.imgur.com/vTZjEC5.png",
+    "streamUrl": "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8",
+    "country": {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadiotelevizijaRozaje.me",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-televizija-ro-aje::me::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

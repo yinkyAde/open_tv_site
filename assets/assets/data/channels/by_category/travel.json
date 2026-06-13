@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "travelxp-in-4khdr-10492",
+    "name": "Travelxp 4K HDR",
+    "slug": "travelxp-in-4khdr-10492",
+    "logoUrl": "https://i.imgur.com/HUWEnc5.png",
+    "streamUrl": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "ben",
+      "tam"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Travelxp.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travelxp-hdr::in::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "intravel-nl-philippines-4623",
+    "name": "InTravel",
+    "slug": "intravel-nl-philippines-4623",
+    "logoUrl": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
+    "streamUrl": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "INTRAVEL.nl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "intravel::nl::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8",
+        "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "travelplusadventure-ru-sd-10490",
+    "name": "Travel+Adventure",
+    "slug": "travelplusadventure-ru-sd-10490",
+    "logoUrl": "https://i.imgur.com/AlpdXC4.png",
+    "streamUrl": "http://31.148.48.15/Travel_Adventure_HD/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus",
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TravelPlusAdventure.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travel-adventure::ru::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "livingasiachannel-ph-hd-5497",
+    "name": "Living Asia Channel",
+    "slug": "livingasiachannel-ph-hd-5497",
+    "logoUrl": "https://i.imgur.com/q3UToRM.png",
+    "streamUrl": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+    "country": {
+      "code": "PH",
+      "name": "Philippines"
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "LivingAsiaChannel.ph",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "living-asia-channel::ph::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "arubatv-aw-sd-894",
+    "name": "Aruba.TV",
+    "slug": "arubatv-aw-sd-894",
+    "logoUrl": "https://i.imgur.com/9fWY09U.png",
+    "streamUrl": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
+    "country": {
+      "code": "AW",
+      "name": "Aruba"
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "ArubaTV.aw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aruba-tv::aw::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bhatv-bz-sd-1463",
+    "name": "BHA TV",
+    "slug": "bhatv-bz-sd-1463",
+    "logoUrl": "https://i.imgur.com/Nz5zM3H.png",
+    "streamUrl": "https://streamer2.nexgen.bz/15-BHA/index.m3u8",
+    "country": {
+      "code": "BZ",
+      "name": "Belize"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BHATV.bz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bha-tv::bz::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "discoverpakistan-pk-sd-3004",
+    "name": "Discover Pakistan",
+    "slug": "discoverpakistan-pk-sd-3004",
+    "logoUrl": "https://i.imgur.com/IJH47fJ.png",
+    "streamUrl": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "DiscoverPakistan.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "discover-pakistan::pk::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "go2travel-us-sd-3994",
+    "name": "Go2Travel",
+    "slug": "go2travel-us-sd-3994",
+    "logoUrl": "https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png",
+    "streamUrl": "https://go2thls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Go2Travel.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "go2travel::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsayohi-tj-sd-11141",
+    "name": "TV Sayohi",
+    "slug": "tvsayohi-tj-sd-11141",
+    "logoUrl": "https://i.imgur.com/lAkMrtr.png",
+    "streamUrl": "https://live.teleradiocom.tj/16/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TVSayohi.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sayohi::tj::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "travelxp-in-hd-10493",
+    "name": "Travelxp HD",
+    "slug": "travelxp-in-hd-10493",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s144015_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "ben",
+      "tam"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Travelxp.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travelxp::in::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gousatv-us-sd-4048",
+    "name": "Go USA TV",
+    "slug": "gousatv-us-sd-4048",
+    "logoUrl": "https://i.imgur.com/x90ALip.png",
+    "streamUrl": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "GoUSATV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "8 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "go-usa-tv::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://brandusa-gousa-1-dk.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-fi.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-ie.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-lu.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-no.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-pt.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8",
+        "https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rtgtv-ru-sd-8382",
+    "name": "RTG TV",
+    "slug": "rtgtv-ru-sd-8382",
+    "logoUrl": "https://i.imgur.com/ZMKPAho.png",
+    "streamUrl": "http://31.148.48.15/RTG_HD/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus",
+      "eng",
+      "tur"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "RTGTV.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtg-tv::ru::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://31.148.48.15/RTG/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "gousatv-us-sd-4058",
+    "name": "GoUSA TV",
+    "slug": "gousatv-us-sd-4058",
+    "logoUrl": "https://i.imgur.com/x90ALip.png",
+    "streamUrl": "https://brandusa-gousa-1-gb.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "GoUSATV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gousa-tv::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "journy-us-sd-4885",
+    "name": "Journy",
+    "slug": "journy-us-sd-4885",
+    "logoUrl": "https://i.imgur.com/1JNrLxq.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Journy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "journy::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "journy-us-sd-4886",
+    "name": "JOURNY TV",
+    "slug": "journy-us-sd-4886",
+    "logoUrl": "https://i.imgur.com/1JNrLxq.png",
+    "streamUrl": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Journy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "journy-tv::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvhistoire-us-france-7399",
+    "name": "Pluto TV Histoire",
+    "slug": "plutotvhistoire-us-france-7399",
+    "logoUrl": "https://i.imgur.com/JE5xcCV.png",
+    "streamUrl": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "PlutoTVHistoire.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-histoire::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "voyagessaveurs-es-fr-11589",
+    "name": "Voyages & Saveurs",
+    "slug": "voyagessaveurs-es-fr-11589",
+    "logoUrl": "https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png",
+    "streamUrl": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "VoyagesSaveurs.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "voyages-saveurs::es::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beachtvfloridaalabama-us-sd-1347",
+    "name": "Beach TV Florida & Alabama",
+    "slug": "beachtvfloridaalabama-us-sd-1347",
+    "logoUrl": "https://i.imgur.com/weypM9C.png",
+    "streamUrl": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BeachTVFloridaAlabama.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beach-tv-florida-alabama::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "beachtvmyrtlebeachthegrandstrand-us-sd-1350",
+    "name": "Beach TV Myrtle Beach & The Grand Strand",
+    "slug": "beachtvmyrtlebeachthegrandstrand-us-sd-1350",
+    "logoUrl": "https://i.imgur.com/aLYz7Bv.png",
+    "streamUrl": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BeachTVMyrtleBeachTheGrandStrand.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beach-tv-myrtle-beach-the-grand-strand::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "beachtvpanamacity-us-sd-1352",
+    "name": "Beach TV Panama City",
+    "slug": "beachtvpanamacity-us-sd-1352",
+    "logoUrl": "https://i.imgur.com/HCQDvEe.png",
+    "streamUrl": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BeachTVPanamaCity.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beach-tv-panama-city::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "knovcd411-us-hd-5160",
+    "name": "NOTV New Orleans TV",
+    "slug": "knovcd411-us-hd-5160",
+    "logoUrl": "https://i.imgur.com/D7Lzqyl.png",
+    "streamUrl": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "KNOVCD411.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "notv-new-orleans-tv::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "beachtvkeywestfloridakeys-us-sd-1349",
+    "name": "Beach TV Key West & Florida Keys",
+    "slug": "beachtvkeywestfloridakeys-us-sd-1349",
+    "logoUrl": "https://i.imgur.com/XhDBdff.png",
+    "streamUrl": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BeachTVKeyWestFloridaKeys.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beach-tv-key-west-florida-keys::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chilechannel-cl-sd-2332",
+    "name": "Chile Channel",
+    "slug": "chilechannel-cl-sd-2332",
+    "logoUrl": "https://i.imgur.com/F1it6fh.png",
+    "streamUrl": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "ChileChannel.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chile-channel::cl::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "funroads-us-sd-3845",
+    "name": "Fun Roads TV",
+    "slug": "funroads-us-sd-3845",
+    "logoUrl": "https://i.imgur.com/2Q6TENm.png",
+    "streamUrl": "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "FunRoads.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fun-roads-tv::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maldivestv-mv-sd-5679",
+    "name": "Maldives TV",
+    "slug": "maldivestv-mv-sd-5679",
+    "logoUrl": "https://i.imgur.com/Zl2FmFC.png",
+    "streamUrl": "https://lana.psm.mv/live/mtv.m3u8",
+    "country": {
+      "code": "MV",
+      "name": "Maldives"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "MaldivesTV.mv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maldives-tv::mv::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oepmtv-do-sd-6877",
+    "name": "OEPM TV",
+    "slug": "oepmtv-do-sd-6877",
+    "logoUrl": "https://i.imgur.com/QghtwMB.jpeg",
+    "streamUrl": "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "OEPMTV.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oepm-tv::do::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "palmbeachestv-us-sd-7106",
+    "name": "Palm Beaches TV",
+    "slug": "palmbeachestv-us-sd-7106",
+    "logoUrl": "https://i.imgur.com/kBol4Pf.png",
+    "streamUrl": "https://live.feed.thepalmbeaches.tv/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "PalmBeachesTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palm-beaches-tv::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "schladmingdachsteintv-at-sd-8963",
+    "name": "Schladming-Dachstein TV",
+    "slug": "schladmingdachsteintv-at-sd-8963",
+    "logoUrl": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+    "streamUrl": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "SchladmingDachsteinTV.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "schladming-dachstein-tv::at::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "turismordtv-do-hd-10580",
+    "name": "Turismo RDTV",
+    "slug": "turismordtv-do-hd-10580",
+    "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg",
+    "streamUrl": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TurismoRDTV.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "turismo-rdtv::do::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "turistiktv-mx-sd-10581",
+    "name": "Turistik TV",
+    "slug": "turistiktv-mx-sd-10581",
+    "logoUrl": "https://i.imgur.com/g9j0ze8.png",
+    "streamUrl": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TuristikTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "turistik-tv::mx::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gotraveler-us-sd-4045",
+    "name": "GoTraveler",
+    "slug": "gotraveler-us-sd-4045",
+    "logoUrl": "https://i.imgur.com/IaRcN1G.png",
+    "streamUrl": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "GoTraveler.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gotraveler::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvparanaturismo-br-sd-11026",
+    "name": "TV Paraná Turismo",
+    "slug": "tvparanaturismo-br-sd-11026",
+    "logoUrl": "https://i.imgur.com/I6pKoBd.png",
+    "streamUrl": "http://200.189.113.201/hls/tve.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TVParanaTurismo.br",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-paran-turismo::br::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bambarbiatv-ua-sd-1123",
+    "name": "BamBarBia TV",
+    "slug": "bambarbiatv-ua-sd-1123",
+    "logoUrl": "https://i.imgur.com/zdRvy87.png",
+    "streamUrl": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BamBarBiaTV.ua",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bambarbia-tv::ua::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teletur-do-sd-10026",
+    "name": "Teletur",
+    "slug": "teletur-do-sd-10026",
+    "logoUrl": "https://i.imgur.com/Ig4gR93.png",
+    "streamUrl": "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Teletur.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teletur::do::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvstravelnetwork-us-sd-11198",
+    "name": "TVS Travel Network",
+    "slug": "tvstravelnetwork-us-sd-11198",
+    "logoUrl": "https://i.imgur.com/vSFf5Ce.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TVSTravelNetwork.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-travel-network::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "glazamiturista-ru-sd-3968",
+    "name": "Glazami Turista",
+    "slug": "glazamiturista-ru-sd-3968",
+    "logoUrl": "https://i.imgur.com/GXJKWdy.png",
+    "streamUrl": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "GlazamiTurista.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "glazami-turista::ru::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gousatv-us-sd-4052",
+    "name": "Go USA",
+    "slug": "gousatv-us-sd-4052",
+    "logoUrl": "https://i.imgur.com/x90ALip.png",
+    "streamUrl": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "GoUSATV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "go-usa::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvanimaux-us-france-7320",
+    "name": "Pluto TV Animaux",
+    "slug": "plutotvanimaux-us-france-7320",
+    "logoUrl": "https://i.imgur.com/jxYlLsd.png",
+    "streamUrl": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "PlutoTVAnimaux.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-animaux::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "traveltv-bg-sd-10491",
+    "name": "Travel TV",
+    "slug": "traveltv-bg-sd-10491",
+    "logoUrl": "https://i.imgur.com/5xllfed.png",
+    "streamUrl": "https://streamer103.neterra.tv/travel/live.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TravelTV.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travel-tv::bg::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "travelxptamil-in-sd-10494",
+    "name": "Travelxp Tamil",
+    "slug": "travelxptamil-in-sd-10494",
+    "logoUrl": "https://i.imgur.com/vAYMHAp.png",
+    "streamUrl": "http://103.72.101.252:8080/live/814.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tam"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TravelxpTamil.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travelxp-tamil::in::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleputeshestviya-ru-sd-9978",
+    "name": "Телепутешествия",
+    "slug": "teleputeshestviya-ru-sd-9978",
+    "logoUrl": "https://i.imgur.com/eXJm1n3.png",
+    "streamUrl": "http://31.148.48.15/Teleputeshestviya/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "Teleputeshestviya.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tanzaniasafarichannel-tz-sd-9742",
+    "name": "Tanzania Safari Channel",
+    "slug": "tanzaniasafarichannel-tz-sd-9742",
+    "logoUrl": "https://i.imgur.com/fcLFYhn.png",
+    "streamUrl": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TanzaniaSafariChannel.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tanzania-safari-channel::tz::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvoff-bo-sd-10999",
+    "name": "TV OFF",
+    "slug": "tvoff-bo-sd-10999",
+    "logoUrl": "https://i.imgur.com/vBe1GgI.png",
+    "streamUrl": "https://seo.tv.bo/tv/TV-OFF.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TVOFF.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-off::bo::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "funroads-us-sd-3844",
+    "name": "Fun Roads",
+    "slug": "funroads-us-sd-3844",
+    "logoUrl": "https://i.imgur.com/2Q6TENm.png",
+    "streamUrl": "http://104.143.4.5:2080/funroads.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "FunRoads.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fun-roads::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beachtvcsulb-us-sd-1346",
+    "name": "Beach TV CSULB",
+    "slug": "beachtvcsulb-us-sd-1346",
+    "logoUrl": "https://i.imgur.com/EJjfSWi.png",
+    "streamUrl": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "BeachTVCSULB.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beach-tv-csulb::us::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

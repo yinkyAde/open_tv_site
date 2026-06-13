@@ -1,0 +1,2708 @@
+[
+  {
+    "id": "canal27-gt-sd-1847",
+    "name": "Canal 27",
+    "slug": "canal27-gt-sd-1847",
+    "logoUrl": "https://i.imgur.com/eA4vt8A.png",
+    "streamUrl": "https://live.canal27.tv:3633/live/canal27live.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Canal27.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-27::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaliglesialuzyverdad-gt-sd-1907",
+    "name": "Canal Iglesia Luz y Verdad",
+    "slug": "canaliglesialuzyverdad-gt-sd-1907",
+    "logoUrl": "https://i.ibb.co/x3Vdz6h/Screenshot-20231202-125205.jpg",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalIglesiaLuzyVerdad.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-iglesia-luz-y-verdad::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "expresiontv-gt-sd-3524",
+    "name": "Expresión TV",
+    "slug": "expresiontv-gt-sd-3524",
+    "logoUrl": "https://i.imgur.com/lFek4Pj.png",
+    "streamUrl": "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ExpresionTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "expresi-n-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "siltv-gt-sd-9141",
+    "name": "SIL TV",
+    "slug": "siltv-gt-sd-9141",
+    "logoUrl": "https://i.imgur.com/tWZXRVu.png",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SILTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sil-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tunevision-gt-sd-10576",
+    "name": "Tunevisión",
+    "slug": "tunevision-gt-sd-10576",
+    "logoUrl": "https://i.imgur.com/XNiXqgj.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Tunevision.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tunevisi-n::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal3-gt-hd-1755",
+    "name": "Canal 3",
+    "slug": "canal3-gt-hd-1755",
+    "logoUrl": "https://i.imgur.com/yCykjIp.png",
+    "streamUrl": "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_5900814650867226228_hls.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "Canal3.gt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "auroramediafilms-gt-sd-1008",
+    "name": "Aurora Media Films",
+    "slug": "auroramediafilms-gt-sd-1008",
+    "logoUrl": "https://i.imgur.com/DVC5w6H.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "AuroraMediaFilms.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aurora-media-films::gt::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bdtelevision-gt-sd-1345",
+    "name": "BD Televisión",
+    "slug": "bdtelevision-gt-sd-1345",
+    "logoUrl": "https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BDTelevision.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bd-televisi-n::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13esquipulas-gt-sd-1822",
+    "name": "Canal 13 Esquipulas",
+    "slug": "canal13esquipulas-gt-sd-1822",
+    "logoUrl": "https://i.imgur.com/INKZvlN.png",
+    "streamUrl": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13Esquipulas.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-esquipulas::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal6panadish-gt-sd-1783",
+    "name": "Canal 6 Panadish",
+    "slug": "canal6panadish-gt-sd-1783",
+    "logoUrl": "https://i.imgur.com/KJWNPiz.jpg",
+    "streamUrl": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal6Panadish.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-6-panadish::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalvisof-gt-sd-1957",
+    "name": "Canal Visof",
+    "slug": "canalvisof-gt-sd-1957",
+    "logoUrl": "https://i.imgur.com/XiszuLl.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalVisof.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-visof::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elroitv-gt-sd-3291",
+    "name": "El-Roi TV",
+    "slug": "elroitv-gt-sd-3291",
+    "logoUrl": "https://i.imgur.com/h8S0eA4.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ElRoiTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-roi-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "franchstv-gt-sd-3799",
+    "name": "Franchs TV",
+    "slug": "franchstv-gt-sd-3799",
+    "logoUrl": "https://i.imgur.com/Rr9pKQh.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FranchsTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "franchs-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jehovanissi-gt-sd-4789",
+    "name": "Jehová Nissi",
+    "slug": "jehovanissi-gt-sd-4789",
+    "logoUrl": "https://i.imgur.com/2BkL4wq.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "JehovaNissi.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jehov-nissi::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jubilotv-gt-sd-4898",
+    "name": "Júbilo TV",
+    "slug": "jubilotv-gt-sd-4898",
+    "logoUrl": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
+    "streamUrl": "http://173.249.60.54/hls/jubilotv.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "JubiloTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "j-bilo-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maxivisiontv-gt-sd-5762",
+    "name": "Maxivisión TV",
+    "slug": "maxivisiontv-gt-sd-5762",
+    "logoUrl": "https://i.imgur.com/UC8WrEN.jpg",
+    "streamUrl": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MaxivisionTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maxivisi-n-tv::gt::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rhematv-gt-sd-8259",
+    "name": "Rhema TV",
+    "slug": "rhematv-gt-sd-8259",
+    "logoUrl": "https://i.imgur.com/5o821rT.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RhemaTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rhema-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sastv-gt-sd-8928",
+    "name": "SAS TV",
+    "slug": "sastv-gt-sd-8928",
+    "logoUrl": "https://i.imgur.com/VShjB3o.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "SASTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sas-tv::gt::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "soltv-gt-sd-9245",
+    "name": "Sol TV",
+    "slug": "soltv-gt-sd-9245",
+    "logoUrl": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SolTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sol-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecosta-gt-sd-9873",
+    "name": "Telecosta",
+    "slug": "telecosta-gt-sd-9873",
+    "logoUrl": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",
+    "streamUrl": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telecosta.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecosta::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvflorencia-gt-sd-10865",
+    "name": "TV Florencia",
+    "slug": "tvflorencia-gt-sd-10865",
+    "logoUrl": "https://i.imgur.com/jsbwnRb.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVFlorencia.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-florencia::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsretro-gt-sd-11188",
+    "name": "TVS Retro",
+    "slug": "tvsretro-gt-sd-11188",
+    "logoUrl": "https://i.imgur.com/jdnHci0.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSRetro.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-retro::gt::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "visiontv-gt-sd-11547",
+    "name": "Visión TV",
+    "slug": "visiontv-gt-sd-11547",
+    "logoUrl": "https://i.imgur.com/S0JrfIl.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VisionTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "visi-n-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "presenciatelevision-gt-sd-7664",
+    "name": "Presencia TV",
+    "slug": "presenciatelevision-gt-sd-7664",
+    "logoUrl": "https://i.imgur.com/SVho6El.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PresenciaTelevision.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "presencia-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal30tvbethel-gt-sd-1850",
+    "name": "Canal 30 TV Bethel",
+    "slug": "canal30tvbethel-gt-sd-1850",
+    "logoUrl": "https://i.imgur.com/PP4U1JL.png",
+    "streamUrl": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Canal30TVBethel.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-30-tv-bethel::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemax-gt-sd-9919",
+    "name": "Canal 32 Telemax",
+    "slug": "telemax-gt-sd-9919",
+    "logoUrl": "https://i.imgur.com/HisGao7.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telemax.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-32-telemax::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barbetv-gt-sd-1141",
+    "name": "Canal 9 Barbe TV",
+    "slug": "barbetv-gt-sd-1141",
+    "logoUrl": "https://i.imgur.com/2Sekew2.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BarbeTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-9-barbe-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalpeniel-gt-sd-1928",
+    "name": "Canal Peniel",
+    "slug": "canalpeniel-gt-sd-1928",
+    "logoUrl": "https://i.imgur.com/Z7aKJCt.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalPeniel.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-peniel::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "candelariatv-gt-sd-1963",
+    "name": "Candelaria TV",
+    "slug": "candelariatv-gt-sd-1963",
+    "logoUrl": "https://i.imgur.com/Mq1yoUQ.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CandelariaTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "candelaria-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "carinosatv-gt-sd-1995",
+    "name": "Cariñosa TV",
+    "slug": "carinosatv-gt-sd-1995",
+    "logoUrl": "https://i.imgur.com/13Kb6Lp.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CarinosaTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cari-osa-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gardeniastv-gt-sd-3874",
+    "name": "Gardenias TV",
+    "slug": "gardeniastv-gt-sd-3874",
+    "logoUrl": "https://i.ibb.co/YfVmfwV/83ff2da28cae14bc47bb07e976bef578.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GardeniasTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gardenias-tv::gt::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jacalcanal5-gt-sd-4738",
+    "name": "Jacal Canal 5",
+    "slug": "jacalcanal5-gt-sd-4738",
+    "logoUrl": "https://i.imgur.com/k1oW0C6.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JacalCanal5.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jacal-canal-5::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "knal4quiche-gt-sd-5155",
+    "name": "Knal 4 Quiché",
+    "slug": "knal4quiche-gt-sd-5155",
+    "logoUrl": "https://i.imgur.com/YRSv2Tf.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Knal4Quiche.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "knal-4-quich::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multivisioncanal3-gt-sd-6241",
+    "name": "Multivisión Canal 3",
+    "slug": "multivisioncanal3-gt-sd-6241",
+    "logoUrl": "https://i.imgur.com/6bdj2BV.jpg",
+    "streamUrl": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MultivisionCanal3.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multivisi-n-canal-3::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multivisionsports-gt-sd-6243",
+    "name": "Multivisión Sports",
+    "slug": "multivisionsports-gt-sd-6243",
+    "logoUrl": "https://i.imgur.com/wLjSSo2.jpg",
+    "streamUrl": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "MultivisionSports.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multivisi-n-sports::gt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nimtv-gt-sd-6633",
+    "name": "Nim TV",
+    "slug": "nimtv-gt-sd-6633",
+    "logoUrl": "https://i.imgur.com/mBNOSzl.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NimTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nim-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmaria-gt-sd-10944",
+    "name": "TV María",
+    "slug": "tvmaria-gt-sd-10944",
+    "logoUrl": "https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVMaria.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-mar-a::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unicatv-gt-sd-11320",
+    "name": "Única TV",
+    "slug": "unicatv-gt-sd-11320",
+    "logoUrl": "https://i.imgur.com/VE5OrU7.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UnicaTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nica-tv::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "penielmusical-gt-sd-7192",
+    "name": "Peniel Musical",
+    "slug": "penielmusical-gt-sd-7192",
+    "logoUrl": "https://i.imgur.com/IFQbGEf.png",
+    "streamUrl": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PenielMusical.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "peniel-musical::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "amigostvchiquimula-gt-sd-652",
+    "name": "Amigos TV Chiquimula",
+    "slug": "amigostvchiquimula-gt-sd-652",
+    "logoUrl": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+    "streamUrl": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AmigosTVChiquimula.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amigos-tv-chiquimula::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal100chinique-gt-sd-1868",
+    "name": "Canal 100 Chinique",
+    "slug": "canal100chinique-gt-sd-1868",
+    "logoUrl": "https://i.imgur.com/ygNKJXx.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal100Chinique.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-100-chinique::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaltvradiomayatgba-gt-sd-1956",
+    "name": "Canal TV Radio Maya TGBA",
+    "slug": "canaltvradiomayatgba-gt-sd-1956",
+    "logoUrl": "https://i.imgur.com/kORStT1.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalTVRadioMayaTGBA.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-tv-radio-maya-tgba::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cristotv-gt-sd-2672",
+    "name": "Cristo TV",
+    "slug": "cristotv-gt-sd-2672",
+    "logoUrl": "https://i.ibb.co/c2czW3M/Screenshot-20231201-180316.jpg",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CristoTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cristo-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "espiritusantoyfuegotv-gt-sd-3381",
+    "name": "Espíritu Santo Y Fuego TV",
+    "slug": "espiritusantoyfuegotv-gt-sd-3381",
+    "logoUrl": "https://i.imgur.com/8mdSWO4.jpg",
+    "streamUrl": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EspirituSantoYFuegoTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "esp-ritu-santo-y-fuego-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "feviviente-gt-sd-3628",
+    "name": "Fe Viviente",
+    "slug": "feviviente-gt-sd-3628",
+    "logoUrl": "https://i.imgur.com/PkW3cKR.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FeViviente.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fe-viviente::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "penielky-gt-sd-7191",
+    "name": "Peniel Kids & Young",
+    "slug": "penielky-gt-sd-7191",
+    "logoUrl": "https://i.imgur.com/YtPRKmS.png",
+    "streamUrl": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PenielKY.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "peniel-kids-young::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "penieltvbibliaabierta-gt-sd-7194",
+    "name": "Peniel TV Biblia Abierta",
+    "slug": "penieltvbibliaabierta-gt-sd-7194",
+    "logoUrl": "https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png",
+    "streamUrl": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PenielTVBibliaAbierta.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "peniel-tv-biblia-abierta::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmaya-gt-sd-10958",
+    "name": "TV Maya",
+    "slug": "tvmaya-gt-sd-10958",
+    "logoUrl": "https://i.imgur.com/BGFa4OO.png",
+    "streamUrl": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "yua"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVMaya.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-maya::gt::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iglesiadelcamino-gt-sd-4518",
+    "name": "Iglesia Del Camino",
+    "slug": "iglesiadelcamino-gt-sd-4518",
+    "logoUrl": "https://i.imgur.com/vHfb3Z4.png",
+    "streamUrl": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IglesiaDelCamino.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iglesia-del-camino::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plenitudtv-gt-sd-7303",
+    "name": "Plenitud TV",
+    "slug": "plenitudtv-gt-sd-7303",
+    "logoUrl": "https://i.imgur.com/BFJ7EGj.png",
+    "streamUrl": "https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PlenitudTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plenitud-tv::gt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gtv-gt-sd-4103",
+    "name": "Génesis TV",
+    "slug": "gtv-gt-sd-4103",
+    "logoUrl": "https://i.imgur.com/gUiIC8E.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GTV.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "g-nesis-tv::gt::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvtun-gt-sd-11220",
+    "name": "TV Tun",
+    "slug": "tvtun-gt-sd-11220",
+    "logoUrl": "https://i.imgur.com/dGSfHCj.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVTun.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-tun::gt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tigosports-gt-sd-10284",
+    "name": "Tigo Sports",
+    "slug": "tigosports-gt-sd-10284",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "streamUrl": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TigoSports.gt",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tigo-sports::gt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

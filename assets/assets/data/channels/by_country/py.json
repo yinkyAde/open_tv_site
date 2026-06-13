@@ -1,0 +1,3399 @@
+[
+  {
+    "id": "paraguaytv-py-sd-7116",
+    "name": "Paraguay TV",
+    "slug": "paraguaytv-py-sd-7116",
+    "logoUrl": "https://i.imgur.com/fkK7i8g.png",
+    "streamUrl": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa",
+      "gug"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ParaguayTV.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "paraguay-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "snt-py-sd-9228",
+    "name": "SNT",
+    "slug": "snt-py-sd-9228",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
+    "streamUrl": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SNT.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "snt::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "c9n-py-sd-1709",
+    "name": "C9N",
+    "slug": "c9n-py-sd-1709",
+    "logoUrl": "https://i.imgur.com/iXkwP31.png",
+    "streamUrl": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "C9N.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c9n::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "latele-py-sd-5379",
+    "name": "Latele",
+    "slug": "latele-py-sd-5379",
+    "logoUrl": "https://i.imgur.com/Qcf6Qev.png",
+    "streamUrl": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Latele.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "latele::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "npy-py-sd-6747",
+    "name": "NPY",
+    "slug": "npy-py-sd-6747",
+    "logoUrl": "https://i.imgur.com/pUEkaiW.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NPY.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "npy::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telefuturo-py-sd-9890",
+    "name": "Telefuturo",
+    "slug": "telefuturo-py-sd-9890",
+    "logoUrl": "https://i.imgur.com/6lVrFvb.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telefuturo.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telefuturo::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trece-py-sd-10502",
+    "name": "Trece",
+    "slug": "trece-py-sd-10502",
+    "logoUrl": "https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Trece.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trece::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unicanal-py-sd-11319",
+    "name": "Unicanal",
+    "slug": "unicanal-py-sd-11319",
+    "logoUrl": "https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Unicanal.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unicanal::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal8visiontv-py-sd-1798",
+    "name": "Canal 8 Vision TV",
+    "slug": "canal8visiontv-py-sd-1798",
+    "logoUrl": "https://i.imgur.com/mKju6hk.png",
+    "streamUrl": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal8VisionTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-8-vision-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "caritastv-py-sd-1996",
+    "name": "Cáritas TV",
+    "slug": "caritastv-py-sd-1996",
+    "logoUrl": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CaritasTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-ritas-tv::py::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "delreytv-py-sd-2929",
+    "name": "Del Rey TV",
+    "slug": "delreytv-py-sd-2929",
+    "logoUrl": "https://i.imgur.com/Zjxvg9u.jpeg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "DelReyTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "del-rey-tv::py::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "e40-py-sd-3198",
+    "name": "E40",
+    "slug": "e40-py-sd-3198",
+    "logoUrl": "https://i.imgur.com/0RypDUY.png",
+    "streamUrl": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "E40.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "e40::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "heinow-py-sd-4237",
+    "name": "HEi Now",
+    "slug": "heinow-py-sd-4237",
+    "logoUrl": "https://i.imgur.com/oMHiGRN.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HEiNow.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hei-now::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "megatv-py-sd-5848",
+    "name": "Mega TV",
+    "slug": "megatv-py-sd-5848",
+    "logoUrl": "https://i.imgur.com/CaA7l86.png",
+    "streamUrl": "https://www.desde-paraguay.com/mega.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MegaTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mega-tv::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "poputv-py-sd-7606",
+    "name": "Popu TV",
+    "slug": "poputv-py-sd-7606",
+    "logoUrl": "https://i.imgur.com/UqCogyZ.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PopuTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "popu-tv::py::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotvelarcadelpacto-py-sd-7951",
+    "name": "Radio TV El Arca del Pacto",
+    "slug": "radiotvelarcadelpacto-py-sd-7951",
+    "logoUrl": "https://i.imgur.com/Oq0i3Rb.png",
+    "streamUrl": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioTVElArcadelPacto.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tv-el-arca-del-pacto::py::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "regionaltvyaguaron-py-sd-8178",
+    "name": "Regional TV Yaguaron",
+    "slug": "regionaltvyaguaron-py-sd-8178",
+    "logoUrl": "https://i.imgur.com/iL5JnSy.jpeg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RegionalTVYaguaron.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "regional-tv-yaguaron::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rqpparaguay-py-sd-8344",
+    "name": "RQP Paraguay",
+    "slug": "rqpparaguay-py-sd-8344",
+    "logoUrl": "https://i.imgur.com/0cUc4Nt.png",
+    "streamUrl": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RQPParaguay.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rqp-paraguay::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telequince-py-sd-9981",
+    "name": "Telequince",
+    "slug": "telequince-py-sd-9981",
+    "logoUrl": "https://i.imgur.com/og7xuqe.png",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telequince.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telequince::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcamara-py-sd-10769",
+    "name": "TV Camara",
+    "slug": "tvcamara-py-sd-10769",
+    "logoUrl": "https://i.imgur.com/Mfypr0t.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "TVCamara.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-camara::py::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcanindeyu-py-sd-10774",
+    "name": "TV Canindeyu",
+    "slug": "tvcanindeyu-py-sd-10774",
+    "logoUrl": "https://i.imgur.com/cateqjx.jpeg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCanindeyu.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-canindeyu::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uniradiotv-py-sd-11333",
+    "name": "UniRadio TV",
+    "slug": "uniradiotv-py-sd-11333",
+    "logoUrl": "https://i.imgur.com/Co3YrU0.png",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UniRadioTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uniradio-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "venusmedia-py-sd-11452",
+    "name": "Venus Media",
+    "slug": "venusmedia-py-sd-11452",
+    "logoUrl": "https://i.imgur.com/XwmUbfp.png",
+    "streamUrl": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VenusMedia.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "venus-media::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "villaelisaradiotv-py-sd-11533",
+    "name": "Villa Elisa Radio TV",
+    "slug": "villaelisaradiotv-py-sd-11533",
+    "logoUrl": "https://i.imgur.com/ryzCsvy.jpg",
+    "streamUrl": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VillaElisaRadioTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "villa-elisa-radio-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "4dmasnoticiastv-py-sd-43",
+    "name": "4DmásNoticias TV",
+    "slug": "4dmasnoticiastv-py-sd-43",
+    "logoUrl": "https://i.ibb.co/1fb5BtN/unnamed.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "4DmasNoticiasTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "4dm-snoticias-tv::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rcctv-py-sd-8082",
+    "name": "RCC TV",
+    "slug": "rcctv-py-sd-8082",
+    "logoUrl": "https://i.imgur.com/qdjBnRl.png",
+    "streamUrl": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RCCTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcc-tv::py::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reddigital-py-sd-8149",
+    "name": "Red Digital",
+    "slug": "reddigital-py-sd-8149",
+    "logoUrl": "https://i.imgur.com/3jj0MQP.jpg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedDigital.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-digital::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nanduti-py-sd-6332",
+    "name": "Nanduti",
+    "slug": "nanduti-py-sd-6332",
+    "logoUrl": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nandutitv.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Nanduti.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nanduti::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tigosports-py-sd-10285",
+    "name": "Tigo Sports",
+    "slug": "tigosports-py-sd-10285",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+    "streamUrl": "https://live.enhdtv.com:8081/8160/index.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TigoSports.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tigo-sports::py::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://45.170.130.224:8000/play/a04i/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "almayatv-py-sd-557",
+    "name": "Almaya TV",
+    "slug": "almayatv-py-sd-557",
+    "logoUrl": "https://i.imgur.com/dDAf1nJ.png",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlmayaTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "almaya-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "brunomasitv-py-sd-1646",
+    "name": "Bruno Masi TV",
+    "slug": "brunomasitv-py-sd-1646",
+    "logoUrl": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BrunoMasiTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bruno-masi-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal5tvmax-py-sd-1779",
+    "name": "Canal 5 TV Max",
+    "slug": "canal5tvmax-py-sd-1779",
+    "logoUrl": "https://i.imgur.com/6oihaDM.png",
+    "streamUrl": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5TVMax.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5-tv-max::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cosmostv-py-sd-2632",
+    "name": "Cosmos TV",
+    "slug": "cosmostv-py-sd-2632",
+    "logoUrl": "https://i.imgur.com/dAMyExY.jpg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "CosmosTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cosmos-tv::py::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dismarradiotv-py-sd-3006",
+    "name": "Dismar Radio TV",
+    "slug": "dismarradiotv-py-sd-3006",
+    "logoUrl": "https://i.imgur.com/KOuxdMD.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DismarRadioTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dismar-radio-tv::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "enlenguadesenastv-py-sd-3333",
+    "name": "En Lengua de Senas TV",
+    "slug": "enlenguadesenastv-py-sd-3333",
+    "logoUrl": "https://i.imgur.com/oxPEZas.png",
+    "streamUrl": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa",
+      "ssp"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "EnLenguadeSenasTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "en-lengua-de-senas-tv::py::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gotv-py-sd-4046",
+    "name": "GO TV",
+    "slug": "gotv-py-sd-4046",
+    "logoUrl": "https://i.ibb.co/jkvYVyz/Captura.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GOTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "go-tv::py::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "limtv-py-sd-5476",
+    "name": "LIM TV",
+    "slug": "limtv-py-sd-5476",
+    "logoUrl": "https://i.imgur.com/CALoCyo.png",
+    "streamUrl": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LIMTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lim-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mitv-py-sd-5992",
+    "name": "MiTV",
+    "slug": "mitv-py-sd-5992",
+    "logoUrl": "https://i.imgur.com/sgrEt9z.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MiTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mitv::py::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oasistv-py-sd-6858",
+    "name": "Oasis TV",
+    "slug": "oasistv-py-sd-6858",
+    "logoUrl": "https://i.imgur.com/u9umNKp.jpeg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "OasisTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oasis-tv::py::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "republicatv-py-sd-8202",
+    "name": "República TV",
+    "slug": "republicatv-py-sd-8202",
+    "logoUrl": "https://i.ibb.co/qYRw4JP/Captura.png",
+    "streamUrl": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RepublicaTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rep-blica-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "farraplay-py-sd-3589",
+    "name": "Farra Play",
+    "slug": "farraplay-py-sd-3589",
+    "logoUrl": "https://i.imgur.com/bXWzstH.png",
+    "streamUrl": "http://159.203.148.226/live/farra.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FarraPlay.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "farra-play::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.farra.com.py/live/farra_low.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sucesotv-py-sd-9554",
+    "name": "Suceso TV",
+    "slug": "sucesotv-py-sd-9554",
+    "logoUrl": "https://i.imgur.com/BwRNes1.png",
+    "streamUrl": "https://live.enhdtv.com:8081/8060/index.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SucesoTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suceso-tv::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "paravision-py-sd-7124",
+    "name": "Paravision",
+    "slug": "paravision-py-sd-7124",
+    "logoUrl": "https://i.imgur.com/yd9Dw2G.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa",
+      "grn"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Paravision.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "paravision::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "surtvitapua-py-sd-9620",
+    "name": "SUR TV Itapua",
+    "slug": "surtvitapua-py-sd-9620",
+    "logoUrl": "https://i.imgur.com/ltJQvZd.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SURTVItapua.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sur-tv-itapua::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uniontv-py-sd-11330",
+    "name": "UnionTV",
+    "slug": "uniontv-py-sd-11330",
+    "logoUrl": "https://i.imgur.com/No9YzNC.png",
+    "streamUrl": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UnionTV.py",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uniontv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gen-py-sd-3930",
+    "name": "Gen",
+    "slug": "gen-py-sd-3930",
+    "logoUrl": "https://i.imgur.com/vEMnZF4.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Gen.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gen::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "a24paraguay-py-sd-192",
+    "name": "A24 Paraguay",
+    "slug": "a24paraguay-py-sd-192",
+    "logoUrl": "https://i.imgur.com/XWBmjBk.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "A24Paraguay.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a24-paraguay::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abctvparaguay-py-sd-257",
+    "name": "ABC-TV Paraguay",
+    "slug": "abctvparaguay-py-sd-257",
+    "logoUrl": "https://i.imgur.com/OqfBMGy.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ABCTVParaguay.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abc-tv-paraguay::py::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alcancefmplaytv-py-sd-439",
+    "name": "Alcance FM PLAY TV",
+    "slug": "alcancefmplaytv-py-sd-439",
+    "logoUrl": "https://i.imgur.com/ymcWecA.png",
+    "streamUrl": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AlcanceFMPLAYTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alcance-fm-play-tv::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americaparaguay-py-sd-639",
+    "name": "America Paraguay",
+    "slug": "americaparaguay-py-sd-639",
+    "logoUrl": "https://i.imgur.com/rCEu3fM.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaParaguay.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "america-paraguay::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal8ccproducciones-py-sd-1795",
+    "name": "Canal 8 C&C Producciones",
+    "slug": "canal8ccproducciones-py-sd-1795",
+    "logoUrl": "https://i.imgur.com/SVj5fjg.jpg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal8CCProducciones.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-8-c-c-producciones::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalpro-py-sd-1931",
+    "name": "Canal Pro",
+    "slug": "canalpro-py-sd-1931",
+    "logoUrl": "https://i.imgur.com/ah8n7jL.png",
+    "streamUrl": "https://www.desde-paraguay.com/pro.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CanalPro.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-pro::py::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "monumentaltv-py-sd-6067",
+    "name": "Monumental TV",
+    "slug": "monumentaltv-py-sd-6067",
+    "logoUrl": "https://i.imgur.com/kEcOYML.png",
+    "streamUrl": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MonumentalTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "monumental-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nandeportetepetv-py-sd-6330",
+    "name": "Nande Portetepe TV",
+    "slug": "nandeportetepetv-py-sd-6330",
+    "logoUrl": "https://i.imgur.com/3taT6JK.jpeg",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NandePortetepeTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nande-portetepe-tv::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nandejaraneetv-py-sd-6329",
+    "name": "Nandejara Ne'e TV",
+    "slug": "nandejaraneetv-py-sd-6329",
+    "logoUrl": "https://i.imgur.com/VFxuBdL.jpg",
+    "streamUrl": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NandejaraNeeTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nandejara-ne-e-tv::py::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nexthd-py-sd-6567",
+    "name": "Next HD",
+    "slug": "nexthd-py-sd-6567",
+    "logoUrl": "https://i.imgur.com/c2rF3SS.png",
+    "streamUrl": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "NextHD.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "next::py::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "obediratv-py-sd-6859",
+    "name": "Obedira TV",
+    "slug": "obediratv-py-sd-6859",
+    "logoUrl": "https://i.imgur.com/fRzOUw5.png",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ObediraTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "obedira-tv::py::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "occidentaltv-py-sd-6866",
+    "name": "Occidental TV",
+    "slug": "occidentaltv-py-sd-6866",
+    "logoUrl": "https://i.imgur.com/8IRBA9h.png",
+    "streamUrl": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OccidentalTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "occidental-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oviedotv-py-sd-7078",
+    "name": "Oviedo TV",
+    "slug": "oviedotv-py-sd-7078",
+    "logoUrl": "https://i.imgur.com/6OlfgSQ.png",
+    "streamUrl": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OviedoTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oviedo-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "productivatv-py-sd-7692",
+    "name": "Productiva TV",
+    "slug": "productivatv-py-sd-7692",
+    "logoUrl": "https://i.imgur.com/KXHK7UP.png",
+    "streamUrl": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ProductivaTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "productiva-tv::py::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiociudad989fmtv-py-sd-7877",
+    "name": "Radio Ciudad 98.9 FM TV",
+    "slug": "radiociudad989fmtv-py-sd-7877",
+    "logoUrl": "https://i.imgur.com/LaSLZwR.jpg",
+    "streamUrl": "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioCiudad989FMTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-ciudad-98-9-fm-tv::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radionacionaldelparaguay-py-sd-7907",
+    "name": "Radio Nacional del Paraguay",
+    "slug": "radionacionaldelparaguay-py-sd-7907",
+    "logoUrl": "https://i.imgur.com/ksh20I5.png",
+    "streamUrl": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioNacionaldelParaguay.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-nacional-del-paraguay::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiosancristobal887fm-py-sd-7918",
+    "name": "Radio San Cristobal 88.7 FM",
+    "slug": "radiosancristobal887fm-py-sd-7918",
+    "logoUrl": "https://i.imgur.com/zaJhBdj.png",
+    "streamUrl": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioSanCristobal887FM.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-san-cristobal-88-7-fm::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redinteriortv-py-sd-8162",
+    "name": "Red Interior TV",
+    "slug": "redinteriortv-py-sd-8162",
+    "logoUrl": "https://i.imgur.com/z89GLCw.png",
+    "streamUrl": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedInteriorTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-interior-tv::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvaire-py-sd-10719",
+    "name": "TV Aire",
+    "slug": "tvaire-py-sd-10719",
+    "logoUrl": "https://i.imgur.com/7gHFKPZ.png",
+    "streamUrl": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVAire.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-aire::py::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tropicalia939fm-py-sd-10518",
+    "name": "Tropicalia 93.9 FM",
+    "slug": "tropicalia939fm-py-sd-10518",
+    "logoUrl": "https://i.imgur.com/oMML5Ue.png",
+    "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Tropicalia939FM.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tropicalia-93-9-fm::py::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "ignitetelevision-gy-sd-4520",
+    "name": "Ignite Television",
+    "slug": "ignitetelevision-gy-sd-4520",
+    "logoUrl": "https://i.imgur.com/aQI9tsg.jpeg",
+    "streamUrl": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8",
+    "country": {
+      "code": "GY",
+      "name": "Guyana"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IgniteTelevision.gy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ignite-television::gy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mtvguyana-gy-sd-6197",
+    "name": "MTV Guyana",
+    "slug": "mtvguyana-gy-sd-6197",
+    "logoUrl": "https://i.imgur.com/Ky70brA.png",
+    "streamUrl": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8",
+    "country": {
+      "code": "GY",
+      "name": "Guyana"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MTVGuyana.gy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv-guyana::gy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hgptv-gy-sd-4263",
+    "name": "HGPTV",
+    "slug": "hgptv-gy-sd-4263",
+    "logoUrl": "https://i.imgur.com/0aIH6V5.png",
+    "streamUrl": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8",
+    "country": {
+      "code": "GY",
+      "name": "Guyana"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HGPTV.gy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hgptv::gy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "id": "nasa-tv",
+    "name": "NASA TV",
+    "slug": "nasa-tv",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
+    "streamUrl": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-Media/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "English"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "working",
+      "lastCheckedAt": "2026-06-08T00:00:00Z",
+      "httpStatus": 200,
+      "startupTimeMs": 1200
+    },
+    "quality": {
+      "label": "HD",
+      "width": 1280,
+      "height": 720,
+      "bandwidth": 2500000,
+      "confidence": "medium",
+      "source": "fallback"
+    },
+    "ux": {
+      "score": 90,
+      "badges": [
+        "HD",
+        "Live"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    }
+  },
+  "shelves": [
+    {
+      "id": "featured",
+      "title": "Featured Live Channels",
+      "asset": "assets/data/channels/featured.json"
+    },
+    {
+      "id": "news",
+      "title": "Live News",
+      "asset": "assets/data/channels/by_category/news.json"
+    },
+    {
+      "id": "quality",
+      "title": "High Quality Streams",
+      "asset": "assets/data/channels/high_quality.json"
+    }
+  ]
+}

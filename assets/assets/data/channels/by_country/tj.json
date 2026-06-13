@@ -1,0 +1,716 @@
+[
+  {
+    "id": "dushanbehd-tj-sd-3181",
+    "name": "Dushanbe HD",
+    "slug": "dushanbehd-tj-sd-3181",
+    "logoUrl": "https://i.imgur.com/WWPIziG.png",
+    "streamUrl": "https://live.teleradiocom.tj/7/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DushanbeHD.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dushanbe::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "futbol-tj-sd-3847",
+    "name": "Futbol",
+    "slug": "futbol-tj-sd-3847",
+    "logoUrl": "https://i.imgur.com/RngmCDn.png",
+    "streamUrl": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Futbol.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "futbol::tj::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ilmvatabiat-tj-sd-4528",
+    "name": "Ilm va Tabiat",
+    "slug": "ilmvatabiat-tj-sd-4528",
+    "logoUrl": "https://i.imgur.com/MDULX7X.png",
+    "streamUrl": "https://live.teleradiocom.tj/15/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "IlmvaTabiat.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ilm-va-tabiat::tj::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jahonnamo-tj-sd-4740",
+    "name": "Jahonnamo",
+    "slug": "jahonnamo-tj-sd-4740",
+    "logoUrl": "https://i.imgur.com/ffqdD8W.png",
+    "streamUrl": "https://live.teleradiocom.tj/4/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Jahonnamo.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jahonnamo::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tojikiston-tj-sd-10381",
+    "name": "Tajikistan",
+    "slug": "tojikiston-tj-sd-10381",
+    "logoUrl": "https://i.imgur.com/sEXCFNk.png",
+    "streamUrl": "https://live.teleradiocom.tj/1/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Tojikiston.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tajikistan::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tmt-tj-sd-10340",
+    "name": "TMT",
+    "slug": "tmt-tj-sd-10340",
+    "logoUrl": "https://i.imgur.com/Dg0UkNR.png",
+    "streamUrl": "https://live.teleradiocom.tj/9/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TMT.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tmt::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbahoriston-tj-sd-10742",
+    "name": "TV Bahoriston",
+    "slug": "tvbahoriston-tj-sd-10742",
+    "logoUrl": "https://i.imgur.com/Dacai5z.png",
+    "streamUrl": "https://live.teleradiocom.tj/3/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "TVBahoriston.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-bahoriston::tj::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsafina-tj-sd-11136",
+    "name": "TV Safina",
+    "slug": "tvsafina-tj-sd-11136",
+    "logoUrl": "https://i.imgur.com/Ho2vKZJ.png",
+    "streamUrl": "https://live.teleradiocom.tj/2/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSafina.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-safina::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsayohi-tj-sd-11141",
+    "name": "TV Sayohi",
+    "slug": "tvsayohi-tj-sd-11141",
+    "logoUrl": "https://i.imgur.com/lAkMrtr.png",
+    "streamUrl": "https://live.teleradiocom.tj/16/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TVSayohi.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sayohi::tj::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsinamo-tj-sd-11165",
+    "name": "TV Sinamo",
+    "slug": "tvsinamo-tj-sd-11165",
+    "logoUrl": "https://i.imgur.com/W2qz5a4.png",
+    "streamUrl": "https://live.teleradiocom.tj/6/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSinamo.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sinamo::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsugd-tj-sd-11201",
+    "name": "TV Sugd",
+    "slug": "tvsugd-tj-sd-11201",
+    "logoUrl": "https://i.imgur.com/YzkwTHb.png",
+    "streamUrl": "https://live.teleradiocom.tj/14/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSugd.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sugd::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "badakhshon-tj-sd-1094",
+    "name": "Badakhshon",
+    "slug": "badakhshon-tj-sd-1094",
+    "logoUrl": "https://i.imgur.com/iK6AmkZ.png",
+    "streamUrl": "https://live.teleradiocom.tj/11/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Badakhshon.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "badakhshon::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "khatlon-tj-sd-5085",
+    "name": "Khatlon",
+    "slug": "khatlon-tj-sd-5085",
+    "logoUrl": "https://i.imgur.com/X4xVpBj.png",
+    "streamUrl": "https://live.teleradiocom.tj/10/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Khatlon.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "khatlon::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvkulob-tj-sd-10906",
+    "name": "TV Kulob",
+    "slug": "tvkulob-tj-sd-10906",
+    "logoUrl": "https://i.imgur.com/AFgEYFp.png",
+    "streamUrl": "https://live.teleradiocom.tj/12/3m.m3u8",
+    "country": {
+      "code": "TJ",
+      "name": "Tajikistan"
+    },
+    "languages": [
+      "tgk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVKulob.tj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-kulob::tj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

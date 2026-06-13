@@ -1,0 +1,1599 @@
+[
+  {
+    "id": "milliy-uz-sd-5934",
+    "name": "Milliy",
+    "slug": "milliy-uz-sd-5934",
+    "logoUrl": "https://i.imgur.com/v4FBm26.png",
+    "streamUrl": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Milliy.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "milliy::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://milliy.tv/hls/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "my5-uz-sd-6276",
+    "name": "MY5",
+    "slug": "my5-uz-sd-6276",
+    "logoUrl": "https://i.imgur.com/bjlzu5k.png",
+    "streamUrl": "https://st.my5.media/hls/hd/index.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MY5.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "my5::uz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bizcinema-uz-sd-1499",
+    "name": "BIZ Cinema",
+    "slug": "bizcinema-uz-sd-1499",
+    "logoUrl": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "streamUrl": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "BIZCinema.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "biz-cinema::uz::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bizmusic-uz-sd-1501",
+    "name": "BIZ Music",
+    "slug": "bizmusic-uz-sd-1501",
+    "logoUrl": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+    "streamUrl": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BIZMusic.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "biz-music::uz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "biztv-uz-sd-1507",
+    "name": "BIZ TV",
+    "slug": "biztv-uz-sd-1507",
+    "logoUrl": "https://biztv.uz/static/media/logo.5f993187.png",
+    "streamUrl": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BIZTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "biz-tv::uz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dunyoboylab-uz-sd-3175",
+    "name": "Dunyo bo'ylab",
+    "slug": "dunyoboylab-uz-sd-3175",
+    "logoUrl": "https://i.imgur.com/KArB5U6.png",
+    "streamUrl": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Dunyoboylab.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dunyo-bo-ylab::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kinoteatr-uz-sd-5123",
+    "name": "Kinoteatr",
+    "slug": "kinoteatr-uz-sd-5123",
+    "logoUrl": "https://i.imgur.com/emH1BgC.png",
+    "streamUrl": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Kinoteatr.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kinoteatr::uz::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ozbekiston24-uz-sd-7082",
+    "name": "O'zbekiston 24",
+    "slug": "ozbekiston24-uz-sd-7082",
+    "logoUrl": "https://i.imgur.com/VRFhKbw.png",
+    "streamUrl": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Ozbekiston24.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "o-zbekiston-24::uz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ozbekistontarixi-uz-sd-7084",
+    "name": "O'zbekiston Tarixi",
+    "slug": "ozbekistontarixi-uz-sd-7084",
+    "logoUrl": "https://i.imgur.com/iTTd3Ir.png",
+    "streamUrl": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "OzbekistonTarixi.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "o-zbekiston-tarixi::uz::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sevimlitv-uz-sd-9020",
+    "name": "Sevimli TV",
+    "slug": "sevimlitv-uz-sd-9020",
+    "logoUrl": "https://i.imgur.com/iMwzRlr.png",
+    "streamUrl": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "SevimliTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sevimli-tv::uz::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uzreporttv-uz-sd-11389",
+    "name": "UzReport TV",
+    "slug": "uzreporttv-uz-sd-11389",
+    "logoUrl": "https://i.imgur.com/Bch2RHc.jpg",
+    "streamUrl": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "UzReportTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uzreport-tv::uz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "yoshlar-uz-sd-12049",
+    "name": "Yoshlar",
+    "slug": "yoshlar-uz-sd-12049",
+    "logoUrl": "https://i.imgur.com/s4xfUSx.png",
+    "streamUrl": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Yoshlar.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yoshlar::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "buxoromtrk-uz-sd-1693",
+    "name": "Buxoro MTRK",
+    "slug": "buxoromtrk-uz-sd-1693",
+    "logoUrl": "https://i.imgur.com/jmxPtC9.png",
+    "streamUrl": "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BuxoroMTRK.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "buxoro-mtrk::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qaraqalpaqstan-uz-sd-7774",
+    "name": "Qaraqalpaqstan",
+    "slug": "qaraqalpaqstan-uz-sd-7774",
+    "logoUrl": "https://i.imgur.com/G3qrUJh.png",
+    "streamUrl": "https://stream8.cinerama.uz/1467/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Qaraqalpaqstan.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qaraqalpaqstan::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "andijonmtrk-uz-sd-676",
+    "name": "Andijon MTRK",
+    "slug": "andijonmtrk-uz-sd-676",
+    "logoUrl": "https://i.imgur.com/EGPAvom.jpeg",
+    "streamUrl": "https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AndijonMTRK.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "andijon-mtrk::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aqlvoy-uz-sd-812",
+    "name": "Aqlvoy",
+    "slug": "aqlvoy-uz-sd-812",
+    "logoUrl": "https://i.imgur.com/ekF5cAi.png",
+    "streamUrl": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus",
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Aqlvoy.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aqlvoy::uz::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bolajon-uz-sd-1575",
+    "name": "Bolajon",
+    "slug": "bolajon-uz-sd-1575",
+    "logoUrl": "https://i.imgur.com/s7o0ifu.png",
+    "streamUrl": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Bolajon.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bolajon::uz::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dasturxontv-uz-sd-2784",
+    "name": "Dasturxon TV",
+    "slug": "dasturxontv-uz-sd-2784",
+    "logoUrl": "https://i.imgur.com/APM2ej5.jpeg",
+    "streamUrl": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DasturxonTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dasturxon-tv::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fargonamtrk-uz-sd-3584",
+    "name": "Farg'ona MTRK",
+    "slug": "fargonamtrk-uz-sd-3584",
+    "logoUrl": "https://i.imgur.com/RYjQOfo.jpeg",
+    "streamUrl": "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FargonaMTRK.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "farg-ona-mtrk::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ftv-uz-sd-3826",
+    "name": "FTV",
+    "slug": "ftv-uz-sd-3826",
+    "logoUrl": "https://i.imgur.com/7lpISyN.jpg",
+    "streamUrl": "https://stream8.cinerama.uz/1018/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ftv::uz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "madaniyatvamarifat-uz-sd-5622",
+    "name": "Madaniyat va ma'rifat",
+    "slug": "madaniyatvamarifat-uz-sd-5622",
+    "logoUrl": "https://i.imgur.com/eeNLXCP.png",
+    "streamUrl": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Madaniyatvamarifat.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "madaniyat-va-ma-rifat::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mahalla-uz-sd-5651",
+    "name": "Mahalla",
+    "slug": "mahalla-uz-sd-5651",
+    "logoUrl": "https://i.imgur.com/GtABiJI.png",
+    "streamUrl": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Mahalla.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mahalla::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "makontv-uz-sd-5669",
+    "name": "Makon TV",
+    "slug": "makontv-uz-sd-5669",
+    "logoUrl": "https://i.imgur.com/vCc0ED1.png",
+    "streamUrl": "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "rus",
+      "uzb"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MakonTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "makon-tv::uz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "navo-uz-sd-6395",
+    "name": "Navo",
+    "slug": "navo-uz-sd-6395",
+    "logoUrl": "https://i.imgur.com/7dZ64y9.png",
+    "streamUrl": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Navo.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "navo::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "navoiymtrk-uz-sd-6396",
+    "name": "Navoiy MTRK",
+    "slug": "navoiymtrk-uz-sd-6396",
+    "logoUrl": "https://i.imgur.com/qa4VlYh.png",
+    "streamUrl": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NavoiyMTRK.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "navoiy-mtrk::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ozbekiston-uz-sd-7083",
+    "name": "O'zbekiston",
+    "slug": "ozbekiston-uz-sd-7083",
+    "logoUrl": "https://i.imgur.com/QUIIhTD.png",
+    "streamUrl": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Ozbekiston.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "o-zbekiston::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "renessanstv-uz-sd-8190",
+    "name": "Renessans TV",
+    "slug": "renessanstv-uz-sd-8190",
+    "logoUrl": "https://i.imgur.com/cVlcqCX.png",
+    "streamUrl": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RenessansTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "renessans-tv::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sport-uz-sd-9344",
+    "name": "Sport",
+    "slug": "sport-uz-sd-9344",
+    "logoUrl": "https://i.imgur.com/2WJE9CM.png",
+    "streamUrl": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Sport.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sport::uz::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "taraqqiyottv-uz-sd-9751",
+    "name": "Taraqqiyot TV",
+    "slug": "taraqqiyottv-uz-sd-9751",
+    "logoUrl": "https://i.imgur.com/V3rtPEl.jpg",
+    "streamUrl": "https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TaraqqiyotTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "taraqqiyot-tv::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "toshkent-uz-sd-10434",
+    "name": "Toshkent",
+    "slug": "toshkent-uz-sd-10434",
+    "logoUrl": "https://i.imgur.com/Z9R4nZg.png",
+    "streamUrl": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Toshkent.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "toshkent::uz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zortv-uz-sd-12219",
+    "name": "Zo'r TV",
+    "slug": "zortv-uz-sd-12219",
+    "logoUrl": "https://i.imgur.com/NuzyhVM.png",
+    "streamUrl": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb",
+      "rus"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ZorTV.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zo-r-tv::uz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

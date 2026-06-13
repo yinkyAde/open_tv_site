@@ -1,0 +1,462 @@
+[
+  {
+    "id": "mrtv-mm-hd-6136",
+    "name": "MRTV",
+    "slug": "mrtv-mm-hd-6136",
+    "logoUrl": "https://i.imgur.com/uyv7oJH.png",
+    "streamUrl": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "MRTV.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrtv::mm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mrtvott.com/cache/MRTV-HD/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "channelk-mm-sd-2294",
+    "name": "Channel K",
+    "slug": "channelk-mm-sd-2294",
+    "logoUrl": "https://i.imgur.com/6PqxuhF.png",
+    "streamUrl": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ChannelK.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-k::mm::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fortunetv-mm-sd-3736",
+    "name": "FORTUNE TV",
+    "slug": "fortunetv-mm-sd-3736",
+    "logoUrl": "https://i.imgur.com/MM5evnD.png",
+    "streamUrl": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "FortuneTV.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fortune-tv::mm::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mahartv-mm-sd-5655",
+    "name": "Mahar TV",
+    "slug": "mahartv-mm-sd-5655",
+    "logoUrl": "https://i.imgur.com/ig0QECf.png",
+    "streamUrl": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MaharTV.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mahar-tv::mm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mntv-mm-sd-6030",
+    "name": "MN TV",
+    "slug": "mntv-mm-sd-6030",
+    "logoUrl": "https://i.imgur.com/nssm7QK.png",
+    "streamUrl": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MNTV.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mn-tv::mm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrtv4-mm-sd-6135",
+    "name": "MRTV 4",
+    "slug": "mrtv4-mm-sd-6135",
+    "logoUrl": "https://i.imgur.com/J4i1VBb.png",
+    "streamUrl": "https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MRTV4.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrtv-4::mm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dvbtv-mm-sd-3184",
+    "name": "DVB TV",
+    "slug": "dvbtv-mm-sd-3184",
+    "logoUrl": "https://i.imgur.com/VdezHOv.png",
+    "streamUrl": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DVBTV.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dvb-tv::mm::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrtventertainment-mm-sd-6138",
+    "name": "MRTV Entertainment",
+    "slug": "mrtventertainment-mm-sd-6138",
+    "logoUrl": "https://i.imgur.com/c9q6oT0.png",
+    "streamUrl": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MRTVEntertainment.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrtv-entertainment::mm::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrtvnrc-mm-sd-6139",
+    "name": "MRTV NRC",
+    "slug": "mrtvnrc-mm-sd-6139",
+    "logoUrl": "https://i.imgur.com/5aLFslk.jpg",
+    "streamUrl": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MRTVNRC.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrtv-nrc::mm::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

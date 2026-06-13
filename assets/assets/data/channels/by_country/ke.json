@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "gtntv-ke-sd-4101",
+    "name": "GTN TV",
+    "slug": "gtntv-ke-sd-4101",
+    "logoUrl": "https://i.imgur.com/CSCZW6L.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GTNTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gtn-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ramogitv-ke-sd-8055",
+    "name": "Ramogi TV",
+    "slug": "ramogitv-ke-sd-8055",
+    "logoUrl": "https://i.imgur.com/N2Uz9mc.jpg",
+    "streamUrl": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "luo"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RamogiTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ramogi-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btltv-ke-sd-1658",
+    "name": "BTL TV",
+    "slug": "btltv-ke-sd-1658",
+    "logoUrl": "https://i.imgur.com/4r09woD.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BTLTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btl-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "clergytv-ke-sd-2472",
+    "name": "Clergy TV",
+    "slug": "clergytv-ke-sd-2472",
+    "logoUrl": "https://i.imgur.com/RcxBEUo.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ClergyTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "clergy-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebntv-ke-sd-3209",
+    "name": "EBN TV",
+    "slug": "ebntv-ke-sd-3209",
+    "logoUrl": "https://i.imgur.com/NvxqoEn.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EBNTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebn-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elevatetv-ke-sd-3278",
+    "name": "Elevate TV",
+    "slug": "elevatetv-ke-sd-3278",
+    "logoUrl": "https://i.imgur.com/M7xaQ7o.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ElevateTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "elevate-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gbstv-ke-sd-3893",
+    "name": "GBS TV",
+    "slug": "gbstv-ke-sd-3893",
+    "logoUrl": "https://i.imgur.com/2AP1xVg.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GBSTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gbs-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jcmtv-ke-sd-4782",
+    "name": "JCM TV",
+    "slug": "jcmtv-ke-sd-4782",
+    "logoUrl": "https://i.imgur.com/28YB7dD.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "JCMTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jcm-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kasstv-ke-sd-5020",
+    "name": "Kass TV",
+    "slug": "kasstv-ke-sd-5020",
+    "logoUrl": "https://i.imgur.com/MW8wZ5v.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KassTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kass-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "masharikitv-ke-sd-5724",
+    "name": "Mashariki TV",
+    "slug": "masharikitv-ke-sd-5724",
+    "logoUrl": "https://i.imgur.com/5Qcwpg5.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MasharikiTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mashariki-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "merutv-ke-sd-5877",
+    "name": "MERU TV",
+    "slug": "merutv-ke-sd-5877",
+    "logoUrl": "https://i.imgur.com/EPmWNfz.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MERUTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "meru-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mwangazatv-ke-sd-6275",
+    "name": "Mwangaza TV",
+    "slug": "mwangazatv-ke-sd-6275",
+    "logoUrl": "https://i.imgur.com/GjXfuSh.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MwangazaTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mwangaza-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nicetvkenya-ke-sd-6588",
+    "name": "Nice TV Kenya",
+    "slug": "nicetvkenya-ke-sd-6588",
+    "logoUrl": "https://i.imgur.com/UawxLTW.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "kik"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NiceTVKenya.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nice-tv-kenya::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pillartv-ke-sd-7273",
+    "name": "Pillar TV",
+    "slug": "pillartv-ke-sd-7273",
+    "logoUrl": "https://i.imgur.com/9kCxFqj.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "swa",
+      "kik"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PillarTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pillar-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "raiatv-ke-sd-7981",
+    "name": "Raia TV",
+    "slug": "raiatv-ke-sd-7981",
+    "logoUrl": "https://i.imgur.com/IyFULjw.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RaiaTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "raia-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sayaretv-ke-sd-8944",
+    "name": "Sayare TV",
+    "slug": "sayaretv-ke-sd-8944",
+    "logoUrl": "https://i.imgur.com/M2Fnxj7.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SayareTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sayare-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "younibmediatv-ke-sd-12057",
+    "name": "YOUNIB Media TV",
+    "slug": "younibmediatv-ke-sd-12057",
+    "logoUrl": "https://i.imgur.com/LtiPOYG.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "YOUNIBMediaTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "younib-media-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aviationtv-ke-sd-1026",
+    "name": "Aviation TV",
+    "slug": "aviationtv-ke-sd-1026",
+    "logoUrl": "https://i.imgur.com/WOU9z5G.png",
+    "streamUrl": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AviationTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aviation-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "morningcloudtv-ke-sd-6080",
+    "name": "Morning Cloud TV",
+    "slug": "morningcloudtv-ke-sd-6080",
+    "logoUrl": "https://i.imgur.com/Lxfd2ip.png",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MorningCloudTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "morning-cloud-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cmtvkenya-ke-sd-2493",
+    "name": "CMTv Kenya",
+    "slug": "cmtvkenya-ke-sd-2493",
+    "logoUrl": "https://i.imgur.com/ewHBokK.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CMTvKenya.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cmtv-kenya::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dacwatv-ke-sd-2748",
+    "name": "Dacwa TV",
+    "slug": "dacwatv-ke-sd-2748",
+    "logoUrl": "https://i.imgur.com/rMqrLzV.png",
+    "streamUrl": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DacwaTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dacwa-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "heavenboundtv-ke-sd-4227",
+    "name": "Heaven Bound TV",
+    "slug": "heavenboundtv-ke-sd-4227",
+    "logoUrl": "https://i.imgur.com/pwnesmW.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/62580b337c021/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HeavenBoundTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "heaven-bound-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hisgracetv-ke-sd-4286",
+    "name": "His Grace TV",
+    "slug": "hisgracetv-ke-sd-4286",
+    "logoUrl": "https://i.imgur.com/uIlU5im.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HisGraceTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "his-grace-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hlctv-ke-sd-4327",
+    "name": "HLC TV",
+    "slug": "hlctv-ke-sd-4327",
+    "logoUrl": "https://i.imgur.com/TPZoSXM.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HLCTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hlc-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ictv-ke-sd-4506",
+    "name": "ICTV",
+    "slug": "ictv-ke-sd-4506",
+    "logoUrl": "https://i.imgur.com/0kMhqK3.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ICTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ictv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lolwetv-ke-sd-5531",
+    "name": "Lolwe TV",
+    "slug": "lolwetv-ke-sd-5531",
+    "logoUrl": "https://i.imgur.com/tjZ1cOP.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LolweTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lolwe-tv::ke::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "luyaatv-ke-sd-5595",
+    "name": "Luyaa TV",
+    "slug": "luyaatv-ke-sd-5595",
+    "logoUrl": "https://i.imgur.com/bnq7DNt.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "swa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LuyaaTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "luyaa-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "muugitv-ke-sd-6258",
+    "name": "Muugi TV",
+    "slug": "muugitv-ke-sd-6258",
+    "logoUrl": "https://i.imgur.com/7XCR2Wi.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "swa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MuugiTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "muugi-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ndurumenitv-ke-sd-6449",
+    "name": "Ndurumeni TV",
+    "slug": "ndurumenitv-ke-sd-6449",
+    "logoUrl": "https://i.imgur.com/OvmySNw.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "swa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NdurumeniTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ndurumeni-tv::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "njatatv-ke-sd-6648",
+    "name": "Njata TV",
+    "slug": "njatatv-ke-sd-6648",
+    "logoUrl": "https://i.imgur.com/246CBAW.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NjataTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "njata-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "3stonestv-ke-sd-40",
+    "name": "3 Stones TV",
+    "slug": "3stonestv-ke-sd-40",
+    "logoUrl": "https://i.imgur.com/im3g7T2.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "kik",
+      "swa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "3StonesTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3-stones-tv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "urejeshotvafrica-ke-sd-11370",
+    "name": "Urejesho TV Africa",
+    "slug": "urejeshotvafrica-ke-sd-11370",
+    "logoUrl": "https://i.imgur.com/u7xDXEt.jpg",
+    "streamUrl": "https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "UrejeshoTVAfrica.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "urejesho-tv-africa::ke::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "utv-ke-sd-11385",
+    "name": "UTV",
+    "slug": "utv-ke-sd-11385",
+    "logoUrl": "https://i.imgur.com/yN4e2up.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
+    "country": {
+      "code": "KE",
+      "name": "Kenya"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UTV.ke",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "utv::ke::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

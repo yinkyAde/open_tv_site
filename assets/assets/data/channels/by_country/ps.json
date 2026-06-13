@@ -1,0 +1,938 @@
+[
+  {
+    "id": "falastinitv-ps-sd-3568",
+    "name": "Falastini TV",
+    "slug": "falastinitv-ps-sd-3568",
+    "logoUrl": "https://i.imgur.com/6B3Cims.png",
+    "streamUrl": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FalastiniTV.ps",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "falastini-tv::ps::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nablustv-ps-sd-6317",
+    "name": "Nablus TV",
+    "slug": "nablustv-ps-sd-6317",
+    "logoUrl": "https://i.imgur.com/GoLhaDK.png",
+    "streamUrl": "https://htvint.mada.ps/nabluslive/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NablusTV.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nablus-tv::ps::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://htvmada.mada.ps:8888/nabluslive/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "palestinesatellitechannel-ps-sd-7099",
+    "name": "Palestine Satellite Channel",
+    "slug": "palestinesatellitechannel-ps-sd-7099",
+    "logoUrl": "https://i.imgur.com/4B5FvmX.png",
+    "streamUrl": "https://pbc.furrera.ps/palestinehd/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PalestineSatelliteChannel.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palestine-satellite-channel::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "palestineedu-ps-sd-7097",
+    "name": "Palestine Edu",
+    "slug": "palestineedu-ps-sd-7097",
+    "logoUrl": "https://i.imgur.com/AwVHXyC.png",
+    "streamUrl": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "PalestineEdu.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palestine-edu::ps::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "palestinemubasher-ps-sd-7098",
+    "name": "Palestine Mubasher",
+    "slug": "palestinemubasher-ps-sd-7098",
+    "logoUrl": "https://i.imgur.com/68llVTZ.png",
+    "streamUrl": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PalestineMubasher.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palestine-mubasher::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "raya1-ps-sd-8068",
+    "name": "Raya 1",
+    "slug": "raya1-ps-sd-8068",
+    "logoUrl": "https://www.rayatv.ps/images/logo_tv.png",
+    "streamUrl": "https://htvmada.mada.ps:4443/raya/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Raya1.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "raya-1::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "musawachannel-ps-sd-6248",
+    "name": "MusawaChannel",
+    "slug": "musawachannel-ps-sd-6248",
+    "logoUrl": "https://i.imgur.com/GB2Q9kl.png",
+    "streamUrl": "https://pbc.furrera.ps/musawahd/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MusawaChannel.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "musawachannel::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rajeentv-ps-sd-8000",
+    "name": "Rajeen TV",
+    "slug": "rajeentv-ps-sd-8000",
+    "logoUrl": "https://i.imgur.com/6Cx22ya.png",
+    "streamUrl": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RajeenTV.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rajeen-tv::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ajyaltv-ps-sd-392",
+    "name": "Ajyal TV",
+    "slug": "ajyaltv-ps-sd-392",
+    "logoUrl": "https://i.imgur.com/i6Y7beR.jpg",
+    "streamUrl": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AjyalTV.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ajyal-tv::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://htvmada.mada.ps:8888/ajyal/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "radioalbaladtv-ps-sd-7866",
+    "name": "Radio Albalad TV",
+    "slug": "radioalbaladtv-ps-sd-7866",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "streamUrl": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioAlbaladTV.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-albalad-tv::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "almadina-ps-sd-545",
+    "name": "Al Madina",
+    "slug": "almadina-ps-sd-545",
+    "logoUrl": "https://i.imgur.com/NVOeM3P.png",
+    "streamUrl": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlMadina.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-madina::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alnajahnews-ps-sd-559",
+    "name": "Al Najah News",
+    "slug": "alnajahnews-ps-sd-559",
+    "logoUrl": "https://i.imgur.com/c2bwn4G.png",
+    "streamUrl": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlNajahNews.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-najah-news::ps::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "halaramallah-ps-sd-4162",
+    "name": "Hala Ramallah",
+    "slug": "halaramallah-ps-sd-4162",
+    "logoUrl": "https://i.ibb.co/swP1FDK/halaramallah-logo.png",
+    "streamUrl": "https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HalaRamallah.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hala-ramallah::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "holyquranradionablus-ps-sd-4356",
+    "name": "Holy Quran Radio Nablus",
+    "slug": "holyquranradionablus-ps-sd-4356",
+    "logoUrl": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+    "streamUrl": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HolyQuranRadioNablus.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "holy-quran-radio-nablus::ps::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "watartv-ps-sd-11653",
+    "name": "Watar TV",
+    "slug": "watartv-ps-sd-11653",
+    "logoUrl": "https://i.imgur.com/jdr22Sk.jpeg",
+    "streamUrl": "http://htvint.mada.ps:8889/orient/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WatarTV.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "watar-tv::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://htvint.mada.ps/orient/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "shababfm-ps-sd-9030",
+    "name": "Shabab FM",
+    "slug": "shababfm-ps-sd-9030",
+    "logoUrl": "https://i.imgur.com/4Cyz4Bn.png",
+    "streamUrl": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ShababFM.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shabab-fm::ps::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kolalnastv-ps-sd-5179",
+    "name": "Kolalnas TV",
+    "slug": "kolalnastv-ps-sd-5179",
+    "logoUrl": "https://i.imgur.com/OyMxcRG.png",
+    "streamUrl": "https://htvint.mada.ps/kolalnas/index.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KolalnasTV.ps",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kolalnas-tv::ps::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "palestinetoday-ps-sd-7101",
+    "name": "Palestine Today",
+    "slug": "palestinetoday-ps-sd-7101",
+    "logoUrl": "https://i.imgur.com/BS8XXug.png",
+    "streamUrl": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+    "country": {
+      "code": "PS",
+      "name": "Palestine"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PalestineToday.ps",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palestine-today::ps::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

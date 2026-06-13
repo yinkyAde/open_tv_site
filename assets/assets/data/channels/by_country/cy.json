@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "sat7kids-cy-sd-8931",
+    "name": "Sat 7 Kids",
+    "slug": "sat7kids-cy-sd-8931",
+    "logoUrl": "https://i.imgur.com/M0ik0i2.png",
+    "streamUrl": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Sat7Kids.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sat-7-kids::cy::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sat7turk-cy-sd-8934",
+    "name": "Sat7 Türk",
+    "slug": "sat7turk-cy-sd-8934",
+    "logoUrl": "https://i.imgur.com/cKQIK4i.png",
+    "streamUrl": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Sat7Turk.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sat7-t-rk::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ant1cyprus-cy-sd-747",
+    "name": "ANT1 Cyprus",
+    "slug": "ant1cyprus-cy-sd-747",
+    "logoUrl": "https://i.imgur.com/2KAObBt.png",
+    "streamUrl": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ANT1Cyprus.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ant1-cyprus::cy::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alfasport-cy-sd-459",
+    "name": "Alfa Sport",
+    "slug": "alfasport-cy-sd-459",
+    "logoUrl": "https://i.imgur.com/vhMPYIW.png",
+    "streamUrl": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "AlfaSport.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alfa-sport::cy::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "voulitv-cy-sd-11586",
+    "name": "Vouli TV",
+    "slug": "voulitv-cy-sd-11586",
+    "logoUrl": "https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png",
+    "streamUrl": "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "VouliTV.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vouli-tv::cy::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sat7turk-cy-sd-8933",
+    "name": "Sat 7 Türk",
+    "slug": "sat7turk-cy-sd-8933",
+    "logoUrl": "https://i.imgur.com/cKQIK4i.png",
+    "streamUrl": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Sat7Turk.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sat-7-t-rk::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "brt1-cy-sd-1638",
+    "name": "BRT 1",
+    "slug": "brt1-cy-sd-1638",
+    "logoUrl": "https://i.imgur.com/gOPAi2c.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BRT1.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "brt-1::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://canlitvulusal.xyz/live/brt1/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "brt2-cy-sd-1640",
+    "name": "BRT 2",
+    "slug": "brt2-cy-sd-1640",
+    "logoUrl": "https://i.imgur.com/t5kbIuj.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BRT2.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "brt-2::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://canlitvulusal.xyz/live/brt2/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kibrisgenctv-cy-sd-5095",
+    "name": "Kibris Genç TV",
+    "slug": "kibrisgenctv-cy-sd-5095",
+    "logoUrl": "https://i.imgur.com/eBdQn9h.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KibrisGencTV.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kibris-gen-tv::cy::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "riksat-cy-sd-8272",
+    "name": "RΙΚ Sat (CYBC S)",
+    "slug": "riksat-cy-sd-8272",
+    "logoUrl": "https://i.imgur.com/BIKwFhD.png",
+    "streamUrl": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RIKSat.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-sat-cybc-s::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "riksat-cy-sd-8273",
+    "name": "ΡΙΚ Sat",
+    "slug": "riksat-cy-sd-8273",
+    "logoUrl": "https://i.imgur.com/BIKwFhD.png",
+    "streamUrl": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RIKSat.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sat::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sat7pars-cy-sd-8932",
+    "name": "Sat7 Pars",
+    "slug": "sat7pars-cy-sd-8932",
+    "logoUrl": "https://i.imgur.com/VTLQeul.png",
+    "streamUrl": "https://sat7phls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Sat7Pars.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sat7-pars::cy::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kibriskanalt-cy-sd-5096",
+    "name": "Kibris Kanal T",
+    "slug": "kibriskanalt-cy-sd-5096",
+    "logoUrl": "https://i.imgur.com/4bA4pXT.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KibrisKanalT.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kibris-kanal-t::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kibristv-cy-sd-5097",
+    "name": "Kibris TV",
+    "slug": "kibristv-cy-sd-5097",
+    "logoUrl": "https://i.imgur.com/5MJZPTo.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KibrisTV.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kibris-tv::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvgunes-cy-sd-10879",
+    "name": "GÜNEŞ TV",
+    "slug": "tvgunes-cy-sd-10879",
+    "logoUrl": "https://i.imgur.com/XmlXofJ.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVGunes.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "g-ne-tv::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanalsim-cy-sd-4996",
+    "name": "Kanal Sim",
+    "slug": "kanalsim-cy-sd-4996",
+    "logoUrl": "https://i.imgur.com/UHYJURw.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KanalSim.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-sim::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sigmatv-cy-sd-9138",
+    "name": "Sigma TV",
+    "slug": "sigmatv-cy-sd-9138",
+    "logoUrl": "https://i.imgur.com/DXKx102.png",
+    "streamUrl": "https://sl2.sigmatv.com/hls/live.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SigmaTV.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sigma-tv::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv2020-cy-sd-10710",
+    "name": "TV 2020",
+    "slug": "tv2020-cy-sd-10710",
+    "logoUrl": "https://i.imgur.com/rtfsNdd.png",
+    "streamUrl": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV2020.cy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-2020::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sat7arabic-cy-sd-8930",
+    "name": "Sat 7 Arabic",
+    "slug": "sat7arabic-cy-sd-8930",
+    "logoUrl": "https://i.imgur.com/BzDjQeQ.png",
+    "streamUrl": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Sat7Arabic.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sat-7-arabic::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "brt3-cy-sd-1642",
+    "name": "BRT 3",
+    "slug": "brt3-cy-sd-1642",
+    "logoUrl": "https://i.imgur.com/uczNZ3E.png",
+    "streamUrl": "http://185.234.111.229:8000/play/a07e",
+    "country": {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BRT3.cy",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "brt-3::cy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "koreancentraltelevision-kp-hd-5196",
+    "name": "Korean Central Television (KCTV)",
+    "slug": "koreancentraltelevision-kp-hd-5196",
+    "logoUrl": "https://i.imgur.com/p02AEOF.png",
+    "streamUrl": "https://tv.intchoson.com/kctv/index.m3u8",
+    "country": {
+      "code": "KP",
+      "name": "North Korea"
+    },
+    "languages": [
+      "kor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KoreanCentralTelevision.kp",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "korean-central-television-kctv::kp::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tv.intchoson.com/kctv/main_stream.m3u8",
+        "https://streamer.nknews.org/tvhls/stream.m3u8",
+        "https://streamer.nknews.org/tvdash/stream.mpd"
+      ]
+    }
+  }
+]

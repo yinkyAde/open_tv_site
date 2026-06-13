@@ -1,0 +1,5367 @@
+[
+  {
+    "id": "rcnmas-co-sd-8089",
+    "name": "RCN Más",
+    "slug": "rcnmas-co-sd-8089",
+    "logoUrl": "https://i.imgur.com/MJzuRAN.png",
+    "streamUrl": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RCNMas.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcn-m-s::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canaltro-co-sd-1953",
+    "name": "Canal TRO",
+    "slug": "canaltro-co-sd-1953",
+    "logoUrl": "https://i.imgur.com/bdBduvj.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalTRO.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-tro::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "citytvbogota-co-sd-2438",
+    "name": "Citytv Bogota",
+    "slug": "citytvbogota-co-sd-2438",
+    "logoUrl": "https://i.imgur.com/h7K9EW9.png",
+    "streamUrl": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CitytvBogota.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "citytv-bogota::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redplus-co-sd-8166",
+    "name": "Red+",
+    "slug": "redplus-co-sd-8166",
+    "logoUrl": "https://i.imgur.com/kuqkTMC.png",
+    "streamUrl": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedPlus.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televid-co-sd-10040",
+    "name": "Tele Vid",
+    "slug": "televid-co-sd-10040",
+    "logoUrl": "https://i.imgur.com/kVHJU5V.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TeleVid.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-vid::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecafe-co-sd-9846",
+    "name": "Telecafe",
+    "slug": "telecafe-co-sd-9846",
+    "logoUrl": "https://i.imgur.com/28XmS1J.png",
+    "streamUrl": "https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telecafe.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecafe::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zoom-co-sd-12207",
+    "name": "Zoom",
+    "slug": "zoom-co-sd-12207",
+    "logoUrl": "https://i.imgur.com/euy5zp6.png",
+    "streamUrl": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "Zoom.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoom::co::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cmbtelevision-co-sd-2487",
+    "name": "CMB Television",
+    "slug": "cmbtelevision-co-sd-2487",
+    "logoUrl": "https://i.imgur.com/akGKPsk.png",
+    "streamUrl": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CMBTelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cmb-television::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nstv-co-sd-6770",
+    "name": "NSTV",
+    "slug": "nstv-co-sd-6770",
+    "logoUrl": "https://i.imgur.com/ES6xFAv.png",
+    "streamUrl": "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NSTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nstv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "suramtv-co-sd-9608",
+    "name": "Suram TV",
+    "slug": "suramtv-co-sd-9608",
+    "logoUrl": "https://i.imgur.com/2N9LCES.png",
+    "streamUrl": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SuramTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suram-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://us.streaminghd.cl/suramtv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal10soltv-co-sd-1811",
+    "name": "Canal 10 SOL TV",
+    "slug": "canal10soltv-co-sd-1811",
+    "logoUrl": "https://i.imgur.com/kAbrHqt.jpeg",
+    "streamUrl": "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal10SOLTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-10-sol-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaloracionconson-co-sd-1924",
+    "name": "Canal Oración Con Son",
+    "slug": "canaloracionconson-co-sd-1924",
+    "logoUrl": "https://i.imgur.com/rfnFqU3.png",
+    "streamUrl": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalOracionConSon.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-oraci-n-con-son::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnctulua-co-sd-2524",
+    "name": "CNC Tulua",
+    "slug": "cnctulua-co-sd-2524",
+    "logoUrl": "https://i.imgur.com/NCzpcqm.png",
+    "streamUrl": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNCTulua.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc-tulua::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctvbarranquilla-co-sd-2707",
+    "name": "CTV Barranquilla",
+    "slug": "ctvbarranquilla-co-sd-2707",
+    "logoUrl": "https://i.imgur.com/w35ICn7.png",
+    "streamUrl": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTVBarranquilla.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctv-barranquilla::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eduvision-co-sd-3243",
+    "name": "Eduvision",
+    "slug": "eduvision-co-sd-3243",
+    "logoUrl": "https://i.imgur.com/ppBdqel.png",
+    "streamUrl": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "Eduvision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eduvision::co::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "frecuenciaftv-co-sd-3807",
+    "name": "Frecuencia F TV",
+    "slug": "frecuenciaftv-co-sd-3807",
+    "logoUrl": "https://i.imgur.com/Cw5k96N.png",
+    "streamUrl": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "FrecuenciaFTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "frecuencia-f-tv::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kalutv-co-sd-4953",
+    "name": "Kalu TV",
+    "slug": "kalutv-co-sd-4953",
+    "logoUrl": "https://i.imgur.com/MO4w3OT.jpeg",
+    "streamUrl": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KaluTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kalu-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mcitelevision-co-sd-5807",
+    "name": "MCI Televisión",
+    "slug": "mcitelevision-co-sd-5807",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+    "streamUrl": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MCITelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mci-televisi-n::co::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "noticiero90minutos-co-sd-6691",
+    "name": "Noticiero 90 Minutos",
+    "slug": "noticiero90minutos-co-sd-6691",
+    "logoUrl": "https://i.imgur.com/ThaRRCN.png",
+    "streamUrl": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Noticiero90Minutos.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "noticiero-90-minutos::co::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vivetv-co-sd-11560",
+    "name": "Vive TV Colombia",
+    "slug": "vivetv-co-sd-11560",
+    "logoUrl": "https://i.imgur.com/25CFHpB.png",
+    "streamUrl": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ViveTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vive-tv-colombia::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal1-co-sd-1741",
+    "name": "Canal 1",
+    "slug": "canal1-co-sd-1741",
+    "logoUrl": "https://i.imgur.com/YFywPLC.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal1.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-1::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalcapital-co-sd-1873",
+    "name": "Canal Capital",
+    "slug": "canalcapital-co-sd-1873",
+    "logoUrl": "https://i.imgur.com/zAYtbYi.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalCapital.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-capital::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telepacifico-co-sd-9963",
+    "name": "Telepacífico",
+    "slug": "telepacifico-co-sd-9963",
+    "logoUrl": "https://i.imgur.com/39hy97J.png",
+    "streamUrl": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telepacifico.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telepac-fico::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "avivamientotv-co-sd-1027",
+    "name": "Avivamiento TV",
+    "slug": "avivamientotv-co-sd-1027",
+    "logoUrl": "https://i.imgur.com/ydoBp3b.png",
+    "streamUrl": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AvivamientoTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "avivamiento-tv::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaltroplus-co-sd-1954",
+    "name": "Canal TRO Plus",
+    "slug": "canaltroplus-co-sd-1954",
+    "logoUrl": "https://i.imgur.com/4lNPj9m.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "CanalTROPlus.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-tro-plus::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eureka-co-sd-3455",
+    "name": "Eureka",
+    "slug": "eureka-co-sd-3455",
+    "logoUrl": "https://i.imgur.com/WgnZPol.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Eureka.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eureka::co::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lahermandadsalsera-co-sd-5330",
+    "name": "La Hermandad Salsera",
+    "slug": "lahermandadsalsera-co-sd-5330",
+    "logoUrl": "https://i.imgur.com/7Wlt6bc.png",
+    "streamUrl": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaHermandadSalsera.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-hermandad-salsera::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "salsagordatelevision-co-sd-8854",
+    "name": "Salsa Gorda Television",
+    "slug": "salsagordatelevision-co-sd-8854",
+    "logoUrl": "https://i.imgur.com/3IhYd7G.jpg",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SalsaGordaTelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "salsa-gorda-television::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsanjorge-co-sd-11138",
+    "name": "TV San Jorge",
+    "slug": "tvsanjorge-co-sd-11138",
+    "logoUrl": "https://i.imgur.com/vLU4Tcu.png",
+    "streamUrl": "https://asucap.com/livestream/asucap_envivo.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSanJorge.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-san-jorge::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ultracasanaretv-co-sd-11298",
+    "name": "Ultra Casanare TV",
+    "slug": "ultracasanaretv-co-sd-11298",
+    "logoUrl": "https://i.imgur.com/1voWgLI.png",
+    "streamUrl": "https://eu1.servers10.com:8081/8072/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "UltraCasanareTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ultra-casanare-tv::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalinstitucional-co-sd-1908",
+    "name": "Canal Institucional",
+    "slug": "canalinstitucional-co-sd-1908",
+    "logoUrl": "https://i.imgur.com/CKnf3Ua.png",
+    "streamUrl": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalInstitucional.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-institucional::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cristovision-co-sd-2673",
+    "name": "Cristovision",
+    "slug": "cristovision-co-sd-2673",
+    "logoUrl": "https://i.imgur.com/XIhCUY9.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Cristovision.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cristovision::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "noticiasrcn-co-sd-6690",
+    "name": "RCN Noticias",
+    "slug": "noticiasrcn-co-sd-6690",
+    "logoUrl": "https://i.imgur.com/FMX4QCM.png",
+    "streamUrl": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NoticiasRCN.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcn-noticias::co::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "senalcolombia-co-sd-8996",
+    "name": "Senal Colombia",
+    "slug": "senalcolombia-co-sd-8996",
+    "logoUrl": "https://i.imgur.com/Y9x16vl.png",
+    "streamUrl": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SenalColombia.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "senal-colombia::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleantioquia-co-sd-9835",
+    "name": "Teleantioquia",
+    "slug": "teleantioquia-co-sd-9835",
+    "logoUrl": "https://i.imgur.com/6WMV2Az.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Teleantioquia.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleantioquia::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecaribe-co-sd-9853",
+    "name": "Telecaribe",
+    "slug": "telecaribe-co-sd-9853",
+    "logoUrl": "https://i.imgur.com/E35cXHt.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telecaribe.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecaribe::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemedellin-co-sd-9922",
+    "name": "Telemedellin",
+    "slug": "telemedellin-co-sd-9922",
+    "logoUrl": "https://i.imgur.com/6NGOIhH.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telemedellin.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemedellin::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trece-co-sd-10497",
+    "name": "Trece",
+    "slug": "trece-co-sd-10497",
+    "logoUrl": "https://i.imgur.com/jsuXXIg.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Trece.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trece::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal8tvplus-co-sd-1796",
+    "name": "Canal 8 TV+",
+    "slug": "canal8tvplus-co-sd-1796",
+    "logoUrl": "https://i.imgur.com/peOIG1F.png",
+    "streamUrl": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal8TVPlus.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-8-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/canal8tv.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canalmastelevision-co-sd-1914",
+    "name": "Canal Más Televisión",
+    "slug": "canalmastelevision-co-sd-1914",
+    "logoUrl": "https://i.imgur.com/ODMa27W.jpg",
+    "streamUrl": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalMasTelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-m-s-televisi-n::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/teledoradahd.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cncbugavision-co-sd-2517",
+    "name": "CNC Bugavisión",
+    "slug": "cncbugavision-co-sd-2517",
+    "logoUrl": "https://i.imgur.com/zJAwnvd.png",
+    "streamUrl": "https://movil.ejeserver.com/live/cncbuga.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNCBugavision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc-bugavisi-n::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "masmusicafm-co-sd-5726",
+    "name": "MasMusica FM",
+    "slug": "masmusicafm-co-sd-5726",
+    "logoUrl": "https://i.imgur.com/tCg7owd.png",
+    "streamUrl": "https://movil.ejeserver.com/live/masmusica.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MasMusicaFM.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "masmusica-fm::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/masmusica.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bendicionchannel-co-hd-1397",
+    "name": "Bendicion Channel",
+    "slug": "bendicionchannel-co-hd-1397",
+    "logoUrl": "https://i.imgur.com/yKzV7m7.png",
+    "streamUrl": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BendicionChannel.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bendicion-channel::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bluradio-co-sd-1557",
+    "name": "Blu Radio",
+    "slug": "bluradio-co-sd-1557",
+    "logoUrl": "https://i.imgur.com/w2t8CGT.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BluRadio.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "blu-radio::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal55telemoriscotv-co-sd-1859",
+    "name": "Canal 55 Telemorisco TV",
+    "slug": "canal55telemoriscotv-co-sd-1859",
+    "logoUrl": "https://i.imgur.com/9BwZyhM.jpg",
+    "streamUrl": "http://canal.mediaserver.com.co/live/telemorisco.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal55TelemoriscoTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-55-telemorisco-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalcalimatv-co-sd-1872",
+    "name": "Canal Calima TV",
+    "slug": "canalcalimatv-co-sd-1872",
+    "logoUrl": "https://i.imgur.com/6YxtyUR.jpeg",
+    "streamUrl": "https://movil.ejeserver.com/live/calimatv.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalCalimaTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-calima-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaldos-co-sd-1889",
+    "name": "Canal Dos Yopal",
+    "slug": "canaldos-co-sd-1889",
+    "logoUrl": "https://i.imgur.com/BYsyNHZ.jpg",
+    "streamUrl": "http://131.221.41.94/hls/canal2.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalDos.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-dos-yopal::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalpyc-co-sd-1934",
+    "name": "Canal PyC",
+    "slug": "canalpyc-co-sd-1934",
+    "logoUrl": "https://i.imgur.com/3qxBDhV.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CanalPyC.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-pyc::co::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalsantamartatv-co-sd-1940",
+    "name": "Canal Santa Marta TV",
+    "slug": "canalsantamartatv-co-sd-1940",
+    "logoUrl": "https://i.imgur.com/HbWadhJ.png",
+    "streamUrl": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalSantaMartaTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-santa-marta-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnclaunion-co-sd-2520",
+    "name": "CNC La Union",
+    "slug": "cnclaunion-co-sd-2520",
+    "logoUrl": "https://i.imgur.com/sNWWDZK.png",
+    "streamUrl": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNCLaUnion.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc-la-union::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cncpereira-co-sd-2521",
+    "name": "CNC Pereira",
+    "slug": "cncpereira-co-sd-2521",
+    "logoUrl": "https://i.imgur.com/5vJ0aXH.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNCPereira.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc-pereira::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elmundodelcampo-co-sd-3285",
+    "name": "El Mundo del Campo",
+    "slug": "elmundodelcampo-co-sd-3285",
+    "logoUrl": "https://i.imgur.com/xG2apUG.jpeg",
+    "streamUrl": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ElMundodelCampo.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-mundo-del-campo::co::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lacheverisimaradiotv-co-sd-5322",
+    "name": "La Cheverisima Radio TV",
+    "slug": "lacheverisimaradiotv-co-sd-5322",
+    "logoUrl": "https://i.imgur.com/lk5D5kB.png",
+    "streamUrl": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "LaCheverisimaRadioTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-cheverisima-radio-tv::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lakalle-co-sd-5334",
+    "name": "La Kalle",
+    "slug": "lakalle-co-sd-5334",
+    "logoUrl": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaKalle.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-kalle::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lamoradaradiotv-co-sd-5348",
+    "name": "La Morada Radio TV",
+    "slug": "lamoradaradiotv-co-sd-5348",
+    "logoUrl": "https://i.imgur.com/E3wDEX5.png",
+    "streamUrl": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaMoradaRadioTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-morada-radio-tv::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "parrandavallenata-co-sd-7140",
+    "name": "Parranda Vallenata",
+    "slug": "parrandavallenata-co-sd-7140",
+    "logoUrl": "https://i.imgur.com/BzBX7Qx.jpeg",
+    "streamUrl": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ParrandaVallenata.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "parranda-vallenata::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "riotelevision-co-sd-8276",
+    "name": "Rio Television",
+    "slug": "riotelevision-co-sd-8276",
+    "logoUrl": "https://i.imgur.com/SYa9giW.jpeg",
+    "streamUrl": "https://stream.amelbasoluciones.co/live/riotv.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RioTelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rio-television::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "supermusicatv-co-sd-9588",
+    "name": "Supermúsica TV",
+    "slug": "supermusicatv-co-sd-9588",
+    "logoUrl": "https://i.imgur.com/MiVs42N.jpeg",
+    "streamUrl": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SupermusicaTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "superm-sica-tv::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemocoacanal10-co-sd-9931",
+    "name": "Tele Mocoa Canal 10",
+    "slug": "telemocoacanal10-co-sd-9931",
+    "logoUrl": "https://i.imgur.com/XHtpEfu.png",
+    "streamUrl": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleMocoaCanal10.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-mocoa-canal-10::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telebolivar-co-sd-9843",
+    "name": "Telebolívar",
+    "slug": "telebolivar-co-sd-9843",
+    "logoUrl": "https://i.imgur.com/dYhnVoV.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telebolivar.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telebol-var::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecaribeplus-co-sd-9854",
+    "name": "Telecaribe Plus",
+    "slug": "telecaribeplus-co-sd-9854",
+    "logoUrl": "https://i.imgur.com/su7Y5bC.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelecaribePlus.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecaribe-plus::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telesangil-co-sd-10000",
+    "name": "Telesangil",
+    "slug": "telesangil-co-sd-10000",
+    "logoUrl": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telesangil.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telesangil::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tuuniversotv-co-sd-10592",
+    "name": "Tu Universo TV",
+    "slug": "tuuniversotv-co-sd-10592",
+    "logoUrl": "https://i.imgur.com/e6esjLZ.jpg",
+    "streamUrl": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TuUniversoTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tu-universo-tv::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "umctv-co-sd-11304",
+    "name": "UMC TV",
+    "slug": "umctv-co-sd-11304",
+    "logoUrl": "https://i.imgur.com/YQUK4wO.png",
+    "streamUrl": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "UMCTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "umc-tv::co::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cosmovision-co-sd-2633",
+    "name": "Cosmovision",
+    "slug": "cosmovision-co-sd-2633",
+    "logoUrl": "https://i.imgur.com/bj7Jd2q.png",
+    "streamUrl": "https://videohls2.cosmovision.tv/hls/sd.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Cosmovision.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cosmovision::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "migentetv-co-sd-5926",
+    "name": "Mi Gente TV",
+    "slug": "migentetv-co-sd-5926",
+    "logoUrl": "https://i.imgur.com/CSbmQlu.png",
+    "streamUrl": "https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MiGenteTV.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mi-gente-tv::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bumtelevision-co-sd-1684",
+    "name": "BUM Televisión",
+    "slug": "bumtelevision-co-sd-1684",
+    "logoUrl": "https://i.imgur.com/I0eGYI0.png",
+    "streamUrl": "https://movil.ejeserver.com/live/visiondorada.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BUMTelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bum-televisi-n::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/visiondorada.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canalmundovision-co-sd-1919",
+    "name": "Canal Mundo Visión",
+    "slug": "canalmundovision-co-sd-1919",
+    "logoUrl": "https://i.imgur.com/zRqfJuj.png",
+    "streamUrl": "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalMundoVision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-mundo-visi-n::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/mundovisiontv.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canalnets-co-sd-1921",
+    "name": "Canal Nets",
+    "slug": "canalnets-co-sd-1921",
+    "logoUrl": "https://i.imgur.com/edaAexc.png",
+    "streamUrl": "https://movil.ejeserver.com/live/nets.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "CanalNets.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-nets::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/nets.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "atntelevision-co-sd-965",
+    "name": "ATN Televisión",
+    "slug": "atntelevision-co-sd-965",
+    "logoUrl": "https://i.imgur.com/79sX78u.png",
+    "streamUrl": "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATNTelevision.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atn-televisi-n::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal14codazzi-co-sd-1832",
+    "name": "Canal 14 Codazzi",
+    "slug": "canal14codazzi-co-sd-1832",
+    "logoUrl": "https://i.imgur.com/wNSUMhJ.png",
+    "streamUrl": "https://eu1.servers10.com:8081/8056/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Canal14Codazzi.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-14-codazzi::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2alpavisionneiva-co-sd-1747",
+    "name": "Canal 2 Alpavisión Neiva",
+    "slug": "canal2alpavisionneiva-co-sd-1747",
+    "logoUrl": "https://i.imgur.com/Yv8XIGW.png",
+    "streamUrl": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2AlpavisionNeiva.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2-alpavisi-n-neiva::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaltv3-co-sd-1955",
+    "name": "Canal TV3",
+    "slug": "canaltv3-co-sd-1955",
+    "logoUrl": "https://i.imgur.com/pyeBDpg.jpeg",
+    "streamUrl": "https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalTV3.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-tv3::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cncchoco-co-sd-2519",
+    "name": "CNC Chocó",
+    "slug": "cncchoco-co-sd-2519",
+    "logoUrl": "https://i.imgur.com/VybK6Ub.jpeg",
+    "streamUrl": "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNCChoco.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc-choc::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lunaestereo1064fm-co-sd-5591",
+    "name": "Luna Estéreo 106.4 FM",
+    "slug": "lunaestereo1064fm-co-sd-5591",
+    "logoUrl": "https://i.imgur.com/cESeD6R.png",
+    "streamUrl": "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LunaEstereo1064FM.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "luna-est-reo-106-4-fm::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maxtv-co-hd-5771",
+    "name": "MaxTV",
+    "slug": "maxtv-co-hd-5771",
+    "logoUrl": "https://gia.tv/streams/pstream/209851.png",
+    "streamUrl": "https://inliveserver.com:1936/8078/8078/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MaxTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maxtv::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriastvfilm-co-sd-5865",
+    "name": "Memorias TV Film",
+    "slug": "memoriastvfilm-co-sd-5865",
+    "logoUrl": "https://i.imgur.com/vNfjW6Y.png",
+    "streamUrl": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MemoriasTVFilm.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-tv-film::co::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriastvseries-co-sd-5866",
+    "name": "Memorias TV Series",
+    "slug": "memoriastvseries-co-sd-5866",
+    "logoUrl": "https://i.imgur.com/ohCSMhY.png",
+    "streamUrl": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "MemoriasTVSeries.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-tv-series::co::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oasistv-co-sd-6857",
+    "name": "Oasis TV",
+    "slug": "oasistv-co-sd-6857",
+    "logoUrl": "https://i.imgur.com/VKYzFpZ.png",
+    "streamUrl": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "OasisTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oasis-tv::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tevecolombia-co-sd-10103",
+    "name": "TeveColombia",
+    "slug": "tevecolombia-co-sd-10103",
+    "logoUrl": "https://i.imgur.com/vPwiJTw.png",
+    "streamUrl": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TeveColombia.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tevecolombia::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpenol-co-sd-11030",
+    "name": "TV Penol",
+    "slug": "tvpenol-co-sd-11030",
+    "logoUrl": "https://i.imgur.com/Zm4934Z.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPenol.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-penol::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rcnmas-co-sd-8090",
+    "name": "RCN Mas",
+    "slug": "rcnmas-co-sd-8090",
+    "logoUrl": "https://i.imgur.com/MJzuRAN.png",
+    "streamUrl": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RCNMas.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rcn-mas::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cncsantanderdequilichao-co-sd-2522",
+    "name": "CNC Santander de Quilichao",
+    "slug": "cncsantanderdequilichao-co-sd-2522",
+    "logoUrl": "https://i.imgur.com/LNl2o9q.jpg",
+    "streamUrl": "https://movil.ejeserver.com/live/cncsantander.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CNCSantanderdeQuilichao.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc-santander-de-quilichao::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/cncsantander.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canalchd-co-sd-1876",
+    "name": "Canal CHD",
+    "slug": "canalchd-co-sd-1876",
+    "logoUrl": "https://i.imgur.com/cNv1MPs.jpeg",
+    "streamUrl": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalCHD.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-chd::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "emisoralasvegas-co-sd-3313",
+    "name": "Emisora Las Vegas",
+    "slug": "emisoralasvegas-co-sd-3313",
+    "logoUrl": "https://new.opencaster.com/uploads/logos/logo_70_1759816048.png",
+    "streamUrl": "https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EmisoraLasVegas.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "emisora-las-vegas::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv3laplata-co-sd-10621",
+    "name": "TV3 La Plata",
+    "slug": "tv3laplata-co-sd-10621",
+    "logoUrl": "https://i.imgur.com/uRMq5HC.jpeg",
+    "streamUrl": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV3LaPlata.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv3-la-plata::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleamiga-co-sd-9833",
+    "name": "Tele Amiga",
+    "slug": "teleamiga-co-sd-9833",
+    "logoUrl": "https://i.imgur.com/gBZFZNv.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TeleAmiga.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-amiga::co::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrivera-co-sd-11118",
+    "name": "TV Rivera",
+    "slug": "tvrivera-co-sd-11118",
+    "logoUrl": "https://i.imgur.com/BmwZNWm.png",
+    "streamUrl": "https://movil.ejeserver.com/live/tvrivera.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRivera.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-rivera::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video.ejeserver.com/live/tvrivera.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cucutaretrotv-co-sd-2714",
+    "name": "Cúcuta Retro TV",
+    "slug": "cucutaretrotv-co-sd-2714",
+    "logoUrl": "https://i.imgur.com/GltIfWW.jpeg",
+    "streamUrl": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "CucutaRetroTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-cuta-retro-tv::co::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lacantinamemorias-co-sd-5321",
+    "name": "La Cantina Memorias",
+    "slug": "lacantinamemorias-co-sd-5321",
+    "logoUrl": "https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png",
+    "streamUrl": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaCantinaMemorias.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-cantina-memorias::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "masnortetv-co-sd-5728",
+    "name": "Mas Norte TV",
+    "slug": "masnortetv-co-sd-5728",
+    "logoUrl": "https://i.imgur.com/NmsWlj6.jpeg",
+    "streamUrl": "https://live.arnoproducciones.com/hls/norte.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MasNorteTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mas-norte-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriasdelcorazon-co-sd-5862",
+    "name": "Memorias del Corazon",
+    "slug": "memoriasdelcorazon-co-sd-5862",
+    "logoUrl": "https://i.imgur.com/sVLDzzM.png",
+    "streamUrl": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MemoriasdelCorazon.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-del-corazon::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriasfmpoplatino-co-sd-5863",
+    "name": "Memorias FM Pop Latino",
+    "slug": "memoriasfmpoplatino-co-sd-5863",
+    "logoUrl": "https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png",
+    "streamUrl": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MemoriasFMPopLatino.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-fm-pop-latino::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriastvclassic-co-sd-5864",
+    "name": "Memorias TV Classic",
+    "slug": "memoriastvclassic-co-sd-5864",
+    "logoUrl": "https://i.imgur.com/tLTQLnv.png",
+    "streamUrl": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MemoriasTVClassic.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-tv-classic::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriastvtoons-co-sd-5867",
+    "name": "Memorias TV Toons",
+    "slug": "memoriastvtoons-co-sd-5867",
+    "logoUrl": "https://i.imgur.com/2fiiNCz.png",
+    "streamUrl": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "MemoriasTVToons.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-tv-toons::co::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "memoriastvtropical-co-sd-5868",
+    "name": "Memorias TV Tropical",
+    "slug": "memoriastvtropical-co-sd-5868",
+    "logoUrl": "https://i.imgur.com/Y9GFDcV.png",
+    "streamUrl": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MemoriasTVTropical.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "memorias-tv-tropical::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canicatv-co-sd-1967",
+    "name": "Canica TV",
+    "slug": "canicatv-co-sd-1967",
+    "logoUrl": "https://i.imgur.com/RuQDwTt.jpeg",
+    "streamUrl": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "CanicaTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canica-tv::co::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ondambientaltv-co-sd-6963",
+    "name": "Ondambiental TV",
+    "slug": "ondambientaltv-co-sd-6963",
+    "logoUrl": "https://i.imgur.com/u5804Au.jpg",
+    "streamUrl": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "OndambientalTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ondambiental-tv::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reyali-co-sd-8252",
+    "name": "Reyali",
+    "slug": "reyali-co-sd-8252",
+    "logoUrl": "https://i.imgur.com/YmFjnsF.png",
+    "streamUrl": "https://eu1.servers10.com:8081/8090/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Reyali.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "reyali::co::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "calitv-co-sd-1729",
+    "name": "Cali TV",
+    "slug": "calitv-co-sd-1729",
+    "logoUrl": "https://i.imgur.com/2312Luq.png",
+    "streamUrl": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CaliTV.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cali-tv::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleislas-co-sd-9898",
+    "name": "Teleislas",
+    "slug": "teleislas-co-sd-9898",
+    "logoUrl": "https://i.imgur.com/aKHGRyk.png",
+    "streamUrl": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa",
+      "icr"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Teleislas.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleislas::co::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaltelefamilia-co-sd-1950",
+    "name": "Canal Telefamilia",
+    "slug": "canaltelefamilia-co-sd-1950",
+    "logoUrl": "https://i.imgur.com/D1s1Q3k.png",
+    "streamUrl": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalTelefamilia.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-telefamilia::co::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "winsports-co-sd-11784",
+    "name": "Win Sports",
+    "slug": "winsports-co-sd-11784",
+    "logoUrl": "https://i.imgur.com/DuSSrHV.png",
+    "streamUrl": "http://190.60.40.34:8001/play/a0ef",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "WinSports.co",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "win-sports::co::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "winplusfutbol-co-sd-11783",
+    "name": "Win+ Futbol",
+    "slug": "winplusfutbol-co-sd-11783",
+    "logoUrl": "https://i.imgur.com/0UN87vB.png",
+    "streamUrl": "http://190.60.40.34:8001/play/a02r",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "WinPlusFutbol.co",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "win-futbol::co::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

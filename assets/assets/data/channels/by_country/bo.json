@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "univalletelevision-bo-sd-11342",
+    "name": "Univalle Televisión",
+    "slug": "univalletelevision-bo-sd-11342",
+    "logoUrl": "https://i.imgur.com/qgrWDIs.png",
+    "streamUrl": "https://master.tucableip.com/univalletv/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UnivalleTelevision.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "univalle-televisi-n::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ceacomtv-bo-sd-2173",
+    "name": "CEACOM TV",
+    "slug": "ceacomtv-bo-sd-2173",
+    "logoUrl": "https://i.imgur.com/hutdRfk.png",
+    "streamUrl": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CEACOMTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ceacom-tv::bo::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zoytvsports1-bo-sd-12222",
+    "name": "Zoy TV Sports 1",
+    "slug": "zoytvsports1-bo-sd-12222",
+    "logoUrl": "https://i.imgur.com/0YHztGq.png",
+    "streamUrl": "https://mio.zoymilton.com/ZoyEventos/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ZoyTVSports1.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoy-tv-sports-1::bo::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "boliviatv72-bo-sd-1577",
+    "name": "Bolivia TV 7.2",
+    "slug": "boliviatv72-bo-sd-1577",
+    "logoUrl": "https://i.imgur.com/tKLYYys.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BoliviaTV72.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bolivia-tv-7-2::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bolivision-bo-sd-1579",
+    "name": "Bolivisión LPZ",
+    "slug": "bolivision-bo-sd-1579",
+    "logoUrl": "https://i.imgur.com/U98Z5zn.png",
+    "streamUrl": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Bolivision.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bolivisi-n-lpz::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ftv-bo-sd-3824",
+    "name": "FTV",
+    "slug": "ftv-bo-sd-3824",
+    "logoUrl": "https://i.imgur.com/YOr1Oac.png",
+    "streamUrl": "https://master.tucableip.com/ftvhd/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "FTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ftv::bo::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redtvshop-bo-sd-8171",
+    "name": "Red TV Shop",
+    "slug": "redtvshop-bo-sd-8171",
+    "logoUrl": "https://i.imgur.com/I7yB176.png",
+    "streamUrl": "https://master.tucableip.com/redtvshop/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "RedTVShop.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-tv-shop::bo::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdtmultimedia-bo-sd-9803",
+    "name": "TDT Multimedia",
+    "slug": "tdtmultimedia-bo-sd-9803",
+    "logoUrl": "https://i.imgur.com/JkCywl5.png",
+    "streamUrl": "https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TDTMultimedia.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdt-multimedia::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "umsatvuinternacional-bo-hd-11305",
+    "name": "UMSA TVU Internacional",
+    "slug": "umsatvuinternacional-bo-hd-11305",
+    "logoUrl": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+    "streamUrl": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "UMSATVUInternacional.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "umsa-tvu-internacional::bo::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "umsatvulp-bo-sd-11306",
+    "name": "UMSA TVU LP",
+    "slug": "umsatvulp-bo-sd-11306",
+    "logoUrl": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
+    "streamUrl": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "UMSATVULP.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "umsa-tvu-lp::bo::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unifranz-bo-hd-11326",
+    "name": "Unifranz",
+    "slug": "unifranz-bo-hd-11326",
+    "logoUrl": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+    "streamUrl": "https://live.enhdtv.com:8081/8192/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "Unifranz.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unifranz::bo::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "upeatv-bo-sd-11363",
+    "name": "UPEA TV",
+    "slug": "upeatv-bo-sd-11363",
+    "logoUrl": "https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png",
+    "streamUrl": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UPEATV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "upea-tv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zoytvturcas-bo-sd-12223",
+    "name": "Zoy TV Turcas",
+    "slug": "zoytvturcas-bo-sd-12223",
+    "logoUrl": "https://i.imgur.com/0YHztGq.png",
+    "streamUrl": "https://mio.zoymilton.com/ZoyTurcas/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ZoyTVTurcas.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoy-tv-turcas::bo::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zoytvplus-bo-hd-12221",
+    "name": "ZoyTV Plus",
+    "slug": "zoytvplus-bo-hd-12221",
+    "logoUrl": "https://i.imgur.com/JPNPH3x.png",
+    "streamUrl": "https://mio.zoymilton.com/ZoyPlus/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ZoyTVPlus.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoytv-plus::bo::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "boliviatv-bo-sd-1578",
+    "name": "Bolivia TV",
+    "slug": "boliviatv-bo-sd-1578",
+    "logoUrl": "https://i.imgur.com/tKLYYys.png",
+    "streamUrl": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BoliviaTV.bo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bolivia-tv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unitelsantacruz-bo-sd-11338",
+    "name": "Unitel Santa Cruz",
+    "slug": "unitelsantacruz-bo-sd-11338",
+    "logoUrl": "https://i.imgur.com/B9wg1zj.png",
+    "streamUrl": "https://xtream.videx.lol/Yoshiro/admin/338.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UnitelSantaCruz.bo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unitel-santa-cruz::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cadenaa-bo-sd-1715",
+    "name": "Cadena A",
+    "slug": "cadenaa-bo-sd-1715",
+    "logoUrl": "https://i.imgur.com/BxQPPAA.png",
+    "streamUrl": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CadenaA.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cadena-a::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "upptv-bo-sd-11365",
+    "name": "UPP TV/Bolivisión SCZ",
+    "slug": "upptv-bo-sd-11365",
+    "logoUrl": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
+    "streamUrl": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UPPTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "upp-tv-bolivisi-n-scz::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtvcanal17-bo-sd-11617",
+    "name": "VTV Canal 17",
+    "slug": "vtvcanal17-bo-sd-11617",
+    "logoUrl": "https://i.imgur.com/TUhFzql.png",
+    "streamUrl": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "VTVCanal17.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv-canal-17::bo::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atblapaz-bo-sd-949",
+    "name": "ATB La Paz",
+    "slug": "atblapaz-bo-sd-949",
+    "logoUrl": "https://i.imgur.com/E243X2x.png",
+    "streamUrl": "https://stream.atb.com.bo/live/daniel/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATBLaPaz.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atb-la-paz::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://186.121.206.197/live/daniel/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "abyayalatv-bo-sd-288",
+    "name": "Abya Yala TV",
+    "slug": "abyayalatv-bo-sd-288",
+    "logoUrl": "https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png",
+    "streamUrl": "https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AbyaYalaTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abya-yala-tv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctv-bo-sd-2705",
+    "name": "CTV",
+    "slug": "ctv-bo-sd-2705",
+    "logoUrl": "https://i.imgur.com/ljKb0UX.png",
+    "streamUrl": "https://live.ctvbolivia.com/hls/ctv.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "faptv-bo-sd-3582",
+    "name": "FAP TV",
+    "slug": "faptv-bo-sd-3582",
+    "logoUrl": "https://i.imgur.com/jZ7g58e.png",
+    "streamUrl": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FAPTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fap-tv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "palenquetv-bo-sd-7095",
+    "name": "Palenque TV",
+    "slug": "palenquetv-bo-sd-7095",
+    "logoUrl": "https://i.imgur.com/wAIBvaO.png",
+    "streamUrl": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PalenqueTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palenque-tv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "patlapaz-bo-sd-7146",
+    "name": "PAT La Paz",
+    "slug": "patlapaz-bo-sd-7146",
+    "logoUrl": "https://i.imgur.com/4A7R2Jt.png",
+    "streamUrl": "https://www.redpat.tv/proxylpz/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PATLaPaz.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pat-la-paz::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redcctv-bo-sd-8148",
+    "name": "Red CCTV",
+    "slug": "redcctv-bo-sd-8148",
+    "logoUrl": "https://i.imgur.com/YC5FRmq.png",
+    "streamUrl": "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedCCTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-cctv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redunosantacruz-bo-sd-8172",
+    "name": "Red Uno Santa Cruz",
+    "slug": "redunosantacruz-bo-sd-8172",
+    "logoUrl": "https://i.imgur.com/pqVzZQ9.png",
+    "streamUrl": "https://master.tucableip.com/muxredunosc/index.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedUnoSantaCruz.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-uno-santa-cruz::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtp-bo-sd-8432",
+    "name": "RTP",
+    "slug": "rtp-bo-sd-8432",
+    "logoUrl": "https://i.imgur.com/cECNvvr.png",
+    "streamUrl": "https://rtp.noxun.net/hls/stream.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTP.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvoff-bo-sd-10999",
+    "name": "TV OFF",
+    "slug": "tvoff-bo-sd-10999",
+    "logoUrl": "https://i.imgur.com/vBe1GgI.png",
+    "streamUrl": "https://seo.tv.bo/tv/TV-OFF.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TVOFF.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-off::bo::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "f10hd-bo-sd-3535",
+    "name": "F10 HD",
+    "slug": "f10hd-bo-sd-3535",
+    "logoUrl": "https://i.imgur.com/OEsT0KN.png",
+    "streamUrl": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "F10HD.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "f10::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redadvenirtv-bo-sd-8128",
+    "name": "Red ADvenir TV",
+    "slug": "redadvenirtv-bo-sd-8128",
+    "logoUrl": "https://i.imgur.com/WGkMt2j.png",
+    "streamUrl": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedADvenirTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-advenir-tv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtotv-bo-sd-12003",
+    "name": "XTOTV",
+    "slug": "xtotv-bo-sd-12003",
+    "logoUrl": "https://i.imgur.com/MLwLlWl.png",
+    "streamUrl": "http://190.104.15.135/0.ts",
+    "country": {
+      "code": "BO",
+      "name": "Bolivia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XTOTV.bo",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 37,
+      "badges": [
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 450
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": "Playable-looking direct media URL, but not health-probed yet"
+    },
+    "duplicates": {
+      "groupId": "xtotv::bo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

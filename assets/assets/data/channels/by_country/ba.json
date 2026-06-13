@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "hayat-ba-sd-4215",
+    "name": "Hayat",
+    "slug": "hayat-ba-sd-4215",
+    "logoUrl": "https://i.imgur.com/JugiLHM.png",
+    "streamUrl": "http://158.180.39.89:5033/hayat.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Hayat.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hayat::ba::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hayatfolk-ba-sd-4216",
+    "name": "Hayat Folk",
+    "slug": "hayatfolk-ba-sd-4216",
+    "logoUrl": "https://i.imgur.com/LteJva4.png",
+    "streamUrl": "http://158.180.39.89:5033/folk.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HayatFolk.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hayat-folk::ba::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hayatmusic-ba-sd-4217",
+    "name": "Hayat Music",
+    "slug": "hayatmusic-ba-sd-4217",
+    "logoUrl": "https://i.imgur.com/9p8q1yX.png",
+    "streamUrl": "http://158.180.39.89:5033/music.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HayatMusic.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hayat-music::ba::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hayatplus-ba-sd-4219",
+    "name": "Hayat Plus",
+    "slug": "hayatplus-ba-sd-4219",
+    "logoUrl": "https://i.imgur.com/NThsVzJ.png",
+    "streamUrl": "http://158.180.39.89:5033/hayatplus.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HayatPlus.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hayat-plus::ba::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hayatovci-ba-sd-4218",
+    "name": "Hayatovci",
+    "slug": "hayatovci-ba-sd-4218",
+    "logoUrl": "https://i.imgur.com/eqd3kvW.png",
+    "streamUrl": "http://158.180.39.89:5033/hayatovci.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Hayatovci.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hayatovci::ba::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televizijam-ba-sd-10059",
+    "name": "Televizija M",
+    "slug": "televizijam-ba-sd-10059",
+    "logoUrl": "https://i.imgur.com/jT95ZEI.png",
+    "streamUrl": "https://live.tv-m.net/hls/stream.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevizijaM.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televizija-m::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bht1-ba-sd-1469",
+    "name": "BHT 1",
+    "slug": "bht1-ba-sd-1469",
+    "logoUrl": "https://i.imgur.com/LEwlEEE.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BHT1.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bht-1::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ntvickakanj-ba-sd-6814",
+    "name": "NTV IC Kakanj",
+    "slug": "ntvickakanj-ba-sd-6814",
+    "logoUrl": "https://i.imgur.com/EtaHm2P.png",
+    "streamUrl": "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTVICKakanj.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv-ic-kakanj::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mariaplusvisionmedjugorje-ba-sd-5708",
+    "name": "María+Visión Medjugorje",
+    "slug": "mariaplusvisionmedjugorje-ba-sd-5708",
+    "logoUrl": "https://i.imgur.com/xUOspBx.png",
+    "streamUrl": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MariaPlusVisionMedjugorje.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mar-a-visi-n-medjugorje::ba::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvzenica-ba-sd-8521",
+    "name": "RTV Zenica",
+    "slug": "rtvzenica-ba-sd-8521",
+    "logoUrl": "https://i.imgur.com/TKUaflB.png",
+    "streamUrl": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTVZenica.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-zenica::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "supertv-ba-sd-9598",
+    "name": "Super TV Media",
+    "slug": "supertv-ba-sd-9598",
+    "logoUrl": "https://i.imgur.com/XYWgd3E.png",
+    "streamUrl": "https://mirtv.club/live/mirtv/index.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SuperTV.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "super-tv-media::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bhrt-ba-sd-1467",
+    "name": "BHRT",
+    "slug": "bhrt-ba-sd-1467",
+    "logoUrl": "https://i.imgur.com/01bZ5rw.png",
+    "streamUrl": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BHRT.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bhrt::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "televizija5-ba-sd-10058",
+    "name": "Televizija 5",
+    "slug": "televizija5-ba-sd-10058",
+    "logoUrl": "https://i.imgur.com/znpvJys.png",
+    "streamUrl": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Televizija5.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televizija-5::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtrsplus-ba-sd-8449",
+    "name": "RTRS Plus",
+    "slug": "rtrsplus-ba-sd-8449",
+    "logoUrl": "https://i.imgur.com/k06WvYl.png",
+    "streamUrl": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTRSplus.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtrs-plus::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtrstv-ba-sd-8450",
+    "name": "RTRS TV",
+    "slug": "rtrstv-ba-sd-8450",
+    "logoUrl": "https://i.imgur.com/2Sgs5gM.png",
+    "streamUrl": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTRSTV.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtrs-tv::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvhb-ba-sd-8493",
+    "name": "RTV Herceg-Bosne",
+    "slug": "rtvhb-ba-sd-8493",
+    "logoUrl": "https://i.imgur.com/6FNL8Iv.png",
+    "streamUrl": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTVHB.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-herceg-bosne::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanal6-ba-sd-4962",
+    "name": "Kanal 6",
+    "slug": "kanal6-ba-sd-4962",
+    "logoUrl": "https://i.imgur.com/GGhvR0l.png",
+    "streamUrl": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Kanal6.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-6::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tntkidstv-ba-sd-10367",
+    "name": "TNT Kids",
+    "slug": "tntkidstv-ba-sd-10367",
+    "logoUrl": "https://i.imgur.com/irTDbpn.png",
+    "streamUrl": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "TNTKidsTV.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tnt-kids::ba::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvglasdrine-ba-sd-8491",
+    "name": "RTV Glas Drine",
+    "slug": "rtvglasdrine-ba-sd-8491",
+    "logoUrl": "https://i.imgur.com/9NgxOdb.png",
+    "streamUrl": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTVGlasDrine.ba",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-glas-drine::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvslonextra-ba-sd-11175",
+    "name": "TV Slon Extra",
+    "slug": "tvslonextra-ba-sd-11175",
+    "logoUrl": "https://i.imgur.com/AohYgH1.png",
+    "streamUrl": "http://31.47.0.130:8082",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSlonExtra.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv-slon-extra::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "federalnatelevizija-ba-sd-3620",
+    "name": "Federalna televizija",
+    "slug": "federalnatelevizija-ba-sd-3620",
+    "logoUrl": "https://i.imgur.com/astdRrE.png",
+    "streamUrl": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
+    "country": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    "languages": [
+      "bos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Federalnatelevizija.ba",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "federalna-televizija::ba::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

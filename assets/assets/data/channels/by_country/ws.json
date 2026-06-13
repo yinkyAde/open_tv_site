@@ -1,0 +1,106 @@
+[
+  {
+    "id": "tv1samoa-ws-sd-10602",
+    "name": "TV1 Samoa",
+    "slug": "tv1samoa-ws-sd-10602",
+    "logoUrl": "https://i.imgur.com/GBYK36W.png",
+    "streamUrl": "https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8",
+    "country": {
+      "code": "WS",
+      "name": "Samoa"
+    },
+    "languages": [
+      "eng",
+      "smo"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV1Samoa.ws",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv1-samoa::ws::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv3-ws-sd-10616",
+    "name": "TV3",
+    "slug": "tv3-ws-sd-10616",
+    "logoUrl": "https://i.imgur.com/VT2Tqmr.png",
+    "streamUrl": "https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8",
+    "country": {
+      "code": "WS",
+      "name": "Samoa"
+    },
+    "languages": [
+      "eng",
+      "smo"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV3.ws",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv3::ws::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "soltv-gq-sd-9244",
+    "name": "SolTV",
+    "slug": "soltv-gq-sd-9244",
+    "logoUrl": "https://i.imgur.com/TJHk6Va.png",
+    "streamUrl": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+    "country": {
+      "code": "GQ",
+      "name": "Equatorial Guinea"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "SolTV.gq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "soltv::gq::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvge-gq-sd-10871",
+    "name": "TVGE",
+    "slug": "tvge-gq-sd-10871",
+    "logoUrl": "https://i.imgur.com/iOdHgPd.png",
+    "streamUrl": "http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8",
+    "country": {
+      "code": "GQ",
+      "name": "Equatorial Guinea"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVGE.gq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvge::gq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://69.64.57.208/tvge/playlist.m3u8"
+      ]
+    }
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "id": "rtsh1-al-sd-8460",
+    "name": "RTSH 1",
+    "slug": "rtsh1-al-sd-8460",
+    "logoUrl": "https://i.imgur.com/Y8wotC4.png",
+    "streamUrl": "http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTSH1.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtsh-1::al::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtsh2-al-sd-8461",
+    "name": "RTSH 2",
+    "slug": "rtsh2-al-sd-8461",
+    "logoUrl": "https://i.imgur.com/AZ43XZn.png",
+    "streamUrl": "http://178.33.11.6:8696/live/rtsh2/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTSH2.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtsh-2::al::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtsh24-al-sd-8462",
+    "name": "RTSH 24",
+    "slug": "rtsh24-al-sd-8462",
+    "logoUrl": "https://i.imgur.com/H6tCoGW.png",
+    "streamUrl": "http://178.33.11.6:8696/live/rtsh24/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RTSH24.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtsh-24::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtshshqip-al-sd-8463",
+    "name": "RTSH Shqip",
+    "slug": "rtshshqip-al-sd-8463",
+    "logoUrl": "https://i.imgur.com/88kRsW3.png",
+    "streamUrl": "http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "RTSHShqip.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtsh-shqip::al::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtshsport-al-sd-8464",
+    "name": "RTSH Sport",
+    "slug": "rtshsport-al-sd-8464",
+    "logoUrl": "https://i.imgur.com/J6NKXyJ.png",
+    "streamUrl": "http://178.33.11.6:8696/live/rtshsport/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RTSHSport.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtsh-sport::al::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vizionplus-al-sd-11562",
+    "name": "Vizion Plus",
+    "slug": "vizionplus-al-sd-11562",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png",
+    "streamUrl": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VizionPlus.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vizion-plus::al::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "albkanalemusictv-al-hd-435",
+    "name": "AlbKanale Music TV",
+    "slug": "albkanalemusictv-al-hd-435",
+    "logoUrl": "https://i.imgur.com/JdKxscs.png",
+    "streamUrl": "https://albportal.net/albkanalemusic.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AlbKanaleMusicTV.al",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "albkanale-music-tv::al::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cna-al-sd-2494",
+    "name": "CNA",
+    "slug": "cna-al-sd-2494",
+    "logoUrl": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+    "streamUrl": "https://live1.mediadesk.al/cnatvlive.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CNA.al",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cna::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "euronewsalbania-al-sd-3461",
+    "name": "Euronews Albania",
+    "slug": "euronewsalbania-al-sd-3461",
+    "logoUrl": "https://i.imgur.com/Skf6vdi.png",
+    "streamUrl": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EuronewsAlbania.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "euronews-albania::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oranews-al-sd-7018",
+    "name": "Ora News",
+    "slug": "oranews-al-sd-7018",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png",
+    "streamUrl": "https://live1.mediadesk.al/oranews.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "OraNews.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ora-news::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reporttv-al-sd-8201",
+    "name": "Report TV",
+    "slug": "reporttv-al-sd-8201",
+    "logoUrl": "https://i.imgur.com/C9lM1KP.png",
+    "streamUrl": "https://deb10stream.duckdns.org/hls/stream.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ReportTV.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "report-tv::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "syri-al-sd-9690",
+    "name": "Syri",
+    "slug": "syri-al-sd-9690",
+    "logoUrl": "https://i.imgur.com/EEHyKdL.jpeg",
+    "streamUrl": "https://stream.syritv.al/live/syritv/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Syri.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "syri::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bangbang-al-sd-1127",
+    "name": "Bang Bang",
+    "slug": "bangbang-al-sd-1127",
+    "logoUrl": "https://i.imgur.com/lpS2PpS.png",
+    "streamUrl": "https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_004&playlist_template=nginx&profile_id=1&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783&video_id=16377",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "BangBang.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bang-bang::al::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cufo-al-sd-2715",
+    "name": "Cufo",
+    "slug": "cufo-al-sd-2715",
+    "logoUrl": "https://i.imgur.com/GbBHtwD.png",
+    "streamUrl": "https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Cufo.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cufo::al::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "news24-al-sd-6519",
+    "name": "News 24 Albania",
+    "slug": "news24-al-sd-6519",
+    "logoUrl": "https://i.imgur.com/eG33jue.png",
+    "streamUrl": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "News24.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "news-24-albania::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zjarrtv-al-sd-12198",
+    "name": "Zjarr TV",
+    "slug": "zjarrtv-al-sd-12198",
+    "logoUrl": "https://i.imgur.com/hNuWZWe.png",
+    "streamUrl": "https://zjarr.future.al/hls/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZjarrTV.al",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zjarr-tv::al::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "news24-al-sd-6518",
+    "name": "News 24",
+    "slug": "news24-al-sd-6518",
+    "logoUrl": "https://i.imgur.com/eG33jue.png",
+    "streamUrl": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "country": {
+      "code": "AL",
+      "name": "Albania"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "News24.al",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "news-24::al::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

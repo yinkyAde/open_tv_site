@@ -1,0 +1,105 @@
+[
+  {
+    "id": "trishulbroadcastingnetwork-sr-sd-10512",
+    "name": "TBN TV",
+    "slug": "trishulbroadcastingnetwork-sr-sd-10512",
+    "logoUrl": "https://i.imgur.com/Fhl1dtY.jpg",
+    "streamUrl": "https://live.suricloud.com/hls/tbntv/index.m3u8",
+    "country": {
+      "code": "SR",
+      "name": "Suriname"
+    },
+    "languages": [
+      "eng",
+      "nld",
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TrishulBroadcastingNetwork.sr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tbn-tv::sr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shalomtv-sr-sd-9038",
+    "name": "Shalom TV",
+    "slug": "shalomtv-sr-sd-9038",
+    "logoUrl": "https://i.imgur.com/lJ4MLHn.png",
+    "streamUrl": "https://media.streambrothers.com:1936/8400/8400/playlist.m3u8",
+    "country": {
+      "code": "SR",
+      "name": "Suriname"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ShalomTV.sr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shalom-tv::sr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

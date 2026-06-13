@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "prva-rs-sd-7709",
+    "name": "Prva",
+    "slug": "prva-rs-sd-7709",
+    "logoUrl": "https://i.imgur.com/NA31Gtm.png",
+    "streamUrl": "http://51.83.135.95/Prva/index.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Prva.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "prva::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "toptv-rs-sd-10425",
+    "name": "Top TV",
+    "slug": "toptv-rs-sd-10425",
+    "logoUrl": "https://i.imgur.com/UJqbKEC.png",
+    "streamUrl": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TopTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-tv::rs::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "narodnatv-rs-sd-6336",
+    "name": "Narodna TV",
+    "slug": "narodnatv-rs-sd-6336",
+    "logoUrl": "https://i.imgur.com/dua57HD.png",
+    "streamUrl": "https://edge8.pink.rs/narodnatv/index.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NarodnaTV.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "narodna-tv::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pink-rs-sd-7281",
+    "name": "Pink",
+    "slug": "pink-rs-sd-7281",
+    "logoUrl": "https://i.imgur.com/66wHb7E.png",
+    "streamUrl": "https://edge8.pink.rs/pinktv/index.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Pink.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pink::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiohitfmtv-rs-sd-7890",
+    "name": "Radio Hit FM TV",
+    "slug": "radiohitfmtv-rs-sd-7890",
+    "logoUrl": "https://i.imgur.com/gP2OT4S.png",
+    "streamUrl": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioHitFMTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-hit-fm-tv::rs::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiokarolinatv-rs-sd-7902",
+    "name": "Radio Karolina TV",
+    "slug": "radiokarolinatv-rs-sd-7902",
+    "logoUrl": "https://i.imgur.com/g2HpLX1.png",
+    "streamUrl": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioKarolinaTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-karolina-tv::rs::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "soskanalplus-rs-sd-9302",
+    "name": "SOS Kanal Plus",
+    "slug": "soskanalplus-rs-sd-9302",
+    "logoUrl": "https://i.imgur.com/9SD40uH.png",
+    "streamUrl": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SOSKanalPlus.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sos-kanal-plus::rs::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rts1-rs-sd-8452",
+    "name": "RTS 1",
+    "slug": "rts1-rs-sd-8452",
+    "logoUrl": "https://i.imgur.com/S1pKHSR.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTS1.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rts-1::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rts2-rs-sd-8455",
+    "name": "RTS 2",
+    "slug": "rts2-rs-sd-8455",
+    "logoUrl": "https://i.imgur.com/jltAf5h.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTS2.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rts-2::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmarsh-rs-sd-10949",
+    "name": "Marsh TV",
+    "slug": "tvmarsh-rs-sd-10949",
+    "logoUrl": "https://i.imgur.com/Dt1mPyX.png",
+    "streamUrl": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMarsh.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "marsh-tv::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiololatv-rs-sd-7903",
+    "name": "Radio Lola",
+    "slug": "radiololatv-rs-sd-7903",
+    "logoUrl": "https://i.imgur.com/41eE8fl.png",
+    "streamUrl": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioLolaTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-lola::rs::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvas-rs-sd-10735",
+    "name": "RTV AS",
+    "slug": "tvas-rs-sd-10735",
+    "logoUrl": "https://i.imgur.com/LIUtEgD.png",
+    "streamUrl": "https://srv1.adriatelekom.com/TVAS/index.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVAS.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-as::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvbap-rs-sd-8484",
+    "name": "RTV Bap",
+    "slug": "rtvbap-rs-sd-8484",
+    "logoUrl": "https://i.imgur.com/TBAtPH6.png",
+    "streamUrl": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTVBap.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-bap::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sandzaktv-rs-sd-8883",
+    "name": "Sandzak TV",
+    "slug": "sandzaktv-rs-sd-8883",
+    "logoUrl": "https://i.imgur.com/lm9Fgsp.png",
+    "streamUrl": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SandzakTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sandzak-tv::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdiradiotv-rs-sd-9795",
+    "name": "TDI Radio TV",
+    "slug": "tdiradiotv-rs-sd-9795",
+    "logoUrl": "https://i.imgur.com/POdTmaD.png",
+    "streamUrl": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TDIRadioTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdi-radio-tv::rs::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvkanalm-rs-sd-10901",
+    "name": "TV Kanal M",
+    "slug": "tvkanalm-rs-sd-10901",
+    "logoUrl": "https://i.imgur.com/hqNVRUU.png",
+    "streamUrl": "http://176.67.210.1/hls/kanalm.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVKanalM.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-kanal-m::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvdugaplus-rs-sd-10841",
+    "name": "TV Duga Plus",
+    "slug": "tvdugaplus-rs-sd-10841",
+    "logoUrl": "https://i.imgur.com/qZV3JW5.png",
+    "streamUrl": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TVDugaPlus.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-duga-plus::rs::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvhram-rs-sd-10882",
+    "name": "TV Hram",
+    "slug": "tvhram-rs-sd-10882",
+    "logoUrl": "https://i.imgur.com/XzAYOFK.png",
+    "streamUrl": "https://vod1.laki.eu/live/hram/index.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVHram.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-hram::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "edutv-rs-sd-3242",
+    "name": "EDU TV",
+    "slug": "edutv-rs-sd-3242",
+    "logoUrl": "https://i.imgur.com/NE48DJb.png",
+    "streamUrl": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "EDUTV.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "edu-tv::rs::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpikanal-rs-sd-11036",
+    "name": "TV Pi Kanal",
+    "slug": "tvpikanal-rs-sd-11036",
+    "logoUrl": "https://i.imgur.com/8ugnFa3.png",
+    "streamUrl": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPiKanal.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-pi-kanal::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pannontv-rs-sd-7111",
+    "name": "Pannon RTV",
+    "slug": "pannontv-rs-sd-7111",
+    "logoUrl": "https://i.imgur.com/xQa2idL.png",
+    "streamUrl": "https://stream.nmih.hu:4102/live.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PannonTV.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pannon-rtv::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "belleamie-rs-sd-1392",
+    "name": "TV Belle Amie",
+    "slug": "belleamie-rs-sd-1392",
+    "logoUrl": "https://i.imgur.com/tOlN5Rz.png",
+    "streamUrl": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BelleAmie.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-belle-amie::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpirot-rs-sd-11039",
+    "name": "TV Pirot",
+    "slug": "tvpirot-rs-sd-11039",
+    "logoUrl": "https://i.imgur.com/o5y1ok6.png",
+    "streamUrl": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPirot.rs",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-pirot::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nova-rs-sd-6704",
+    "name": "Nova",
+    "slug": "nova-rs-sd-6704",
+    "logoUrl": "https://i.imgur.com/sU8UPPY.png",
+    "streamUrl": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Nova.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "nova::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rts3-rs-sd-8458",
+    "name": "RTS 3",
+    "slug": "rts3-rs-sd-8458",
+    "logoUrl": "https://i.imgur.com/gxuGB4J.png",
+    "streamUrl": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+    "country": {
+      "code": "RS",
+      "name": "Serbia"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTS3.rs",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "rts-3::rs::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

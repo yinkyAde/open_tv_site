@@ -1,0 +1,772 @@
+[
+  {
+    "id": "retv-lv-sd-8234",
+    "name": "Re TV",
+    "slug": "retv-lv-sd-8234",
+    "logoUrl": "https://i.imgur.com/Z3cre5Xm.png",
+    "streamUrl": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ReTV.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "re-tv::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "seatv-lv-sd-8988",
+    "name": "Sea TV",
+    "slug": "seatv-lv-sd-8988",
+    "logoUrl": "https://i.imgur.com/11dzVLi.png",
+    "streamUrl": "https://iptv.prosto.tv/ch238/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SeaTV.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sea-tv::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvxxi-lv-sd-11242",
+    "name": "TV XXI",
+    "slug": "tvxxi-lv-sd-11242",
+    "logoUrl": "https://i.imgur.com/Fja4bWt.png",
+    "streamUrl": "http://31.148.48.15/TV_XXI/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVXXI.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-xxi::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioswhtv-lv-sd-7925",
+    "name": "Radio SWH TV",
+    "slug": "radioswhtv-lv-sd-7925",
+    "logoUrl": "https://i.imgur.com/cFrNsXn.png",
+    "streamUrl": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioSWHTV.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-swh-tv::lv::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvjurmala-lv-sd-10897",
+    "name": "TV Jūrmala",
+    "slug": "tvjurmala-lv-sd-10897",
+    "logoUrl": "https://i.imgur.com/tQHkHD0.png",
+    "streamUrl": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVJurmala.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-j-rmala::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ltv1-lv-hd-5582",
+    "name": "LTV1",
+    "slug": "ltv1-lv-hd-5582",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png",
+    "streamUrl": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "LTV1.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ltv1::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ltv7-lv-hd-5583",
+    "name": "LTV7",
+    "slug": "ltv7-lv-hd-5583",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png",
+    "streamUrl": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [],
+    "category": "Entertainment",
+    "epg": {
+      "id": "LTV7.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ltv7::lv::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pingviins-lv-sd-7279",
+    "name": "Пингвин",
+    "slug": "pingviins-lv-sd-7279",
+    "logoUrl": "https://i.imgur.com/hfXoJIY.png",
+    "streamUrl": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Pingviins.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::lv::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "movifykino-lv-sd-6116",
+    "name": "Movify Kino",
+    "slug": "movifykino-lv-sd-6116",
+    "logoUrl": "https://i.imgur.com/XIk5EJN.png",
+    "streamUrl": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "rus",
+      "lav"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MovifyKino.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "movify-kino::lv::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimania-lv-sd-6228",
+    "name": "Multimania (Latvia)",
+    "slug": "multimania-lv-sd-6228",
+    "logoUrl": "https://i.imgur.com/J9Lwc0T.png",
+    "streamUrl": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Multimania.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimania-latvia::lv::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vidusdaugavastelevizija-lv-sd-11525",
+    "name": "Vidusdaugavas Televīzija",
+    "slug": "vidusdaugavastelevizija-lv-sd-11525",
+    "logoUrl": "https://i.imgur.com/L5U3PQR.png",
+    "streamUrl": "https://straume.vdtv.lv/vdtv2/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VidusdaugavasTelevizija.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vidusdaugavas-telev-zija::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "duo6-lv-sd-3176",
+    "name": "Duo 6",
+    "slug": "duo6-lv-sd-3176",
+    "logoUrl": "https://i.imgur.com/bHtkbHT.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/18018/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Duo6.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duo-6::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pingviins-lv-sd-7278",
+    "name": "Pingvīns",
+    "slug": "pingviins-lv-sd-7278",
+    "logoUrl": "https://i.imgur.com/hfXoJIY.png",
+    "streamUrl": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Pingviins.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pingv-ns::lv::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gribuvisuzinat-lv-sd-4073",
+    "name": "Хочу всё знать",
+    "slug": "gribuvisuzinat-lv-sd-4073",
+    "logoUrl": "",
+    "streamUrl": "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Gribuvisuzinat.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnet-lv-sd-10984",
+    "name": "TVNET",
+    "slug": "tvnet-lv-sd-10984",
+    "logoUrl": "https://i.imgur.com/jzv1ssE.png",
+    "streamUrl": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNET.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvnet::lv::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

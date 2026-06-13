@@ -1,0 +1,258 @@
+[
+  {
+    "id": "fusiontv-mq-sd-3846",
+    "name": "FUSION TV",
+    "slug": "fusiontv-mq-sd-3846",
+    "logoUrl": "https://i.imgur.com/WMrYEgH.png",
+    "streamUrl": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+    "country": {
+      "code": "MQ",
+      "name": "Martinique"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FUSIONTV.mq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fusion-tv::mq::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viaatv-mq-sd-11498",
+    "name": "ViàATV",
+    "slug": "viaatv-mq-sd-11498",
+    "logoUrl": "https://i.imgur.com/Ua6rOXo.png",
+    "streamUrl": "https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8",
+    "country": {
+      "code": "MQ",
+      "name": "Martinique"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ViaATV.mq",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vi-atv::mq::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvfamille-mq-sd-10864",
+    "name": "TV Famille",
+    "slug": "tvfamille-mq-sd-10864",
+    "logoUrl": "https://i.imgur.com/Kbfihk5.png",
+    "streamUrl": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+    "country": {
+      "code": "MQ",
+      "name": "Martinique"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "TVFamille.mq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-famille::mq::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telezoukla-mq-sd-10070",
+    "name": "Tele Zoukla",
+    "slug": "telezoukla-mq-sd-10070",
+    "logoUrl": "https://i.imgur.com/lWYKgPC.png",
+    "streamUrl": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+    "country": {
+      "code": "MQ",
+      "name": "Martinique"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TeleZoukla.mq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-zoukla::mq::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "identitetelecaraibes-mq-sd-4509",
+    "name": "Identité Télé Caraïbes",
+    "slug": "identitetelecaraibes-mq-sd-4509",
+    "logoUrl": "https://i.imgur.com/Atsf6Cd.png",
+    "streamUrl": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+    "country": {
+      "code": "MQ",
+      "name": "Martinique"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "IdentiteTeleCaraibes.mq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "identit-t-l-cara-bes::mq::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

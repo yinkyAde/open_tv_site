@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<head>
+  <base href="/open_tv_site/">
+  <meta charset="utf-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Open TV - public live TV discovery and streaming.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <meta name="background-color" content="#000000">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Open TV">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <title>Open TV</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      background: #000000;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: #000000;
+    }
+
+    body {
+      font-family: Inter, Roboto, Arial, sans-serif;
+    }
+
+    #open-tv-loader {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at 50% 30%, rgba(229, 9, 20, 0.20), transparent 34%),
+        linear-gradient(180deg, #070707 0%, #000000 100%);
+      color: #ffffff;
+    }
+
+    .open-tv-loader-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .open-tv-loader-logo {
+      color: #e50914;
+      font-size: 30px;
+      font-weight: 900;
+      letter-spacing: 0.08em;
+    }
+
+    .open-tv-loader-line {
+      width: 112px;
+      height: 3px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.14);
+    }
+
+    .open-tv-loader-line::before {
+      content: '';
+      display: block;
+      width: 42%;
+      height: 100%;
+      border-radius: inherit;
+      background: #e50914;
+      animation: openTvLoader 1.05s ease-in-out infinite;
+    }
+
+    .open-tv-loader-copy {
+      color: rgba(255, 255, 255, 0.58);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    @keyframes openTvLoader {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(260%); }
+    }
+  </style>
+</head>
+<body>
+<div id="open-tv-loader" aria-label="Open TV is loading">
+  <div class="open-tv-loader-card">
+    <div class="open-tv-loader-logo">OTV</div>
+    <div class="open-tv-loader-line"></div>
+    <div class="open-tv-loader-copy">Loading live TV</div>
+  </div>
+</div>
+<script>
+  window.addEventListener('flutter-first-frame', function () {
+    var loader = document.getElementById('open-tv-loader');
+    if (!loader) return;
+    loader.style.opacity = '0';
+    loader.style.transition = 'opacity 180ms ease-out';
+    window.setTimeout(function () {
+      loader.remove();
+    }, 220);
+  });
+</script>
+<script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

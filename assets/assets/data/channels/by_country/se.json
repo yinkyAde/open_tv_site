@@ -1,0 +1,879 @@
+[
+  {
+    "id": "ditv-se-sd-3022",
+    "name": "Di TV",
+    "slug": "ditv-se-sd-3022",
+    "logoUrl": "https://i.imgur.com/zApTDWn.png",
+    "streamUrl": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DiTV.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "di-tv::se::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "expressentv-se-sd-3526",
+    "name": "Expressen TV",
+    "slug": "expressentv-se-sd-3526",
+    "logoUrl": "https://i.imgur.com/ai0BIci.png",
+    "streamUrl": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ExpressenTV.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "expressen-tv::se::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lifestyletv-se-sd-5464",
+    "name": "LifeStyleTV",
+    "slug": "lifestyletv-se-sd-5464",
+    "logoUrl": "https://i.imgur.com/0mreWrM.jpg",
+    "streamUrl": "https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LifeStyleTV.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lifestyletv::se::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "miraclechannel-se-sd-5957",
+    "name": "Miracle TV",
+    "slug": "miraclechannel-se-sd-5957",
+    "logoUrl": "https://i.imgur.com/rc68GZJ.png",
+    "streamUrl": "https://live.miracleonline.org/hls/miracle1.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MiracleChannel.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "miracle-tv::se::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aryentv-se-sd-899",
+    "name": "Aryen TV",
+    "slug": "aryentv-se-sd-899",
+    "logoUrl": "https://i.imgur.com/hIhzT7t.png",
+    "streamUrl": "https://aryen.tv/live/tv/playlist.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AryenTV.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aryen-tv::se::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kunskapskanalen-se-hd-5268",
+    "name": "Kunskapskanalen",
+    "slug": "kunskapskanalen-se-hd-5268",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/4/4a/Kunskapskanalen_HD_Logo.svg",
+    "streamUrl": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "Kunskapskanalen.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kunskapskanalen::se::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "svtbarnsvt24-se-hd-9651",
+    "name": "SVT Barn/SVT24",
+    "slug": "svtbarnsvt24-se-hd-9651",
+    "logoUrl": "https://i.imgur.com/uMEwuTH.png",
+    "streamUrl": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "SVTBarnSVT24.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "svt-barn-svt24::se::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "svt1-se-hd-9649",
+    "name": "SVT1",
+    "slug": "svt1-se-hd-9649",
+    "logoUrl": "https://i.imgur.com/ci0wMnc.png",
+    "streamUrl": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SVT1.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "svt1::se::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "svt2-se-hd-9650",
+    "name": "SVT2",
+    "slug": "svt2-se-hd-9650",
+    "logoUrl": "https://i.imgur.com/qgZpqEx.png",
+    "streamUrl": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SVT2.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "svt2::se::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atglive-se-sd-953",
+    "name": "ATG Live",
+    "slug": "atglive-se-sd-953",
+    "logoUrl": "https://i.imgur.com/bPWFXkL.png",
+    "streamUrl": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ATGLive.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atg::se::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aznewstv-se-sd-1050",
+    "name": "Azerbaijan News TV",
+    "slug": "aznewstv-se-sd-1050",
+    "logoUrl": "https://i.imgur.com/Kw17XfP.png",
+    "streamUrl": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AznewsTV.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "azerbaijan-news-tv::se::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "komalatv-se-sd-5183",
+    "name": "Komala TV",
+    "slug": "komalatv-se-sd-5183",
+    "logoUrl": "https://i.imgur.com/D6KBLB8.png",
+    "streamUrl": "https://komhls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KomalaTV.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "komala-tv::se::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vsportgolf-se-sd-11599",
+    "name": "V Sport Golf",
+    "slug": "vsportgolf-se-sd-11599",
+    "logoUrl": "https://i.imgur.com/r3XbOmM.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "VSportGolf.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-sport-golf::se::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasatexplore-se-sd-11503",
+    "name": "Viasat Explore",
+    "slug": "viasatexplore-se-sd-11503",
+    "logoUrl": "https://i.imgur.com/DyT5pKB.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatExplore.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-explore::se::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasathistory-se-sd-11506",
+    "name": "Viasat History",
+    "slug": "viasathistory-se-sd-11506",
+    "logoUrl": "https://i.imgur.com/wRP9XA7.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatHistory.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-history::se::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasatnature-se-sd-11511",
+    "name": "Viasat Nature",
+    "slug": "viasatnature-se-sd-11511",
+    "logoUrl": "https://i.imgur.com/ousRqqD.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatNature.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-nature::se::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanal10asia-se-sd-4968",
+    "name": "Kanal 10 Asia",
+    "slug": "kanal10asia-se-sd-4968",
+    "logoUrl": "https://i.imgur.com/tY7IJva.png",
+    "streamUrl": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Kanal10Asia.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-10-asia::se::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/playlist.m3u8"
+      ]
+    }
+  }
+]

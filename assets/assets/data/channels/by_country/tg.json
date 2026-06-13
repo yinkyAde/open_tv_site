@@ -1,0 +1,568 @@
+[
+  {
+    "id": "chandeltv-tg-sd-2239",
+    "name": "Chandel TV",
+    "slug": "chandeltv-tg-sd-2239",
+    "logoUrl": "https://i.imgur.com/jQO7dVE.png",
+    "streamUrl": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ChandelTV.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chandel-tv::tg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televisionespoir47-tg-sd-10051",
+    "name": "Television Espoir 47",
+    "slug": "televisionespoir47-tg-sd-10051",
+    "logoUrl": "https://i.imgur.com/utBh0xL.png",
+    "streamUrl": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisionEspoir47.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "television-espoir-47::tg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtjva-tg-sd-8399",
+    "name": "RT JVA",
+    "slug": "rtjva-tg-sd-8399",
+    "logoUrl": "https://i.imgur.com/Ja3HVLB.jpg",
+    "streamUrl": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RTJVA.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rt-jva::tg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvt-tg-sd-11213",
+    "name": "TVT",
+    "slug": "tvt-tg-sd-11213",
+    "logoUrl": "https://i.imgur.com/WtXonN9.png",
+    "streamUrl": "http://69.64.57.208/tvt/playlist.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra",
+      "ewe",
+      "kbp"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVT.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvt::tg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sosdocteurtv-tg-sd-9301",
+    "name": "SOS Docteur TV",
+    "slug": "sosdocteurtv-tg-sd-9301",
+    "logoUrl": "https://i.imgur.com/wQpooHw.png",
+    "streamUrl": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sosdocteurtv.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "SOSDocteurTV.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sos-docteur-tv::tg::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nweconomie-tg-sd-6843",
+    "name": "NW Economie",
+    "slug": "nweconomie-tg-sd-6843",
+    "logoUrl": "https://i.imgur.com/OmlFQa8.png",
+    "streamUrl": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "NWEconomie.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nw-economie::tg::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nwinfo2-tg-sd-6844",
+    "name": "NW Info 2 EN",
+    "slug": "nwinfo2-tg-sd-6844",
+    "logoUrl": "https://i.imgur.com/0W4GqFD.png",
+    "streamUrl": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NWInfo2.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nw-info-2-en::tg::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nwinfo-tg-sd-6845",
+    "name": "NW Info FR",
+    "slug": "nwinfo-tg-sd-6845",
+    "logoUrl": "https://i.imgur.com/UDEY91v.png",
+    "streamUrl": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NWInfo.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nw-info-fr::tg::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nwmagazine-tg-sd-6846",
+    "name": "NW Magazine",
+    "slug": "nwmagazine-tg-sd-6846",
+    "logoUrl": "https://i.imgur.com/RZNJZYN.png",
+    "streamUrl": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NWMagazine.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nw-magazine::tg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "actv-tg-sd-315",
+    "name": "AC TV",
+    "slug": "actv-tg-sd-315",
+    "logoUrl": "https://i.imgur.com/SYugK7Y.png",
+    "streamUrl": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ACTV.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ac-tv::tg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dynamicgospeltv-tg-sd-3195",
+    "name": "Dynamic Gospel TV",
+    "slug": "dynamicgospeltv-tg-sd-3195",
+    "logoUrl": "https://i.imgur.com/e36BNNK.jpg",
+    "streamUrl": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DynamicGospelTV.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dynamic-gospel-tv::tg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "tvrmoldova-md-hd-11121",
+    "name": "TVR Moldova HD",
+    "slug": "tvrmoldova-md-hd-11121",
+    "logoUrl": "https://i.imgur.com/wDe9gL2.png",
+    "streamUrl": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRMoldova.md",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "QHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 132,
+      "badges": [
+        "QHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-moldova::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+        "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8"
+      ]
+    }
+  }
+]

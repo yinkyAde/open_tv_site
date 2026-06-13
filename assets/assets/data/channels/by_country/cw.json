@@ -1,0 +1,212 @@
+[
+  {
+    "id": "vamtv-cw-sd-11400",
+    "name": "VAM Vid's & More",
+    "slug": "vamtv-cw-sd-11400",
+    "logoUrl": "https://i.imgur.com/CD1PffA.png",
+    "streamUrl": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+    "country": {
+      "code": "CW",
+      "name": "Curacao"
+    },
+    "languages": [
+      "nld",
+      "pap",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VAMTV.cw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vam-vid-s-more::cw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nospais-cw-sd-6685",
+    "name": "Nos Païs",
+    "slug": "nospais-cw-sd-6685",
+    "logoUrl": "https://i.imgur.com/ZUob2uZ.png",
+    "streamUrl": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+    "country": {
+      "code": "CW",
+      "name": "Curacao"
+    },
+    "languages": [
+      "pap",
+      "nld",
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NosPais.cw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nos-pa-s::cw::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "boncetv-cw-sd-1591",
+    "name": "Bonce TV",
+    "slug": "boncetv-cw-sd-1591",
+    "logoUrl": "https://i.imgur.com/7cVkllH.png",
+    "streamUrl": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+    "country": {
+      "code": "CW",
+      "name": "Curacao"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BonceTV.cw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bonce-tv::cw::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvdirect13-cw-sd-10837",
+    "name": "TV Direct 13",
+    "slug": "tvdirect13-cw-sd-10837",
+    "logoUrl": "https://i.imgur.com/T2IbQqv.png",
+    "streamUrl": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "country": {
+      "code": "CW",
+      "name": "Curacao"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVDirect13.cw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-direct-13::cw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

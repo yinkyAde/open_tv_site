@@ -1,0 +1,311 @@
+[
+  {
+    "id": "elwataniatv-dz-sd-3306",
+    "name": "Elwatania TV",
+    "slug": "elwataniatv-dz-sd-3306",
+    "logoUrl": "https://i.imgur.com/NKR8WFq.png",
+    "streamUrl": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
+    "country": {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ElwataniaTV.dz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "elwatania-tv::dz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "al24news-dz-sd-406",
+    "name": "AL24 News",
+    "slug": "al24news-dz-sd-406",
+    "logoUrl": "https://i.imgur.com/vyVEXYL.png",
+    "streamUrl": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+    "country": {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    "languages": [
+      "ara",
+      "fra",
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AL24News.dz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al24-news::dz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "amouyazidtv-dz-sd-655",
+    "name": "Amou Yazid TV",
+    "slug": "amouyazidtv-dz-sd-655",
+    "logoUrl": "https://i.imgur.com/L8UPGPC.png",
+    "streamUrl": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+    "country": {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "AmouYazidTV.dz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amou-yazid-tv::dz::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cna-dz-sd-2496",
+    "name": "CNA",
+    "slug": "cna-dz-sd-2496",
+    "logoUrl": "https://i.imgur.com/Ki3ySUE.png",
+    "streamUrl": "https://live.creacast.com/cna/stream/playlist.m3u8",
+    "country": {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CNA.dz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cna::dz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cna-dz-sd-2497",
+    "name": "CNA (Chaîne Nord Africaine)",
+    "slug": "cna-dz-sd-2497",
+    "logoUrl": "https://i.imgur.com/Ki3ySUE.png",
+    "streamUrl": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+    "country": {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CNA.dz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cna-cha-ne-nord-africaine::dz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elheddaftv-dz-sd-3279",
+    "name": "El-Heddaf TV",
+    "slug": "elheddaftv-dz-sd-3279",
+    "logoUrl": "https://i.imgur.com/cDkIDIA.png",
+    "streamUrl": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+    "country": {
+      "code": "DZ",
+      "name": "Algeria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ElHeddafTV.dz",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "el-heddaf-tv::dz::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

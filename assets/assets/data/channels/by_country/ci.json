@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "nci-ci-sd-6422",
+    "name": "NCI",
+    "slug": "nci-ci-sd-6422",
+    "logoUrl": "https://i.imgur.com/I3pv69r.png",
+    "streamUrl": "https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NCI.ci",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nci::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cs2.push2stream.com/NCI-DVR/playlist.m3u8",
+        "https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "lifetv-ci-sd-5465",
+    "name": "Life TV",
+    "slug": "lifetv-ci-sd-5465",
+    "logoUrl": "https://i.imgur.com/iz9qHZk.png",
+    "streamUrl": "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LifeTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "life-tv::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reflettv-ci-sd-8174",
+    "name": "REFLET TV",
+    "slug": "reflettv-ci-sd-8174",
+    "logoUrl": "https://i.imgur.com/EauXR22.png",
+    "streamUrl": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RefletTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "reflet-tv::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rti1-ci-sd-8393",
+    "name": "RTI 1",
+    "slug": "rti1-ci-sd-8393",
+    "logoUrl": "https://i.imgur.com/TybQZQS.png",
+    "streamUrl": "http://69.64.57.208:8080/rti1/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTI1.ci",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rti-1::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rti2-ci-sd-8395",
+    "name": "RTI 2",
+    "slug": "rti2-ci-sd-8395",
+    "logoUrl": "https://i.imgur.com/73ueXrp.png",
+    "streamUrl": "http://69.64.57.208:8080/rti2/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTI2.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rti-2::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ntv-ci-sd-6794",
+    "name": "NTV Afrique",
+    "slug": "ntv-ci-sd-6794",
+    "logoUrl": "https://i.imgur.com/qqLXdHz.png",
+    "streamUrl": "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv-afrique::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtila3-ci-sd-8397",
+    "name": "RTI La 3",
+    "slug": "rtila3-ci-sd-8397",
+    "logoUrl": "https://i.imgur.com/HdNshgF.png",
+    "streamUrl": "http://69.64.57.208/la3/index.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RTILa3.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rti-la-3::ci::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aplusivoire-ci-sd-797",
+    "name": "A+ Ivoire",
+    "slug": "aplusivoire-ci-sd-797",
+    "logoUrl": "https://i.imgur.com/yOW0vyP.png",
+    "streamUrl": "http://69.64.57.208/atv/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "APlusIvoire.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a-ivoire::ci::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "benietv-ci-sd-1400",
+    "name": "Benie TV",
+    "slug": "benietv-ci-sd-1400",
+    "logoUrl": "https://i.imgur.com/7FXi05e.jpeg",
+    "streamUrl": "https://tv.voozmedia.fun/benietv/index.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BenieTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "benie-tv::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "divinamourtv-ci-sd-3023",
+    "name": "Divin Amour TV",
+    "slug": "divinamourtv-ci-sd-3023",
+    "logoUrl": "https://i.imgur.com/UUSAQET.png",
+    "streamUrl": "https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DivinAmourTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "divin-amour-tv::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "guidelovetv-ci-sd-4122",
+    "name": "Guide Love TV",
+    "slug": "guidelovetv-ci-sd-4122",
+    "logoUrl": "https://i.ibb.co/9gS2Y4G/guidelove-logo.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "GuideLoveTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "guide-love-tv::ci::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ivoirechannel-ci-sd-4733",
+    "name": "Ivoire Channel",
+    "slug": "ivoirechannel-ci-sd-4733",
+    "logoUrl": "https://i.imgur.com/gKbNqQv.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "IvoireChannel.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ivoire-channel::ci::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "miracletvplus-ci-sd-5959",
+    "name": "Miracle TV+",
+    "slug": "miracletvplus-ci-sd-5959",
+    "logoUrl": "https://i.imgur.com/AQ60OYO.png",
+    "streamUrl": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MiracleTVPlus.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "miracle-tv::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvc-ci-sd-8485",
+    "name": "RTVC",
+    "slug": "rtvc-ci-sd-8485",
+    "logoUrl": "https://i.imgur.com/oXuSkHz.png",
+    "streamUrl": "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RTVC.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtvc::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lmtvfrench-ci-sd-5512",
+    "name": "LMTV French",
+    "slug": "lmtvfrench-ci-sd-5512",
+    "logoUrl": "https://i.imgur.com/FVnq2cQ.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LMTVFrench.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lmtv-french::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "novelachannel-ci-sd-6708",
+    "name": "Novela Channel",
+    "slug": "novelachannel-ci-sd-6708",
+    "logoUrl": "https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "NovelaChannel.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "novela-channel::ci::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afromagicchannel-ci-sd-363",
+    "name": "Afro Magic Channel",
+    "slug": "afromagicchannel-ci-sd-363",
+    "logoUrl": "https://i.imgur.com/yQzXErU.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AfroMagicChannel.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afro-magic-channel::ci::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "a12tv-ci-sd-190",
+    "name": "A12 TV",
+    "slug": "a12tv-ci-sd-190",
+    "logoUrl": "https://i.imgur.com/JgnjgvF.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "A12TV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a12-tv::ci::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afroculturetv-ci-sd-361",
+    "name": "Afroculture TV",
+    "slug": "afroculturetv-ci-sd-361",
+    "logoUrl": "https://i.imgur.com/bjaZ3kO.png",
+    "streamUrl": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AfrocultureTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afroculture-tv::ci::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "business24africa-ci-sd-1690",
+    "name": "Business 24 Africa",
+    "slug": "business24africa-ci-sd-1690",
+    "logoUrl": "https://i.imgur.com/zZFl3vy.png",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "Business24Africa.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "business-24-africa::ci::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dntv-ci-sd-3054",
+    "name": "DNTV",
+    "slug": "dntv-ci-sd-3054",
+    "logoUrl": "https://i.imgur.com/Pw1ifln.png",
+    "streamUrl": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "DNTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dntv::ci::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecclesiatv-ci-sd-3223",
+    "name": "Ecclesia TV",
+    "slug": "ecclesiatv-ci-sd-3223",
+    "logoUrl": "https://i.imgur.com/mgabVFd.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EcclesiaTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecclesia-tv::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "seriemax-ci-sd-9011",
+    "name": "Serie Max",
+    "slug": "seriemax-ci-sd-9011",
+    "logoUrl": "https://i.imgur.com/GaRQXHT.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "SerieMax.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "serie-max::ci::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlacapitale-ci-sd-10908",
+    "name": "TV La Capitale",
+    "slug": "tvlacapitale-ci-sd-10908",
+    "logoUrl": "https://i.imgur.com/zZJzNjM.jpeg",
+    "streamUrl": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVLaCapitale.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-la-capitale::ci::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvalbayane-ci-sd-10720",
+    "name": "TV Al Bayane",
+    "slug": "tvalbayane-ci-sd-10720",
+    "logoUrl": "https://i.imgur.com/Xs9oEG8.png",
+    "streamUrl": "http://69.64.57.208/albayanetv/index.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVAlBayane.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-al-bayane::ci::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

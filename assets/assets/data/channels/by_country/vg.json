@@ -1,0 +1,104 @@
+[
+  {
+    "id": "cbngospel-vg-sd-2058",
+    "name": "CBN Gospel",
+    "slug": "cbngospel-vg-sd-2058",
+    "logoUrl": "https://i.imgur.com/SHBAblV.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+    "country": {
+      "code": "VG",
+      "name": "British Virgin Islands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CBNGospel.vg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbn-gospel::vg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cbntv-vg-sd-2061",
+    "name": "CBN TV",
+    "slug": "cbntv-vg-sd-2061",
+    "logoUrl": "https://i.imgur.com/SHBAblV.png",
+    "streamUrl": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "country": {
+      "code": "VG",
+      "name": "British Virgin Islands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CBNTV.vg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbn-tv::vg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

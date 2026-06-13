@@ -1,0 +1,519 @@
+[
+  {
+    "id": "drtv-dk-sd-3130",
+    "name": "DRTV",
+    "slug": "drtv-dk-sd-3130",
+    "logoUrl": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
+    "streamUrl": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DRTV.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "drtv::dk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmarineret-dk-sd-10945",
+    "name": "TVMarineret",
+    "slug": "tvmarineret-dk-sd-10945",
+    "logoUrl": "https://i.imgur.com/r1Caske.jpg",
+    "streamUrl": "http://sdream.info:8080/hls/livestream/index.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMarineret.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvmarineret::dk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dr1-dk-sd-3110",
+    "name": "DR1",
+    "slug": "dr1-dk-sd-3110",
+    "logoUrl": "https://i.imgur.com/OETzsOI.png",
+    "streamUrl": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DR1.dk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dr1::dk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dr2-dk-sd-3111",
+    "name": "DR2",
+    "slug": "dr2-dk-sd-3111",
+    "logoUrl": "https://i.imgur.com/7bYtukP.png",
+    "streamUrl": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DR2.dk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dr2::dk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvfromthedanishparliament-dk-sd-10866",
+    "name": "Folketinget",
+    "slug": "tvfromthedanishparliament-dk-sd-10866",
+    "logoUrl": "https://i.imgur.com/RqQDUzX.png",
+    "streamUrl": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan",
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "TVfromtheDanishParliament.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "folketinget::dk::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv2bornholm-dk-sd-10608",
+    "name": "TV 2/Bornholm",
+    "slug": "tv2bornholm-dk-sd-10608",
+    "logoUrl": "https://i.imgur.com/cEOpXU6.png",
+    "streamUrl": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV2Bornholm.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-2-bornholm::dk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "drramasjang-dk-sd-3129",
+    "name": "DR Ramasjang",
+    "slug": "drramasjang-dk-sd-3129",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png",
+    "streamUrl": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "DRRamasjang.dk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dr-ramasjang::dk::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kkrtv-dk-sd-5139",
+    "name": "KKRtv",
+    "slug": "kkrtv-dk-sd-5139",
+    "logoUrl": "https://i.imgur.com/TbtjWHI.png",
+    "streamUrl": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KKRtv.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kkrtv::dk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvstorbyen-dk-sd-11197",
+    "name": "BL-TV/TV Storbyen",
+    "slug": "tvstorbyen-dk-sd-11197",
+    "logoUrl": "https://i.ibb.co/X5h3hJL/tvstb.png",
+    "streamUrl": "https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVStorbyen.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bl-tv-tv-storbyen::dk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanalhovedstaden-dk-sd-4994",
+    "name": "Kanal Hovedstaden",
+    "slug": "kanalhovedstaden-dk-sd-4994",
+    "logoUrl": "https://i.imgur.com/afujBQs.jpeg",
+    "streamUrl": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KanalHovedstaden.dk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-hovedstaden::dk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

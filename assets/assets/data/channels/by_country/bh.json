@@ -1,0 +1,260 @@
+[
+  {
+    "id": "bahraininternational-bh-sd-1101",
+    "name": "Bahrain International",
+    "slug": "bahraininternational-bh-sd-1101",
+    "logoUrl": "https://i.imgur.com/t6Lmntr.png",
+    "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "country": {
+      "code": "BH",
+      "name": "Bahrain"
+    },
+    "languages": [
+      "eng",
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BahrainInternational.bh",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bahrain-international::bh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bahraintv-bh-sd-1105",
+    "name": "Bahrain TV",
+    "slug": "bahraintv-bh-sd-1105",
+    "logoUrl": "https://i.imgur.com/LTD0jIm.png",
+    "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+    "country": {
+      "code": "BH",
+      "name": "Bahrain"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BahrainTV.bh",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bahrain-tv::bh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bahrainquran-bh-sd-1102",
+    "name": "Bahrain Quran",
+    "slug": "bahrainquran-bh-sd-1102",
+    "logoUrl": "https://i.imgur.com/er5hOK4.png",
+    "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "country": {
+      "code": "BH",
+      "name": "Bahrain"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BahrainQuran.bh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bahrain-quran::bh::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bahrainsports1-bh-sd-1103",
+    "name": "Bahrain Sports 1",
+    "slug": "bahrainsports1-bh-sd-1103",
+    "logoUrl": "https://i.imgur.com/fBpLsbC.png",
+    "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "country": {
+      "code": "BH",
+      "name": "Bahrain"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "BahrainSports1.bh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bahrain-sports-1::bh::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bahrainsports2-bh-sd-1104",
+    "name": "Bahrain Sports 2",
+    "slug": "bahrainsports2-bh-sd-1104",
+    "logoUrl": "https://i.imgur.com/ZkuZmIo.png",
+    "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "country": {
+      "code": "BH",
+      "name": "Bahrain"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "BahrainSports2.bh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bahrain-sports-2::bh::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

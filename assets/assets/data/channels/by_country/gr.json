@@ -1,0 +1,3777 @@
+[
+  {
+    "id": "alphatv-gr-sd-566",
+    "name": "Alpha TV",
+    "slug": "alphatv-gr-sd-566",
+    "logoUrl": "https://i.imgur.com/6twzd38.png",
+    "streamUrl": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlphaTV.gr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alpha-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "4e-gr-sd-44",
+    "name": "4E",
+    "slug": "4e-gr-sd-44",
+    "logoUrl": "https://i.imgur.com/Na0UCV7.png",
+    "streamUrl": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "4E.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "4e::gr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "action24-gr-sd-310",
+    "name": "Action 24",
+    "slug": "action24-gr-sd-310",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "streamUrl": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Action24.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "action-24::gr::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aeolostv-gr-sd-335",
+    "name": "Aeolos TV",
+    "slug": "aeolostv-gr-sd-335",
+    "logoUrl": "https://i.imgur.com/4G9VvUg.png",
+    "streamUrl": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AeolosTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aeolos-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "art-gr-sd-883",
+    "name": "ART",
+    "slug": "art-gr-sd-883",
+    "logoUrl": "https://i.imgur.com/mNeLu04.png",
+    "streamUrl": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ART.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "art::gr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "astratv-gr-sd-939",
+    "name": "Astra TV",
+    "slug": "astratv-gr-sd-939",
+    "logoUrl": "https://i.imgur.com/oYRPfZm.png",
+    "streamUrl": "https://server.gointernet.gr/live/livestream.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AstraTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "astra-tv::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barazatv-gr-sd-1138",
+    "name": "Baraza TV",
+    "slug": "barazatv-gr-sd-1138",
+    "logoUrl": "https://i.imgur.com/TZ1unwF.png",
+    "streamUrl": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BarazaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "baraza-tv::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "centertv-gr-sd-2182",
+    "name": "Center TV",
+    "slug": "centertv-gr-sd-2182",
+    "logoUrl": "https://i.imgur.com/52JW71Q.png",
+    "streamUrl": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CenterTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "center-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel8-gr-hd-2258",
+    "name": "Channel 8",
+    "slug": "channel8-gr-hd-2258",
+    "logoUrl": "https://www.channel8.gr/img/channel8.png",
+    "streamUrl": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel8.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-8::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diontv-gr-sd-2996",
+    "name": "Dion TV",
+    "slug": "diontv-gr-sd-2996",
+    "logoUrl": "https://i.imgur.com/13MverN.png",
+    "streamUrl": "https://rtmp.win:3650/live/diontvlive.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DionTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dion-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecclesiatv-gr-sd-3224",
+    "name": "Ecclesia TV",
+    "slug": "ecclesiatv-gr-sd-3224",
+    "logoUrl": "https://i.imgur.com/QQSSMZx.png",
+    "streamUrl": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EcclesiaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecclesia-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "enachannel-gr-sd-3319",
+    "name": "ENA Channel",
+    "slug": "enachannel-gr-sd-3319",
+    "logoUrl": "https://i.imgur.com/3g3yjAq.png",
+    "streamUrl": "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ENAChannel.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ena-channel::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ertcosmos-gr-sd-3363",
+    "name": "ERT Cosmos",
+    "slug": "ertcosmos-gr-sd-3363",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+    "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ERTCosmos.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ert-cosmos::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ertnews-gr-hd-3365",
+    "name": "ERT News HD",
+    "slug": "ertnews-gr-hd-3365",
+    "logoUrl": "https://i.imgur.com/HXbsPfB.png",
+    "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ERTNews.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ert-news::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ert1-gr-sd-3360",
+    "name": "ERT1",
+    "slug": "ert1-gr-sd-3360",
+    "logoUrl": "https://i.imgur.com/UKbCtC1.png",
+    "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ERT1.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ert1::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ert2-gr-sd-3361",
+    "name": "ERT2",
+    "slug": "ert2-gr-sd-3361",
+    "logoUrl": "https://i.imgur.com/nMHKG3A.png",
+    "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ERT2.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ert2::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ert3-gr-sd-3362",
+    "name": "ERT3",
+    "slug": "ert3-gr-sd-3362",
+    "logoUrl": "https://i.imgur.com/f2l9bDR.png",
+    "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ERT3.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ert3::gr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gnomitv-gr-sd-3993",
+    "name": "Gnomi TV",
+    "slug": "gnomitv-gr-sd-3993",
+    "logoUrl": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
+    "streamUrl": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GnomiTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gnomi-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hellenicparliamenttv-gr-sd-4239",
+    "name": "Hellenic Parliament TV",
+    "slug": "hellenicparliamenttv-gr-sd-4239",
+    "logoUrl": "https://i.imgur.com/o2cvqv3.png",
+    "streamUrl": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "HellenicParliamentTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hellenic-parliament-tv::gr::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kontrachannel-gr-sd-5191",
+    "name": "Kontra Channel",
+    "slug": "kontrachannel-gr-sd-5191",
+    "logoUrl": "https://kontrachannel.gr/images/kontrachannel24.png",
+    "streamUrl": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KontraChannel.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kontra-channel::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "krititv-gr-sd-5215",
+    "name": "Kriti TV",
+    "slug": "krititv-gr-sd-5215",
+    "logoUrl": "https://i.imgur.com/X7jKwYl.png",
+    "streamUrl": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KritiTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kriti-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "naftemporikitv-gr-hd-6321",
+    "name": "Naftemporiki TV",
+    "slug": "naftemporikitv-gr-hd-6321",
+    "logoUrl": "https://i.imgur.com/9OFdMud.png",
+    "streamUrl": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NaftemporikiTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "naftemporiki-tv::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "notioitv-gr-sd-6692",
+    "name": "Notioi TV",
+    "slug": "notioitv-gr-sd-6692",
+    "logoUrl": "https://i.imgur.com/Nq00n8h.png",
+    "streamUrl": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NotioiTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "notioi-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "paniktv-gr-sd-7110",
+    "name": "Panik TV",
+    "slug": "paniktv-gr-sd-7110",
+    "logoUrl": "https://i.imgur.com/13C3CPr.png",
+    "streamUrl": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "PanikTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "panik-tv::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redmusic-gr-sd-8165",
+    "name": "RedMusic",
+    "slug": "redmusic-gr-sd-8165",
+    "logoUrl": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
+    "streamUrl": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RedMusic.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "redmusic::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starchannelinternational-gr-hd-9403",
+    "name": "Star Channel International",
+    "slug": "starchannelinternational-gr-hd-9403",
+    "logoUrl": "https://i.imgur.com/6NUpxhr.png",
+    "streamUrl": "https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "StarChannelInternational.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-channel-international::gr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starkentrikiselladas-gr-sd-9411",
+    "name": "Star Kentrikis Elladas",
+    "slug": "starkentrikiselladas-gr-sd-9411",
+    "logoUrl": "https://i.imgur.com/ZBt6beo.png",
+    "streamUrl": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "StarKentrikisElladas.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-kentrikis-elladas::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thrakinettv-gr-sd-10261",
+    "name": "Thraki Net TV",
+    "slug": "thrakinettv-gr-sd-10261",
+    "logoUrl": "https://i.imgur.com/3ITSnqT.png",
+    "streamUrl": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ThrakiNetTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thraki-net-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "verginatv-gr-sd-11459",
+    "name": "Vergina TV",
+    "slug": "verginatv-gr-sd-11459",
+    "logoUrl": "https://i.imgur.com/abQmFoH.png",
+    "streamUrl": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "VerginaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vergina-tv::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ioniantv-gr-sd-4645",
+    "name": "Ionian Channel",
+    "slug": "ioniantv-gr-sd-4645",
+    "logoUrl": "https://i.imgur.com/JILN3kS.png",
+    "streamUrl": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IonianTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ionian-channel::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ant1-gr-sd-746",
+    "name": "ANT1",
+    "slug": "ant1-gr-sd-746",
+    "logoUrl": "https://i.imgur.com/ItxKvVS.png",
+    "streamUrl": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ANT1.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ant1::gr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onechannel-gr-hd-6977",
+    "name": "One Channel",
+    "slug": "onechannel-gr-hd-6977",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",
+    "streamUrl": "https://onechannel.siliconweb.com/one/stream/chunks.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OneChannel.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-channel::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starchannel-gr-sd-9402",
+    "name": "STAR HD",
+    "slug": "starchannel-gr-sd-9402",
+    "logoUrl": "https://i.imgur.com/6NUpxhr.png",
+    "streamUrl": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "StarChannel.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Non geo blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star::gr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "neatv-gr-sd-6450",
+    "name": "Nea TV",
+    "slug": "neatv-gr-sd-6450",
+    "logoUrl": "https://i.imgur.com/nvNW8G7.png",
+    "streamUrl": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NeaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nea-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aigaiotv-gr-sd-385",
+    "name": "Aigaio TV",
+    "slug": "aigaiotv-gr-sd-385",
+    "logoUrl": "https://i.imgur.com/7LfuDJi.png",
+    "streamUrl": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AigaioTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aigaio-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barazatvdeephouse-gr-sd-1139",
+    "name": "Baraza TV Deep House",
+    "slug": "barazatvdeephouse-gr-sd-1139",
+    "logoUrl": "https://i.imgur.com/TZ1unwF.png",
+    "streamUrl": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BarazaTVDeepHouse.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "baraza-tv-deep-house::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barazatvrelaxing-gr-sd-1140",
+    "name": "Baraza TV Relaxing",
+    "slug": "barazatvrelaxing-gr-sd-1140",
+    "logoUrl": "https://i.imgur.com/TZ1unwF.png",
+    "streamUrl": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BarazaTVRelaxing.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "baraza-tv-relaxing::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "blueskytv-gr-sd-1556",
+    "name": "Blue Sky TV",
+    "slug": "blueskytv-gr-sd-1556",
+    "logoUrl": "https://i.imgur.com/C9CormG.png",
+    "streamUrl": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BlueSkyTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "blue-sky-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "corfuchannel-gr-sd-2629",
+    "name": "Corfu Channel",
+    "slug": "corfuchannel-gr-sd-2629",
+    "logoUrl": "https://i.imgur.com/EFL1Tjg.png",
+    "streamUrl": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CorfuChannel.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "corfu-channel::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "deltatv-gr-sd-2930",
+    "name": "DELTA TV",
+    "slug": "deltatv-gr-sd-2930",
+    "logoUrl": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+    "streamUrl": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DELTATV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "delta-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ellinikosfm-gr-sd-3283",
+    "name": "Ellinikos FM",
+    "slug": "ellinikosfm-gr-sd-3283",
+    "logoUrl": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+    "streamUrl": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "EllinikosFM.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ellinikos-fm::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "epirustv1-gr-sd-3354",
+    "name": "Epirus TV1",
+    "slug": "epirustv1-gr-sd-3354",
+    "logoUrl": "https://i.imgur.com/nYVqhu8.png",
+    "streamUrl": "https://rtmp.win:3929/live/epiruslive.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EpirusTV1.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "epirus-tv1::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "formediatv-gr-sd-3730",
+    "name": "FORMedia TV",
+    "slug": "formediatv-gr-sd-3730",
+    "logoUrl": "https://i.imgur.com/8FcJ2I9.png",
+    "streamUrl": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "FORMediaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "formedia-tv::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mesogeiostv-gr-sd-5879",
+    "name": "Mesogeios TV",
+    "slug": "mesogeiostv-gr-sd-5879",
+    "logoUrl": "https://i.imgur.com/KX5olay.png",
+    "streamUrl": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MesogeiosTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mesogeios-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "netmaxtv-gr-sd-6469",
+    "name": "Netmax TV",
+    "slug": "netmaxtv-gr-sd-6469",
+    "logoUrl": "https://i.imgur.com/dLvRD4k.png",
+    "streamUrl": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NetmaxTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "netmax-tv::gr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reloadplay-gr-sd-8188",
+    "name": "Reload Play",
+    "slug": "reloadplay-gr-sd-8188",
+    "logoUrl": "https://i.imgur.com/TZUsA2W.jpg",
+    "streamUrl": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ReloadPlay.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "reload-play::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starchannelinternational-gr-hd-9404",
+    "name": "STAR International",
+    "slug": "starchannelinternational-gr-hd-9404",
+    "logoUrl": "https://i.imgur.com/6NUpxhr.png",
+    "streamUrl": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "StarChannelInternational.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-international::gr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "syrostv1-gr-sd-9695",
+    "name": "Syros TV1",
+    "slug": "syrostv1-gr-sd-9695",
+    "logoUrl": "https://i.imgur.com/arQe5qS.png",
+    "streamUrl": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SyrosTV1.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "syros-tv1::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topchannel-gr-sd-10404",
+    "name": "Top Channel",
+    "slug": "topchannel-gr-sd-10404",
+    "logoUrl": "https://i.imgur.com/SfV2gJg.png",
+    "streamUrl": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TopChannel.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-channel::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trt-gr-sd-10526",
+    "name": "TRT",
+    "slug": "trt-gr-sd-10526",
+    "logoUrl": "https://i.imgur.com/g0jPOcC.png",
+    "streamUrl": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TRT.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trt::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv100-gr-sd-10702",
+    "name": "TV 100",
+    "slug": "tv100-gr-sd-10702",
+    "logoUrl": "https://i.imgur.com/OBH2DfE.png",
+    "streamUrl": "https://gwebstream.net/hls/master.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV100.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-100::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zouglatv-gr-hd-12220",
+    "name": "Zougla TV",
+    "slug": "zouglatv-gr-hd-12220",
+    "logoUrl": "https://i.imgur.com/AmW9d6H.jpg",
+    "streamUrl": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "ZouglaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zougla-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "besttv-gr-sd-1420",
+    "name": "Best TV",
+    "slug": "besttv-gr-sd-1420",
+    "logoUrl": "https://i.imgur.com/AeeeDUc.png",
+    "streamUrl": "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BestTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "best-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hightv-gr-sd-4269",
+    "name": "High TV",
+    "slug": "hightv-gr-sd-4269",
+    "logoUrl": "https://i.imgur.com/8gHuwt7.png",
+    "streamUrl": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "HighTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "high-tv::gr::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrg91-gr-sd-6749",
+    "name": "NRG 91",
+    "slug": "nrg91-gr-sd-6749",
+    "logoUrl": "https://i.imgur.com/1Zl1OJ5.png",
+    "streamUrl": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NRG91.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrg-91::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telekriti-gr-sd-9903",
+    "name": "Telekriti",
+    "slug": "telekriti-gr-sd-9903",
+    "logoUrl": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+    "streamUrl": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telekriti.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telekriti::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "acheloostv-gr-sd-305",
+    "name": "Acheloos TV",
+    "slug": "acheloostv-gr-sd-305",
+    "logoUrl": "https://i.imgur.com/5SVMxcu.png",
+    "streamUrl": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AcheloosTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "acheloos-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arttv-gr-sd-892",
+    "name": "ART TV",
+    "slug": "arttv-gr-sd-892",
+    "logoUrl": "https://i.imgur.com/8uS0sib.png",
+    "streamUrl": "https://rtmp.win:3696/live/arttvgrlive.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ARTTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "art-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "diavatatv-gr-sd-2979",
+    "name": "Diavata TV",
+    "slug": "diavatatv-gr-sd-2979",
+    "logoUrl": "https://i.imgur.com/hsK68yd.png",
+    "streamUrl": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DiavataTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "diavata-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "egnatiatv-gr-sd-3248",
+    "name": "Egnatia TV",
+    "slug": "egnatiatv-gr-sd-3248",
+    "logoUrl": "https://i.imgur.com/zuyYIca.png",
+    "streamUrl": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EgnatiaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "egnatia-tv::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "extrapronews-gr-sd-3528",
+    "name": "Extra ProNews",
+    "slug": "extrapronews-gr-sd-3528",
+    "logoUrl": "https://i.imgur.com/VKW9xw6.png",
+    "streamUrl": "http://62.1.176.18:8888/extra/index.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ExtraProNews.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "extra-pronews::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starttv-gr-sd-9437",
+    "name": "Start TV",
+    "slug": "starttv-gr-sd-9437",
+    "logoUrl": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
+    "streamUrl": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "StartTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "start-tv::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "playtv-gr-sd-7301",
+    "name": "Play TV",
+    "slug": "playtv-gr-sd-7301",
+    "logoUrl": "https://i.imgur.com/JWFOYuD.png",
+    "streamUrl": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "PlayTV.gr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "play-tv::gr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alerttv-gr-sd-453",
+    "name": "Alert",
+    "slug": "alerttv-gr-sd-453",
+    "logoUrl": "https://i.imgur.com/xqa87lG.png",
+    "streamUrl": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlertTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alert::gr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "farostv2-gr-sd-3587",
+    "name": "Faros TV2",
+    "slug": "farostv2-gr-sd-3587",
+    "logoUrl": "https://i.imgur.com/7xtz1Jo.png",
+    "streamUrl": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FarosTV2.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "faros-tv2::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pellatv-gr-sd-7189",
+    "name": "Pella TV",
+    "slug": "pellatv-gr-sd-7189",
+    "logoUrl": "https://i.imgur.com/JnDXKZo.png",
+    "streamUrl": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PellaTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pella-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "groovytv-gr-sd-4085",
+    "name": "Groovy TV",
+    "slug": "groovytv-gr-sd-4085",
+    "logoUrl": "https://i.imgur.com/ZYNQuf1.png",
+    "streamUrl": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "GroovyTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "groovy-tv::gr::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcreta-gr-sd-10814",
+    "name": "Creta",
+    "slug": "tvcreta-gr-sd-10814",
+    "logoUrl": "https://i.imgur.com/CpIeJyt.png",
+    "streamUrl": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCreta.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "creta::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "samiakitv-gr-sd-8874",
+    "name": "Samiaki TV",
+    "slug": "samiakitv-gr-sd-8874",
+    "logoUrl": "https://i.imgur.com/9Pf1we6.png",
+    "streamUrl": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SamiakiTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "samiaki-tv::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcreta-gr-sd-10815",
+    "name": "TV Creta",
+    "slug": "tvcreta-gr-sd-10815",
+    "logoUrl": "https://i.imgur.com/CpIeJyt.png",
+    "streamUrl": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCreta.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-creta::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xplore-gr-sd-11993",
+    "name": "Xplore",
+    "slug": "xplore-gr-sd-11993",
+    "logoUrl": "https://i.imgur.com/8oy62fX.png",
+    "streamUrl": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Xplore.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xplore::gr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hellenicparliamenttv-gr-sd-4240",
+    "name": "Βουλή Τηλεόραση",
+    "slug": "hellenicparliamenttv-gr-sd-4240",
+    "logoUrl": "https://i.imgur.com/o2cvqv3.png",
+    "streamUrl": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "HellenicParliamentTV.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::gr::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ertsports1-gr-hd-3366",
+    "name": "ERT Sports 1",
+    "slug": "ertsports1-gr-hd-3366",
+    "logoUrl": "https://i.imgur.com/EsczO2H.png",
+    "streamUrl": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ERTSports1.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ert-sports-1::gr::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ertsports2-gr-hd-3367",
+    "name": "ERT Sports 2",
+    "slug": "ertsports2-gr-hd-3367",
+    "logoUrl": "https://i.imgur.com/b2SNQPi.png",
+    "streamUrl": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ERTSports2.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ert-sports-2::gr::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

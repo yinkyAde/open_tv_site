@@ -1,0 +1,105 @@
+[
+  {
+    "id": "sanmarinortv-sm-sd-8898",
+    "name": "San Marino RTV",
+    "slug": "sanmarinortv-sm-sd-8898",
+    "logoUrl": "https://i.imgur.com/ZJSWusT.png",
+    "streamUrl": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8",
+    "country": {
+      "code": "SM",
+      "name": "San Marino"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SanMarinoRTV.sm",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "san-marino-rtv::sm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sanmarinortvsport-sm-sd-8899",
+    "name": "San Marino RTV Sport",
+    "slug": "sanmarinortvsport-sm-sd-8899",
+    "logoUrl": "https://i.imgur.com/PGm944g.png",
+    "streamUrl": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
+    "country": {
+      "code": "SM",
+      "name": "San Marino"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SanMarinoRTVSport.sm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "san-marino-rtv-sport::sm::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

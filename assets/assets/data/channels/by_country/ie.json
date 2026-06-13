@@ -1,0 +1,520 @@
+[
+  {
+    "id": "tg4-ie-sd-10111",
+    "name": "TG4",
+    "slug": "tg4-ie-sd-10111",
+    "logoUrl": "https://i.imgur.com/XiAKb4E.png",
+    "streamUrl": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "gle",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TG4.ie",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tg4::ie::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "f1channel-ie-us-3534",
+    "name": "F1 Channel",
+    "slug": "f1channel-ie-us-3534",
+    "logoUrl": "https://i.imgur.com/cjXzWsI.png",
+    "streamUrl": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "F1Channel.ie",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "f1-channel::ie::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "oireachtastv-ie-sd-6884",
+    "name": "Oireachtas TV",
+    "slug": "oireachtastv-ie-sd-6884",
+    "logoUrl": "https://i.imgur.com/aC4fsCI.png",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "gle"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTV.ie",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oireachtastvcommitteeroom1-ie-sd-6885",
+    "name": "Oireachtas TV Committee Room 1",
+    "slug": "oireachtastvcommitteeroom1-ie-sd-6885",
+    "logoUrl": "https://i.imgur.com/JLYqKC0.jpg",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTVCommitteeRoom1.ie",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv-committee-room-1::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oireachtastvcommitteeroom2-ie-sd-6886",
+    "name": "Oireachtas TV Committee Room 2",
+    "slug": "oireachtastvcommitteeroom2-ie-sd-6886",
+    "logoUrl": "https://i.imgur.com/2Wxx2jK.jpg",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTVCommitteeRoom2.ie",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv-committee-room-2::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oireachtastvcommitteeroom3-ie-sd-6887",
+    "name": "Oireachtas TV Committee Room 3",
+    "slug": "oireachtastvcommitteeroom3-ie-sd-6887",
+    "logoUrl": "https://i.imgur.com/EoAQeg5.jpg",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTVCommitteeRoom3.ie",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv-committee-room-3::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oireachtastvcommitteeroom4-ie-sd-6888",
+    "name": "Oireachtas TV Committee Room 4",
+    "slug": "oireachtastvcommitteeroom4-ie-sd-6888",
+    "logoUrl": "https://i.imgur.com/U9U4rgs.jpg",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTVCommitteeRoom4.ie",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv-committee-room-4::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oireachtastvdaileireann-ie-sd-6889",
+    "name": "Oireachtas TV Dáil Éireann",
+    "slug": "oireachtastvdaileireann-ie-sd-6889",
+    "logoUrl": "https://i.imgur.com/mexKiS0.jpg",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTVDailEireann.ie",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv-d-il-ireann::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oireachtastvseanadeireann-ie-sd-6890",
+    "name": "Oireachtas TV Seanad Éireann",
+    "slug": "oireachtastvseanadeireann-ie-sd-6890",
+    "logoUrl": "https://i.imgur.com/c5TI2DT.jpg",
+    "streamUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OireachtasTVSeanadEireann.ie",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oireachtas-tv-seanad-ireann::ie::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skynews-ie-sd-9179",
+    "name": "Sky News",
+    "slug": "skynews-ie-sd-9179",
+    "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "streamUrl": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8",
+    "country": {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SkyNews.ie",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-news::ie::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "aljadeed-lb-sd-484",
+    "name": "Al Jadeed",
+    "slug": "aljadeed-lb-sd-484",
+    "logoUrl": "https://i.imgur.com/CfxR8o3.png",
+    "streamUrl": "http://185.9.2.18/chid_391/mono.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlJadeed.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-jadeed::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "otv-lb-sd-7057",
+    "name": "OTV",
+    "slug": "otv-lb-sd-7057",
+    "logoUrl": "https://i.imgur.com/toxFMeY.png",
+    "streamUrl": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara",
+      "fra",
+      "eng",
+      "hye"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OTV.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "otv::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aghaniaghanitv-lb-sd-373",
+    "name": "Aghani Aghani TV",
+    "slug": "aghaniaghanitv-lb-sd-373",
+    "logoUrl": "https://i.imgur.com/o6HSfNg.png",
+    "streamUrl": "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AghaniAghaniTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aghani-aghani-tv::lb::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mfm-lb-hd-5898",
+    "name": "mfm",
+    "slug": "mfm-lb-hd-5898",
+    "logoUrl": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
+    "streamUrl": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "mfm.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mfm::lb::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtvlebanon-lb-sd-6198",
+    "name": "MTV Lebanon",
+    "slug": "mtvlebanon-lb-sd-6198",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MTVLebanon.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv-lebanon::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redtvlebanon-lb-hd-8170",
+    "name": "Red TV Lebanon",
+    "slug": "redtvlebanon-lb-hd-8170",
+    "logoUrl": "https://i.imgur.com/bWwY885.png",
+    "streamUrl": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RedTVLebanon.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-tv-lebanon::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sensestv-lb-sd-9004",
+    "name": "Senses TV",
+    "slug": "sensestv-lb-sd-9004",
+    "logoUrl": "https://i.imgur.com/hnTx8eK.png",
+    "streamUrl": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SensesTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "senses-tv::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "voiceoflebanon-lb-sd-11572",
+    "name": "Voice of Lebanon",
+    "slug": "voiceoflebanon-lb-sd-11572",
+    "logoUrl": "https://i.imgur.com/f8WcqRY.png",
+    "streamUrl": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "VoiceofLebanon.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "voice-of-lebanon::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "charitytv-lb-sd-2316",
+    "name": "CharityTV",
+    "slug": "charitytv-lb-sd-2316",
+    "logoUrl": "https://i.imgur.com/U9z8WBY.png",
+    "streamUrl": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CharityTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "charitytv::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alwifaknewstv-lb-sd-616",
+    "name": "ALWifak News TV",
+    "slug": "alwifaknewstv-lb-sd-616",
+    "logoUrl": "https://i.imgur.com/1vqhmNz.png",
+    "streamUrl": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ALWifakNewsTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alwifak-news-tv::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arabicatv-lb-sd-815",
+    "name": "Arabica TV",
+    "slug": "arabicatv-lb-sd-815",
+    "logoUrl": "https://i.imgur.com/sTOoDy1.png",
+    "streamUrl": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ArabicaTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arabica-tv::lb::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nourelshabeb-lb-sd-6697",
+    "name": "Nour El Shabeb",
+    "slug": "nourelshabeb-lb-sd-6697",
+    "logoUrl": "https://i.imgur.com/cNr0vl1.png",
+    "streamUrl": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NourElShabeb.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nour-el-shabeb::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "palestinealyawm-lb-sd-7096",
+    "name": "Palestine Al Yawm",
+    "slug": "palestinealyawm-lb-sd-7096",
+    "logoUrl": "https://i.imgur.com/n8dSgx4.png",
+    "streamUrl": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PalestineAlYawm.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "palestine-al-yawm::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nabaatv-lb-sd-6313",
+    "name": "Nabaa TV",
+    "slug": "nabaatv-lb-sd-6313",
+    "logoUrl": "https://i.imgur.com/p8eRgSs.png",
+    "streamUrl": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NabaaTV.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nabaa-tv::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8",
+        "https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "onetv-lb-sd-6990",
+    "name": "One TV",
+    "slug": "onetv-lb-sd-6990",
+    "logoUrl": "https://i.imgur.com/O4DuR9G.png",
+    "streamUrl": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "OneTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-tv::lb::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onefm-lb-sd-6978",
+    "name": "OneFM",
+    "slug": "onefm-lb-sd-6978",
+    "logoUrl": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+    "streamUrl": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "OneFM.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "onefm::lb::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleliban-lb-sd-9904",
+    "name": "Tele Liban",
+    "slug": "teleliban-lb-sd-9904",
+    "logoUrl": "https://i.imgur.com/5VPYxJi.png",
+    "streamUrl": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleLiban.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-liban::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "almayadeentv-lb-sd-556",
+    "name": "Al Mayadeen",
+    "slug": "almayadeentv-lb-sd-556",
+    "logoUrl": "https://i.imgur.com/GtQOKeW.png",
+    "streamUrl": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlMayadeenTV.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-mayadeen::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lanatv-lb-sd-5349",
+    "name": "Lana TV",
+    "slug": "lanatv-lb-sd-5349",
+    "logoUrl": "https://i.imgur.com/xPoycVY.png",
+    "streamUrl": "https://cdn.streamlane.tv/hls/ltv/master.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LanaTV.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lana-tv::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nourmariam-lb-sd-6698",
+    "name": "Nour Mariam",
+    "slug": "nourmariam-lb-sd-6698",
+    "logoUrl": "https://i.imgur.com/Ow5Lqh6.jpg",
+    "streamUrl": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NourMariam.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nour-mariam::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "charitytv-lb-sd-2315",
+    "name": "Charity TV",
+    "slug": "charitytv-lb-sd-2315",
+    "logoUrl": "https://i.imgur.com/U9z8WBY.png",
+    "streamUrl": "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CharityTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "charity-tv::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nouralsharq-lb-sd-6696",
+    "name": "Nour Al Sharq",
+    "slug": "nouralsharq-lb-sd-6696",
+    "logoUrl": "https://i.imgur.com/EEy2dUr.png",
+    "streamUrl": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NourAlSharq.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nour-al-sharq::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "noursat-lb-sd-6699",
+    "name": "NourSAT",
+    "slug": "noursat-lb-sd-6699",
+    "logoUrl": "https://i.imgur.com/6Zs5rx4.png",
+    "streamUrl": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Noursat.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "noursat::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "noursatenglish-lb-sd-6700",
+    "name": "Noursat English",
+    "slug": "noursatenglish-lb-sd-6700",
+    "logoUrl": "https://i.imgur.com/RC5Kw82.png",
+    "streamUrl": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NoursatEnglish.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "noursat-english::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tahatv-lb-sd-9716",
+    "name": "Taha TV",
+    "slug": "tahatv-lb-sd-9716",
+    "logoUrl": "https://i.imgur.com/hdsrxvX.png",
+    "streamUrl": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "TahaTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "taha-tv::lb::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "almanar-lb-sd-550",
+    "name": "Al Manar",
+    "slug": "almanar-lb-sd-550",
+    "logoUrl": "https://i.imgur.com/sOQLV7L.png",
+    "streamUrl": "https://edge.fastpublish.me/live/index.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlManar.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-manar::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unews-lb-sd-11316",
+    "name": "UNews",
+    "slug": "unews-lb-sd-11316",
+    "logoUrl": "",
+    "streamUrl": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "UNews.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unews::lb::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alittihadtv-lb-sd-482",
+    "name": "Al Ittihad",
+    "slug": "alittihadtv-lb-sd-482",
+    "logoUrl": "https://i.imgur.com/QMUjPXx.png",
+    "streamUrl": "http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AlIttihadTV.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-ittihad::lb::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.alittihad.tv:444/ittihad/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nouralkoddass-lb-sd-6695",
+    "name": "Nour Al Koddas",
+    "slug": "nouralkoddass-lb-sd-6695",
+    "logoUrl": "https://i.imgur.com/dF4Mvts.png",
+    "streamUrl": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NourAlKoddass.lb",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nour-al-koddas::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alimantv-lb-sd-476",
+    "name": "Aliman TV",
+    "slug": "alimantv-lb-sd-476",
+    "logoUrl": "https://i.imgur.com/4WKQppG.png",
+    "streamUrl": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
+    "country": {
+      "code": "LB",
+      "name": "Lebanon"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlImanTV.lb",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aliman-tv::lb::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

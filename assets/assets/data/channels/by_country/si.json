@@ -1,0 +1,681 @@
+[
+  {
+    "id": "tvslo1-si-hd-11169",
+    "name": "TV SLO 1 HD",
+    "slug": "tvslo1-si-hd-11169",
+    "logoUrl": "https://i.imgur.com/E3YmlxF.png",
+    "streamUrl": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSLO1.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-slo-1::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://23.88.66.93/SLO1/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvslo2-si-hd-11172",
+    "name": "TV SLO 2 HD",
+    "slug": "tvslo2-si-hd-11172",
+    "logoUrl": "https://i.imgur.com/OPlzjjv.png",
+    "streamUrl": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSLO2.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-slo-2::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://23.88.66.93/SLO2/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "folxslovenija-si-sd-3713",
+    "name": "Folx Slovenija",
+    "slug": "folxslovenija-si-sd-3713",
+    "logoUrl": "https://i.imgur.com/RK1IASU.png",
+    "streamUrl": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FolxSlovenija.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "folx-slovenija::si::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "history-si-hd-4291",
+    "name": "History Channel",
+    "slug": "history-si-hd-4291",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "streamUrl": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "History.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-channel::si::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trzictv-si-sd-10557",
+    "name": "Tržič TV",
+    "slug": "trzictv-si-sd-10557",
+    "logoUrl": "https://i.imgur.com/VZiaoqz.png",
+    "streamUrl": "https://vpn.video2go.live:444/trzic/tv/playlist.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TrzicTV.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tr-i-tv::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televizijaurslja-si-sd-10060",
+    "name": "TV Uršlja",
+    "slug": "televizijaurslja-si-sd-10060",
+    "logoUrl": "https://i.imgur.com/PZwdXlN.png",
+    "streamUrl": "http://ott.sgn.net/hls/tvurslja.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevizijaUrslja.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-ur-lja::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "exodustv-si-sd-3517",
+    "name": "Exodus TV",
+    "slug": "exodustv-si-sd-3517",
+    "logoUrl": "https://i.imgur.com/WKr5ncQ.png",
+    "streamUrl": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ExodusTV.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "exodus-tv::si::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kanala-si-sd-4984",
+    "name": "Kanal A",
+    "slug": "kanala-si-sd-4984",
+    "logoUrl": "https://i.imgur.com/JHNpcqF.png",
+    "streamUrl": "https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KanalA.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-a::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvslo1-si-sd-11170",
+    "name": "SLO 1",
+    "slug": "tvslo1-si-sd-11170",
+    "logoUrl": "https://i.imgur.com/E3YmlxF.png",
+    "streamUrl": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSLO1.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "slo-1::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvslo2-si-sd-11173",
+    "name": "SLO 2",
+    "slug": "tvslo2-si-sd-11173",
+    "logoUrl": "https://i.imgur.com/OPlzjjv.png",
+    "streamUrl": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSLO2.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "slo-2::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvslo3-si-sd-11174",
+    "name": "SLO 3",
+    "slug": "tvslo3-si-sd-11174",
+    "logoUrl": "https://i.imgur.com/yPb2FKg.png",
+    "streamUrl": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSLO3.si",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "slo-3::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvveseljakgolicahd-si-sd-11234",
+    "name": "TV Veseljak Golica HD",
+    "slug": "tvveseljakgolicahd-si-sd-11234",
+    "logoUrl": "https://i.imgur.com/49VrbSW.png",
+    "streamUrl": "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVVeseljakGolicaHD.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-veseljak-golica::si::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gtv-si-sd-4108",
+    "name": "GTV",
+    "slug": "gtv-si-sd-4108",
+    "logoUrl": "https://i.imgur.com/LHChpid.png",
+    "streamUrl": "http://91.220.221.60/gtv_hls/gtv_03.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "GTV.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gtv::si::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

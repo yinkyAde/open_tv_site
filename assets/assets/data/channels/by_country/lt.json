@@ -1,0 +1,517 @@
+[
+  {
+    "id": "lietuvosrytastv-lt-sd-5463",
+    "name": "Lietuvos Rytas TV",
+    "slug": "lietuvosrytastv-lt-sd-5463",
+    "logoUrl": "https://i.imgur.com/5wpxVI0.png",
+    "streamUrl": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "LietuvosRytasTV.lt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lietuvos-rytas-tv::lt::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrtklasika-lt-sd-5574",
+    "name": "LRT Klasika",
+    "slug": "lrtklasika-lt-sd-5574",
+    "logoUrl": "https://i.imgur.com/Fa8Vhu0.png",
+    "streamUrl": "https://stream-live.lrt.lt/klasika/master.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LRTKlasika.lt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-klasika::lt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrtopus-lt-sd-5576",
+    "name": "LRT Opus",
+    "slug": "lrtopus-lt-sd-5576",
+    "logoUrl": "https://i.imgur.com/oLuZTMH.png",
+    "streamUrl": "https://stream-live.lrt.lt/opus/master.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LRTOpus.lt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-opus::lt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrtradijas-lt-sd-5578",
+    "name": "LRT Radijas",
+    "slug": "lrtradijas-lt-sd-5578",
+    "logoUrl": "https://i.imgur.com/gYoaqju.png",
+    "streamUrl": "https://stream-live.lrt.lt/radijas/master.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "LRTRadijas.lt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-radijas::lt::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrtlituanica-lt-sd-5575",
+    "name": "LRT Lituanica",
+    "slug": "lrtlituanica-lt-sd-5575",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png",
+    "streamUrl": "https://stream-live.lrt.lt/lituanica/master.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LRTLituanica.lt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-lituanica::lt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrtplius-lt-sd-5577",
+    "name": "LRT Plius",
+    "slug": "lrtplius-lt-sd-5577",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
+    "streamUrl": "https://stream-live.lrt.lt/plius/master.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "LRTPlius.lt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-plius::lt::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrttv-lt-sd-5579",
+    "name": "LRT TV",
+    "slug": "lrttv-lt-sd-5579",
+    "logoUrl": "https://i.imgur.com/FL2ZuGC.png",
+    "streamUrl": "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LRTTV.lt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-tv::lt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "delfitv-lt-sd-2926",
+    "name": "Delfi TV",
+    "slug": "delfitv-lt-sd-2926",
+    "logoUrl": "https://i.imgur.com/IFoHP5M.png",
+    "streamUrl": "https://s1.dcdn.lt/live/televizija/playlist.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DelfiTV.lt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "delfi-tv::lt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "m1-lt-sd-5600",
+    "name": "M-1",
+    "slug": "m1-lt-sd-5600",
+    "logoUrl": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
+    "streamUrl": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "M1.lt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-1::lt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "powerhitradio-lt-sd-7619",
+    "name": "Power Hit Radio",
+    "slug": "powerhitradio-lt-sd-7619",
+    "logoUrl": "https://i.imgur.com/GOlQbfC.png",
+    "streamUrl": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "PowerHitRadio.lt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "power-hit-radio::lt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

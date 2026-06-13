@@ -1,0 +1,2471 @@
+[
+  {
+    "id": "lovenature-ca-4k-5549",
+    "name": "Love Nature 4K",
+    "slug": "lovenature-ca-4k-5549",
+    "logoUrl": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+    "streamUrl": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "LoveNature.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 119,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-nature::ca::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+        "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8",
+        "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "outdoorchannel-us-sd-7063",
+    "name": "Outdoor Channel",
+    "slug": "outdoorchannel-us-sd-7063",
+    "logoUrl": "https://i.imgur.com/Kh4MWaY.png",
+    "streamUrl": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "OutdoorChannel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "outdoor-channel::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "outsidetv-us-sd-7071",
+    "name": "Outside TV",
+    "slug": "outsidetv-us-sd-7071",
+    "logoUrl": "https://a.jsrdn.com/hls/22765/outside-tv/extras/1080_logo.png",
+    "streamUrl": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "OutsideTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "outside-tv::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/14e92b99-6a44-4e9d-9959-dd9ac76884b3/playlist.m3u8",
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "pursuitup-us-sd-7764",
+    "name": "Pursuit UP",
+    "slug": "pursuitup-us-sd-7764",
+    "logoUrl": "https://i.imgur.com/5Vzwqts.png",
+    "streamUrl": "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PursuitUP.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pursuit-up::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "pursuitup-us-sd-7765",
+    "name": "PursuitUP",
+    "slug": "pursuitup-us-sd-7765",
+    "logoUrl": "https://i.imgur.com/5Vzwqts.png",
+    "streamUrl": "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PursuitUP.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pursuitup::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8",
+        "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "waypointtv-us-sd-11662",
+    "name": "Waypoint TV",
+    "slug": "waypointtv-us-sd-11662",
+    "logoUrl": "https://i.imgur.com/9vvlJN9.png",
+    "streamUrl": "https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "WaypointTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "waypoint-tv::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "wildearth-za-sd-11762",
+    "name": "WildEarth",
+    "slug": "wildearth-za-sd-11762",
+    "logoUrl": "https://i.imgur.com/Vhv5gjN.png",
+    "streamUrl": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+    "country": {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "WildEarth.za",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wildearth::za::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+        "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+        "https://wildearth-xumo.amagi.tv/master.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "agrotendenciatv-cr-sd-378",
+    "name": "Agrotendencia TV",
+    "slug": "agrotendenciatv-cr-sd-378",
+    "logoUrl": "https://i.imgur.com/frd60hR.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgrotendenciaTV.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agrotendencia-tv::cr::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalrural-br-sd-1937",
+    "name": "Canal Rural",
+    "slug": "canalrural-br-sd-1937",
+    "logoUrl": "https://i.imgur.com/w9R9IIX.png",
+    "streamUrl": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "CanalRural.br",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-rural::br::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "horsecountrytv-uk-sd-4408",
+    "name": "Horse & Country TV",
+    "slug": "horsecountrytv-uk-sd-4408",
+    "logoUrl": "https://i.imgur.com/1x6zYZr.png",
+    "streamUrl": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "HorseCountryTV.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "horse-country-tv::uk::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "italianfishingtv-it-sd-4708",
+    "name": "Italian Fishing TV",
+    "slug": "italianfishingtv-it-sd-4708",
+    "logoUrl": "https://i.imgur.com/qrn6tUO.png",
+    "streamUrl": "https://fms.premio.link/fishingtv/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ItalianFishingTV.it",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "italian-fishing-tv::it::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "outsidetv-us-sd-7070",
+    "name": "Outside",
+    "slug": "outsidetv-us-sd-7070",
+    "logoUrl": "https://a.jsrdn.com/hls/22765/outside-tv/extras/1080_logo.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=_zniV8aeQY4",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "OutsideTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "outside::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "waypointtv-us-sd-11665",
+    "name": "WaypointTV",
+    "slug": "waypointtv-us-sd-11665",
+    "logoUrl": "https://i.imgur.com/9vvlJN9.png",
+    "streamUrl": "https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "WaypointTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "waypointtv::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "akctv-us-sd-398",
+    "name": "AKC TV",
+    "slug": "akctv-us-sd-398",
+    "logoUrl": "https://i.imgur.com/XRTfoSp.png",
+    "streamUrl": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AKCTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "akc-tv::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "outdooramerica-us-sd-7061",
+    "name": "Outdoor America",
+    "slug": "outdooramerica-us-sd-7061",
+    "logoUrl": "https://i.imgur.com/UKfimFD.png",
+    "streamUrl": "https://d1e354daam8g5r.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "OutdoorAmerica.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "outdoor-america::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canaldocriador-br-sd-1886",
+    "name": "Canal do Criador",
+    "slug": "canaldocriador-br-sd-1886",
+    "logoUrl": "https://i.imgur.com/k29So6X.png",
+    "streamUrl": "https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "CanaldoCriador.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-do-criador::br::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctv17-cn-hd-2149",
+    "name": "CCTV-17",
+    "slug": "cctv17-cn-hd-2149",
+    "logoUrl": "https://i.imgur.com/jSQURxS.png",
+    "streamUrl": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "CCTV17.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-17::cn::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "duckhuntingtv-us-sd-3155",
+    "name": "Duck Hunting TV",
+    "slug": "duckhuntingtv-us-sd-3155",
+    "logoUrl": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
+    "streamUrl": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "DuckHuntingTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duck-hunting-tv::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "peertvsudtirol-it-sd-7188",
+    "name": "Peer TV Südtirol",
+    "slug": "peertvsudtirol-it-sd-7188",
+    "logoUrl": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
+    "streamUrl": "https://iptv.peer.biz/live/peertv.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PeerTVSudtirol.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "peer-tv-s-dtirol::it::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rybalka-ua-sd-8801",
+    "name": "Rybalka",
+    "slug": "rybalka-ua-sd-8801",
+    "logoUrl": "https://i.imgur.com/NafW0xT.png",
+    "streamUrl": "https://iptv.prosto.tv/ch88/index.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "Rybalka.ua",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rybalka::ua::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ardbtv-kh-sd-831",
+    "name": "ARDB TV",
+    "slug": "ardbtv-kh-sd-831",
+    "logoUrl": "https://i.imgur.com/yOncWla.png",
+    "streamUrl": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ARDBTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ardb-tv::kh::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "swamijitvamerican-at-sd-9653",
+    "name": "Swamiji TV American",
+    "slug": "swamijitvamerican-at-sd-9653",
+    "logoUrl": "https://i.imgur.com/nrLcuzs.png",
+    "streamUrl": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SwamijiTVAmerican.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "swamiji-tv-american::at::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "swamijitvaustralian-at-sd-9654",
+    "name": "Swamiji TV Australian",
+    "slug": "swamijitvaustralian-at-sd-9654",
+    "logoUrl": "https://i.imgur.com/nrLcuzs.png",
+    "streamUrl": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SwamijiTVAustralian.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "swamiji-tv-australian::at::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "swamijitveuropean-at-sd-9655",
+    "name": "Swamiji TV European",
+    "slug": "swamijitveuropean-at-sd-9655",
+    "logoUrl": "https://i.imgur.com/nrLcuzs.png",
+    "streamUrl": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SwamijiTVEuropean.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "swamiji-tv-european::at::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "horsecountrytv-uk-sd-4406",
+    "name": "Horse and Country",
+    "slug": "horsecountrytv-uk-sd-4406",
+    "logoUrl": "https://i.imgur.com/1x6zYZr.png",
+    "streamUrl": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "HorseCountryTV.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "horse-and-country::uk::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "moyaplaneta-ru-sd-6117",
+    "name": "Моя Планета",
+    "slug": "moyaplaneta-ru-sd-6117",
+    "logoUrl": "https://i.imgur.com/uIiAdBv.png",
+    "streamUrl": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "MoyaPlaneta.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "horsecountrytv-uk-sd-4407",
+    "name": "Horse and Country Free",
+    "slug": "horsecountrytv-uk-sd-4407",
+    "logoUrl": "https://i.imgur.com/1x6zYZr.png",
+    "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "HorseCountryTV.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "horse-and-country-free::uk::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "theboatshow-us-sd-10141",
+    "name": "The Boat Show",
+    "slug": "theboatshow-us-sd-10141",
+    "logoUrl": "https://i.imgur.com/qlhS2zw.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=kS8ONlN67Ay",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "TheBoatShow.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-boat-show::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "30adarcizzleoffshore-us-sd-123",
+    "name": "30A Darcizzle Offshore",
+    "slug": "30adarcizzleoffshore-us-sd-123",
+    "logoUrl": "https://i.imgur.com/Q4l2uao.png",
+    "streamUrl": "https://30a-tv.com/darcizzle.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "30ADarcizzleOffshore.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "30a-darcizzle-offshore::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elmundodelcampo-co-sd-3285",
+    "name": "El Mundo del Campo",
+    "slug": "elmundodelcampo-co-sd-3285",
+    "logoUrl": "https://i.imgur.com/xG2apUG.jpeg",
+    "streamUrl": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ElMundodelCampo.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-mundo-del-campo::co::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "umctv-co-sd-11304",
+    "name": "UMC TV",
+    "slug": "umctv-co-sd-11304",
+    "logoUrl": "https://i.imgur.com/YQUK4wO.png",
+    "streamUrl": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "UMCTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "umc-tv::co::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "animalkingdom-de-sd-724",
+    "name": "ANIMAL KINGDOM",
+    "slug": "animalkingdom-de-sd-724",
+    "logoUrl": "",
+    "streamUrl": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ANIMALKINGDOM.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "animal-kingdom::de::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "agrobrasiltv-br-sd-376",
+    "name": "AgroBrasil TV",
+    "slug": "agrobrasiltv-br-sd-376",
+    "logoUrl": "https://i.imgur.com/aNkP7Zd.png",
+    "streamUrl": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgroBrasilTV.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agrobrasil-tv::br::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "agrotv-bg-sd-379",
+    "name": "Agro TV",
+    "slug": "agrotv-bg-sd-379",
+    "logoUrl": "https://i.imgur.com/tPMNDtD.png",
+    "streamUrl": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgroTV.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agro-tv::bg::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ohotnikirybolov-ru-sd-6882",
+    "name": "Ohotnik i rybolov",
+    "slug": "ohotnikirybolov-ru-sd-6882",
+    "logoUrl": "https://i.imgur.com/Bj1jI7F.png",
+    "streamUrl": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "Ohotnikirybolov.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ohotnik-i-rybolov::ru::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "okhotairybalka-ru-sd-6898",
+    "name": "Okhota i rybalka",
+    "slug": "okhotairybalka-ru-sd-6898",
+    "logoUrl": "https://i.imgur.com/nZwBaeW.png",
+    "streamUrl": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus",
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "Okhotairybalka.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "okhota-i-rybalka::ru::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvbackcountry-us-sd-7331",
+    "name": "Pluto TV Backcountry",
+    "slug": "plutotvbackcountry-us-sd-7331",
+    "logoUrl": "https://i.imgur.com/KnlQzs7.png",
+    "streamUrl": "https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PlutoTVBackcountry.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-backcountry::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvnaturaleza-us-sd-7454",
+    "name": "Pluto TV Naturaleza",
+    "slug": "plutotvnaturaleza-us-sd-7454",
+    "logoUrl": "https://i.imgur.com/vUHAWAJ.png",
+    "streamUrl": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PlutoTVNaturaleza.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-naturaleza::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvnature-us-germany-7455",
+    "name": "Pluto TV Nature",
+    "slug": "plutotvnature-us-germany-7455",
+    "logoUrl": "https://i.imgur.com/PtWUmss.png",
+    "streamUrl": "https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PlutoTVNature.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-nature::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "spikeoutdoors-us-sd-9336",
+    "name": "Spike Outdoors",
+    "slug": "spikeoutdoors-us-sd-9336",
+    "logoUrl": "https://i.imgur.com/cdCD2A2.png",
+    "streamUrl": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SpikeOutdoors.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "spike-outdoors::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "akctvmeetthebreeds-us-sd-400",
+    "name": "AKC TV Meet The Breeds",
+    "slug": "akctvmeetthebreeds-us-sd-400",
+    "logoUrl": "https://i.imgur.com/66avgdk.png",
+    "streamUrl": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AKCTVMeettheBreeds.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "akc-tv-meet-the-breeds::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "akctvpuppies-us-sd-401",
+    "name": "AKC TV Puppies 24/7",
+    "slug": "akctvpuppies-us-sd-401",
+    "logoUrl": "https://i.imgur.com/2nzRS60.png",
+    "streamUrl": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AKCTVPuppies.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "akc-tv-puppies-24-7::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvfishing-us-us-7395",
+    "name": "Pluto TV Fishing",
+    "slug": "plutotvfishing-us-us-7395",
+    "logoUrl": "https://i.imgur.com/ZaHOk8j.png",
+    "streamUrl": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PlutoTVFishing.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-fishing::us::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "productivatv-py-sd-7692",
+    "name": "Productiva TV",
+    "slug": "productivatv-py-sd-7692",
+    "logoUrl": "https://i.imgur.com/KXHK7UP.png",
+    "streamUrl": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+    "country": {
+      "code": "PY",
+      "name": "Paraguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ProductivaTV.py",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "productiva-tv::py::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "peertvaltoadige-it-sd-7186",
+    "name": "Peer TV Alto Adige",
+    "slug": "peertvaltoadige-it-sd-7186",
+    "logoUrl": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+    "streamUrl": "https://iptv.peer.biz/live/peertv-it.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PeerTVAltoAdige.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "peer-tv-alto-adige::it::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "peertvsouthtyrol-it-sd-7187",
+    "name": "Peer TV South Tyrol",
+    "slug": "peertvsouthtyrol-it-sd-7187",
+    "logoUrl": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
+    "streamUrl": "https://iptv.peer.biz/live/peertv-en.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "PeerTVSouthTyrol.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "peer-tv-south-tyrol::it::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "agrotv-ro-sd-380",
+    "name": "Agro TV",
+    "slug": "agrotv-ro-sd-380",
+    "logoUrl": "https://i.imgur.com/S7X1PiC.png",
+    "streamUrl": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgroTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agro-tv::ro::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

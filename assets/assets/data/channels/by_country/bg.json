@@ -1,0 +1,874 @@
+[
+  {
+    "id": "thisisbulgariahd-bg-sd-10256",
+    "name": "This is Bulgaria HD",
+    "slug": "thisisbulgariahd-bg-sd-10256",
+    "logoUrl": "https://i.imgur.com/062jkXw.png",
+    "streamUrl": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ThisisBulgariaHD.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "this-is-bulgaria::bg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plovdivorthodoxtv-bg-sd-7306",
+    "name": "Plovdivska Pravoslavna TV",
+    "slug": "plovdivorthodoxtv-bg-sd-7306",
+    "logoUrl": "",
+    "streamUrl": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PlovdivOrthodoxTV.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plovdivska-pravoslavna-tv::bg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "magictv-bg-sd-5638",
+    "name": "Magic TV",
+    "slug": "magictv-bg-sd-5638",
+    "logoUrl": "https://i.imgur.com/n7bcrrp.png",
+    "streamUrl": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MagicTV.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "magic-tv::bg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thevoice-bg-sd-10243",
+    "name": "The Voice TV",
+    "slug": "thevoice-bg-sd-10243",
+    "logoUrl": "https://i.imgur.com/OoJSmoj.png",
+    "streamUrl": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TheVoice.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-voice-tv::bg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "agrotv-bg-sd-379",
+    "name": "Agro TV",
+    "slug": "agrotv-bg-sd-379",
+    "logoUrl": "https://i.imgur.com/tPMNDtD.png",
+    "streamUrl": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgroTV.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agro-tv::bg::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "disneychannel-bg-sd-3007",
+    "name": "Disney Channel",
+    "slug": "disneychannel-bg-sd-3007",
+    "logoUrl": "https://i.imgur.com/UxrAiAe.png",
+    "streamUrl": "http://84.54.128.52:9090/play/3006/index.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "DisneyChannel.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "disney-channel::bg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "traveltv-bg-sd-10491",
+    "name": "Travel TV",
+    "slug": "traveltv-bg-sd-10491",
+    "logoUrl": "https://i.imgur.com/5xllfed.png",
+    "streamUrl": "https://streamer103.neterra.tv/travel/live.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TravelTV.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "travel-tv::bg::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hopechannelbulgaria-bg-sd-4391",
+    "name": "Hope Channel Bulgaria",
+    "slug": "hopechannelbulgaria-bg-sd-4391",
+    "logoUrl": "https://i.imgur.com/bxzeEML.png",
+    "streamUrl": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HopeChannelBulgaria.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hope-channel-bulgaria::bg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tiankovfolk-bg-sd-10277",
+    "name": "Tiankov Folk",
+    "slug": "tiankovfolk-bg-sd-10277",
+    "logoUrl": "https://i.imgur.com/VKY4q64.png",
+    "streamUrl": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TiankovFolk.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tiankov-folk::bg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tiankovorientfolk-bg-sd-10278",
+    "name": "Tiankov Orient Folk",
+    "slug": "tiankovorientfolk-bg-sd-10278",
+    "logoUrl": "https://i.imgur.com/33LexyP.png",
+    "streamUrl": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TiankovOrientFolk.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tiankov-orient-folk::bg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvzagora-bg-sd-11244",
+    "name": "TV Zagora",
+    "slug": "tvzagora-bg-sd-11244",
+    "logoUrl": "https://i.imgur.com/DvBboqe.png",
+    "streamUrl": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVZagora.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-zagora::bg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "citytv-bg-sd-2437",
+    "name": "City TV",
+    "slug": "citytv-bg-sd-2437",
+    "logoUrl": "https://i.imgur.com/mFL452f.png",
+    "streamUrl": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "CityTV.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "city-tv::bg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lightchannel-bg-sd-5472",
+    "name": "Light Channel",
+    "slug": "lightchannel-bg-sd-5472",
+    "logoUrl": "https://i.imgur.com/S3Fbf8T.png",
+    "streamUrl": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LightChannel.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "light-channel::bg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eurocom-bg-sd-3457",
+    "name": "Evrokom",
+    "slug": "eurocom-bg-sd-3457",
+    "logoUrl": "",
+    "streamUrl": "https://live.ecomservice.bg/hls/stream.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Eurocom.bg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "evrokom::bg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rmtv-bg-sd-8282",
+    "name": "RMTV",
+    "slug": "rmtv-bg-sd-8282",
+    "logoUrl": "https://rmtv.bg/img/logo.png",
+    "streamUrl": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RMTV.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rmtv::bg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "100automototv-bg-sd-157",
+    "name": "100% Auto Moto TV",
+    "slug": "100automototv-bg-sd-157",
+    "logoUrl": "https://i.imgur.com/SZtJfOG.png",
+    "streamUrl": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ],
+    "category": "Auto",
+    "epg": {
+      "id": "100AutoMotoTV.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "100-auto-moto-tv::bg::auto",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dstv-bg-sd-3136",
+    "name": "DSTV",
+    "slug": "dstv-bg-sd-3136",
+    "logoUrl": "https://i.imgur.com/YMgzzkf.png",
+    "streamUrl": "http://46.249.95.140:8081/hls/data.m3u8",
+    "country": {
+      "code": "BG",
+      "name": "Bulgaria"
+    },
+    "languages": [
+      "bul"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DSTV.bg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dstv::bg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

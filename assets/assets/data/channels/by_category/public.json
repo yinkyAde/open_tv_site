@@ -1,0 +1,215 @@
+[
+  {
+    "id": "tvufop-br-hd-11226",
+    "name": "TV UFOP",
+    "slug": "tvufop-br-hd-11226",
+    "logoUrl": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+    "streamUrl": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Public",
+    "epg": {
+      "id": "TVUFOP.br",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-ufop::br::public",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etb1on-es-hd-3419",
+    "name": "ETB1 On",
+    "slug": "etb1on-es-hd-3419",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg",
+    "streamUrl": "https://cdn1.etbon.eus/etb1on/index.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "eus"
+    ],
+    "category": "Public",
+    "epg": {
+      "id": "ETB1On.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etb1-on::es::public",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn1.etbon.eus/etb1on/index.mpd"
+      ]
+    }
+  },
+  {
+    "id": "3catcameresdeltemps-es-sd-29",
+    "name": "3Cat Càmeres del temps",
+    "slug": "3catcameresdeltemps-es-sd-29",
+    "logoUrl": "https://i.imgur.com/zXy2kbe.png",
+    "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Public",
+    "epg": {
+      "id": "3CatCameresdeltemps.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3cat-c-meres-del-temps::es::public",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "esport3-es-originals-3384",
+    "name": "Esport3",
+    "slug": "esport3-es-originals-3384",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
+    "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Public",
+    "epg": {
+      "id": "Esport3.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "esport3::es::public",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+        "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    }
+  }
+]

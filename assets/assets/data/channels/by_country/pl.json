@@ -1,0 +1,4812 @@
+[
+  {
+    "id": "cartoonclassics-pl-fast-2006",
+    "name": "Cartoon Classics",
+    "slug": "cartoonclassics-pl-fast-2006",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
+    "streamUrl": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "CartoonClassics.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cartoon-classics::pl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "newtv-pl-sd-6561",
+    "name": "NewTV",
+    "slug": "newtv-pl-sd-6561",
+    "logoUrl": "https://i.imgur.com/fH8rKs3.png",
+    "streamUrl": "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NewTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "newtv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "polsat-pl-sd-7581",
+    "name": "Polsat",
+    "slug": "polsat-pl-sd-7581",
+    "logoUrl": "https://i.imgur.com/xff6zGN.png",
+    "streamUrl": "https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Polsat.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "polsat::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd"
+      ]
+    }
+  },
+  {
+    "id": "topbarca-pl-sd-10403",
+    "name": "Top Barça",
+    "slug": "topbarca-pl-sd-10403",
+    "logoUrl": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
+    "streamUrl": "https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TOPBarca.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-bar-a::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8",
+        "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8",
+        "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvpinfo-pl-sd-11037",
+    "name": "TVP Info",
+    "slug": "tvpinfo-pl-sd-11037",
+    "logoUrl": "https://i.imgur.com/qXrrNxv.png",
+    "streamUrl": "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPInfo.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-info::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvppolonia-pl-sd-11048",
+    "name": "TVP Polonia",
+    "slug": "tvppolonia-pl-sd-11048",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png",
+    "streamUrl": "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPPolonia.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-polonia::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvpsport-pl-sd-11054",
+    "name": "TVP Sport",
+    "slug": "tvpsport-pl-sd-11054",
+    "logoUrl": "https://i.imgur.com/JUZDOCO.png",
+    "streamUrl": "https://srv7.flussonic111.com/PL_TVP_SPORT_HD/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TVPSport.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-sport::pl::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tvpworld-pl-sd-11057",
+    "name": "TVP World",
+    "slug": "tvpworld-pl-sd-11057",
+    "logoUrl": "https://i.imgur.com/lB4MgRI.png",
+    "streamUrl": "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVPWorld.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp-world::pl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lowa8026-cmyk.github.io/Poland/POLAIN.m3u8",
+        "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvp1-pl-sd-11013",
+    "name": "TVP1",
+    "slug": "tvp1-pl-sd-11013",
+    "logoUrl": "https://i.imgur.com/ewpSjBs.png",
+    "streamUrl": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVP1.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp1::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://srv7.flussonic111.com/PL_TVP1_HD/index.m3u8",
+        "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
+        "https://raw.githubusercontent.com/travino/tvpi/main/streams/tvp1.m3u",
+        "https://redir.cache.orange.pl/dai4/org1/vb/104/tvp1hd/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tvp2-pl-sd-11019",
+    "name": "TVP2",
+    "slug": "tvp2-pl-sd-11019",
+    "logoUrl": "https://i.imgur.com/XxCc32B.png",
+    "streamUrl": "https://srv7.flussonic111.com/PL_TVP2_HD/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVP2.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvp2::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd",
+        "https://tvpi.travny.workers.dev/tvp2.m3u"
+      ]
+    }
+  },
+  {
+    "id": "ewtnpoland-pl-sd-3512",
+    "name": "EWTN Poland",
+    "slug": "ewtnpoland-pl-sd-3512",
+    "logoUrl": "https://i.imgur.com/VtKYELf.png",
+    "streamUrl": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EWTNPoland.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ewtn-poland::pl::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "racerinternational-pl-fast-7844",
+    "name": "RACER International",
+    "slug": "racerinternational-pl-fast-7844",
+    "logoUrl": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
+    "streamUrl": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RACERInternational.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "racer-international::pl::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tbnpolska-pl-sd-9787",
+    "name": "TBN Polska",
+    "slug": "tbnpolska-pl-sd-9787",
+    "logoUrl": "https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww",
+    "streamUrl": "https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TBNPolska.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tbn-polska::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thereuters60-pl-fast-10240",
+    "name": "The Reuters 60",
+    "slug": "thereuters60-pl-fast-10240",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767-width200-quality90.jpeg",
+    "streamUrl": "https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TheReuters60.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-reuters-60::pl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topbarca-pl-sd-10402",
+    "name": "TOP Barca",
+    "slug": "topbarca-pl-sd-10402",
+    "logoUrl": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg",
+    "streamUrl": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TOPBarca.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-barca::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvregionalnalubin-pl-sd-11074",
+    "name": "TV Regionalna Lubin",
+    "slug": "tvregionalnalubin-pl-sd-11074",
+    "logoUrl": "https://i.imgur.com/2WVNt3f.png",
+    "streamUrl": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRegionalnaLubin.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-regionalna-lubin::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pixeltv-pl-hd-7285",
+    "name": "Pixel.tv",
+    "slug": "pixeltv-pl-hd-7285",
+    "logoUrl": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
+    "streamUrl": "https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "PixelTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pixel-tv::pl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8",
+        "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "szlagiertv-pl-sd-9697",
+    "name": "Szlagier TV",
+    "slug": "szlagiertv-pl-sd-9697",
+    "logoUrl": "https://i.imgur.com/VQk19Ng.png",
+    "streamUrl": "https://vefgpbwcjjjbxfng.naszatv.pl/index.fmp4.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SzlagierTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "szlagier-tv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://78.130.250.2:8023/play/a03t/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "atmrozrywkarework-pl-hd-959",
+    "name": "ATM Rozrywka REWORK",
+    "slug": "atmrozrywkarework-pl-hd-959",
+    "logoUrl": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
+    "streamUrl": "https://grupaatmrr.org.pl:8888/fallback/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ATMRozrywkaREWORK.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atm-rozrywka-rework::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bialogardzkatelewizjakablowa-pl-hd-1473",
+    "name": "Bialogardzka Telewizja Kablowa",
+    "slug": "bialogardzkatelewizjakablowa-pl-hd-1473",
+    "logoUrl": "https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png",
+    "streamUrl": "https://bsmbialogard.pl/live/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BialogardzkaTelewizjaKablowa.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bialogardzka-telewizja-kablowa::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btb-pl-sd-1654",
+    "name": "BTB",
+    "slug": "btb-pl-sd-1654",
+    "logoUrl": "https://btb.j00r.us/images/logo_BTB.webp",
+    "streamUrl": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTB.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btb::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btb3-pl-hd-1653",
+    "name": "BTB 3",
+    "slug": "btb3-pl-hd-1653",
+    "logoUrl": "https://i.imgur.com/Z193940.png",
+    "streamUrl": "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTB3.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btb-3::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btbinfo-pl-sd-1655",
+    "name": "BTB Info",
+    "slug": "btbinfo-pl-sd-1655",
+    "logoUrl": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+    "streamUrl": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BTBInfo.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btb-info::pl::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btbinternational-pl-sd-1656",
+    "name": "BTB International",
+    "slug": "btbinternational-pl-sd-1656",
+    "logoUrl": "https://kononopedia.ru/lib/exe/fetch.php?cache=&w=700&h=700&tok=dbc35d&media=kanaly:btbinternational.png",
+    "streamUrl": "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTBInternational.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btb-international::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btbmusic-pl-hd-1657",
+    "name": "BTB Music",
+    "slug": "btbmusic-pl-hd-1657",
+    "logoUrl": "https://btb.j00r.us/images/logo_BTBMusic.webp",
+    "streamUrl": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BTBMusic.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btb-music::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiowaczworka-pl-sd-7958",
+    "name": "Radio Czwórka",
+    "slug": "radiowaczworka-pl-sd-7958",
+    "logoUrl": "https://i.imgur.com/VAtxF7k.png",
+    "streamUrl": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RadiowaCzworka.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-czw-rka::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioram-pl-hd-7913",
+    "name": "Radio RAM",
+    "slug": "radioram-pl-hd-7913",
+    "logoUrl": "https://i.ibb.co/LXbchP5q/logo-1.png",
+    "streamUrl": "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioRAM.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-ram::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redcarpettvinternational-pl-sd-8147",
+    "name": "Red Carpet TV International",
+    "slug": "redcarpettvinternational-pl-sd-8147",
+    "logoUrl": "https://i.imgur.com/xf7UXCA.png",
+    "streamUrl": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedCarpetTVInternational.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-carpet-tv-international::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "remontytv-pl-hd-8189",
+    "name": "Remonty TV",
+    "slug": "remontytv-pl-hd-8189",
+    "logoUrl": "https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png",
+    "streamUrl": "https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RemontyTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "remonty-tv::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royalworld-pl-fast-8336",
+    "name": "Royalworld",
+    "slug": "royalworld-pl-fast-8336",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg",
+    "streamUrl": "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Royalworld.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "royalworld::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjabiznesowa-pl-sd-10062",
+    "name": "Telewizja Biznesowa",
+    "slug": "telewizjabiznesowa-pl-sd-10062",
+    "logoUrl": "https://i.imgur.com/XC7i7ZL.png",
+    "streamUrl": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "TelewizjaBiznesowa.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-biznesowa::pl::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjaittv-pl-sd-10063",
+    "name": "Telewizja iTTV",
+    "slug": "telewizjaittv-pl-sd-10063",
+    "logoUrl": "https://www.ittv.pl/media/images/ittv-logo.png",
+    "streamUrl": "https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelewizjaiTTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-ittv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjarelax-pl-sd-10067",
+    "name": "Telewizja Relax",
+    "slug": "telewizjarelax-pl-sd-10067",
+    "logoUrl": "https://i.imgur.com/dejnH0O.png",
+    "streamUrl": "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelewizjaRelax.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-relax::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topmoviespolska-pl-sd-10420",
+    "name": "Top Movies Polska",
+    "slug": "topmoviespolska-pl-sd-10420",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png",
+    "streamUrl": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TopMoviesPolska.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-movies-polska::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "twojatv-pl-sd-11266",
+    "name": "Twoja.TV",
+    "slug": "twojatv-pl-sd-11266",
+    "logoUrl": "https://i.ibb.co/vxntQD60/twojatv-hd-online.png",
+    "streamUrl": "https://stream.twoja.tv/ttv_hls/live.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TwojaTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "twoja-tv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatnews-pl-sd-7584",
+    "name": "Polsat News",
+    "slug": "polsatnews-pl-sd-7584",
+    "logoUrl": "https://i.imgur.com/sx1yPuc.png",
+    "streamUrl": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PolsatNews.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "polsat-news::pl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tnawrestlingchannel-pl-sd-10349",
+    "name": "TNA Wrestling Channel",
+    "slug": "tnawrestlingchannel-pl-sd-10349",
+    "logoUrl": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
+    "streamUrl": "https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TNAWrestlingChannel.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tna-wrestling-channel::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
+      ]
+    }
+  },
+  {
+    "id": "dlaciebietv-pl-sd-3030",
+    "name": "dlaCiebie.tv",
+    "slug": "dlaciebietv-pl-sd-3030",
+    "logoUrl": "https://i.imgur.com/Tf32BJa.png",
+    "streamUrl": "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "dlaCiebietv.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dlaciebie-tv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eskarocktv-pl-sd-3375",
+    "name": "Eska Rock TV",
+    "slug": "eskarocktv-pl-sd-3375",
+    "logoUrl": "https://i.imgur.com/o0Fg19Q.png",
+    "streamUrl": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "EskaRockTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eska-rock-tv::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eskatv-pl-sd-3376",
+    "name": "Eska TV",
+    "slug": "eskatv-pl-sd-3376",
+    "logoUrl": "https://i.imgur.com/N0eH0Cg.png",
+    "streamUrl": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19174/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "EskaTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eska-tv::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eskatvextra-pl-sd-3377",
+    "name": "Eska TV Extra",
+    "slug": "eskatvextra-pl-sd-3377",
+    "logoUrl": "https://i.imgur.com/pZAFshQ.png",
+    "streamUrl": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19173/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "EskaTVExtra.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eska-tv-extra::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatgames-pl-sd-7582",
+    "name": "Polsat Games",
+    "slug": "polsatgames-pl-sd-7582",
+    "logoUrl": "https://i.imgur.com/OSCrBvh.png",
+    "streamUrl": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7295/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PolsatGames.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "polsat-games::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "puls2-pl-sd-7748",
+    "name": "Puls 2",
+    "slug": "puls2-pl-sd-7748",
+    "logoUrl": "https://i.imgur.com/EOnzPiZ.png",
+    "streamUrl": "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Puls2.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "puls-2::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "shadesofblack-pl-sd-9032",
+    "name": "Shades of Black",
+    "slug": "shadesofblack-pl-sd-9032",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e989f6d8-1ea1-44fe-97a5-9715c22c98b9-width200-quality90.jpeg",
+    "streamUrl": "https://xumo-fusebeats.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ShadesofBlack.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "shades-of-black::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatnewspolityka-pl-sd-7586",
+    "name": "Polsat News Polityka",
+    "slug": "polsatnewspolityka-pl-sd-7586",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png",
+    "streamUrl": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PolsatNewsPolityka.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "polsat-news-polityka::pl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd"
+      ]
+    }
+  },
+  {
+    "id": "mango-pl-sd-5692",
+    "name": "Mango",
+    "slug": "mango-pl-sd-5692",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg",
+    "streamUrl": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "Mango.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mango::pl::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "musicboxpolska-pl-sd-6252",
+    "name": "Music Box Polska",
+    "slug": "musicboxpolska-pl-sd-6252",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
+    "streamUrl": "https://vs2133.vcdn.biz/0f0f85e2ea3607b5c396ef68d55c3168_megogo/live/hls/b/4000/u_sid/0/o/156751011/rsid/062147ff-ed0c-4d9c-a131-2bf42026e640/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/57.128.235.172*asn/type.live/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MusicBoxPolska.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "music-box-polska::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjatorun-pl-sd-10068",
+    "name": "Telewizja Toruń",
+    "slug": "telewizjatorun-pl-sd-10068",
+    "logoUrl": "https://i.imgur.com/UNwzRHN.png",
+    "streamUrl": "http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelewizjaTorun.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-toru::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvtorun-pl-sd-11218",
+    "name": "TV Toruń",
+    "slug": "tvtorun-pl-sd-11218",
+    "logoUrl": "https://i.imgur.com/ZJ0yDWI.png",
+    "streamUrl": "http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVTorun.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-toru::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wpolscepl-pl-sd-11893",
+    "name": "W Polsce PL",
+    "slug": "wpolscepl-pl-sd-11893",
+    "logoUrl": "https://i.imgur.com/HQ8UyhL.png",
+    "streamUrl": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WPolscePL.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "w-polsce-pl::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "americancrimechannel-pl-poland-637",
+    "name": "American Crime Channel",
+    "slug": "americancrimechannel-pl-poland-637",
+    "logoUrl": "https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AmericanCrimeChannel.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "american-crime-channel::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "echo24-pl-sd-3225",
+    "name": "Echo24",
+    "slug": "echo24-pl-sd-3225",
+    "logoUrl": "https://i.imgur.com/KPogWAG.png",
+    "streamUrl": "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Echo24.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "echo24::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tnawrestlingchannel-pl-sd-10350",
+    "name": "TNA Wrestling",
+    "slug": "tnawrestlingchannel-pl-sd-10350",
+    "logoUrl": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
+    "streamUrl": "https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TNAWrestlingChannel.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tna-wrestling::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvasta-pl-sd-10739",
+    "name": "TV ASTA",
+    "slug": "tvasta-pl-sd-10739",
+    "logoUrl": "https://i.imgur.com/5g7lq9N.png",
+    "streamUrl": "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVASTA.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-asta::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvt-pl-sd-11211",
+    "name": "TVT",
+    "slug": "tvt-pl-sd-11211",
+    "logoUrl": "https://i.imgur.com/oZyeUzG.png",
+    "streamUrl": "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVT.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvt::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "buzzfeedunsolved-pl-fast-1694",
+    "name": "Buzzfeed Unsolved",
+    "slug": "buzzfeedunsolved-pl-fast-1694",
+    "logoUrl": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BuzzfeedUnsolved.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "buzzfeed-unsolved::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "euronews-pl-fast-3460",
+    "name": "Euronews",
+    "slug": "euronews-pl-fast-3460",
+    "logoUrl": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg",
+    "streamUrl": "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Euronews.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "euronews::pl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjajaslo-pl-sd-10064",
+    "name": "Telewizja Jaslo",
+    "slug": "telewizjajaslo-pl-sd-10064",
+    "logoUrl": "https://i.imgur.com/nV2jQQP.png",
+    "streamUrl": "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelewizjaJaslo.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-jaslo::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasatexploreclassic-pl-sd-11505",
+    "name": "Viasat Explore Classic",
+    "slug": "viasatexploreclassic-pl-sd-11505",
+    "logoUrl": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg",
+    "streamUrl": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ViasatExploreClassic.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-explore-classic::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "drgmedicalexaminer-pl-hd-3123",
+    "name": "Dr G Medical Examiner",
+    "slug": "drgmedicalexaminer-pl-hd-3123",
+    "logoUrl": "",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DrGMedicalExaminer.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dr-g-medical-examiner::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topmilliondollaragent-pl-fast-10419",
+    "name": "Top Million Dollar Agent",
+    "slug": "topmilliondollaragent-pl-fast-10419",
+    "logoUrl": "",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TopMillionDollarAgent.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-million-dollar-agent::pl::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjaluban-pl-sd-10065",
+    "name": "Telewizja Lubań",
+    "slug": "telewizjaluban-pl-sd-10065",
+    "logoUrl": "https://i.imgur.com/t2BGp0G.jpeg",
+    "streamUrl": "http://stream.herissons.cloud/hls/tvluban.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelewizjaLuban.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-luba::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "belsattv-pl-sd-1396",
+    "name": "Belsat TV",
+    "slug": "belsattv-pl-sd-1396",
+    "logoUrl": "https://i.imgur.com/qJyjSR6.png",
+    "streamUrl": "https://iptv.prosto.tv/ch171/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "bel",
+      "ukr",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BelsatTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "belsat-tv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nutatv-pl-sd-6840",
+    "name": "Nuta TV",
+    "slug": "nutatv-pl-sd-6840",
+    "logoUrl": "https://i.imgur.com/JHFUxDu.png",
+    "streamUrl": "http://78.130.250.2:8023/play/a03r/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NutaTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nuta-tv::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "worldbilliards-pl-sd-11861",
+    "name": "World Billiards TV",
+    "slug": "worldbilliards-pl-sd-11861",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png",
+    "streamUrl": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WorldBilliards.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "world-billiards-tv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvtzgorzelec-pl-sd-11222",
+    "name": "TVT Zgorzelec",
+    "slug": "tvtzgorzelec-pl-sd-11222",
+    "logoUrl": "https://i.imgur.com/zhzVpgf.jpg",
+    "streamUrl": "https://lowa8026-cmyk.github.io/Poland/TVTZGORHD.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVTZgorzelec.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvt-zgorzelec::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://gargoyle.tomkow.pl/hls/tvt.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bigtime-pl-sd-1482",
+    "name": "Bigtime",
+    "slug": "bigtime-pl-sd-1482",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg",
+    "streamUrl": "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Bigtime.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bigtime::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "carcityadventures-pl-sd-1992",
+    "name": "Car City Adventures",
+    "slug": "carcityadventures-pl-sd-1992",
+    "logoUrl": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CarCityAdventures.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "car-city-adventures::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "grjngo-pl-sd-4077",
+    "name": "Grjngo",
+    "slug": "grjngo-pl-sd-4077",
+    "logoUrl": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg",
+    "streamUrl": "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Grjngo.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "grjngo::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hardknocksfightingchampionship-pl-sd-4196",
+    "name": "Hard Knocks Fighting Championship",
+    "slug": "hardknocksfightingchampionship-pl-sd-4196",
+    "logoUrl": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HardKnocksFightingChampionship.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hard-knocks-fighting-championship::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moconomy-pl-sd-6033",
+    "name": "Moconomy",
+    "slug": "moconomy-pl-sd-6033",
+    "logoUrl": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg",
+    "streamUrl": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Moconomy.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "moconomy::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telewizjaregionalnazary-pl-sd-10066",
+    "name": "Telewizja Regionalna Zary",
+    "slug": "telewizjaregionalnazary-pl-sd-10066",
+    "logoUrl": "https://i.imgur.com/FB9H8DO.png",
+    "streamUrl": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelewizjaRegionalnaZary.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telewizja-regionalna-zary::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvkstella-pl-sd-10903",
+    "name": "TVK Stella",
+    "slug": "tvkstella-pl-sd-10903",
+    "logoUrl": "https://www.tvkstella.pl/img/poster.png",
+    "streamUrl": "https://stream.tvkstella.pl/stella/stella.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVKStella.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvk-stella::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wedotvauta-pl-fast-11717",
+    "name": "wedotv Auta",
+    "slug": "wedotvauta-pl-fast-11717",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0ba18c3b-b319-4ea9-bdad-dfba2c348ce3-width200-quality90.jpeg",
+    "streamUrl": "https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Auto",
+    "epg": {
+      "id": "wedotvAuta.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wedotv-auta::pl::auto",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "4funtv-pl-sd-50",
+    "name": "4 Fun TV",
+    "slug": "4funtv-pl-sd-50",
+    "logoUrl": "https://i.imgur.com/rI1wo2l.png",
+    "streamUrl": "https://srv1.adriatelekom.com/4FunTV/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "4FunTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "4-fun-tv::pl::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "4funkids-pl-sd-49",
+    "name": "4 Fun Kids",
+    "slug": "4funkids-pl-sd-49",
+    "logoUrl": "https://i.imgur.com/2JO5Y8c.png",
+    "streamUrl": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "4FunKids.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "[Not 24/7]"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "4-fun-kids::pl::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fox-pl-sd-3738",
+    "name": "Fox",
+    "slug": "fox-pl-sd-3738",
+    "logoUrl": "https://i.imgur.com/hSDN9YQ.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Fox.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fox::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtv-pl-sd-6175",
+    "name": "MTV",
+    "slug": "mtv-pl-sd-6175",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7294/index.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MTV.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv::pl::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvs-pl-sd-11133",
+    "name": "TVS",
+    "slug": "tvs-pl-sd-11133",
+    "logoUrl": "https://i.imgur.com/RHwlp35.png",
+    "streamUrl": "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVS.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sferatv-pl-sd-9023",
+    "name": "Sfera TV",
+    "slug": "sferatv-pl-sd-9023",
+    "logoUrl": "https://i.imgur.com/aK7xfKi.png",
+    "streamUrl": "https://stream.sferatv.pl/sferatvlive/live.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SferaTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sfera-tv::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvkujawy-pl-sd-10905",
+    "name": "TV Kujawy",
+    "slug": "tvkujawy-pl-sd-10905",
+    "logoUrl": "https://i.imgur.com/dGP7cIW.png",
+    "streamUrl": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVKujawy.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-kujawy::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpdokument-pl-sd-11029",
+    "name": "TVP Dokument",
+    "slug": "tvpdokument-pl-sd-11029",
+    "logoUrl": "https://i.imgur.com/oQUNtzs.png",
+    "streamUrl": "https://tvpi.travny.workers.dev/tvpdokument.m3u",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPDokument.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvp-dokument::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvphistoria-pl-sd-11035",
+    "name": "TVP Historia",
+    "slug": "tvphistoria-pl-sd-11035",
+    "logoUrl": "https://i.imgur.com/Bc4QZiy.png",
+    "streamUrl": "https://tvpi.travny.workers.dev/tvphistoria.m3u",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPHistoria.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvp-historia::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpnauka-pl-sd-11045",
+    "name": "TVP Nauka",
+    "slug": "tvpnauka-pl-sd-11045",
+    "logoUrl": "https://i.imgur.com/ga5Z8jf.png",
+    "streamUrl": "https://tvpi.travny.workers.dev/tvpnauka.m3u",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPNauka.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvp-nauka::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvprozrywka-pl-sd-11052",
+    "name": "TVP Rozrywka",
+    "slug": "tvprozrywka-pl-sd-11052",
+    "logoUrl": "https://i.imgur.com/05Vx5px.png",
+    "streamUrl": "https://tvpi.travny.workers.dev/tvprozrywka.m3u",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPRozrywka.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvp-rozrywka::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatnews2-pl-sd-7583",
+    "name": "Polsat News 2",
+    "slug": "polsatnews2-pl-sd-7583",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
+    "streamUrl": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PolsatNews2.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "polsat-news-2::pl::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatsport1-pl-sd-7588",
+    "name": "Polsat Sport 1",
+    "slug": "polsatsport1-pl-sd-7588",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
+    "streamUrl": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PolsatSport1.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "polsat-sport-1::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvokazje-pl-sd-11001",
+    "name": "TV Okazje",
+    "slug": "tvokazje-pl-sd-11001",
+    "logoUrl": "https://i.imgur.com/DbALkkV.png",
+    "streamUrl": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVOkazje.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv-okazje::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvtrwam-pl-sd-11219",
+    "name": "TV Trwam",
+    "slug": "tvtrwam-pl-sd-11219",
+    "logoUrl": "https://i.imgur.com/yq10wS5.png",
+    "streamUrl": "https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVTrwam.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv-trwam::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv4-pl-sd-10624",
+    "name": "TV4",
+    "slug": "tv4-pl-sd-10624",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png",
+    "streamUrl": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV4.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv4::pl::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatsportpremium1-pl-sd-7589",
+    "name": "Polsat Sport Premium 1",
+    "slug": "polsatsportpremium1-pl-sd-7589",
+    "logoUrl": "https://i.imgur.com/hy1SKE0.png",
+    "streamUrl": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "PolsatSportPremium1.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "polsat-sport-premium-1::pl::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polsatsportpremium2-pl-sd-7590",
+    "name": "Polsat Sport Premium 2",
+    "slug": "polsatsportpremium2-pl-sd-7590",
+    "logoUrl": "https://i.imgur.com/myyWeXY.png",
+    "streamUrl": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "PolsatSportPremium2.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "polsat-sport-premium-2::pl::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

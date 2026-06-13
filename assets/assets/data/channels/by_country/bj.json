@@ -1,0 +1,260 @@
+[
+  {
+    "id": "ortbtv-bj-hd-7036",
+    "name": "ORTB TV",
+    "slug": "ortbtv-bj-hd-7036",
+    "logoUrl": "https://i.imgur.com/o6zAR88.png",
+    "streamUrl": "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8",
+    "country": {
+      "code": "BJ",
+      "name": "Benin"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "ORTBTV.bj",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ortb-tv::bj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://69.64.57.208/ortb/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "adotv-bj-sd-328",
+    "name": "ADO TV",
+    "slug": "adotv-bj-sd-328",
+    "logoUrl": "https://i.imgur.com/pxFamLr.png",
+    "streamUrl": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8",
+    "country": {
+      "code": "BJ",
+      "name": "Benin"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ADOTV.bj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ado-tv::bj::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beninwebtv-bj-sd-1401",
+    "name": "Bénin Web TV",
+    "slug": "beninwebtv-bj-sd-1401",
+    "logoUrl": "https://i.imgur.com/CYy4n0N.png",
+    "streamUrl": "https://stream.beninwebtv.bj/2/live/stream.m3u8",
+    "country": {
+      "code": "BJ",
+      "name": "Benin"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BeninWebTV.bj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "b-nin-web-tv::bj::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcbenin-bj-sd-10780",
+    "name": "TVC Bénin",
+    "slug": "tvcbenin-bj-sd-10780",
+    "logoUrl": "https://i.imgur.com/oUnEYl5.png",
+    "streamUrl": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+    "country": {
+      "code": "BJ",
+      "name": "Benin"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCBenin.bj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvc-b-nin::bj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "edentv-bj-sd-3236",
+    "name": "Eden TV",
+    "slug": "edentv-bj-sd-3236",
+    "logoUrl": "https://i.imgur.com/4ClnG0x.png",
+    "streamUrl": "https://rtmp.edentv.bj/hls/stream.m3u8",
+    "country": {
+      "code": "BJ",
+      "name": "Benin"
+    },
+    "languages": [
+      "fra",
+      "ayb",
+      "fon"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EdenTV.bj",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eden-tv::bj::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

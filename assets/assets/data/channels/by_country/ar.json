@@ -1,0 +1,5852 @@
+[
+  {
+    "id": "canal26-ar-sd-1843",
+    "name": "Canal 26",
+    "slug": "canal26-ar-sd-1843",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
+    "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Canal26.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-26::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tycsports-ar-sd-11268",
+    "name": "TyC Sports",
+    "slug": "tycsports-ar-sd-11268",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "streamUrl": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TyCSports.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tyc-sports::ar::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "eltrece-ar-sd-3300",
+    "name": "El Trece",
+    "slug": "eltrece-ar-sd-3300",
+    "logoUrl": "https://i.imgur.com/TrgBAdA.png",
+    "streamUrl": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ElTrece.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-trece::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "musictop-ar-sd-6255",
+    "name": "MusicTop",
+    "slug": "musictop-ar-sd-6255",
+    "logoUrl": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
+    "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MusicTop.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "musictop::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viajartv-ar-sd-11499",
+    "name": "Viajar TV",
+    "slug": "viajartv-ar-sd-11499",
+    "logoUrl": "https://i.imgur.com/LxB7ZIu.png",
+    "streamUrl": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ViajarTV.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viajar-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "airedesantafe-ar-sd-388",
+    "name": "Aire de Santa Fe",
+    "slug": "airedesantafe-ar-sd-388",
+    "logoUrl": "https://i.imgur.com/60vSWW0.png",
+    "streamUrl": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AiredeSantaFe.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aire-de-santa-fe::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal7salta-ar-sd-1788",
+    "name": "Canal 7 Salta",
+    "slug": "canal7salta-ar-sd-1788",
+    "logoUrl": "https://i.imgur.com/CudG6sl.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal7Salta.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-7-salta::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bravotv-ar-sd-1616",
+    "name": "Bravo TV",
+    "slug": "bravotv-ar-sd-1616",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BravoTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bravo-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2deushuaia-ar-sd-1748",
+    "name": "Canal 2 de Ushuaia",
+    "slug": "canal2deushuaia-ar-sd-1748",
+    "logoUrl": "https://i.ibb.co/q5NPdK2/canal2-logo.png",
+    "streamUrl": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2deUshuaia.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2-de-ushuaia::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2misiones-ar-sd-1752",
+    "name": "Canal 2 Misiones",
+    "slug": "canal2misiones-ar-sd-1752",
+    "logoUrl": "https://i.imgur.com/YqTNXDf.png",
+    "streamUrl": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2Misiones.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2-misiones::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal21tv-ar-sd-1838",
+    "name": "Canal 21 TV",
+    "slug": "canal21tv-ar-sd-1838",
+    "logoUrl": "https://i.imgur.com/Am7yMXg.png",
+    "streamUrl": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal21TV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-21-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal3lapampa-ar-sd-1758",
+    "name": "Canal 3 La Pampa",
+    "slug": "canal3lapampa-ar-sd-1758",
+    "logoUrl": "https://i.imgur.com/SsNFudZ.png",
+    "streamUrl": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal3LaPampa.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3-la-pampa::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal6posadas-ar-sd-1784",
+    "name": "Canal 6 Posadas",
+    "slug": "canal6posadas-ar-sd-1784",
+    "logoUrl": "https://i.imgur.com/OamBiS5.png",
+    "streamUrl": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal6Posadas.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-6-posadas::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal7neuquen-ar-sd-1787",
+    "name": "Canal 7 Neuquén",
+    "slug": "canal7neuquen-ar-sd-1787",
+    "logoUrl": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+    "streamUrl": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal7Neuquen.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-7-neuqu-n::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiocanal-ar-sd-7874",
+    "name": "Radiocanal San Francisco",
+    "slug": "radiocanal-ar-sd-7874",
+    "logoUrl": "https://i.ibb.co/NNyDWsz/download-8.png",
+    "streamUrl": "http://204.199.3.2/.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Radiocanal.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radiocanal-san-francisco::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xlevelmedia-ar-sd-11990",
+    "name": "X Level Media",
+    "slug": "xlevelmedia-ar-sd-11990",
+    "logoUrl": "https://i.imgur.com/BGwQdQW.jpeg",
+    "streamUrl": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "XLevelMedia.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "x-level-media::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sanpedrotv-ar-sd-8900",
+    "name": "San Pedro TV",
+    "slug": "sanpedrotv-ar-sd-8900",
+    "logoUrl": "https://i.imgur.com/UkpXogr.png",
+    "streamUrl": "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SanPedroTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "san-pedro-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telenord-ar-sd-9947",
+    "name": "Telenord Corrientes",
+    "slug": "telenord-ar-sd-9947",
+    "logoUrl": "https://i.imgur.com/yqXORkt.png",
+    "streamUrl": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telenord.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telenord-corrientes::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nettv-ar-sd-6470",
+    "name": "NET TV",
+    "slug": "nettv-ar-sd-6470",
+    "logoUrl": "https://i.imgur.com/IhJ0BjF.png",
+    "streamUrl": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NETTV.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "net-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "a24-ar-sd-191",
+    "name": "A24",
+    "slug": "a24-ar-sd-191",
+    "logoUrl": "https://i.ibb.co/TxJWSBds/A24-2025-svg.png",
+    "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "A24.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a24::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americatv-ar-sd-648",
+    "name": "America TV",
+    "slug": "americatv-ar-sd-648",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "streamUrl": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaTV.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "america-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "foxsports-ar-sd-3749",
+    "name": "FOX Sports",
+    "slug": "foxsports-ar-sd-3749",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+    "streamUrl": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "FoxSports.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fox-sports::ar::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "metrotv-ar-sd-5886",
+    "name": "Metro TV",
+    "slug": "metrotv-ar-sd-5886",
+    "logoUrl": "https://i.imgur.com/7f7M7zl.png",
+    "streamUrl": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MetroTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "metro-tv::ar::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8",
+        "https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "azaharesradiovisualmultimedia-ar-sd-1049",
+    "name": "Azahares Radio Multimedia",
+    "slug": "azaharesradiovisualmultimedia-ar-sd-1049",
+    "logoUrl": "https://i.imgur.com/g1BFoSs.png",
+    "streamUrl": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AzaharesRadiovisualMultimedia.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "azahares-radio-multimedia::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bayrestv-ar-sd-1151",
+    "name": "Bayres TV",
+    "slug": "bayrestv-ar-sd-1151",
+    "logoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
+    "streamUrl": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BayresTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bayres-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal11delacosta-ar-sd-1814",
+    "name": "Canal 11 de la Costa",
+    "slug": "canal11delacosta-ar-sd-1814",
+    "logoUrl": "https://i.imgur.com/yYExcq1.jpg",
+    "streamUrl": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal11delaCosta.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-11-de-la-costa::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13jujuy-ar-sd-1824",
+    "name": "Canal 13 Jujuy TV",
+    "slug": "canal13jujuy-ar-sd-1824",
+    "logoUrl": "https://i.imgur.com/lmKLiJ3.jpg",
+    "streamUrl": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Canal13Jujuy.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-jujuy-tv::ar::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal22-ar-sd-1839",
+    "name": "Canal 22",
+    "slug": "canal22-ar-sd-1839",
+    "logoUrl": "https://i.imgur.com/R4wXVxf.png",
+    "streamUrl": "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal22.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-22::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal3lasheras-ar-sd-1759",
+    "name": "Canal 3 Las Heras",
+    "slug": "canal3lasheras-ar-sd-1759",
+    "logoUrl": "https://i.imgur.com/bd2afET.png",
+    "streamUrl": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal3LasHeras.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3-las-heras::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal34sanjuan-ar-sd-1855",
+    "name": "Canal 34 San Juan",
+    "slug": "canal34sanjuan-ar-sd-1855",
+    "logoUrl": "https://i.imgur.com/bZMEiYe.png",
+    "streamUrl": "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal34SanJuan.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-34-san-juan::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal7tv-ar-sd-1792",
+    "name": "Canal 7 Santiago del Estero",
+    "slug": "canal7tv-ar-sd-1792",
+    "logoUrl": "https://i.imgur.com/iJMH0UK.png",
+    "streamUrl": "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal7TV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-7-santiago-del-estero::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal9litoral-ar-sd-1801",
+    "name": "Canal 9 Litoral",
+    "slug": "canal9litoral-ar-sd-1801",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",
+    "streamUrl": "https://stream.arcast.live/ahora/ahora/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal9Litoral.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-9-litoral::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal9resistencia-ar-sd-1802",
+    "name": "Canal 9 Resistencia",
+    "slug": "canal9resistencia-ar-sd-1802",
+    "logoUrl": "https://i.imgur.com/xqgRFpC.png",
+    "streamUrl": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal9Resistencia.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-9-resistencia::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal9televida-ar-sd-1803",
+    "name": "Canal 9 Televida",
+    "slug": "canal9televida-ar-sd-1803",
+    "logoUrl": "https://i.imgur.com/JUtAzg4.png",
+    "streamUrl": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal9Televida.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-9-televida::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canale-ar-sd-1898",
+    "name": "Canal E",
+    "slug": "canale-ar-sd-1898",
+    "logoUrl": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
+    "streamUrl": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CanalE.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-e::ar::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "catamarcatv-ar-sd-2011",
+    "name": "Catamarca TV",
+    "slug": "catamarcatv-ar-sd-2011",
+    "logoUrl": "https://i.imgur.com/CEuPoqG.png",
+    "streamUrl": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CatamarcaTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "catamarca-tv::ar::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cumbiamix-ar-hd-2718",
+    "name": "Cumbia Mix",
+    "slug": "cumbiamix-ar-hd-2718",
+    "logoUrl": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png",
+    "streamUrl": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "CumbiaMix.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cumbia-mix::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kpopmix-ar-sd-5203",
+    "name": "Kpop Mix",
+    "slug": "kpopmix-ar-sd-5203",
+    "logoUrl": "https://tvomix.com/Logos/Kpopmix.png",
+    "streamUrl": "https://cloud.tvomix.com/KPOPMIX/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KpopMix.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kpop-mix::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "litustv-ar-sd-5489",
+    "name": "Litus TV",
+    "slug": "litustv-ar-sd-5489",
+    "logoUrl": "https://i.imgur.com/QIGSf4L.png",
+    "streamUrl": "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LitusTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "litus-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "masfm-ar-sd-5723",
+    "name": "Más FM 95.9",
+    "slug": "masfm-ar-sd-5723",
+    "logoUrl": "https://i.imgur.com/TJ4gWQM.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MasFM.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-s-fm-95-9::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ngfederal-ar-sd-6573",
+    "name": "NG Federal",
+    "slug": "ngfederal-ar-sd-6573",
+    "logoUrl": "https://i.imgur.com/lJCIqYn.png",
+    "streamUrl": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NGFederal.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ng-federal::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "powermaxradiotv-ar-sd-7621",
+    "name": "Power Max Radio TV",
+    "slug": "powermaxradiotv-ar-sd-7621",
+    "logoUrl": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
+    "streamUrl": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "PowerMaxRadioTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "power-max-radio-tv::ar::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioconexionwebtv-ar-sd-7878",
+    "name": "Radio Conexion Web TV",
+    "slug": "radioconexionwebtv-ar-sd-7878",
+    "logoUrl": "https://i.imgur.com/pXS38zo.png",
+    "streamUrl": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioConexionWebTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-conexion-web-tv::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiorealpolitik-ar-sd-7914",
+    "name": "Radio Realpolitik",
+    "slug": "radiorealpolitik-ar-sd-7914",
+    "logoUrl": "https://i.imgur.com/L9KCdTX.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioRealpolitik.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-realpolitik::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiosublimegraciatv-ar-sd-7923",
+    "name": "Radio Sublime Gracia TV",
+    "slug": "radiosublimegraciatv-ar-sd-7923",
+    "logoUrl": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
+    "streamUrl": "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioSublimeGraciaTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-sublime-gracia-tv::ar::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sicarditv-ar-sd-9126",
+    "name": "Sicardi TV",
+    "slug": "sicarditv-ar-sd-9126",
+    "logoUrl": "https://i.imgur.com/W2EUIL2.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SicardiTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sicardi-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleposadas-ar-hd-9975",
+    "name": "Tele Posadas",
+    "slug": "teleposadas-ar-hd-9975",
+    "logoUrl": "https://i.imgur.com/88MVgwX.png",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelePosadas.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-posadas::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tivtelevision-ar-sd-10326",
+    "name": "TIV Television",
+    "slug": "tivtelevision-ar-sd-10326",
+    "logoUrl": "https://i.imgur.com/gsgXGEj.png",
+    "streamUrl": "https://videohd.live:19360/8008/8008.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TIVTelevision.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tiv-television::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "urbanmix-ar-sd-11368",
+    "name": "Urban Mix",
+    "slug": "urbanmix-ar-sd-11368",
+    "logoUrl": "https://tvomix.com/Logos/Urbanmix.png",
+    "streamUrl": "https://cloud.tvomix.com/URBANMIX/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UrbanMix.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "urban-mix::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alternatv-ar-sd-604",
+    "name": "Alterna TV",
+    "slug": "alternatv-ar-sd-604",
+    "logoUrl": "https://tv.alterna.ar/alternatv.png",
+    "streamUrl": "https://tv.alterna.ar/stream/hls/live.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AlternaTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alterna-tv::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cadena103tv-ar-sd-1714",
+    "name": "Cadena 103",
+    "slug": "cadena103tv-ar-sd-1714",
+    "logoUrl": "https://i.imgur.com/vBsry35.png",
+    "streamUrl": "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Cadena103TV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cadena-103::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal12web-ar-sd-1817",
+    "name": "Canal 12 Puerto Madryn",
+    "slug": "canal12web-ar-sd-1817",
+    "logoUrl": "https://i.imgur.com/VYcTRbd.png",
+    "streamUrl": "https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal12Web.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-12-puerto-madryn::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chacotv-ar-sd-2234",
+    "name": "Chaco TV",
+    "slug": "chacotv-ar-sd-2234",
+    "logoUrl": "https://i.imgur.com/b6RerDw.png",
+    "streamUrl": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ChacoTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chaco-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "panctv-ar-sd-7108",
+    "name": "Panc TV",
+    "slug": "panctv-ar-sd-7108",
+    "logoUrl": "https://i.imgur.com/u1dnEVv.png",
+    "streamUrl": "https://panel.host-live.com:19360/20004/20004.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PancTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "panc-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotvneuquen-ar-sd-7952",
+    "name": "Radio TV Neuquén",
+    "slug": "radiotvneuquen-ar-sd-7952",
+    "logoUrl": "https://i.imgur.com/HXBLozl.png",
+    "streamUrl": "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTVNeuquen.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tv-neuqu-n::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtn-ar-sd-8426",
+    "name": "RTN (Neuquén)",
+    "slug": "rtn-ar-sd-8426",
+    "logoUrl": "https://i.imgur.com/8xqYg4C.png",
+    "streamUrl": "https://media.neuquen.gov.ar/rtn/television/media.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTN.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtn-neuqu-n::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telenord-ar-sd-9946",
+    "name": "Telenord",
+    "slug": "telenord-ar-sd-9946",
+    "logoUrl": "https://i.imgur.com/yqXORkt.png",
+    "streamUrl": "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telenord.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telenord::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uniteve-ar-sd-11339",
+    "name": "Uniteve",
+    "slug": "uniteve-ar-sd-11339",
+    "logoUrl": "https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg",
+    "streamUrl": "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Uniteve.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uniteve::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv-ar-sd-11610",
+    "name": "VerTV (VTV)",
+    "slug": "vtv-ar-sd-11610",
+    "logoUrl": "https://i.imgur.com/TLaausJ.png",
+    "streamUrl": "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vertv-vtv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "247canaldenoticias-ar-sd-166",
+    "name": "24/7 Canal de Noticias",
+    "slug": "247canaldenoticias-ar-sd-166",
+    "logoUrl": "https://i.imgur.com/4hDCB1M.png",
+    "streamUrl": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "247CanaldeNoticias.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "24-7-canal-de-noticias::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal10cordoba-ar-sd-1808",
+    "name": "Canal 10 Cordoba",
+    "slug": "canal10cordoba-ar-sd-1808",
+    "logoUrl": "https://i.imgur.com/87WCHtd.png",
+    "streamUrl": "https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal10Cordoba.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-10-cordoba::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal7jujuy-ar-sd-1786",
+    "name": "Canal 7 Jujuy",
+    "slug": "canal7jujuy-ar-sd-1786",
+    "logoUrl": "https://i.imgur.com/K0jk8p4.png",
+    "streamUrl": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal7Jujuy.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-7-jujuy::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalorbe21-ar-sd-1925",
+    "name": "Canal Orbe 21",
+    "slug": "canalorbe21-ar-sd-1925",
+    "logoUrl": "https://i.imgur.com/USD6Wn8.png",
+    "streamUrl": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalOrbe21.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-orbe-21::ar::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "disneyjrlatinamerica-ar-south-3012",
+    "name": "Disney Jr. Latin America South",
+    "slug": "disneyjrlatinamerica-ar-south-3012",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "streamUrl": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DisneyJrLatinAmerica.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "disney-jr-latin-america-south::ar::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "europaeuropa-ar-sd-3481",
+    "name": "Europa Europa",
+    "slug": "europaeuropa-ar-sd-3481",
+    "logoUrl": "https://i.imgur.com/w5SOfyJ.png",
+    "streamUrl": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "EuropaEuropa.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "europa-europa::ar::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "garagetvlatinamerica-ar-sd-3873",
+    "name": "Garage TV Latin America",
+    "slug": "garagetvlatinamerica-ar-sd-3873",
+    "logoUrl": "https://i.imgur.com/FqFxog1.png",
+    "streamUrl": "https://stream1.sersat.com/hls/garagetv.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Auto",
+    "epg": {
+      "id": "GarageTVLatinAmerica.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "garage-tv-latin-america::ar::auto",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemax-ar-sd-9917",
+    "name": "Telemax",
+    "slug": "telemax-ar-sd-9917",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png",
+    "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telemax.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemax::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unifetv-ar-sd-11323",
+    "name": "Unife TV",
+    "slug": "unifetv-ar-sd-11323",
+    "logoUrl": "https://i.imgur.com/TLM592m.png",
+    "streamUrl": "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "UnifeTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unife-tv::ar::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "5tv-ar-sd-61",
+    "name": "5tv",
+    "slug": "5tv-ar-sd-61",
+    "logoUrl": "https://i.imgur.com/mSn7ACs.png",
+    "streamUrl": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "5tv.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "5tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atccocanal2-ar-sd-950",
+    "name": "Atcco Canal 2",
+    "slug": "atccocanal2-ar-sd-950",
+    "logoUrl": "https://i.imgur.com/RdwpYUT.png",
+    "streamUrl": "https://ola1.com.ar/atccohd/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AtccoCanal2.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atcco-canal-2::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atvargentina-ar-sd-986",
+    "name": "ATV Argentina",
+    "slug": "atvargentina-ar-sd-986",
+    "logoUrl": "https://i.ibb.co/rMBVDmZ/atvargentina-x1.png",
+    "streamUrl": "https://tv.streaming.com.bo/atvargentina/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ATVArgentina.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atv-argentina::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beatsradio-ar-sd-1354",
+    "name": "Beats Radio",
+    "slug": "beatsradio-ar-sd-1354",
+    "logoUrl": "https://i.imgur.com/zkNUO5p.png",
+    "streamUrl": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BeatsRadio.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beats-radio::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bragadotv-ar-sd-1609",
+    "name": "Bragado TV",
+    "slug": "bragadotv-ar-sd-1609",
+    "logoUrl": "https://i.imgur.com/xP88fKG.png",
+    "streamUrl": "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BragadoTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bragado-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13larioja-ar-sd-1825",
+    "name": "Canal 13 La Rioja",
+    "slug": "canal13larioja-ar-sd-1825",
+    "logoUrl": "https://i.imgur.com/OI97Sgq.png",
+    "streamUrl": "http://arcast.net:1935/mp/mp/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13LaRioja.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-la-rioja::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal13sanluis-ar-sd-1829",
+    "name": "Canal 13 San Luis",
+    "slug": "canal13sanluis-ar-sd-1829",
+    "logoUrl": "https://i.imgur.com/NcfMC29.png",
+    "streamUrl": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal13SanLuis.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-13-san-luis::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2gualeguay-ar-sd-1749",
+    "name": "Canal 2 Gualeguay",
+    "slug": "canal2gualeguay-ar-sd-1749",
+    "logoUrl": "https://i.imgur.com/TOlncyp.png",
+    "streamUrl": "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2Gualeguay.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2-gualeguay::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2mardelplata-ar-sd-1751",
+    "name": "Canal 2 Mar del Plata",
+    "slug": "canal2mardelplata-ar-sd-1751",
+    "logoUrl": "https://i.imgur.com/wlKFPBW.jpeg",
+    "streamUrl": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2MardelPlata.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2-mar-del-plata::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal3pinamar-ar-sd-1760",
+    "name": "Canal 3 Pinamar",
+    "slug": "canal3pinamar-ar-sd-1760",
+    "logoUrl": "https://i.imgur.com/IABFaH1.png",
+    "streamUrl": "http://intelincloud01.com.ar/hls/cn3/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal3Pinamar.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3-pinamar::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal3tacural-ar-sd-1761",
+    "name": "Canal 3 Tacural",
+    "slug": "canal3tacural-ar-sd-1761",
+    "logoUrl": "https://i.imgur.com/RKvSa52.jpeg",
+    "streamUrl": "http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal3Tacural.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3-tacural::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal4jujuy-ar-sd-1766",
+    "name": "Canal 4 Jujuy",
+    "slug": "canal4jujuy-ar-sd-1766",
+    "logoUrl": "https://i.imgur.com/qB6I274.png",
+    "streamUrl": "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal4Jujuy.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-4-jujuy::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal4posadas-ar-sd-1769",
+    "name": "Canal 4 Posadas",
+    "slug": "canal4posadas-ar-sd-1769",
+    "logoUrl": "https://i.imgur.com/tElJr3e.png",
+    "streamUrl": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal4Posadas.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-4-posadas::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal4sanjuan-ar-sd-1771",
+    "name": "Canal 4 San Juan",
+    "slug": "canal4sanjuan-ar-sd-1771",
+    "logoUrl": "https://i.imgur.com/MsCnwRA.png",
+    "streamUrl": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal4SanJuan.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-4-san-juan::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal4teleaire-ar-sd-1772",
+    "name": "Canal 4 Teleaire",
+    "slug": "canal4teleaire-ar-sd-1772",
+    "logoUrl": "https://i.imgur.com/XyiNvbY.png",
+    "streamUrl": "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal4Teleaire.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-4-teleaire::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal5tvchepes-ar-sd-1777",
+    "name": "Canal 5 TV Chepes",
+    "slug": "canal5tvchepes-ar-sd-1777",
+    "logoUrl": "https://i.imgur.com/AzEqroq.png",
+    "streamUrl": "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5TVChepes.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5-tv-chepes::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal79mardelplata-ar-sd-1865",
+    "name": "Canal 79 Mar del Plata",
+    "slug": "canal79mardelplata-ar-sd-1865",
+    "logoUrl": "https://i.imgur.com/I93ypGY.png",
+    "streamUrl": "https://streamconex.com:19360/mardelplata/mardelplata.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal79MardelPlata.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-79-mar-del-plata::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalpulpotv-ar-sd-1933",
+    "name": "Canal Pulpo TV",
+    "slug": "canalpulpotv-ar-sd-1933",
+    "logoUrl": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+    "streamUrl": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "CanalPulpoTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-pulpo-tv::ar::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chilecitotv-ar-sd-2333",
+    "name": "Chilecito TV",
+    "slug": "chilecitotv-ar-sd-2333",
+    "logoUrl": "https://i.imgur.com/zGubmgZ.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ChilecitoTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chilecito-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "misionescuatro-ar-sd-5973",
+    "name": "Misiones Cuatro",
+    "slug": "misionescuatro-ar-sd-5973",
+    "logoUrl": "https://i.imgur.com/HXRpRlK.png",
+    "streamUrl": "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MisionesCuatro.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "misiones-cuatro::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multivisionfederal-ar-sd-6242",
+    "name": "Multivision Federal",
+    "slug": "multivisionfederal-ar-sd-6242",
+    "logoUrl": "https://i.imgur.com/jX0lqy3.png",
+    "streamUrl": "https://panel.host-live.com:19360/8250/8250.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MultivisionFederal.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multivision-federal::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioyguazutv-ar-sd-7962",
+    "name": "Radio Yguazú TV",
+    "slug": "radioyguazutv-ar-sd-7962",
+    "logoUrl": "https://i.imgur.com/kVi0ICm.png",
+    "streamUrl": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "RadioYguazuTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-yguaz-tv::ar::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsolidaria-ar-sd-11184",
+    "name": "TV Solidaria",
+    "slug": "tvsolidaria-ar-sd-11184",
+    "logoUrl": "https://i.imgur.com/M0fMypR.png",
+    "streamUrl": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSolidaria.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-solidaria::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvuniversidad-ar-sd-11231",
+    "name": "TV Universidad",
+    "slug": "tvuniversidad-ar-sd-11231",
+    "logoUrl": "https://i.imgur.com/0MXsQ25.png",
+    "streamUrl": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVUniversidad.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-universidad::ar::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tycsportsusa-ar-sd-11269",
+    "name": "TyC Sports USA",
+    "slug": "tycsportsusa-ar-sd-11269",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "streamUrl": "http://45.170.130.224:8000/play/a020/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TyCSportsUSA.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tyc-sports-usa::ar::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtremaaccion-ar-sd-12005",
+    "name": "Xtrema Accion",
+    "slug": "xtremaaccion-ar-sd-12005",
+    "logoUrl": "https://i.imgur.com/z5NwizH.png",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "XtremaAccion.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xtrema-accion::ar::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtremacartoons-ar-sd-12006",
+    "name": "Xtrema Cartoons",
+    "slug": "xtremacartoons-ar-sd-12006",
+    "logoUrl": "https://i.imgur.com/X2d8y4e.png",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "XtremaCartoons.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xtrema-cartoons::ar::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtremacineclasico-ar-sd-12007",
+    "name": "Xtrema Cine Clasico",
+    "slug": "xtremacineclasico-ar-sd-12007",
+    "logoUrl": "https://i.imgur.com/j91M4Yf.png",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "XtremaCineClasico.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xtrema-cine-clasico::ar::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtrematerror-ar-sd-12008",
+    "name": "Xtrema Terror",
+    "slug": "xtrematerror-ar-sd-12008",
+    "logoUrl": "https://i.imgur.com/FcaTUym.png",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "XtremaTerror.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xtrema-terror::ar::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleferosario-ar-sd-9882",
+    "name": "Telefe Rosario",
+    "slug": "teleferosario-ar-sd-9882",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png",
+    "streamUrl": "https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelefeRosario.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telefe-rosario::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dancetv-ar-sd-2762",
+    "name": "Dance TV",
+    "slug": "dancetv-ar-sd-2762",
+    "logoUrl": "https://i.imgur.com/UKMR625.png",
+    "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DanceTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dance-tv::ar::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "5tv-ar-sd-60",
+    "name": "5TV Corrientes",
+    "slug": "5tv-ar-sd-60",
+    "logoUrl": "https://i.imgur.com/mSn7ACs.png",
+    "streamUrl": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "5tv.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "5tv-corrientes::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal5delpueblo-ar-sd-1774",
+    "name": "Canal 5 Del Pueblo",
+    "slug": "canal5delpueblo-ar-sd-1774",
+    "logoUrl": "https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg",
+    "streamUrl": "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5DelPueblo.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5-del-pueblo::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmanaargentina-ar-sd-10937",
+    "name": "TV Maná Argentina",
+    "slug": "tvmanaargentina-ar-sd-10937",
+    "logoUrl": "https://i.imgur.com/jars0mP.png",
+    "streamUrl": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVManaArgentina.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-argentina::ar::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "argentinisimasatelital-ar-sd-841",
+    "name": "Argentinísima Satelital",
+    "slug": "argentinisimasatelital-ar-sd-841",
+    "logoUrl": "https://i.imgur.com/xFgJawa.png",
+    "streamUrl": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ArgentinisimaSatelital.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "argentin-sima-satelital::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal5santafe-ar-sd-1776",
+    "name": "Canal 5 Santa Fe",
+    "slug": "canal5santafe-ar-sd-1776",
+    "logoUrl": "https://i.imgur.com/WX0esjQ.png",
+    "streamUrl": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal5SantaFe.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-5-santa-fe::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal79lacosta-ar-sd-1864",
+    "name": "Canal 79 La Costa",
+    "slug": "canal79lacosta-ar-sd-1864",
+    "logoUrl": "https://i.imgur.com/HYuSqJy.png",
+    "streamUrl": "https://streamconex.com:19360/lacosta/lacosta.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal79LaCosta.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-79-la-costa::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal79puan-ar-sd-1866",
+    "name": "Canal 79 Puan",
+    "slug": "canal79puan-ar-sd-1866",
+    "logoUrl": "https://i.imgur.com/HYuSqJy.png",
+    "streamUrl": "https://streamconex.com:19360/puan/puan.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal79Puan.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-79-puan::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal79santaclaradelmar-ar-sd-1867",
+    "name": "Canal 79 Santa Clara del Mar",
+    "slug": "canal79santaclaradelmar-ar-sd-1867",
+    "logoUrl": "https://i.imgur.com/I93ypGY.png",
+    "streamUrl": "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal79SantaClaradelMar.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-79-santa-clara-del-mar::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalprovincial-ar-sd-1932",
+    "name": "Canal Provincial",
+    "slug": "canalprovincial-ar-sd-1932",
+    "logoUrl": "https://i.imgur.com/bXHHtcb.png",
+    "streamUrl": "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalProvincial.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-provincial::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalsantamaria-ar-sd-1939",
+    "name": "Canal Santa María",
+    "slug": "canalsantamaria-ar-sd-1939",
+    "logoUrl": "https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg",
+    "streamUrl": "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CanalSantaMaria.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-santa-mar-a::ar::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "celtatv-ar-sd-2179",
+    "name": "Celta TV",
+    "slug": "celtatv-ar-sd-2179",
+    "logoUrl": "https://i.imgur.com/rwoIF4w.png",
+    "streamUrl": "https://vivo.solumedia.com:19360/celta/celta.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CeltaTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "celta-tv::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "quanticatv-ar-sd-7810",
+    "name": "Quantica TV",
+    "slug": "quanticatv-ar-sd-7810",
+    "logoUrl": "https://i.imgur.com/6f8EYC2.jpeg",
+    "streamUrl": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "QuanticaTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "quantica-tv::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecinco-ar-sd-9862",
+    "name": "TeleCinco Trelew",
+    "slug": "telecinco-ar-sd-9862",
+    "logoUrl": "https://i.imgur.com/ZDenyAE.png",
+    "streamUrl": "https://videohd.live:19360/8016/8016.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telecinco.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecinco-trelew::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cableimagenarmstrong-ar-sd-1712",
+    "name": "Cable Imagen Armstrong",
+    "slug": "cableimagenarmstrong-ar-sd-1712",
+    "logoUrl": "https://i.imgur.com/U9NuJQC.png",
+    "streamUrl": "https://stream.arcast.com.ar/casse/casse/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CableImagenArmstrong.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cable-imagen-armstrong::ar::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tn-ar-sd-10347",
+    "name": "TN",
+    "slug": "tn-ar-sd-10347",
+    "logoUrl": "https://i.imgur.com/vFwPhPS.png",
+    "streamUrl": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TN.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 82,
+      "badges": [
+        "4K",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tn::ar::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

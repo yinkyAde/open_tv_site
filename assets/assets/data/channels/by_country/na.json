@@ -1,0 +1,213 @@
+[
+  {
+    "id": "ntv-na-sd-6800",
+    "name": "NTV",
+    "slug": "ntv-na-sd-6800",
+    "logoUrl": "https://i.imgur.com/c7jUmGS.jpg",
+    "streamUrl": "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8",
+    "country": {
+      "code": "NA",
+      "name": "Namibia"
+    },
+    "languages": [
+      "eng",
+      "afr"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV.na",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv::na::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nbc1-na-sd-6403",
+    "name": "NBC 1",
+    "slug": "nbc1-na-sd-6403",
+    "logoUrl": "https://i.imgur.com/ykQerMH.png",
+    "streamUrl": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
+    "country": {
+      "code": "NA",
+      "name": "Namibia"
+    },
+    "languages": [
+      "eng",
+      "afr",
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NBC1.na",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nbc-1::na::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nbc2-na-sd-6404",
+    "name": "NBC 2",
+    "slug": "nbc2-na-sd-6404",
+    "logoUrl": "https://i.imgur.com/A6jxUvU.png",
+    "streamUrl": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
+    "country": {
+      "code": "NA",
+      "name": "Namibia"
+    },
+    "languages": [
+      "eng",
+      "afr",
+      "deu"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NBC2.na",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nbc-2::na::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nbc3-na-sd-6405",
+    "name": "NBC 3",
+    "slug": "nbc3-na-sd-6405",
+    "logoUrl": "https://i.imgur.com/7j8Km6e.png",
+    "streamUrl": "https://hls2.nbcplus.na/hls/high_nbc3.m3u8",
+    "country": {
+      "code": "NA",
+      "name": "Namibia"
+    },
+    "languages": [
+      "eng",
+      "afr",
+      "deu"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NBC3.na",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nbc-3::na::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

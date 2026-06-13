@@ -1,0 +1,1189 @@
+[
+  {
+    "id": "jordantv-jo-sd-4879",
+    "name": "Jordan Satellite Channel",
+    "slug": "jordantv-jo-sd-4879",
+    "logoUrl": "https://i.imgur.com/0XozB5N.png",
+    "streamUrl": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JordanTV.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-satellite-channel::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royacomedy-jo-sd-8330",
+    "name": "Roya Comedy",
+    "slug": "royacomedy-jo-sd-8330",
+    "logoUrl": "https://i.imgur.com/oIThcM8.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "RoyaComedy.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-comedy::jo::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royadrama-jo-sd-8331",
+    "name": "Roya Drama",
+    "slug": "royadrama-jo-sd-8331",
+    "logoUrl": "https://i.imgur.com/V7I0MVf.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "RoyaDrama.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-drama::jo::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royakitchen-jo-sd-8334",
+    "name": "Roya Kitchen",
+    "slug": "royakitchen-jo-sd-8334",
+    "logoUrl": "https://i.imgur.com/lWfh8pP.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "RoyaKitchen.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-kitchen::jo::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordansport-jo-sd-4877",
+    "name": "Jordan Sport",
+    "slug": "jordansport-jo-sd-4877",
+    "logoUrl": "https://i.imgur.com/2EmrZPQ.png",
+    "streamUrl": "http://93.184.10.248/JordanSport/index.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "JordanSport.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-sport::jo::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "altaghiertv-jo-sd-599",
+    "name": "Altaghier TV",
+    "slug": "altaghiertv-jo-sd-599",
+    "logoUrl": "https://i.imgur.com/YTyCBvB.png",
+    "streamUrl": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AltaghierTV.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "altaghier-tv::jo::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordanarchive-jo-sd-4871",
+    "name": "Jordan Archive",
+    "slug": "jordanarchive-jo-sd-4871",
+    "logoUrl": "https://i.imgur.com/8UrCl4k.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JordanArchive.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-archive::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordancomedy-jo-sd-4872",
+    "name": "Jordan Comedy",
+    "slug": "jordancomedy-jo-sd-4872",
+    "logoUrl": "https://i.imgur.com/DuwwoO2.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "JordanComedy.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-comedy::jo::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordandrama-jo-sd-4873",
+    "name": "Jordan Drama",
+    "slug": "jordandrama-jo-sd-4873",
+    "logoUrl": "https://i.imgur.com/gvIAEsJ.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JordanDrama.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-drama::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordankitchen-jo-sd-4874",
+    "name": "Jordan Kitchen",
+    "slug": "jordankitchen-jo-sd-4874",
+    "logoUrl": "https://i.imgur.com/B45qcQX.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "JordanKitchen.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-kitchen::jo::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordansongs-jo-sd-4875",
+    "name": "Jordan Songs",
+    "slug": "jordansongs-jo-sd-4875",
+    "logoUrl": "https://i.imgur.com/1DE7Gmw.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JordanSongs.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-songs::jo::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordantourism-jo-sd-4878",
+    "name": "Jordan Tourism",
+    "slug": "jordantourism-jo-sd-4878",
+    "logoUrl": "https://i.imgur.com/gpeIoU9.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JordanTourism.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-tourism::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royakidsoriginals-jo-sd-8333",
+    "name": "Roya Kids Originals",
+    "slug": "royakidsoriginals-jo-sd-8333",
+    "logoUrl": "https://i.imgur.com/acuCGF8.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "RoyaKidsOriginals.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-kids-originals::jo::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiofannjordanstudio-jo-sd-7882",
+    "name": "Radio Fann Jordan Studio",
+    "slug": "radiofannjordanstudio-jo-sd-7882",
+    "logoUrl": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+    "streamUrl": "http://45.63.116.205/hls2/stream1.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioFannJordanStudio.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-fann-jordan-studio::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioyaqeenjordancityview-jo-sd-7961",
+    "name": "Radio Yaqeen Jordan City View",
+    "slug": "radioyaqeenjordancityview-jo-sd-7961",
+    "logoUrl": "https://i.imgur.com/wHOQU0R.png",
+    "streamUrl": "http://45.63.116.205/hls4/stream1.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioYaqeenJordanCityView.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-yaqeen-jordan-city-view::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanaradiojordanstudio-jo-sd-8326",
+    "name": "Rotana Radio Jordan Studio",
+    "slug": "rotanaradiojordanstudio-jo-sd-8326",
+    "logoUrl": "https://i.imgur.com/xGDjlp5.png",
+    "streamUrl": "http://45.63.116.205/hls/stream1.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RotanaRadioJordanStudio.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-radio-jordan-studio::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alhaqeqaaldawlia-jo-sd-466",
+    "name": "Alhaqeqa Aldawlia",
+    "slug": "alhaqeqaaldawlia-jo-sd-466",
+    "logoUrl": "",
+    "streamUrl": "https://ghaasiflu.online/alhqeqa/index.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlhaqeqaAldawlia.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 91,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alhaqeqa-aldawlia::jo::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ammantv-jo-sd-653",
+    "name": "Amman TV",
+    "slug": "ammantv-jo-sd-653",
+    "logoUrl": "https://i.imgur.com/5l7kw0b.png",
+    "streamUrl": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmmanTV.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amman-tv::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "melodyfm-jo-sd-5859",
+    "name": "Melody FM Jordan",
+    "slug": "melodyfm-jo-sd-5859",
+    "logoUrl": "https://i.imgur.com/J8omcNz.png",
+    "streamUrl": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MelodyFM.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "melody-fm-jordan::jo::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanatarabjordancityview-jo-sd-8327",
+    "name": "Rotana Tarab Jordan City View",
+    "slug": "rotanatarabjordancityview-jo-sd-8327",
+    "logoUrl": "https://i.imgur.com/NjgOBts.png",
+    "streamUrl": "http://45.63.116.205/hls3/stream1.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RotanaTarabJordanCityView.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-tarab-jordan-city-view::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alerthalnabawichannel-jo-sd-452",
+    "name": "Alerth Alnabawi Channel",
+    "slug": "alerthalnabawichannel-jo-sd-452",
+    "logoUrl": "https://i.imgur.com/iYibJxK.png",
+    "streamUrl": "http://82.212.74.2:8000/live/7307.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlerthAlnabawiChannel.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alerth-alnabawi-channel::jo::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kaifatv-jo-sd-4932",
+    "name": "Kaifa TV",
+    "slug": "kaifatv-jo-sd-4932",
+    "logoUrl": "https://i.imgur.com/zGGeSQg.png",
+    "streamUrl": "http://82.212.74.2:8000/live/7311.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KaifaTV.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kaifa-tv::jo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royakids-jo-sd-8332",
+    "name": "Roya Kids",
+    "slug": "royakids-jo-sd-8332",
+    "logoUrl": "https://i.imgur.com/acuCGF8.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "RoyaKids.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-kids::jo::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

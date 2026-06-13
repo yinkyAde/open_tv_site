@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "gustotv-ca-poland-4138",
+    "name": "Gusto TV",
+    "slug": "gustotv-ca-poland-4138",
+    "logoUrl": "https://i.imgur.com/swUX3hQ.png",
+    "streamUrl": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [],
+    "category": "Cooking",
+    "epg": {
+      "id": "GustoTV.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gusto-tv::ca::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8?ads.vf=kWp29zpXm1y",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tastemade-us-germany-9756",
+    "name": "Tastemade",
+    "slug": "tastemade-us-germany-9756",
+    "logoUrl": "https://i.imgur.com/xP7Ehn8.png",
+    "streamUrl": "https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "Tastemade.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "8 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tastemade::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8",
+        "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+        "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
+        "https://tastemade-xumo.amagi.tv/playlist.m3u8",
+        "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
+        "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
+        "https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8",
+        "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tastemadetravel-us-sd-9768",
+    "name": "Tastemade Travel",
+    "slug": "tastemadetravel-us-sd-9768",
+    "logoUrl": "https://i.imgur.com/8s6aRwv.png",
+    "streamUrl": "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "TastemadeTravel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tastemade-travel::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bonappetit-us-sd-1590",
+    "name": "bon appétit",
+    "slug": "bonappetit-us-sd-1590",
+    "logoUrl": "https://i.imgur.com/YhFFxlE.png",
+    "streamUrl": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "bonappetit.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bon-app-tit::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etvabhiruchi-in-sd-3436",
+    "name": "ETV Abhiruchi",
+    "slug": "etvabhiruchi-in-sd-3436",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143023_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tel"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "ETVAbhiruchi.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv-abhiruchi::in::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "foodtime-ru-sd-3719",
+    "name": "FoodTime",
+    "slug": "foodtime-ru-sd-3719",
+    "logoUrl": "https://i.imgur.com/gxCYAwH.png",
+    "streamUrl": "http://31.148.48.15/Eda_Premium_HD/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "FoodTime.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "foodtime::ru::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gustotv-ca-sd-4142",
+    "name": "Gusto",
+    "slug": "gustotv-ca-sd-4142",
+    "logoUrl": "https://i.imgur.com/swUX3hQ.png",
+    "streamUrl": "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "GustoTV.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gusto::ca::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gustotv-ca-sd-4144",
+    "name": "GustoTV",
+    "slug": "gustotv-ca-sd-4144",
+    "logoUrl": "https://i.imgur.com/swUX3hQ.png",
+    "streamUrl": "https://gusto-xumo.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "GustoTV.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gustotv::ca::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royakitchen-jo-sd-8334",
+    "name": "Roya Kitchen",
+    "slug": "royakitchen-jo-sd-8334",
+    "logoUrl": "https://i.imgur.com/lWfh8pP.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "RoyaKitchen.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-kitchen::jo::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tastemade-us-australia-9755",
+    "name": "Tastemade Australia",
+    "slug": "tastemade-us-australia-9755",
+    "logoUrl": "https://i.imgur.com/xP7Ehn8.png",
+    "streamUrl": "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "Tastemade.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tastemade-australia::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordankitchen-jo-sd-4874",
+    "name": "Jordan Kitchen",
+    "slug": "jordankitchen-jo-sd-4874",
+    "logoUrl": "https://i.imgur.com/B45qcQX.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "JordanKitchen.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-kitchen::jo::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americastestkitchen-us-sd-641",
+    "name": "America's Test Kitchen",
+    "slug": "americastestkitchen-us-sd-641",
+    "logoUrl": "https://i.imgur.com/prMkTsZ.png",
+    "streamUrl": "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "AmericasTestKitchen.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "america-s-test-kitchen::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tastemadeenespanol-us-sd-9766",
+    "name": "Tastemade en Espanol",
+    "slug": "tastemadeenespanol-us-sd-9766",
+    "logoUrl": "https://i.imgur.com/8s6aRwv.png",
+    "streamUrl": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "TastemadeenEspanol.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tastemade-en-espanol::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cityedenreceptygurmana-ru-hd-2422",
+    "name": "Сити Эдем Рецепты Гурмана",
+    "slug": "cityedenreceptygurmana-ru-hd-2422",
+    "logoUrl": "https://i.imgur.com/wR0pvRc.png",
+    "streamUrl": "https://cityeden.catcast.tv/content/47516/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "CityEdenReceptyGurmana.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
+        "http://31.148.48.15/Kuhnya_TV/index.m3u8",
+        "http://31.148.48.15/Telekafe/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "americastestkitchen-us-sd-642",
+    "name": "Americas Test Kitchen",
+    "slug": "americastestkitchen-us-sd-642",
+    "logoUrl": "https://i.imgur.com/prMkTsZ.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "AmericasTestKitchen.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "americas-test-kitchen::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gamberorossochannel-it-sd-3859",
+    "name": "Gambero Rosso",
+    "slug": "gamberorossochannel-it-sd-3859",
+    "logoUrl": "https://i.imgur.com/x5cwb1q.png",
+    "streamUrl": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "GamberoRossoChannel.it",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gambero-rosso::it::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gordonramsayshellskitchen-us-sd-4040",
+    "name": "Gordon Ramsay",
+    "slug": "gordonramsayshellskitchen-us-sd-4040",
+    "logoUrl": "https://i.imgur.com/WgN4T18.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "GordonRamsaysHellsKitchen.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gordon-ramsay::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hungry-us-sd-4460",
+    "name": "Hungry",
+    "slug": "hungry-us-sd-4460",
+    "logoUrl": "https://i.imgur.com/MIUDYh0.png",
+    "streamUrl": "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "Hungry.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hungry::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hellotaste-ro-sd-4242",
+    "name": "Hello Taste",
+    "slug": "hellotaste-ro-sd-4242",
+    "logoUrl": "https://i.imgur.com/TdKO0er.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "HelloTaste.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hello-taste::ro::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chefchampion-us-sd-2328",
+    "name": "Chef Champion",
+    "slug": "chefchampion-us-sd-2328",
+    "logoUrl": "https://i.imgur.com/15a9pG9.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "ChefChampion.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chef-champion::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chefrocshow-us-sd-2329",
+    "name": "Chef Roc Show",
+    "slug": "chefrocshow-us-sd-2329",
+    "logoUrl": "https://i.imgur.com/vhVnAzE.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "ChefRocShow.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chef-roc-show::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gordonramsayshellskitchen-us-sd-4038",
+    "name": "Gordon Ramsay's Hell's Kitchen",
+    "slug": "gordonramsayshellskitchen-us-sd-4038",
+    "logoUrl": "https://i.imgur.com/WgN4T18.png",
+    "streamUrl": "https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "GordonRamsaysHellsKitchen.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gordon-ramsay-s-hell-s-kitchen::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cookingpanda-us-sd-2612",
+    "name": "Cooking Panda",
+    "slug": "cookingpanda-us-sd-2612",
+    "logoUrl": "https://i.imgur.com/bhY0Zcs.png",
+    "streamUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "CookingPanda.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cooking-panda::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "foodfood-in-sd-3718",
+    "name": "Food Food",
+    "slug": "foodfood-in-sd-3718",
+    "logoUrl": "https://i.imgur.com/J930pA1.png",
+    "streamUrl": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "FoodFood.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "food-food::in::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "masalatv-pk-sd-5722",
+    "name": "Masala TV",
+    "slug": "masalatv-pk-sd-5722",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+    "streamUrl": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "MasalaTV.pk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "masala-tv::pk::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvcocina-us-spain-7356",
+    "name": "Pluto TV Cocina",
+    "slug": "plutotvcocina-us-spain-7356",
+    "logoUrl": "https://i.imgur.com/LRtfQla.png",
+    "streamUrl": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "PlutoTVCocina.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-cocina::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tastemade-us-us-9760",
+    "name": "Tastemade International",
+    "slug": "tastemade-us-us-9760",
+    "logoUrl": "https://i.imgur.com/xP7Ehn8.png",
+    "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "Tastemade.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tastemade-international::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecafe-ru-sd-9848",
+    "name": "Telecafe",
+    "slug": "telecafe-ru-sd-9848",
+    "logoUrl": "https://i.imgur.com/1H3h1HL.png",
+    "streamUrl": "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "Telecafe.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecafe::ru::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gemfood-tr-sd-3910",
+    "name": "GEM Food",
+    "slug": "gemfood-tr-sd-3910",
+    "logoUrl": "https://i.imgur.com/SMtSinK.png",
+    "streamUrl": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "GEMFood.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gem-food::tr::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "densfoodchannel-id-sd-2941",
+    "name": "Dens Food Channel",
+    "slug": "densfoodchannel-id-sd-2941",
+    "logoUrl": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",
+    "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "DensFoodChannel.id",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dens-food-channel::id::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "maddogandmerrill-us-sd-5623",
+    "name": "Mad Dog and Merrill",
+    "slug": "maddogandmerrill-us-sd-5623",
+    "logoUrl": "https://i.imgur.com/5QQy3aW.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "MadDogandMerrill.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mad-dog-and-merrill::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "24kitchen-us-serbia-114",
+    "name": "24Kitchen Serbia",
+    "slug": "24kitchen-us-serbia-114",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png",
+    "streamUrl": "http://91.132.74.5:8000/play/a00a",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "srp",
+      "eng"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "24Kitchen.us",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "24kitchen-serbia::us::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maxeats-id-sd-5761",
+    "name": "MAX Eats",
+    "slug": "maxeats-id-sd-5761",
+    "logoUrl": "https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp",
+    "streamUrl": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "MAXEats.id",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "max-eats::id::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

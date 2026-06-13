@@ -1,0 +1,685 @@
+[
+  {
+    "id": "accuweathernow-us-sd-300",
+    "name": "AccuWeather Now",
+    "slug": "accuweathernow-us-sd-300",
+    "logoUrl": "https://i.imgur.com/M8wbVYK.png",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "AccuWeatherNOW.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "accuweather-now::us::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8",
+        "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
+        "https://accuweather-xumo.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "foxweather-us-sd-3755",
+    "name": "Fox Weather",
+    "slug": "foxweather-us-sd-3755",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png",
+    "streamUrl": "https://foxweather-xumo.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "FoxWeather.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fox-weather::us::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8",
+        "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
+        "https://247wlive.foxweather.com/stream/index.m3u8",
+        "https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "weathernation-us-sd-11707",
+    "name": "WeatherNation",
+    "slug": "weathernation-us-sd-11707",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png",
+    "streamUrl": "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherNation.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weathernation::us::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "meteonews-ch-sd-5882",
+    "name": "Meteonews",
+    "slug": "meteonews-ch-sd-5882",
+    "logoUrl": "https://i.imgur.com/YtYhbJD.png",
+    "streamUrl": "https://streaming.meteonews.net/hls/stream.m3u8",
+    "country": {
+      "code": "CH",
+      "name": "Switzerland"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "Meteonews.ch",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "meteonews::ch::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "skynewsweather-uk-sd-9188",
+    "name": "Sky News Weather",
+    "slug": "skynewsweather-uk-sd-9188",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg",
+    "streamUrl": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "SkyNewsWeather.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sky-news-weather::uk::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "theweathernetwork-ca-sd-10249",
+    "name": "The Weather Network",
+    "slug": "theweathernetwork-ca-sd-10249",
+    "logoUrl": "https://i.imgur.com/V6ZUwUY.png",
+    "streamUrl": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "TheWeatherNetwork.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-weather-network::ca::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weatherspy-us-poland-11713",
+    "name": "Weather Spy",
+    "slug": "weatherspy-us-poland-11713",
+    "logoUrl": "https://i.imgur.com/yHUUIIz.png",
+    "streamUrl": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weather-spy::us::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weatherspy-us-sd-11714",
+    "name": "WeatherSpy",
+    "slug": "weatherspy-us-sd-11714",
+    "logoUrl": "https://i.imgur.com/yHUUIIz.png",
+    "streamUrl": "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weatherspy::us::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weathernews-jp-sd-11708",
+    "name": "Weathernews",
+    "slug": "weathernews-jp-sd-11708",
+    "logoUrl": "https://i.imgur.com/A8uRSTS.png",
+    "streamUrl": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
+    "country": {
+      "code": "JP",
+      "name": "Japan"
+    },
+    "languages": [
+      "jpn"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "Weathernews.jp",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weathernews::jp::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8"
+      ]
+    }
+  },
+  {
+    "id": "weatherspy-mx-sd-11712",
+    "name": "WeatherSpy",
+    "slug": "weatherspy-mx-sd-11712",
+    "logoUrl": "https://i.imgur.com/KIEKOt1.png",
+    "streamUrl": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weatherspy::mx::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weatherspy-au-sd-11710",
+    "name": "WeatherSpy",
+    "slug": "weatherspy-au-sd-11710",
+    "logoUrl": "https://i.imgur.com/GTxN2nH.png",
+    "streamUrl": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weatherspy::au::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weatherspy-in-sd-11711",
+    "name": "Weatherspy",
+    "slug": "weatherspy-in-sd-11711",
+    "logoUrl": "https://i.imgur.com/KIEKOt1.png",
+    "streamUrl": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "WeatherSpy.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "weatherspy::in::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chinaweatherchannel-cn-sd-2337",
+    "name": "中国气象",
+    "slug": "chinaweatherchannel-cn-sd-2337",
+    "logoUrl": "https://i.imgur.com/syNwDpg.png",
+    "streamUrl": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Weather",
+    "epg": {
+      "id": "ChinaWeatherChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::weather",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

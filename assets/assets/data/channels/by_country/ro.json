@@ -1,0 +1,4854 @@
+[
+  {
+    "id": "antena1-ro-hd-750",
+    "name": "Antena 1 HD",
+    "slug": "antena1-ro-hd-750",
+    "logoUrl": "https://i.imgur.com/EPmwuuv.png",
+    "streamUrl": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Antena1.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antena-1::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE"
+      ]
+    }
+  },
+  {
+    "id": "bollywoodclassic-ro-sd-1580",
+    "name": "Bollywood Classic",
+    "slug": "bollywoodclassic-ro-sd-1580",
+    "logoUrl": "https://i.imgur.com/ugPo6ca.png",
+    "streamUrl": "http://103.213.31.109:90/BollywoodClassic/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [],
+    "category": "Movies",
+    "epg": {
+      "id": "BollywoodClassic.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bollywood-classic::ro::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy"
+      ]
+    }
+  },
+  {
+    "id": "bollywoodhd-ro-sd-1583",
+    "name": "Bollywood HD",
+    "slug": "bollywoodhd-ro-sd-1583",
+    "logoUrl": "https://i.imgur.com/scDKOLS.png",
+    "streamUrl": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [],
+    "category": "Movies",
+    "epg": {
+      "id": "BollywoodHD.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bollywood::ro::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi"
+      ]
+    }
+  },
+  {
+    "id": "a7tv-ro-sd-189",
+    "name": "A7TV",
+    "slug": "a7tv-ro-sd-189",
+    "logoUrl": "https://i.imgur.com/RmFg8BN.png",
+    "streamUrl": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "A7TV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a7tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "infotvromania-ro-sd-4596",
+    "name": "Info TV Romania",
+    "slug": "infotvromania-ro-sd-4596",
+    "logoUrl": "https://i.imgur.com/rLzapB3.png",
+    "streamUrl": "https://euw32.playlist.ttvnw.net/v1/playlist/CtMEHCWSOLVBIjzQRcYCDzxENBPC6QqL19TpF5ZzroQT-yNzbMsnZXDlRrM1BO_2b6B7tSj4UoyGleh1IEErCJvZXm2eKnttsjBlm1UWcu9ScTtqCCA0AQTpiAl701WUV4dCdtucbddiDtMpNARcl1umUiox9zdJ7saZS-007zh-cbMCfmc8wVX53DJqfivrOcg6ftsD8p4-z0lF7zimP_IOuZeLag9CNrrY7vRkQfYIKZcFsQza5myUR5Rat5Mo7BIdvsuOnFbULzL83qRdTOXOBEzKx73HrEXXRatJtHFxITl_m-4LzU44DCGHnrr1DwsSA5exWtvNvvcbdTx0MsmP-mBfLl__P3EVC4monCpTfMJAFwxnFf9AReWkPrvK4NTasVMnoXQ2Whzm4BmM9JwcyJPdWADFXvizZzYu-9beVSvbZxFJ1iIKI-2F-oThl8QfH9s6T6EVEu3-Q27YrZhjwdJoqyHjvL-4vn0RC6REzM4XSkfEmJEu91-9Zw9nVhvWTFxoh2exnuCWGdXhMKjfhpTGH4WquIZBQvscG_0bh7BxYkUu1GGDo5OIP17dNEx6j410QancOzFxe5ORNJ5q0zCQdZ1QAvO3qO00mXjNwhG6S7A30bUzqcH5hhzOxsFQZFgOgoLtDJH5YLggf4McxMRgIIWbRyTkcYonUjjP_CeEgg8jV3hIRE1FZWV6gOlhQoAxPr3rK91hKaM40y_6UYCdgUGsI6s1-wQvI6vGpKrwzTkxdNqFQHddjqKb2r6GBsEqEtGZPSP1T9ZhRH6iPz2u2BoM-X76Wi1YVfDbFLhBIAEqCWV1LXdlc3QtMjD3DA.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "InfoTVRomania.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "info-tv-romania::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kisstv-ro-sd-5134",
+    "name": "Kiss TV",
+    "slug": "kisstv-ro-sd-5134",
+    "logoUrl": "https://i.imgur.com/NKfVymH.png",
+    "streamUrl": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "KissTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kiss-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sperantatv-ro-sd-9335",
+    "name": "SperantaTV",
+    "slug": "sperantatv-ro-sd-9335",
+    "logoUrl": "https://i.imgur.com/KUyqQCX.png",
+    "streamUrl": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SperantaTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sperantatv::ro::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zutv-ro-sd-12226",
+    "name": "ZU TV",
+    "slug": "zutv-ro-sd-12226",
+    "logoUrl": "https://i.imgur.com/1gtkGhB.png",
+    "streamUrl": "https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ZUTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zu-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "angelustv-ro-sd-709",
+    "name": "Angelus TV",
+    "slug": "angelustv-ro-sd-709",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512",
+    "streamUrl": "https://video.angelustv.ro/hls/angelustv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AngelusTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "angelus-tv::ro::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dottotv-ro-sd-3104",
+    "name": "Dotto TV",
+    "slug": "dottotv-ro-sd-3104",
+    "logoUrl": "https://i.imgur.com/pfs882Z.png",
+    "streamUrl": "https://live.dottotv.ro/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DottoTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dotto-tv::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "impacttvdance-ro-sd-4546",
+    "name": "Impact TV Dance",
+    "slug": "impacttvdance-ro-sd-4546",
+    "logoUrl": "https://i.imgur.com/G5mNdpE.png",
+    "streamUrl": "https://online.tvimpact.live/hls/dancetv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ImpactTVDance.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "impact-tv-dance::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "impacttvmanele-ro-sd-4547",
+    "name": "Impact TV Manele",
+    "slug": "impacttvmanele-ro-sd-4547",
+    "logoUrl": "https://i.imgur.com/G5mNdpE.png",
+    "streamUrl": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ImpactTVManele.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "impact-tv-manele::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jobtv-ro-sd-4861",
+    "name": "JOB TV",
+    "slug": "jobtv-ro-sd-4861",
+    "logoUrl": "https://i.imgur.com/UzcZNe3.png",
+    "streamUrl": "https://jobtvserver.eu/hls/stream.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "JOBTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "job-tv::ro::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alfaomegatv-ro-sd-456",
+    "name": "Alfa Omega TV",
+    "slug": "alfaomegatv-ro-sd-456",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
+    "streamUrl": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlfaOmegaTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alfa-omega-tv::ro::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvriasi-ro-sd-11110",
+    "name": "TVR Iasi",
+    "slug": "tvriasi-ro-sd-11110",
+    "logoUrl": "https://i.imgur.com/Kxkihds.png",
+    "streamUrl": "https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRIasi.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-iasi::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://82.208.141.70:8778/1.m3u8",
+        "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "protvnews-ro-sd-7707",
+    "name": "Pro TV News",
+    "slug": "protvnews-ro-sd-7707",
+    "logoUrl": "",
+    "streamUrl": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PROTVNews.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pro-tv-news::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "supertv-ro-sd-9601",
+    "name": "Super TV",
+    "slug": "supertv-ro-sd-9601",
+    "logoUrl": "https://i.imgur.com/pzxUE0O.png",
+    "streamUrl": "https://live.supertv.ro/live/supertv/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SuperTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "super-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://iptv.supertv.ro:8000/play/a001/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "iasitvlife-ro-sd-4472",
+    "name": "IasiTV Life",
+    "slug": "iasitvlife-ro-sd-4472",
+    "logoUrl": "https://i.imgur.com/HY7EL5e.png",
+    "streamUrl": "https://tv.streambox.ro/hls/itv/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IasiTVLife.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iasitv-life::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "metropolatv-ro-sd-5884",
+    "name": "Metropola TV",
+    "slug": "metropolatv-ro-sd-5884",
+    "logoUrl": "https://i.imgur.com/Gzq05v8.png",
+    "streamUrl": "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MetropolaTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "metropola-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsud-ro-sd-11200",
+    "name": "TV SUD",
+    "slug": "tvsud-ro-sd-11200",
+    "logoUrl": "https://i.imgur.com/m3Slmbe.png",
+    "streamUrl": "https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVSUD.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sud::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alephnews-ro-sd-450",
+    "name": "Aleph News",
+    "slug": "alephnews-ro-sd-450",
+    "logoUrl": "https://i.imgur.com/qPRQZMI.png",
+    "streamUrl": "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlephNews.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aleph-news::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "digi24-ro-sd-2986",
+    "name": "Digi 24",
+    "slug": "digi24-ro-sd-2986",
+    "logoUrl": "https://i.imgur.com/qmRnD0M.png",
+    "streamUrl": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Digi24.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "digi-24::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "magictv-ro-sd-5639",
+    "name": "Magic TV",
+    "slug": "magictv-ro-sd-5639",
+    "logoUrl": "https://i.imgur.com/9izrr4d.png",
+    "streamUrl": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MagicTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "magic-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "realitateaplus-ro-sd-8104",
+    "name": "Realitatea Plus",
+    "slug": "realitateaplus-ro-sd-8104",
+    "logoUrl": "https://mailx.realitatea.net/skins/elastic/rtv.svg?s=1769106830",
+    "streamUrl": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RealitateaPlus.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "realitatea-plus::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rocktv-ro-sd-8296",
+    "name": "Rock TV",
+    "slug": "rocktv-ro-sd-8296",
+    "logoUrl": "https://i.imgur.com/VB88A5V.png",
+    "streamUrl": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RockTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rock-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antenamonden-ro-sd-760",
+    "name": "Antena Monden",
+    "slug": "antenamonden-ro-sd-760",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "streamUrl": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AntenaMonden.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antena-monden::ro::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "argestv-ro-sd-842",
+    "name": "Arges TV",
+    "slug": "argestv-ro-sd-842",
+    "logoUrl": "https://i.imgur.com/qufz6nk.png",
+    "streamUrl": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ArgesTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arges-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "banattv-ro-sd-1125",
+    "name": "Banat TV",
+    "slug": "banattv-ro-sd-1125",
+    "logoUrl": "https://i.imgur.com/yVsocid.png",
+    "streamUrl": "https://www.btv.ro/hls/banat-tv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BanatTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "banat-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "catine-ro-sd-2015",
+    "name": "CaTine",
+    "slug": "catine-ro-sd-2015",
+    "logoUrl": "https://i.imgur.com/eFNHuIh.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CaTine.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "catine::ro::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedyplay-ro-sd-2588",
+    "name": "Comedy Play",
+    "slug": "comedyplay-ro-sd-2588",
+    "logoUrl": "https://i.imgur.com/6kAeVOk.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyPlay.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-play::ro::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hellotaste-ro-sd-4242",
+    "name": "Hello Taste",
+    "slug": "hellotaste-ro-sd-4242",
+    "logoUrl": "https://i.imgur.com/TdKO0er.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Cooking",
+    "epg": {
+      "id": "HelloTaste.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hello-taste::ro::cooking",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medicooltv-ro-sd-5839",
+    "name": "MediCOOL TV",
+    "slug": "medicooltv-ro-sd-5839",
+    "logoUrl": "https://i.imgur.com/Xe7x1k2.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "MediCOOLTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medicool-tv::ro::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mireasa-ro-sd-5965",
+    "name": "Mireasa",
+    "slug": "mireasa-ro-sd-5965",
+    "logoUrl": "https://i.imgur.com/k0VO0LH.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "Mireasa.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mireasa::ro::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "musceltv-ro-sd-6249",
+    "name": "Muscel TV",
+    "slug": "musceltv-ro-sd-6249",
+    "logoUrl": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
+    "streamUrl": "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MuscelTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "muscel-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "observatornews-ro-sd-6863",
+    "name": "Observator News",
+    "slug": "observatornews-ro-sd-6863",
+    "logoUrl": "https://i.imgur.com/f6xEIAr.png",
+    "streamUrl": "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "ObservatorNews.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "observator-news::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiofxnet-ro-hd-7887",
+    "name": "Radio Fx Net",
+    "slug": "radiofxnet-ro-hd-7887",
+    "logoUrl": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+    "streamUrl": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioFxNet.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-fx-net::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "realitateasportiva-ro-sd-8105",
+    "name": "Realitatea Sportiva",
+    "slug": "realitateasportiva-ro-sd-8105",
+    "logoUrl": "https://i.imgur.com/BaEyZto.png",
+    "streamUrl": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RealitateaSportiva.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "realitatea-sportiva::ro::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tele7abchd-ro-sd-9826",
+    "name": "Tele7ABC HD",
+    "slug": "tele7abchd-ro-sd-9826",
+    "logoUrl": "https://i.imgur.com/CheqyWH.png",
+    "streamUrl": "https://live.tele7abc.ro/hls/stream/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Tele7ABCHD.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele7abc::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "credotv-ro-sd-2654",
+    "name": "Credo TV",
+    "slug": "credotv-ro-sd-2654",
+    "logoUrl": "https://i.imgur.com/RD4TgcM.png",
+    "streamUrl": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CredoTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "credo-tv::ro::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nasultv-ro-sd-6355",
+    "name": "Nasul TV",
+    "slug": "nasultv-ro-sd-6355",
+    "logoUrl": "https://i.imgur.com/MoguWme.png",
+    "streamUrl": "https://live.nasul.tv/live/stream.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NasulTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nasul-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanald-ro-sd-4988",
+    "name": "Kanal D",
+    "slug": "kanald-ro-sd-4988",
+    "logoUrl": "https://i.imgur.com/15ILp0P.png",
+    "streamUrl": "https://stream1.kanald.ro/iphone/knd-live.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KanalD.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-d::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bollywoodhd-ro-russia-1582",
+    "name": "Bollywood HD Russia",
+    "slug": "bollywoodhd-ro-russia-1582",
+    "logoUrl": "https://i.imgur.com/scDKOLS.png",
+    "streamUrl": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "hin",
+      "rus"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "BollywoodHD.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bollywood-russia::ro::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "happychannel-ro-sd-4184",
+    "name": "Happy Channel",
+    "slug": "happychannel-ro-sd-4184",
+    "logoUrl": "https://i.imgur.com/kpFaiku.png",
+    "streamUrl": "https://hls.rundletv.eu.org/LIVE$HappyChannel/6.m3u8/Level/300720051?end=END&start=LIVE",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "HappyChannel.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "happy-channel::ro::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moozdance-ro-sd-6072",
+    "name": "Mooz Dance",
+    "slug": "moozdance-ro-sd-6072",
+    "logoUrl": "https://i.imgur.com/aX70RD2.png",
+    "streamUrl": "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MoozDance.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mooz-dance::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moozhits-ro-sd-6073",
+    "name": "Mooz Hits",
+    "slug": "moozhits-ro-sd-6073",
+    "logoUrl": "https://i.imgur.com/GwATd3Y.png",
+    "streamUrl": "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MoozHits.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mooz-hits::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moozro-ro-sd-6074",
+    "name": "Mooz Ro!",
+    "slug": "moozro-ro-sd-6074",
+    "logoUrl": "https://i.imgur.com/Ft24x5T.png",
+    "streamUrl": "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MoozRo.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mooz-ro::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "romaniatv-ro-sd-8308",
+    "name": "Romania TV",
+    "slug": "romaniatv-ro-sd-8308",
+    "logoUrl": "https://i.imgur.com/ZIfEp5I.png",
+    "streamUrl": "https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RomaniaTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "romania-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvr1-ro-sd-11062",
+    "name": "TVR 1",
+    "slug": "tvr1-ro-sd-11062",
+    "logoUrl": "https://i.imgur.com/CcUX1gB.png",
+    "streamUrl": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVR1.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-1::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvr2-ro-sd-11063",
+    "name": "TVR 2",
+    "slug": "tvr2-ro-sd-11063",
+    "logoUrl": "https://i.imgur.com/mKouHIZ.png",
+    "streamUrl": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVR2.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-2::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvr3-ro-sd-11064",
+    "name": "TVR 3",
+    "slug": "tvr3-ro-sd-11064",
+    "logoUrl": "https://i.imgur.com/yHCuTap.png",
+    "streamUrl": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVR3.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-3::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrcluj-ro-sd-11071",
+    "name": "TVR Cluj",
+    "slug": "tvrcluj-ro-sd-11071",
+    "logoUrl": "https://i.imgur.com/RkDra93.png",
+    "streamUrl": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRCluj.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-cluj::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrcraiova-ro-sd-11072",
+    "name": "TVR Craiova",
+    "slug": "tvrcraiova-ro-sd-11072",
+    "logoUrl": "https://i.imgur.com/vxWbQiy.png",
+    "streamUrl": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRCraiova.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-craiova::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrinternational-ro-sd-11114",
+    "name": "TVR International",
+    "slug": "tvrinternational-ro-sd-11114",
+    "logoUrl": "https://i.imgur.com/w28wcHs.png",
+    "streamUrl": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRInternational.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-international::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrtargumures-ro-sd-11129",
+    "name": "TVR Targu-Mures",
+    "slug": "tvrtargumures-ro-sd-11129",
+    "logoUrl": "https://i.imgur.com/9Hptdqj.png",
+    "streamUrl": "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRTarguMures.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-targu-mures::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrtimisoara-ro-sd-11130",
+    "name": "TVR Timisoara",
+    "slug": "tvrtimisoara-ro-sd-11130",
+    "logoUrl": "https://i.imgur.com/0x6Edei.png",
+    "streamUrl": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRTimisoara.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-timisoara::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvplussuceava-ro-sd-11042",
+    "name": "TVPlus Suceava",
+    "slug": "tvplussuceava-ro-sd-11042",
+    "logoUrl": "https://i.imgur.com/f4fzoLe.png",
+    "streamUrl": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPlusSuceava.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvplus-suceava::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://85.186.146.34:8080"
+      ]
+    }
+  },
+  {
+    "id": "ardealtv-ro-sd-832",
+    "name": "Ardeal TV",
+    "slug": "ardealtv-ro-sd-832",
+    "logoUrl": "https://i.imgur.com/5XwtFKd.png",
+    "streamUrl": "https://frn.rtsp.me/wzhx8pmNF7-kstp_J0AdjA/1695647213/hls/yZ9ED27Q.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ArdealTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ardeal-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atomicacademytv-ro-sd-966",
+    "name": "Atomic Academy TV",
+    "slug": "atomicacademytv-ro-sd-966",
+    "logoUrl": "https://i.imgur.com/ZbrDIbZ.png",
+    "streamUrl": "https://atomic.streamnet.ro/academia.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AtomicAcademyTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atomic-academy-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bucovinatv-ro-sd-1678",
+    "name": "Bucovina TV",
+    "slug": "bucovinatv-ro-sd-1678",
+    "logoUrl": "https://i.imgur.com/6klhXxp.png",
+    "streamUrl": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BucovinaTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bucovina-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "euronewsromania-ro-sd-3476",
+    "name": "Euronews Romania",
+    "slug": "euronewsromania-ro-sd-3476",
+    "logoUrl": "https://i.imgur.com/jUOVUXt.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EuronewsRomania.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "euronews-romania::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "exclusivtv-ro-sd-3514",
+    "name": "Exclusiv TV",
+    "slug": "exclusivtv-ro-sd-3514",
+    "logoUrl": "https://i.imgur.com/xw1IWoO.png",
+    "streamUrl": "https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ExclusivTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "exclusiv-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hd365tv-ro-sd-4222",
+    "name": "HD365 TV",
+    "slug": "hd365tv-ro-sd-4222",
+    "logoUrl": "https://i.imgur.com/2cLx4ja.png",
+    "streamUrl": "https://testcam.go.ro:8080/hls/hd365.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HD365TV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hd365-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "informatiatv-ro-sd-4594",
+    "name": "Informatia TV",
+    "slug": "informatiatv-ro-sd-4594",
+    "logoUrl": "https://i.imgur.com/P1ZbVRg.png",
+    "streamUrl": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "InformatiaTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "informatia-tv::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "misatv-ro-sd-5970",
+    "name": "MISA TV",
+    "slug": "misatv-ro-sd-5970",
+    "logoUrl": "https://i.imgur.com/2RxQNm6.png",
+    "streamUrl": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "MISATV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "misa-tv::ro::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "profi24tv-ro-sd-7694",
+    "name": "PROFI 24 TV",
+    "slug": "profi24tv-ro-sd-7694",
+    "logoUrl": "https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png",
+    "streamUrl": "https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PROFI24TV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "profi-24-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rapsodiatv-ro-sd-8059",
+    "name": "Rapsodia TV",
+    "slug": "rapsodiatv-ro-sd-8059",
+    "logoUrl": "https://i.imgur.com/mwMG7BB.png",
+    "streamUrl": "http://92.86.248.141:8080/ram/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RapsodiaTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rapsodia-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "realitateastar-ro-sd-8106",
+    "name": "Realitatea Star",
+    "slug": "realitateastar-ro-sd-8106",
+    "logoUrl": "https://i.imgur.com/bNdpyAZ.png",
+    "streamUrl": "https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RealitateaStar.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "realitatea-star::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tele7music-ro-sd-9827",
+    "name": "Tele7music",
+    "slug": "tele7music-ro-sd-9827",
+    "logoUrl": "https://i.imgur.com/11b5W8u.png",
+    "streamUrl": "https://live.tele7music.ro/hls/stream/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Tele7music.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele7music::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telestar1-ro-sd-10005",
+    "name": "Telestar1",
+    "slug": "telestar1-ro-sd-10005",
+    "logoUrl": "https://i.imgur.com/BTKh5ef.png",
+    "streamUrl": "https://dvb.tennet.ro/mobile_tv/telestar.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telestar1.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telestar1::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrcultural-ro-sd-11073",
+    "name": "TVR Cultural",
+    "slug": "tvrcultural-ro-sd-11073",
+    "logoUrl": "https://i.imgur.com/U9i70C9.png",
+    "streamUrl": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVRCultural.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-cultural::ro::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrfolclor-ro-sd-11076",
+    "name": "TVR Folclor",
+    "slug": "tvrfolclor-ro-sd-11076",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
+    "streamUrl": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRFolclor.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-folclor::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrinfo-ro-sd-11113",
+    "name": "TVR Info",
+    "slug": "tvrinfo-ro-sd-11113",
+    "logoUrl": "https://i.imgur.com/7oE7ThR.png",
+    "streamUrl": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVRInfo.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-info::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrsport-ro-sd-11128",
+    "name": "TVR Sport",
+    "slug": "tvrsport-ro-sd-11128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
+    "streamUrl": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRSport.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-sport::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentral-ro-sd-2572",
+    "name": "Comedy Central",
+    "slug": "comedycentral-ro-sd-2572",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentral.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central::ro::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "disneychannel-ro-sd-3009",
+    "name": "Disney Channel",
+    "slug": "disneychannel-ro-sd-3009",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "DisneyChannel.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "disney-channel::ro::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nickelodeon-ro-sd-6597",
+    "name": "Nickelodeon",
+    "slug": "nickelodeon-ro-sd-6597",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/6972/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "Nickelodeon.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nickelodeon::ro::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hunedoara1-ro-sd-4458",
+    "name": "Hunedoara 1",
+    "slug": "hunedoara1-ro-sd-4458",
+    "logoUrl": "https://i.imgur.com/9bz15ad.png",
+    "streamUrl": "https://netstreaming.eu/hd1.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Hunedoara1.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hunedoara-1::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lightchannel-ro-sd-5474",
+    "name": "Light Channel",
+    "slug": "lightchannel-ro-sd-5474",
+    "logoUrl": "https://i.imgur.com/S3Fbf8T.png",
+    "streamUrl": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LightChannel.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "light-channel::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "novatvbrasov-ro-sd-6707",
+    "name": "Nova TV Brasov",
+    "slug": "novatvbrasov-ro-sd-6707",
+    "logoUrl": "https://i.imgur.com/33Vn0Ij.png",
+    "streamUrl": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NovaTVBrasov.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nova-tv-brasov::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemoldovaplus-ro-sd-9932",
+    "name": "TeleMoldova +",
+    "slug": "telemoldovaplus-ro-sd-9932",
+    "logoUrl": "https://i.imgur.com/8z0zLjw.jpeg",
+    "streamUrl": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TeleMoldovaPlus.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemoldova::ro::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv1000-ro-sd-10705",
+    "name": "TV1000",
+    "slug": "tv1000-ro-sd-10705",
+    "logoUrl": "https://i.imgur.com/GHNsctR.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "TV1000.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv1000::ro::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antenastars-ro-sd-763",
+    "name": "Antena Stars",
+    "slug": "antenastars-ro-sd-763",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "streamUrl": "https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AntenaStars.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antena-stars::ro::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alephbusiness-ro-sd-449",
+    "name": "Aleph Business",
+    "slug": "alephbusiness-ro-sd-449",
+    "logoUrl": "https://i.imgur.com/IqvZBeo.png",
+    "streamUrl": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "AlephBusiness.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aleph-business::ro::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atomictv-ro-sd-967",
+    "name": "Atomic TV",
+    "slug": "atomictv-ro-sd-967",
+    "logoUrl": "https://i.imgur.com/O4uI0Uy.png",
+    "streamUrl": "https://atomic.streamnet.ro/atomictv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AtomicTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atomic-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanald2-ro-sd-4987",
+    "name": "Kanal D2",
+    "slug": "kanald2-ro-sd-4987",
+    "logoUrl": "https://i.imgur.com/0SMSIm9.png",
+    "streamUrl": "https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "rom"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KanalD2.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanal-d2::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "agrotv-ro-sd-380",
+    "name": "Agro TV",
+    "slug": "agrotv-ro-sd-380",
+    "logoUrl": "https://i.imgur.com/S7X1PiC.png",
+    "streamUrl": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgroTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agro-tv::ro::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antenasport-ro-sd-762",
+    "name": "AntenaSport",
+    "slug": "antenasport-ro-sd-762",
+    "logoUrl": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+    "streamUrl": "https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "AntenaSport.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antenasport::ro::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telembotosani-ro-sd-9921",
+    "name": "TeleM Botosani",
+    "slug": "telembotosani-ro-sd-9921",
+    "logoUrl": "https://i.imgur.com/3EZ8CmJ.png",
+    "streamUrl": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleMBotosani.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telem-botosani::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "traditionaltv-ro-sd-10482",
+    "name": "Traditional TV",
+    "slug": "traditionaltv-ro-sd-10482",
+    "logoUrl": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
+    "streamUrl": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TraditionalTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 68,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "traditional-tv::ro::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbuzau-ro-sd-10762",
+    "name": "TV Buzau",
+    "slug": "tvbuzau-ro-sd-10762",
+    "logoUrl": "https://i.imgur.com/GhFmUVO.png",
+    "streamUrl": "http://78.96.33.89:8080",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVBuzau.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv-buzau::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvse-ro-sd-11150",
+    "name": "Exploris",
+    "slug": "tvse-ro-sd-11150",
+    "logoUrl": "https://i.imgur.com/r4zKU1e.png",
+    "streamUrl": "http://89.38.8.130:39419",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSE.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 49,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "exploris::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "intermediatv-ro-sd-4617",
+    "name": "Intermedia TV",
+    "slug": "intermediatv-ro-sd-4617",
+    "logoUrl": "https://i.imgur.com/cNXM4Mu.png",
+    "streamUrl": "http://83.103.150.198:8080",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IntermediaTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 49,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "intermedia-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsat-ro-sd-11140",
+    "name": "TVSat",
+    "slug": "tvsat-ro-sd-11140",
+    "logoUrl": "https://i.imgur.com/54GHZMv.png",
+    "streamUrl": "http://89.38.8.130:39443",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSat.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 49,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvsat::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "protv-ro-sd-7705",
+    "name": "PRO TV",
+    "slug": "protv-ro-sd-7705",
+    "logoUrl": "https://i.imgur.com/zVk3WlT.png",
+    "streamUrl": "https://hls.rundletv.eu.org/LIVE$ProTV/Level/300720051?end=END&start=LIVE",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PROTV.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 62,
+      "badges": [
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "pro-tv::ro::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

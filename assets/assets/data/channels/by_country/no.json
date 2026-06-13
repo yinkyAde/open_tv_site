@@ -1,0 +1,938 @@
+[
+  {
+    "id": "tvostfold-no-sd-11011",
+    "name": "TV Østfold",
+    "slug": "tvostfold-no-sd-11011",
+    "logoUrl": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png",
+    "streamUrl": "https://streamnorge.com:8088/hls/tvo.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVOstfold.no",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-stfold::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6751",
+    "name": "NRK 1",
+    "slug": "nrk1-no-sd-6751",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6752",
+    "name": "NRK 1 (Agder)",
+    "slug": "nrk1-no-sd-6752",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-agder::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6753",
+    "name": "NRK 1 (Innlandet)",
+    "slug": "nrk1-no-sd-6753",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-innlandet::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6754",
+    "name": "NRK 1 (Midtnytt)",
+    "slug": "nrk1-no-sd-6754",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-midtnytt::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6755",
+    "name": "NRK 1 (Møre og Romsdal)",
+    "slug": "nrk1-no-sd-6755",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-m-re-og-romsdal::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6756",
+    "name": "NRK 1 (Nordland)",
+    "slug": "nrk1-no-sd-6756",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-nordland::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6757",
+    "name": "NRK 1 (Nordnytt)",
+    "slug": "nrk1-no-sd-6757",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-nordnytt::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6758",
+    "name": "NRK 1 (Rogaland)",
+    "slug": "nrk1-no-sd-6758",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-rogaland::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6759",
+    "name": "NRK 1 (Vestfold og Telemark)",
+    "slug": "nrk1-no-sd-6759",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-vestfold-og-telemark::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk1-no-sd-6760",
+    "name": "NRK 1 (Vestlandsrevyen)",
+    "slug": "nrk1-no-sd-6760",
+    "logoUrl": "https://i.imgur.com/9tj8ds7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK1.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-1-vestlandsrevyen::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk2-no-sd-6761",
+    "name": "NRK 2",
+    "slug": "nrk2-no-sd-6761",
+    "logoUrl": "https://i.imgur.com/SiAdoK9.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRK2.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-2::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrk3-no-sd-6762",
+    "name": "NRK 3",
+    "slug": "nrk3-no-sd-6762",
+    "logoUrl": "https://i.imgur.com/TNhV2I7.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NRK3.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-3::no::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrksuper-no-sd-6763",
+    "name": "NRK Super",
+    "slug": "nrksuper-no-sd-6763",
+    "logoUrl": "https://i.imgur.com/xIATe2T.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "NRKSuper.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-super::no::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nrktegnsprak-no-sd-6764",
+    "name": "NRK Tegnspråk",
+    "slug": "nrktegnsprak-no-sd-6764",
+    "logoUrl": "https://i.imgur.com/VCpWG3h.png",
+    "streamUrl": "https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NRKTegnsprak.no",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nrk-tegnspr-k::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "frikanalen-no-sd-3819",
+    "name": "Frikanalen",
+    "slug": "frikanalen-no-sd-3819",
+    "logoUrl": "https://i.imgur.com/rY3Owxl.png",
+    "streamUrl": "https://frikanalen.no/stream/index.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Frikanalen.no",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "frikanalen::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalmotor-no-sd-1916",
+    "name": "Canal Motor",
+    "slug": "canalmotor-no-sd-1916",
+    "logoUrl": "https://i.imgur.com/nCAt3QN.png",
+    "streamUrl": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "eng",
+      "nor"
+    ],
+    "category": "Auto",
+    "epg": {
+      "id": "CanalMotor.no",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-motor::no::auto",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvmodum-no-sd-10967",
+    "name": "TV Modum",
+    "slug": "tvmodum-no-sd-10967",
+    "logoUrl": "https://i.imgur.com/kljua5X.png",
+    "streamUrl": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8",
+    "country": {
+      "code": "NO",
+      "name": "Norway"
+    },
+    "languages": [
+      "nor"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVModum.no",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-modum::no::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

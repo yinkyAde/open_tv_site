@@ -1,0 +1,880 @@
+[
+  {
+    "id": "alghadtv-eg-sd-461",
+    "name": "Al Ghad TV",
+    "slug": "alghadtv-eg-sd-461",
+    "logoUrl": "https://i.imgur.com/ga6NXb9.png",
+    "streamUrl": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlGhadTV.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-ghad-tv::eg::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "koogitv-eg-sd-5193",
+    "name": "Koogi TV",
+    "slug": "koogitv-eg-sd-5193",
+    "logoUrl": "https://i.imgur.com/zojMTP9.png",
+    "streamUrl": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "KoogiTV.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "koogi-tv::eg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbc1egypt-eg-hd-5779",
+    "name": "MBC 1 Egypt",
+    "slug": "mbc1egypt-eg-hd-5779",
+    "logoUrl": "https://i.imgur.com/CiA3plN.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MBC1Egypt.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-1-egypt::eg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbcmasr-eg-sd-5795",
+    "name": "MBC Masr",
+    "slug": "mbcmasr-eg-sd-5795",
+    "logoUrl": "https://i.imgur.com/o2elx0u.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MBCMasr.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-masr::eg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbcmasr2-eg-sd-5794",
+    "name": "MBC Masr 2",
+    "slug": "mbcmasr2-eg-sd-5794",
+    "logoUrl": "https://i.imgur.com/KHo7Gtn.png",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MBCMasr2.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-masr-2::eg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pncdrama-eg-sd-7561",
+    "name": "PNC Drama",
+    "slug": "pncdrama-eg-sd-7561",
+    "logoUrl": "https://i.imgur.com/Hg34mg3.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "PNCDrama.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pnc-drama::eg::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mixhollywood-eg-sd-5993",
+    "name": "Mix Hollywood",
+    "slug": "mixhollywood-eg-sd-5993",
+    "logoUrl": "https://i.imgur.com/1ENdbZn.png",
+    "streamUrl": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MixHollywood.eg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mix-hollywood::eg::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "watantv-eg-sd-11651",
+    "name": "Watan TV",
+    "slug": "watantv-eg-sd-11651",
+    "logoUrl": "https://i.imgur.com/pZyKaUH.png",
+    "streamUrl": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WatanTV.eg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "watan-tv::eg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aghapytv-eg-sd-375",
+    "name": "Aghapy TV",
+    "slug": "aghapytv-eg-sd-375",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+    "streamUrl": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AghapyTV.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aghapy-tv::eg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanacinemaegypt-eg-sd-8317",
+    "name": "Rotana Cinema Egypt",
+    "slug": "rotanacinemaegypt-eg-sd-8317",
+    "logoUrl": "https://i.imgur.com/dGlKoLW.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "RotanaCinemaEgypt.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-cinema-egypt::eg::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "coptictv-eg-sd-2626",
+    "name": "Coptic TV",
+    "slug": "coptictv-eg-sd-2626",
+    "logoUrl": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+    "streamUrl": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CopticTV.eg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "coptic-tv::eg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hudatv-eg-sd-4444",
+    "name": "Huda TV",
+    "slug": "hudatv-eg-sd-4444",
+    "logoUrl": "https://i.imgur.com/1UUjU26.png",
+    "streamUrl": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HudaTV.eg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "huda-tv::eg::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cbc-eg-sd-2031",
+    "name": "CBC",
+    "slug": "cbc-eg-sd-2031",
+    "logoUrl": "https://i.imgur.com/8apNaLP.png",
+    "streamUrl": "https://flu.systemnet.tv/CBC/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CBC.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbc::eg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cbcdrama-eg-sd-2032",
+    "name": "CBC Drama",
+    "slug": "cbcdrama-eg-sd-2032",
+    "logoUrl": "https://i.imgur.com/I8YdakH.png",
+    "streamUrl": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "CBCDrama.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbc-drama::eg::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cbcsofra-eg-sd-2037",
+    "name": "CBC Sofra",
+    "slug": "cbcsofra-eg-sd-2037",
+    "logoUrl": "https://i.imgur.com/YAdk2WR.png",
+    "streamUrl": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CBCSofra.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbc-sofra::eg::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elradio9090fm-eg-sd-3289",
+    "name": "El Radio 9090 FM",
+    "slug": "elradio9090fm-eg-sd-3289",
+    "logoUrl": "https://www.9090.fm/images/logo.png",
+    "streamUrl": "https://9090video.mobtada.com/hls/stream.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ElRadio9090FM.eg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-radio-9090-fm::eg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nogoumfmtv-eg-sd-6656",
+    "name": "NogoumFMTV",
+    "slug": "nogoumfmtv-eg-sd-6656",
+    "logoUrl": "https://i.imgur.com/krp3kgv.png",
+    "streamUrl": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NogoumFMTV.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nogoumfmtv::eg::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

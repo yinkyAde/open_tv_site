@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "yletv1-fi-sd-12040",
+    "name": "YLE TV 1",
+    "slug": "yletv1-fi-sd-12040",
+    "logoUrl": "https://i.imgur.com/6yXZwUL.png",
+    "streamUrl": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "YleTV1.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yle-tv-1::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "https://live-fi.tvkaista.net/yle-tv1/live.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "yletv2-fi-sd-12043",
+    "name": "YLE TV 2",
+    "slug": "yletv2-fi-sd-12043",
+    "logoUrl": "https://i.imgur.com/4xkc6PL.png",
+    "streamUrl": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "YleTV2.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yle-tv-2::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+        "https://live-fi.tvkaista.net/yle-tv2/live.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "yleteemafem-fi-sd-12037",
+    "name": "YLE TV Teema & Fem",
+    "slug": "yleteemafem-fi-sd-12037",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+    "streamUrl": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "YleTeemaFem.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yle-tv-teema-fem::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+        "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nopolanews-fi-sd-6664",
+    "name": "Nopola News",
+    "slug": "nopolanews-fi-sd-6664",
+    "logoUrl": "https://i.imgur.com/vDoQaGl.png",
+    "streamUrl": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NopolaNews.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nopola-news::fi::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtv3-fi-sd-6170",
+    "name": "MTV3",
+    "slug": "mtv3-fi-sd-6170",
+    "logoUrl": "https://i.imgur.com/C5rQbBM.png",
+    "streamUrl": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "MTV3.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv3::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://195.222.7.17:8002/ch352"
+      ]
+    }
+  },
+  {
+    "id": "jim-fi-sd-4846",
+    "name": "Jim",
+    "slug": "jim-fi-sd-4846",
+    "logoUrl": "https://i.imgur.com/PkMgY0K.png",
+    "streamUrl": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Jim.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jim::fi::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "liv-fi-sd-5490",
+    "name": "Liv",
+    "slug": "liv-fi-sd-5490",
+    "logoUrl": "https://i.imgur.com/k6NsXBj.png",
+    "streamUrl": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "Liv.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "liv::fi::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nelonen-fi-sd-6458",
+    "name": "Nelonen",
+    "slug": "nelonen-fi-sd-6458",
+    "logoUrl": "https://i.imgur.com/BFbCyfY.png",
+    "streamUrl": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Nelonen.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nelonen::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "starchannel-fi-sd-9401",
+    "name": "STAR Channel (Finland)",
+    "slug": "starchannel-fi-sd-9401",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "streamUrl": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "STARChannel.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "star-channel-finland::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "taevastv7-fi-sd-9713",
+    "name": "Taevas TV7",
+    "slug": "taevastv7-fi-sd-9713",
+    "logoUrl": "https://i.imgur.com/usXedIj.png",
+    "streamUrl": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TaevasTV7.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "taevas-tv7::fi::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "taivastv7-fi-sd-9717",
+    "name": "Taivas TV7",
+    "slug": "taivastv7-fi-sd-9717",
+    "logoUrl": "https://i.imgur.com/JyJNiXy.png",
+    "streamUrl": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TaivasTV7.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "taivas-tv7::fi::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "navahangtv-fi-sd-6392",
+    "name": "Navahang TV",
+    "slug": "navahangtv-fi-sd-6392",
+    "logoUrl": "https://i.imgur.com/YteKXJy.png",
+    "streamUrl": "https://hls.navahang.live/hls/stream.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NavahangTV.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "navahang-tv::fi::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://simahls.wns.live/hls/stream.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "himlentv7-fi-sd-4277",
+    "name": "Himlen TV7",
+    "slug": "himlentv7-fi-sd-4277",
+    "logoUrl": "https://i.imgur.com/k8a7KNn.png",
+    "streamUrl": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "HimlenTV7.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "himlen-tv7::fi::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jrtvjarviradio-fi-sd-4892",
+    "name": "JRTV Järviradio",
+    "slug": "jrtvjarviradio-fi-sd-4892",
+    "logoUrl": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+    "streamUrl": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JRTVJarviradio.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jrtv-j-rviradio::fi::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtvava-fi-sd-6177",
+    "name": "MTV Ava",
+    "slug": "mtvava-fi-sd-6177",
+    "logoUrl": "https://i.imgur.com/WxNCiAk.png",
+    "streamUrl": "https://live-fi.tvkaista.net/ava/live.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MTVAva.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv-ava::fi::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtvsub-fi-sd-6212",
+    "name": "MTV Sub",
+    "slug": "mtvsub-fi-sd-6212",
+    "logoUrl": "https://i.imgur.com/rmV8LO1.png",
+    "streamUrl": "https://live-fi.tvkaista.net/sub/live.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "MTVSub.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv-sub::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtvuutiset-fi-sd-6221",
+    "name": "MTV Uutiset",
+    "slug": "mtvuutiset-fi-sd-6221",
+    "logoUrl": "https://i.imgur.com/ZO8ShOK.png",
+    "streamUrl": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MTVUutiset.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv-uutiset::fi::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onnitv-fi-sd-6999",
+    "name": "Onni TV",
+    "slug": "onnitv-fi-sd-6999",
+    "logoUrl": "https://i.imgur.com/Vba4jUk.png",
+    "streamUrl": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OnniTV.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "onni-tv::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ylex-fi-sd-12046",
+    "name": "YleX Studio Live",
+    "slug": "ylex-fi-sd-12046",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",
+    "streamUrl": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "YleX.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ylex-studio::fi::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eveo-fi-sd-3486",
+    "name": "Eveo",
+    "slug": "eveo-fi-sd-3486",
+    "logoUrl": "https://i.imgur.com/fFIq7tY.png",
+    "streamUrl": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Eveo.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eveo::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hero-fi-sd-4257",
+    "name": "Hero",
+    "slug": "hero-fi-sd-4257",
+    "logoUrl": "https://i.imgur.com/4t5JQLY.png",
+    "streamUrl": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "Hero.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hero::fi::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationalgeographic-fi-sd-6360",
+    "name": "National Geographic (Finland)",
+    "slug": "nationalgeographic-fi-sd-6360",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "streamUrl": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NationalGeographic.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-geographic-finland::fi::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viaplaytv-fi-sd-11502",
+    "name": "Viaplay TV (Finland)",
+    "slug": "viaplaytv-fi-sd-11502",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
+    "streamUrl": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "ViaplayTV.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viaplay-tv-finland::fi::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nartv-fi-sd-6337",
+    "name": "NärTV",
+    "slug": "nartv-fi-sd-6337",
+    "logoUrl": "https://i.imgur.com/Ht5yePq.png",
+    "streamUrl": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "swe"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NarTV.fi",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "n-rtv::fi::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

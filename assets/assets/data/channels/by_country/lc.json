@@ -1,0 +1,53 @@
+[
+  {
+    "id": "caribbeanhot7tv-lc-sd-1993",
+    "name": "Caribbean Hot 7 TV",
+    "slug": "caribbeanhot7tv-lc-sd-1993",
+    "logoUrl": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
+    "streamUrl": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+    "country": {
+      "code": "LC",
+      "name": "Saint Lucia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CaribbeanHot7TV.lc",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "caribbean-hot-7-tv::lc::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

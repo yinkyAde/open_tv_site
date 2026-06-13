@@ -1,0 +1,881 @@
+[
+  {
+    "id": "privesceutv-md-sd-7688",
+    "name": "Privesc.Eu TV",
+    "slug": "privesceutv-md-sd-7688",
+    "logoUrl": "https://i.imgur.com/ukBacSn.png",
+    "streamUrl": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "PrivescEuTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "4K",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "4K",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "privesc-eu-tv::md::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrmoldova-md-hd-11121",
+    "name": "TVR Moldova HD",
+    "slug": "tvrmoldova-md-hd-11121",
+    "logoUrl": "https://i.imgur.com/wDe9gL2.png",
+    "streamUrl": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRMoldova.md",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "QHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 132,
+      "badges": [
+        "QHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-moldova::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+        "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "moldova1-md-sd-6047",
+    "name": "Moldova 1",
+    "slug": "moldova1-md-sd-6047",
+    "logoUrl": "https://i.imgur.com/ZbQY56v.png",
+    "streamUrl": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Moldova1.md",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "moldova-1::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moldova2-md-sd-6048",
+    "name": "Moldova 2",
+    "slug": "moldova2-md-sd-6048",
+    "logoUrl": "https://i.imgur.com/Hv6Nk8A.png",
+    "streamUrl": "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Moldova2.md",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "moldova-2::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moldovatv-md-sd-6049",
+    "name": "Moldova TV",
+    "slug": "moldovatv-md-sd-6049",
+    "logoUrl": "https://i.imgur.com/gPMlDCP.png",
+    "streamUrl": "https://moldovatv.ro/live-tv/live.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MoldovaTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "moldova-tv::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://89.38.8.130:39435"
+      ]
+    }
+  },
+  {
+    "id": "tvnord-md-sd-10988",
+    "name": "TV-Nord",
+    "slug": "tvnord-md-sd-10988",
+    "logoUrl": "https://i.imgur.com/86JYRVH.png",
+    "streamUrl": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVNord.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nord::md::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "baltitv-md-sd-1122",
+    "name": "Bălţi TV",
+    "slug": "baltitv-md-sd-1122",
+    "logoUrl": "https://i.imgur.com/S1vEqZp.png",
+    "streamUrl": "http://77.89.199.174:8000/play/1024/index.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BaltiTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "b-l-i-tv::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "drochiatv-md-sd-3126",
+    "name": "Drochia TV",
+    "slug": "drochiatv-md-sd-3126",
+    "logoUrl": "https://i.imgur.com/O6YZ0D5.png",
+    "streamUrl": "https://hls.drochia.tv/tv/web.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DrochiaTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "drochia-tv::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sortv-md-sd-9299",
+    "name": "Sor TV",
+    "slug": "sortv-md-sd-9299",
+    "logoUrl": "https://i.imgur.com/BcfZgD8.png",
+    "streamUrl": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SorTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sor-tv::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "voceabasarabieitv-md-sd-11571",
+    "name": "Vocea Basarabiei TV",
+    "slug": "voceabasarabieitv-md-sd-11571",
+    "logoUrl": "https://i.imgur.com/irP8QLs.png",
+    "streamUrl": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VoceaBasarabieiTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vocea-basarabiei-tv::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "protvchisinau-md-sd-7706",
+    "name": "PRO TV Chisinau",
+    "slug": "protvchisinau-md-sd-7706",
+    "logoUrl": "https://i.imgur.com/X5PYRxF.png",
+    "streamUrl": "https://stream.protv.md/live/sursa-1/index.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PROTVChisinau.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pro-tv-chisinau::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tezaurtv-md-sd-10106",
+    "name": "Tezaur TV",
+    "slug": "tezaurtv-md-sd-10106",
+    "logoUrl": "https://i.imgur.com/eAagwLW.png",
+    "streamUrl": "https://tezaurtv.md/stream/index.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TezaurTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tezaur-tv::md::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "noroctv-md-sd-6665",
+    "name": "Noroc TV",
+    "slug": "noroctv-md-sd-6665",
+    "logoUrl": "https://i.imgur.com/XvYqpqG.png",
+    "streamUrl": "https://live.noroc.tv/noroc/noroc.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NorocTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "noroc-tv::md::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv8-md-sd-10652",
+    "name": "TV8",
+    "slug": "tv8-md-sd-10652",
+    "logoUrl": "https://i.imgur.com/Rsn4oUh.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TV8.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv8::md::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "realitateatv-md-sd-8107",
+    "name": "Rlive TV",
+    "slug": "realitateatv-md-sd-8107",
+    "logoUrl": "https://i.imgur.com/Ul4IIfX.png",
+    "streamUrl": "https://realitatealive.md/tv/rlive.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RealitateaTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rlive-tv::md::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "n4-md-sd-6311",
+    "name": "N4",
+    "slug": "n4-md-sd-6311",
+    "logoUrl": "https://i.imgur.com/W9UwCv7.png",
+    "streamUrl": "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "N4.md",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "n4::md::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "busuioctv-md-sd-1691",
+    "name": "Busuioc TV",
+    "slug": "busuioctv-md-sd-1691",
+    "logoUrl": "https://i.imgur.com/CQtfBPu.png",
+    "streamUrl": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
+    "country": {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BusuiocTV.md",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "busuioc-tv::md::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

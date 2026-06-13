@@ -1,0 +1,431 @@
+[
+  {
+    "id": "altynasyr-tm-sd-610",
+    "name": "Altyn Asyr",
+    "slug": "altynasyr-tm-sd-610",
+    "logoUrl": "https://i.imgur.com/D7RBtZ2.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch001.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AltynAsyr.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "altyn-asyr::tm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch001.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "arkadagtv-tm-sd-866",
+    "name": "Arkadag TV",
+    "slug": "arkadagtv-tm-sd-866",
+    "logoUrl": "https://i.imgur.com/JdEb4Ug.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ArkadagTV.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arkadag-tv::tm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch000.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asgabat-tm-sd-904",
+    "name": "Aşgabat",
+    "slug": "asgabat-tm-sd-904",
+    "logoUrl": "https://i.imgur.com/EzjR1vo.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Asgabat.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a-gabat::tm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch006.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "miras-tm-sd-5961",
+    "name": "Miras",
+    "slug": "miras-tm-sd-5961",
+    "logoUrl": "https://i.imgur.com/pWbJzr9.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Miras.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "miras::tm::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch003.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "turkmenowazy-tm-sd-10587",
+    "name": "Türkmen Owazy",
+    "slug": "turkmenowazy-tm-sd-10587",
+    "logoUrl": "https://i.imgur.com/Ap7l2jC.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TurkmenOwazy.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-rkmen-owazy::tm::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch005.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "turkmenistan-tm-sd-10583",
+    "name": "Türkmenistan",
+    "slug": "turkmenistan-tm-sd-10583",
+    "logoUrl": "https://i.imgur.com/iBBpBx4.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk",
+      "rus",
+      "eng",
+      "fra",
+      "cmn",
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Turkmenistan.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-rkmenistan::tm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch007.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "turkmenistansport-tm-sd-10585",
+    "name": "Türkmenistan Sport",
+    "slug": "turkmenistansport-tm-sd-10585",
+    "logoUrl": "https://i.imgur.com/n6vITLu.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TurkmenistanSport.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-rkmenistan-sport::tm::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "yaslyk-tm-sd-12029",
+    "name": "Ýaşlyk",
+    "slug": "yaslyk-tm-sd-12029",
+    "logoUrl": "https://i.imgur.com/QVWBNGM.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "Yaslyk.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a-lyk::tm::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch002.m3u8"
+      ]
+    }
+  }
+]

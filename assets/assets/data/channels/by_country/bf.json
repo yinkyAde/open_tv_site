@@ -1,0 +1,320 @@
+[
+  {
+    "id": "canal3-bf-sd-1754",
+    "name": "Canal 3",
+    "slug": "canal3-bf-sd-1754",
+    "logoUrl": "https://i.imgur.com/WIrVAa2.png",
+    "streamUrl": "https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal3.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3::bf::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtb3-bf-sd-8359",
+    "name": "RTB 3",
+    "slug": "rtb3-bf-sd-8359",
+    "logoUrl": "https://i.imgur.com/OFZm8ic.png",
+    "streamUrl": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "mos",
+      "dyu",
+      "ful",
+      "gux",
+      "dgi",
+      "bib",
+      "lob",
+      "box",
+      "lee",
+      "bbo",
+      "stj",
+      "sym",
+      "sbd",
+      "rkm"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RTB3.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb-3::bf::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtb2hautsbasins-bf-sd-8358",
+    "name": "RTB2 Hauts-Basins",
+    "slug": "rtb2hautsbasins-bf-sd-8358",
+    "logoUrl": "https://i0.wp.com/www.rtb.bf/wp-content/uploads/2020/01/images.jpg",
+    "streamUrl": "https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTB2HautsBasins.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb2-hauts-basins::bf::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "savanetv-bf-sd-8943",
+    "name": "Savane TV",
+    "slug": "savanetv-bf-sd-8943",
+    "logoUrl": "https://i.imgur.com/mv3S1Zc.png",
+    "streamUrl": "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "fra",
+      "mos"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SavaneTV.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "savane-tv::bf::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "burkinainfotv-bf-sd-1687",
+    "name": "Burkina Info TV",
+    "slug": "burkinainfotv-bf-sd-1687",
+    "logoUrl": "https://i.imgur.com/a9v5CbU.png",
+    "streamUrl": "http://69.64.57.208/burkinainfo/index.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BurkinaInfoTV.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "burkina-info-tv::bf::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtb-bf-sd-8360",
+    "name": "RTB",
+    "slug": "rtb-bf-sd-8360",
+    "logoUrl": "https://i.imgur.com/BFfLV0y.png",
+    "streamUrl": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTB.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb::bf::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

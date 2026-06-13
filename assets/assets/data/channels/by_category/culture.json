@@ -1,0 +1,7336 @@
+[
+  {
+    "id": "foxsoul-us-sd-3744",
+    "name": "Fox Soul",
+    "slug": "foxsoul-us-sd-3744",
+    "logoUrl": "https://i.imgur.com/YIamDGn.png",
+    "streamUrl": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "FoxSoul.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fox-soul::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "jewishlifetelevision-us-sd-4799",
+    "name": "Jewish Life Television",
+    "slug": "jewishlifetelevision-us-sd-4799",
+    "logoUrl": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JewishLifeTelevision.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jewish-life-television::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8",
+        "https://a-cdn.klowdtv.com/live3/jltv_720p/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "russiak-ru-sd-8767",
+    "name": "Россия К",
+    "slug": "russiak-ru-sd-8767",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RussiaK.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streaming.thestream.cyou/live/213.m3u8",
+        "https://streaming.televizor-24-tochka.ru/live/9.m3u8",
+        "http://31.148.48.15/Sochi_HD/index.m3u8",
+        "http://31.148.48.15/Sochi_HD/video.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+        "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "russiak-ru-sd-8768",
+    "name": "Россия Культура (+2)",
+    "slug": "russiak-ru-sd-8768",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RussiaK.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "2::ru::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://31.148.48.15/TDK/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "13c-cl-sd-97",
+    "name": "13C",
+    "slug": "13c-cl-sd-97",
+    "logoUrl": "https://i.imgur.com/Zfe2f5j.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "13C.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "13c::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jayatv-in-hd-4774",
+    "name": "Jaya TV",
+    "slug": "jayatv-in-hd-4774",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://103.72.101.252:8080/live/419.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tam"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JayaTV.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jaya-tv::in::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jewishlifetelevision-us-sd-4797",
+    "name": "Jewish Life Television JLTV",
+    "slug": "jewishlifetelevision-us-sd-4797",
+    "logoUrl": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/jltv.m3u8?ads.vf=sDqPiBzBf9O",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JewishLifeTelevision.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jewish-life-television-jltv::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktv2-kw-sd-5248",
+    "name": "KTV 2",
+    "slug": "ktv2-kw-sd-5248",
+    "logoUrl": "https://i.imgur.com/hB57mNh.png",
+    "streamUrl": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KTV2.kw",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-2::kw::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mbcamerica-us-sd-5785",
+    "name": "MBC America",
+    "slug": "mbcamerica-us-sd-5785",
+    "logoUrl": "https://i.imgur.com/RRc23ra.png",
+    "streamUrl": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "kor",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MBCAmerica.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mbc-america::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "omantvcultural-om-sd-6930",
+    "name": "Oman Althakafia",
+    "slug": "omantvcultural-om-sd-6930",
+    "logoUrl": "https://i.imgur.com/b38wNPK.png",
+    "streamUrl": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "OM",
+      "name": "Oman"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OmanTVCultural.om",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oman-althakafia::om::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "saudithaqafiyatv-sa-sd-8942",
+    "name": "Saudi Thaqafiya TV",
+    "slug": "saudithaqafiyatv-sa-sd-8942",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SaudiThaqafiyaTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "saudi-thaqafiya-tv::sa::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvers-br-sd-10857",
+    "name": "TVE RS",
+    "slug": "tvers-br-sd-10857",
+    "logoUrl": "https://i.imgur.com/MQ6lJpS.png",
+    "streamUrl": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVERS.br",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tve-rs::br::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "yemenshababchannel-ye-sd-12032",
+    "name": "Yemen Shabab Channel",
+    "slug": "yemenshababchannel-ye-sd-12032",
+    "logoUrl": "https://i.imgur.com/H5Oi2NS.png",
+    "streamUrl": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
+    "country": {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "YemenShababChannel.ye",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yemen-shabab-channel::ye::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "russiak-ru-sd-8769",
+    "name": "Россия Культура (+4)",
+    "slug": "russiak-ru-sd-8769",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RussiaK.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "4::ru::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "russiak-ru-sd-8770",
+    "name": "Россия Культура (+7)",
+    "slug": "russiak-ru-sd-8770",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "streamUrl": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RussiaK.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "7::ru::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fnx-us-sd-3709",
+    "name": "FNX",
+    "slug": "fnx-us-sd-3709",
+    "logoUrl": "https://i.imgur.com/wcVntg7.png",
+    "streamUrl": "https://fnx.lls.pbs.org/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "FNX.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fnx::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "art-gr-sd-883",
+    "name": "ART",
+    "slug": "art-gr-sd-883",
+    "logoUrl": "https://i.imgur.com/mNeLu04.png",
+    "streamUrl": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
+    "country": {
+      "code": "GR",
+      "name": "Greece"
+    },
+    "languages": [
+      "ell"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ART.gr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "art::gr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cmalayalamtv-ca-sd-2482",
+    "name": "C Malayalam TV",
+    "slug": "cmalayalamtv-ca-sd-2482",
+    "logoUrl": "https://i.imgur.com/rpg0bQA.png",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CMalayalamTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-malayalam-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebs-us-hd-3216",
+    "name": "EBS HD",
+    "slug": "ebs-us-hd-3216",
+    "logoUrl": "https://i.imgur.com/zqbK2IB.png",
+    "streamUrl": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "amh",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "EBS.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebs::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hamaikatelebista-es-sd-4167",
+    "name": "Hamaika Telebista",
+    "slug": "hamaikatelebista-es-sd-4167",
+    "logoUrl": "https://i.imgur.com/HR3G3Ie.png",
+    "streamUrl": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HamaikaTelebista.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hamaika-telebista::es::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imaitv-lk-sd-4533",
+    "name": "Imai TV",
+    "slug": "imaitv-lk-sd-4533",
+    "logoUrl": "https://i.imgur.com/9tODclu.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+    "country": {
+      "code": "LK",
+      "name": "Sri Lanka"
+    },
+    "languages": [
+      "tam"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ImaiTV.lk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imai-tv::lk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jushindi-us-sd-4903",
+    "name": "Jus Hindi",
+    "slug": "jushindi-us-sd-4903",
+    "logoUrl": "https://i.imgur.com/5GI7Nh7.png",
+    "streamUrl": "http://103.154.3.101:5001/live/960.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JusHindi.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jus-hindi::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jusone-us-sd-4904",
+    "name": "Jus One",
+    "slug": "jusone-us-sd-4904",
+    "logoUrl": "https://i.imgur.com/8NutGr2.png",
+    "streamUrl": "http://103.154.3.101:5001/live/961.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JusOne.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jus-one::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "juspunjabi-us-sd-4905",
+    "name": "Jus Punjabi",
+    "slug": "juspunjabi-us-sd-4905",
+    "logoUrl": "https://i.imgur.com/RDR8QKI.png",
+    "streamUrl": "http://103.154.3.101:5001/live/959.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "pan"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JusPunjabi.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jus-punjabi::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvarabe-kw-sd-5254",
+    "name": "KTV Arabe",
+    "slug": "ktvarabe-kw-sd-5254",
+    "logoUrl": "https://i.imgur.com/jg3VAxO.png",
+    "streamUrl": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KTVArabe.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-arabe::kw::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kulturmd-de-sd-5267",
+    "name": "KulturMD",
+    "slug": "kulturmd-de-sd-5267",
+    "logoUrl": "https://i.imgur.com/io7cJ1Z.png",
+    "streamUrl": "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KulturMD.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kulturmd::de::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nigbati-ng-sd-6628",
+    "name": "Nigbati TV",
+    "slug": "nigbati-ng-sd-6628",
+    "logoUrl": "",
+    "streamUrl": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8?ads.vf=DcM9DUpIwqO",
+    "country": {
+      "code": "NG",
+      "name": "Nigeria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Nigbati.ng",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nigbati-tv::ng::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nyxt-us-sd-6847",
+    "name": "NYXT",
+    "slug": "nyxt-us-sd-6847",
+    "logoUrl": "https://i.imgur.com/7kuluji.png",
+    "streamUrl": "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "NYXT.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nyxt::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ostwest24-de-sd-7048",
+    "name": "Ost West 24",
+    "slug": "ostwest24-de-sd-7048",
+    "logoUrl": "https://i.imgur.com/voeQ6x1.png",
+    "streamUrl": "https://iptv.prosto.tv/ch237/index.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OstWest24.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ost-west-24::de::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suyaitv-cl-sd-9641",
+    "name": "Suyai TV",
+    "slug": "suyaitv-cl-sd-9641",
+    "logoUrl": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
+    "streamUrl": "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SuyaiTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suyai-tv::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcuatro42-mx-sd-10819",
+    "name": "TV Cuatro 4.2",
+    "slug": "tvcuatro42-mx-sd-10819",
+    "logoUrl": "https://i.imgur.com/Of044Jx.png",
+    "streamUrl": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVCuatro42.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cuatro-4-2::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "womantv-tr-sd-11850",
+    "name": "Woman TV",
+    "slug": "womantv-tr-sd-11850",
+    "logoUrl": "https://i.imgur.com/f2zGoV3.png",
+    "streamUrl": "https://embedlp.becdn.net/womantv.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "WomanTV.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "woman-tv::tr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dr2-dk-sd-3111",
+    "name": "DR2",
+    "slug": "dr2-dk-sd-3111",
+    "logoUrl": "https://i.imgur.com/7bYtukP.png",
+    "streamUrl": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+    "country": {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    "languages": [
+      "dan"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DR2.dk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dr2::dk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lrtplius-lt-sd-5577",
+    "name": "LRT Plius",
+    "slug": "lrtplius-lt-sd-5577",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
+    "streamUrl": "https://stream-live.lrt.lt/plius/master.m3u8",
+    "country": {
+      "code": "LT",
+      "name": "Lithuania"
+    },
+    "languages": [
+      "lit"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "LRTPlius.lt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lrt-plius::lt::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "belarus3-by-sd-1380",
+    "name": "Беларусь 3",
+    "slug": "belarus3-by-sd-1380",
+    "logoUrl": "https://i.imgur.com/JkcDycn.png",
+    "streamUrl": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+    "country": {
+      "code": "BY",
+      "name": "Belarus"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Belarus3.by",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3::by::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiosuyaitv-cl-hd-7924",
+    "name": "Radio Suyai TV",
+    "slug": "radiosuyaitv-cl-hd-7924",
+    "logoUrl": "",
+    "streamUrl": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RadioSuyaiTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-suyai-tv::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "el33-es-sd-3263",
+    "name": "El 33",
+    "slug": "el33-es-sd-3263",
+    "logoUrl": "https://i.imgur.com/frKCBTN.png",
+    "streamUrl": "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "El33.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-33::es::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "el33-es-originals-3261",
+    "name": "El 33 Originals",
+    "slug": "el33-es-originals-3261",
+    "logoUrl": "https://i.imgur.com/frKCBTN.png",
+    "streamUrl": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "El33.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-33-originals::es::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "amanitv-sn-sd-621",
+    "name": "Amani TV",
+    "slug": "amanitv-sn-sd-621",
+    "logoUrl": "https://i.imgur.com/0cY4K7G.png",
+    "streamUrl": "https://goccn.cloud/hls/amanitv/index.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AmaniTV.sn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "amani-tv::sn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bonairetv-bq-sd-1588",
+    "name": "Bonaire.tv",
+    "slug": "bonairetv-bq-sd-1588",
+    "logoUrl": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
+    "streamUrl": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
+    "country": {
+      "code": "BQ",
+      "name": "Bonaire"
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Bonairetv.bq",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bonaire-tv::bq::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "capital21-mx-sd-1981",
+    "name": "Capital 21",
+    "slug": "capital21-mx-sd-1981",
+    "logoUrl": "https://i.imgur.com/8ign49i.png",
+    "streamUrl": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Capital21.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "capital-21::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "condavision-es-sd-2597",
+    "name": "Condavisión",
+    "slug": "condavision-es-sd-2597",
+    "logoUrl": "https://i.imgur.com/dlrazec.png",
+    "streamUrl": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Condavision.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "condavisi-n::es::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eettv-ca-sd-3244",
+    "name": "EET TV",
+    "slug": "eettv-ca-sd-3244",
+    "logoUrl": "https://i.imgur.com/rntSEDZ.png",
+    "streamUrl": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "tam",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "EETTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eet-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elsonorense-mx-sd-3297",
+    "name": "El Sonorense",
+    "slug": "elsonorense-mx-sd-3297",
+    "logoUrl": "https://i.imgur.com/aKvPd4g.jpg",
+    "streamUrl": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ElSonorense.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-sonorense::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mcn6artschannel-us-sd-5810",
+    "name": "MCN6 Arts Channel",
+    "slug": "mcn6artschannel-us-sd-5810",
+    "logoUrl": "https://i.imgur.com/j6IiysJ.png",
+    "streamUrl": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MCN6ArtsChannel.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mcn6-arts-channel::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pamirtv-ca-sd-7107",
+    "name": "Pamir TV",
+    "slug": "pamirtv-ca-sd-7107",
+    "logoUrl": "https://i.imgur.com/sCBbBOj.png",
+    "streamUrl": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "pus",
+      "tgk",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "PamirTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pamir-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suspilnekultura-ua-sd-9628",
+    "name": "Suspilne. Kultura",
+    "slug": "suspilnekultura-ua-sd-9628",
+    "logoUrl": "https://i.imgur.com/hHMJV8e.png",
+    "streamUrl": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SuspilneKultura.ua",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suspilne-kultura::ua::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "travinhtv-vn-hd-10495",
+    "name": "Vĩnh Long TV5",
+    "slug": "travinhtv-vn-hd-10495",
+    "logoUrl": "https://i.imgur.com/F12VdKO.png",
+    "streamUrl": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "Culture",
+    "epg": {
+      "id": "TraVinhTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-nh-long-tv5::vn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ddbharati-in-sd-2821",
+    "name": "DD Bharati",
+    "slug": "ddbharati-in-sd-2821",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://103.213.31.109:90/DDBharati/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DDBharati.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dd-bharati::in::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-1.pishow.tv/live/10/master.m3u8",
+        "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "hrt3-hr-sd-4420",
+    "name": "HRT 3",
+    "slug": "hrt3-hr-sd-4420",
+    "logoUrl": "https://i.imgur.com/4OrOJRx.png",
+    "streamUrl": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+    "country": {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    "languages": [
+      "hrv"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HRT3.hr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hrt-3::hr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd"
+      ]
+    }
+  },
+  {
+    "id": "odishatv-in-sd-6874",
+    "name": "Odisha TV",
+    "slug": "odishatv-in-sd-6874",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "ori"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OdishaTV.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "odisha-tv::in::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-2.pishow.tv/live/1600/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "2stv-sn-sd-12",
+    "name": "2STV",
+    "slug": "2stv-sn-sd-12",
+    "logoUrl": "https://i.imgur.com/WByVBZf.png",
+    "streamUrl": "http://69.64.57.208/2stv/playlist.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra",
+      "wol",
+      "fuc"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "2STV.sn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "2stv::sn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "abaitv-kz-sd-222",
+    "name": "Abai TV",
+    "slug": "abaitv-kz-sd-222",
+    "logoUrl": "https://i.imgur.com/Nw2R7Dq.png",
+    "streamUrl": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "country": {
+      "code": "KZ",
+      "name": "Kazakhstan"
+    },
+    "languages": [
+      "kaz"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AbaiTV.kz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "abai-tv::kz::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "amp2-us-sd-658",
+    "name": "Access Media Productions Community Channel",
+    "slug": "amp2-us-sd-658",
+    "logoUrl": "https://i.imgur.com/nfur3FR.png",
+    "streamUrl": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AMP2.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "access-media-productions-community-channel::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atr-ua-sd-968",
+    "name": "ATR",
+    "slug": "atr-ua-sd-968",
+    "logoUrl": "https://i.imgur.com/lRJAXC7.png",
+    "streamUrl": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr",
+      "rus"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ATR.ua",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atr::ua::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctv8-cn-sd-2133",
+    "name": "CCTV-8",
+    "slug": "cctv8-cn-sd-2133",
+    "logoUrl": "https://i.imgur.com/GyHaZ8X.png",
+    "streamUrl": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CCTV8.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-8::cn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classicartsshowcase-us-sd-2463",
+    "name": "Classic Arts Showcase",
+    "slug": "classicartsshowcase-us-sd-2463",
+    "logoUrl": "https://i.imgur.com/M6FFkc3.png",
+    "streamUrl": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ClassicArtsShowcase.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "classic-arts-showcase::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orfiii-at-hd-7027",
+    "name": "ORF III HD",
+    "slug": "orfiii-at-hd-7027",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png",
+    "streamUrl": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ORFIII.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orf-iii::at::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ucl-uy-sd-11286",
+    "name": "UCL",
+    "slug": "ucl-uy-sd-11286",
+    "logoUrl": "https://i.imgur.com/BzQphbw.png",
+    "streamUrl": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "country": {
+      "code": "UY",
+      "name": "Uruguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "UCL.uy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ucl::uy::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ucvtv-cl-sd-11288",
+    "name": "UCV TV",
+    "slug": "ucvtv-cl-sd-11288",
+    "logoUrl": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
+    "streamUrl": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "UCVTV.cl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ucv-tv::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "malchintv-mn-sd-5678",
+    "name": "Malchin TV",
+    "slug": "malchintv-mn-sd-5678",
+    "logoUrl": "https://i.imgur.com/vCdEBZo.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8",
+    "country": {
+      "code": "MN",
+      "name": "Mongolia"
+    },
+    "languages": [
+      "mon"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MalchinTV.mn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "malchin-tv::mn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd"
+      ]
+    }
+  },
+  {
+    "id": "pardesitv-ca-sd-7126",
+    "name": "Pardesi TV",
+    "slug": "pardesitv-ca-sd-7126",
+    "logoUrl": "https://i.imgur.com/CwAdPpZ.jpg",
+    "streamUrl": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "PardesiTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pardesi-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://stream.pardesitv.online/pardesi/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "saliratv-id-sd-8852",
+    "name": "Salira TV",
+    "slug": "saliratv-id-sd-8852",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",
+    "streamUrl": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SaliraTV.id",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "salira-tv::id::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.salira.tv:3870/stream/play.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aplusivoire-ci-sd-797",
+    "name": "A+ Ivoire",
+    "slug": "aplusivoire-ci-sd-797",
+    "logoUrl": "https://i.imgur.com/yOW0vyP.png",
+    "streamUrl": "http://69.64.57.208/atv/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "APlusIvoire.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a-ivoire::ci::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bxarts-us-sd-1700",
+    "name": "BX Arts",
+    "slug": "bxarts-us-sd-1700",
+    "logoUrl": "https://i.imgur.com/PF71rdZ.png",
+    "streamUrl": "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "BXArts.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bx-arts::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bxculture-us-sd-1701",
+    "name": "BX Culture",
+    "slug": "bxculture-us-sd-1701",
+    "logoUrl": "https://i.imgur.com/PF71rdZ.png",
+    "streamUrl": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "BXCulture.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bx-culture::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal17rtvd-do-hd-1835",
+    "name": "Canal 17 RTVD",
+    "slug": "canal17rtvd-do-hd-1835",
+    "logoUrl": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
+    "streamUrl": "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Canal17RTVD.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-17-rtvd::do::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "catamarcatv-ar-sd-2011",
+    "name": "Catamarca TV",
+    "slug": "catamarcatv-ar-sd-2011",
+    "logoUrl": "https://i.imgur.com/CEuPoqG.png",
+    "streamUrl": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CatamarcaTV.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "catamarca-tv::ar::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chiloered25-cl-sd-2335",
+    "name": "Chiloe Red 25",
+    "slug": "chiloered25-cl-sd-2335",
+    "logoUrl": "https://i.imgur.com/3tqrImm.png",
+    "streamUrl": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ChiloeRed25.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chiloe-red-25::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "evtele-cg-sd-3501",
+    "name": "Ev-tele",
+    "slug": "evtele-cg-sd-3501",
+    "logoUrl": "https://i.imgur.com/iBlXl2T.png",
+    "streamUrl": "https://playtv4k.live/live/EVTELE/index.m3u8",
+    "country": {
+      "code": "CG",
+      "name": "Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Evtele.cg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ev-tele::cg::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "giktvmx-mx-sd-3959",
+    "name": "GikTVMX",
+    "slug": "giktvmx-mx-sd-3959",
+    "logoUrl": "https://i.imgur.com/Gwz78jZ.png",
+    "streamUrl": "https://pistream.ddns.net/hls/stream.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "GikTVMX.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "giktvmx::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hmongtvnetwork-us-sd-4341",
+    "name": "Hmong TV Network",
+    "slug": "hmongtvnetwork-us-sd-4341",
+    "logoUrl": "https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "hmn",
+      "vie"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HmongTVNetwork.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hmong-tv-network::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hydertv-ca-sd-4462",
+    "name": "Hyder TV",
+    "slug": "hydertv-ca-sd-4462",
+    "logoUrl": "https://i.imgur.com/reHjjRZ.png",
+    "streamUrl": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HyderTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hyder-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "indigenoustv-tw-sd-4577",
+    "name": "Indigenous TV",
+    "slug": "indigenoustv-tw-sd-4577",
+    "logoUrl": "https://i.imgur.com/vmk4F9u.png",
+    "streamUrl": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "IndigenousTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "indigenous-tv::tw::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jaliscotv-mx-sd-4749",
+    "name": "Jalisco TV",
+    "slug": "jaliscotv-mx-sd-4749",
+    "logoUrl": "https://i.imgur.com/N4meE8I.png",
+    "streamUrl": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JaliscoTV.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jalisco-tv::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "midpenmediacenterchannel30-us-sd-5915",
+    "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
+    "slug": "midpenmediacenterchannel30-us-sd-5915",
+    "logoUrl": "https://i.imgur.com/RPJiolQ.png",
+    "streamUrl": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MidpenMediaCenterChannel30.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "midpen-media-center-arts-issues-and-lifestyles-channel-30::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "midpenmediacenterchannel75-us-sd-5916",
+    "name": "Midpen Media Center Diversity and Culture Channel 75",
+    "slug": "midpenmediacenterchannel75-us-sd-5916",
+    "logoUrl": "https://i.imgur.com/RPJiolQ.png",
+    "streamUrl": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MidpenMediaCenterChannel75.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "midpen-media-center-diversity-and-culture-channel-75::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "olelo53-us-sd-6920",
+    "name": "Olelo Community Media Channel 53",
+    "slug": "olelo53-us-sd-6920",
+    "logoUrl": "https://i.imgur.com/xDuUrj9.png",
+    "streamUrl": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Olelo53.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "olelo-community-media-channel-53::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pacicontemporarychannel-it-sd-7089",
+    "name": "Paci Contemporary Channel",
+    "slug": "pacicontemporarychannel-it-sd-7089",
+    "logoUrl": "https://i.imgur.com/RtOvD2M.png",
+    "streamUrl": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "PaciContemporaryChannel.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "paci-contemporary-channel::it::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "presumiendomexico-mx-sd-7669",
+    "name": "Presumiendo México",
+    "slug": "presumiendomexico-mx-sd-7669",
+    "logoUrl": "https://i.imgur.com/bFG4Rqz.png",
+    "streamUrl": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "PresumiendoMexico.mx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "presumiendo-m-xico::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qausaintv-ng-sd-7781",
+    "name": "Qausain TV",
+    "slug": "qausaintv-ng-sd-7781",
+    "logoUrl": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+    "streamUrl": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+    "country": {
+      "code": "NG",
+      "name": "Nigeria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "QausainTV.ng",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qausain-tv::ng::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radio3-es-sd-7858",
+    "name": "Radio 3",
+    "slug": "radio3-es-sd-7858",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png",
+    "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Radio3.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-3::es::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "salto2-nl-sd-8856",
+    "name": "Salto 2",
+    "slug": "salto2-nl-sd-8856",
+    "logoUrl": "https://i.imgur.com/6H3ycdL.png",
+    "streamUrl": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "nld"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Salto2.nl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "salto-2::nl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "storychanneltv-ma-sd-9503",
+    "name": "StoryChannel TV",
+    "slug": "storychanneltv-ma-sd-9503",
+    "logoUrl": "https://i.imgur.com/ZBV6xph.png",
+    "streamUrl": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+    "country": {
+      "code": "MA",
+      "name": "Morocco"
+    },
+    "languages": [
+      "fra",
+      "eng",
+      "kab",
+      "ara",
+      "shy",
+      "shi",
+      "taq",
+      "tzm",
+      "rif",
+      "asp",
+      "xms"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "StoryChannelTV.ma",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "storychannel-tv::ma::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teatrotv-it-sd-9808",
+    "name": "Teatro TV",
+    "slug": "teatrotv-it-sd-9808",
+    "logoUrl": "https://i.imgur.com/GbyLSc2.png",
+    "streamUrl": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TeatroTV.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teatro-tv::it::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlifeamerica-br-hd-10916",
+    "name": "TV Life America",
+    "slug": "tvlifeamerica-br-hd-10916",
+    "logoUrl": "https://i.imgur.com/HZI0ilU.png",
+    "streamUrl": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVLifeAmerica.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-life-america::br::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onenationtv-sn-sd-6981",
+    "name": "One Nation TV",
+    "slug": "onenationtv-sn-sd-6981",
+    "logoUrl": "https://i.imgur.com/RGHbkZU.png",
+    "streamUrl": "https://endour.net/hls/One_nationtv/index.m3u8",
+    "country": {
+      "code": "SN",
+      "name": "Senegal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OneNationTV.sn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-nation-tv::sn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "naturaltv-tr-sd-6373",
+    "name": "Natural TV",
+    "slug": "naturaltv-tr-sd-6373",
+    "logoUrl": "https://i.imgur.com/rfcJ674.png",
+    "streamUrl": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "NaturalTV.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "natural-tv::tr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asiritv-pe-sd-930",
+    "name": "AsiriTV",
+    "slug": "asiritv-pe-sd-930",
+    "logoUrl": "https://i.imgur.com/7bGVFBa.png",
+    "streamUrl": "https://video2.lhdserver.es/asiritv/live.m3u8",
+    "country": {
+      "code": "PE",
+      "name": "Peru"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AsiriTV.pe",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asiritv::pe::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ciracutv-ec-sd-2392",
+    "name": "Ciracu TV",
+    "slug": "ciracutv-ec-sd-2392",
+    "logoUrl": "https://i.imgur.com/mkf2TJ6.png",
+    "streamUrl": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CiracuTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ciracu-tv::ec::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dukhnivaran-ca-sd-3162",
+    "name": "Dukh Nivaran",
+    "slug": "dukhnivaran-ca-sd-3162",
+    "logoUrl": "https://i.imgur.com/Zh60l1x.png",
+    "streamUrl": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "pan"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DukhNivaran.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dukh-nivaran::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "eawaztv-ca-sd-3203",
+    "name": "Eawaz TV",
+    "slug": "eawaztv-ca-sd-3203",
+    "logoUrl": "https://i.imgur.com/vB4yzen.png",
+    "streamUrl": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "EawazTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eawaz-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "guaymatetv-do-sd-4117",
+    "name": "Guaymate TV",
+    "slug": "guaymatetv-do-sd-4117",
+    "logoUrl": "https://i.imgur.com/PBgQi9a.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "GuaymateTV.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "guaymate-tv::do::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hmongstartv-us-sd-4340",
+    "name": "Hmong Star TV",
+    "slug": "hmongstartv-us-sd-4340",
+    "logoUrl": "https://i.imgur.com/dRsacao.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "hmn",
+      "vie"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HmongStarTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hmong-star-tv::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "holvoettv-cl-sd-4353",
+    "name": "Holvoet TV (Copiapó)",
+    "slug": "holvoettv-cl-sd-4353",
+    "logoUrl": "https://i.imgur.com/9JKRO3R.png",
+    "streamUrl": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HolvoetTV.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "holvoet-tv-copiap::cl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kajoutv-us-sd-4939",
+    "name": "Kajou TV",
+    "slug": "kajoutv-us-sd-4939",
+    "logoUrl": "https://i.imgur.com/2XzghdT.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KajouTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kajou-tv::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mistelevizija-au-sd-5986",
+    "name": "MIS Televizija",
+    "slug": "mistelevizija-au-sd-5986",
+    "logoUrl": "https://i.imgur.com/qvrNVFg.png",
+    "streamUrl": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "bos",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MISTelevizija.au",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mis-televizija::au::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nigbati-ng-sd-6629",
+    "name": "Nigbati",
+    "slug": "nigbati-ng-sd-6629",
+    "logoUrl": "",
+    "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+    "country": {
+      "code": "NG",
+      "name": "Nigeria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Nigbati.ng",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nigbati::ng::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trishulbroadcastingnetwork-sr-sd-10512",
+    "name": "TBN TV",
+    "slug": "trishulbroadcastingnetwork-sr-sd-10512",
+    "logoUrl": "https://i.imgur.com/Fhl1dtY.jpg",
+    "streamUrl": "https://live.suricloud.com/hls/tbntv/index.m3u8",
+    "country": {
+      "code": "SR",
+      "name": "Suriname"
+    },
+    "languages": [
+      "eng",
+      "nld",
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TrishulBroadcastingNetwork.sr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tbn-tv::sr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ddpunjabi-in-sd-2869",
+    "name": "DD Punjabi",
+    "slug": "ddpunjabi-in-sd-2869",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://cdn-4.pishow.tv/live/24/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "pan"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DDPunjabi.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dd-punjabi::in::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "channels-uk-sd-2303",
+    "name": "Channel S",
+    "slug": "channels-uk-sd-2303",
+    "logoUrl": "https://i.imgur.com/hJxFLvF.png",
+    "streamUrl": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "ben",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ChannelS.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-s::uk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dikhtv-hu-sd-2994",
+    "name": "Dikh TV",
+    "slug": "dikhtv-hu-sd-2994",
+    "logoUrl": "https://i.imgur.com/aAcORTL.png",
+    "streamUrl": "http://195.189.60.31:8003/play/a0gq/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DikhTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dikh-tv::hu::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jayamax-in-sd-4773",
+    "name": "Jaya Max",
+    "slug": "jayamax-in-sd-4773",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://103.72.101.252:8080/live/420.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tam"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JayaMax.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jaya-max::in::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medeniyyettv-az-sd-5828",
+    "name": "Medeniyyet TV",
+    "slug": "medeniyyettv-az-sd-5828",
+    "logoUrl": "https://i.imgur.com/PlvaDIa.png",
+    "streamUrl": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
+    "country": {
+      "code": "AZ",
+      "name": "Azerbaijan"
+    },
+    "languages": [
+      "aze"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MedeniyyetTV.az",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medeniyyet-tv::az::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "usmptv-pe-sd-11377",
+    "name": "USMPTV",
+    "slug": "usmptv-pe-sd-11377",
+    "logoUrl": "https://i.imgur.com/9cmIv3q.png",
+    "streamUrl": "https://streamusmptv.ddns.net/live/stream.m3u8",
+    "country": {
+      "code": "PE",
+      "name": "Peru"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "USMPTV.pe",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "usmptv::pe::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afromagicchannel-ci-sd-363",
+    "name": "Afro Magic Channel",
+    "slug": "afromagicchannel-ci-sd-363",
+    "logoUrl": "https://i.imgur.com/yQzXErU.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AfroMagicChannel.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afro-magic-channel::ci::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kiiold104-us-sd-5105",
+    "name": "AABC TV",
+    "slug": "kiiold104-us-sd-5105",
+    "logoUrl": "https://i.imgur.com/Spu4s89.png",
+    "streamUrl": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "hye",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KIIOLD104.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aabc-tv::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afroculturetv-ci-sd-361",
+    "name": "Afroculture TV",
+    "slug": "afroculturetv-ci-sd-361",
+    "logoUrl": "https://i.imgur.com/bjaZ3kO.png",
+    "streamUrl": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AfrocultureTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afroculture-tv::ci::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "andyharyana-in-sd-692",
+    "name": "Andy Haryana",
+    "slug": "andyharyana-in-sd-692",
+    "logoUrl": "https://i.imgur.com/rmCBD3e.png",
+    "streamUrl": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AndyHaryana.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "andy-haryana::in::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "auroraarte-it-sd-1007",
+    "name": "Aurora Arte",
+    "slug": "auroraarte-it-sd-1007",
+    "logoUrl": "https://i.imgur.com/Y1Yq3iV.png",
+    "streamUrl": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "AuroraArte.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aurora-arte::it::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "flowerstvusa-us-sd-3705",
+    "name": "Flowers TV USA",
+    "slug": "flowerstvusa-us-sd-3705",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",
+    "streamUrl": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "mal",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "FlowersTVUSA.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "flowers-tv-usa::us::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "irib4-ir-sd-4671",
+    "name": "IRIB4",
+    "slug": "irib4-ir-sd-4671",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png",
+    "streamUrl": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "IRIB4.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "irib4::ir::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jintv-nl-sd-4849",
+    "name": "Jin TV",
+    "slug": "jintv-nl-sd-4849",
+    "logoUrl": "https://i.imgur.com/37ajg2j.png",
+    "streamUrl": "https://live.jintv.org/medialive/jintv.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JinTV.nl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jin-tv::nl::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jostvhd-cg-sd-4882",
+    "name": "JOS TV HD",
+    "slug": "jostvhd-cg-sd-4882",
+    "logoUrl": "https://i.imgur.com/Ai9kpuu.jpeg",
+    "streamUrl": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
+    "country": {
+      "code": "CG",
+      "name": "Republic of the Congo"
+    },
+    "languages": [
+      "fra",
+      "lin",
+      "kon"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "JOSTVHD.cg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jos-tv::cg::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kalsantv-uk-sd-4952",
+    "name": "Kalsan TV",
+    "slug": "kalsantv-uk-sd-4952",
+    "logoUrl": "https://i.imgur.com/AqyY1bR.png",
+    "streamUrl": "https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KalsanTV.uk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kalsan-tv::uk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "komalatv-se-sd-5183",
+    "name": "Komala TV",
+    "slug": "komalatv-se-sd-5183",
+    "logoUrl": "https://i.imgur.com/D6KBLB8.png",
+    "streamUrl": "https://komhls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "kur"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KomalaTV.se",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "komala-tv::se::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "liceumtv-hu-sd-5462",
+    "name": "Liceum TV",
+    "slug": "liceumtv-hu-sd-5462",
+    "logoUrl": "https://i.imgur.com/Hf122ZD.png",
+    "streamUrl": "http://193.225.32.62:8890/live.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "LiceumTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "liceum-tv::hu::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manavision-ec-sd-5691",
+    "name": "Manavisión",
+    "slug": "manavision-ec-sd-5691",
+    "logoUrl": "https://i.imgur.com/mZkW342.png",
+    "streamUrl": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Manavision.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "manavisi-n::ec::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mehrantv-pk-sd-5856",
+    "name": "Mehran TV",
+    "slug": "mehrantv-pk-sd-5856",
+    "logoUrl": "https://i.imgur.com/ma2bFXk.png",
+    "streamUrl": "http://103.250.28.74:8000/play/a00m/index.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MehranTV.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mehran-tv::pk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "montrealgreektv-ca-sd-6066",
+    "name": "Montreal Greek TV",
+    "slug": "montrealgreektv-ca-sd-6066",
+    "logoUrl": "https://i.imgur.com/Y5YnUit.png",
+    "streamUrl": "http://live.greektv.ca/hls1/greektv.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "ell",
+      "fra",
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MontrealGreekTV.ca",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "montreal-greek-tv::ca::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrtvnrc-mm-sd-6139",
+    "name": "MRTV NRC",
+    "slug": "mrtvnrc-mm-sd-6139",
+    "logoUrl": "https://i.imgur.com/5aLFslk.jpg",
+    "streamUrl": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+    "country": {
+      "code": "MM",
+      "name": "Myanmar"
+    },
+    "languages": [
+      "mya"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MRTVNRC.mm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrtv-nrc::mm::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "neimonggoltv2mongolianculturechannel-cn-sd-6453",
+    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "slug": "neimonggoltv2mongolianculturechannel-cn-sd-6453",
+    "logoUrl": "https://i.imgur.com/kpsjahG.png",
+    "streamUrl": "http://1.24.190.98:10080/hls/40/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho",
+      "mon"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "NeiMonggolTV2MongolianCultureChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nei-monggol-tv-2-mongolian-culture-channel::cn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ofoghtv-ir-sd-6878",
+    "name": "Ofogh",
+    "slug": "ofoghtv-ir-sd-6878",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png",
+    "streamUrl": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OfoghTV.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ofogh::ir::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtb3-bf-sd-8359",
+    "name": "RTB 3",
+    "slug": "rtb3-bf-sd-8359",
+    "logoUrl": "https://i.imgur.com/OFZm8ic.png",
+    "streamUrl": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+    "country": {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    "languages": [
+      "mos",
+      "dyu",
+      "ful",
+      "gux",
+      "dgi",
+      "bib",
+      "lob",
+      "box",
+      "lee",
+      "bbo",
+      "stj",
+      "sym",
+      "sbd",
+      "rkm"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "RTB3.bf",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtb-3::bf::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvvita-sk-sd-11237",
+    "name": "TV Vita",
+    "slug": "tvvita-sk-sd-11237",
+    "logoUrl": "https://i.imgur.com/Cx1GLbo.png",
+    "streamUrl": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVVita.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-vita::sk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvrcultural-ro-sd-11073",
+    "name": "TVR Cultural",
+    "slug": "tvrcultural-ro-sd-11073",
+    "logoUrl": "https://i.imgur.com/U9i70C9.png",
+    "streamUrl": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVRCultural.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvr-cultural::ro::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "weddingtv-it-sd-11716",
+    "name": "Wedding TV",
+    "slug": "weddingtv-it-sd-11716",
+    "logoUrl": "https://i.imgur.com/dFCrfbk.png",
+    "streamUrl": "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "WeddingTV.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wedding-tv::it::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aplus-mx-sd-796",
+    "name": "A+",
+    "slug": "aplus-mx-sd-796",
+    "logoUrl": "https://i.imgur.com/TWk9gfd.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
+    "country": {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "APlus.mx",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a::mx::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrt2-mk-sd-6133",
+    "name": "MRT 2",
+    "slug": "mrt2-mk-sd-6133",
+    "logoUrl": "https://i.imgur.com/YvOrUnN.png",
+    "streamUrl": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
+    "country": {
+      "code": "MK",
+      "name": "North Macedonia"
+    },
+    "languages": [
+      "sqi"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MRT2.mk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mrt-2::mk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "museumtvfrench-fr-sd-6250",
+    "name": "Museum TV",
+    "slug": "museumtvfrench-fr-sd-6250",
+    "logoUrl": "https://i.imgur.com/WbjURLo.png",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "MuseumTVFrench.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "museum-tv::fr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleamiga-co-sd-9833",
+    "name": "Tele Amiga",
+    "slug": "teleamiga-co-sd-9833",
+    "logoUrl": "https://i.imgur.com/gBZFZNv.png",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TeleAmiga.co",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-amiga::co::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "costaricachannel-cr-sd-2635",
+    "name": "Costa Rica Channel",
+    "slug": "costaricachannel-cr-sd-2635",
+    "logoUrl": "https://i.imgur.com/N4pFVVF.png",
+    "streamUrl": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CostaRicaChannel.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "costa-rica-channel::cr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ntainternational-ng-sd-6772",
+    "name": "NTA International",
+    "slug": "ntainternational-ng-sd-6772",
+    "logoUrl": "https://i.imgur.com/mN8j8CR.png",
+    "streamUrl": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
+    "country": {
+      "code": "NG",
+      "name": "Nigeria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "NTAInternational.ng",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nta-international::ng::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "harpalgeo-pk-sd-4201",
+    "name": "HarPal Geo",
+    "slug": "harpalgeo-pk-sd-4201",
+    "logoUrl": "https://i.imgur.com/NX3vvAX.png",
+    "streamUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "country": {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    "languages": [
+      "urd"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "HarPalGeo.pk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "harpal-geo::pk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "superscreentv-ng-sd-9592",
+    "name": "Superscreen TV",
+    "slug": "superscreentv-ng-sd-9592",
+    "logoUrl": "https://i.imgur.com/uTNmSWE.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+    "country": {
+      "code": "NG",
+      "name": "Nigeria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "SuperscreenTV.ng",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "superscreen-tv::ng::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvdasartes-br-sd-10826",
+    "name": "TV das Artes",
+    "slug": "tvdasartes-br-sd-10826",
+    "logoUrl": "https://i.imgur.com/fSWaiKt.png",
+    "streamUrl": "http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVdasArtes.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-das-artes::br::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "miras-tm-sd-5961",
+    "name": "Miras",
+    "slug": "miras-tm-sd-5961",
+    "logoUrl": "https://i.imgur.com/pWbJzr9.png",
+    "streamUrl": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+    "country": {
+      "code": "TM",
+      "name": "Turkmenistan"
+    },
+    "languages": [
+      "tuk"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Miras.tm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "miras::tm::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://alpha.tv.online.tm/legacyhls/ch003.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "garshomtv-uk-sd-3877",
+    "name": "Garshom TV",
+    "slug": "garshomtv-uk-sd-3877",
+    "logoUrl": "https://i.imgur.com/KnbwUyb.png",
+    "streamUrl": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "GarshomTV.uk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "garshom-tv::uk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gtv-si-sd-4108",
+    "name": "GTV",
+    "slug": "gtv-si-sd-4108",
+    "logoUrl": "https://i.imgur.com/LHChpid.png",
+    "streamUrl": "http://91.220.221.60/gtv_hls/gtv_03.m3u8",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "GTV.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gtv::si::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orlertv-it-sd-7029",
+    "name": "Orler TV",
+    "slug": "orlertv-it-sd-7029",
+    "logoUrl": "https://i.imgur.com/Ia7iULa.png",
+    "streamUrl": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "OrlerTV.it",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orler-tv::it::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "balitv-id-sd-1116",
+    "name": "Bali TV",
+    "slug": "balitv-id-sd-1116",
+    "logoUrl": "https://i.imgur.com/uH1Szme.png",
+    "streamUrl": "https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "BaliTV.id",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "bali-tv::id::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

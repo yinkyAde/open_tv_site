@@ -1,0 +1,513 @@
+[
+  {
+    "id": "laonettv-la-sd-5358",
+    "name": "Lao Net TV",
+    "slug": "laonettv-la-sd-5358",
+    "logoUrl": "https://i.imgur.com/ohbRT05.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LaoNetTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lao-net-tv::la::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ningtv-la-sd-6634",
+    "name": "Ning TV",
+    "slug": "ningtv-la-sd-6634",
+    "logoUrl": "https://i.imgur.com/ANnEPnK.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NingTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ning-tv::la::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ohmuanglaotv-la-sd-6881",
+    "name": "Oh Muang Lao TV",
+    "slug": "ohmuanglaotv-la-sd-6881",
+    "logoUrl": "https://i.imgur.com/SdB3Vyr.jpg",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OhMuangLaoTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oh-muang-lao-tv::la::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vatilao-la-sd-11428",
+    "name": "Vati Lao TV",
+    "slug": "vatilao-la-sd-11428",
+    "logoUrl": "https://i.imgur.com/NwxXABV.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "VatiLao.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vati-lao-tv::la::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "briantv-la-sd-1622",
+    "name": "Brian TV",
+    "slug": "briantv-la-sd-1622",
+    "logoUrl": "https://i.imgur.com/zG1WNgU.jpg",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BrianTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "brian-tv::la::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "daolanexangtv-la-sd-2775",
+    "name": "Dao Lane Xang",
+    "slug": "daolanexangtv-la-sd-2775",
+    "logoUrl": "https://i.imgur.com/yE7nZ6w.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaoLaneXangTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dao-lane-xang::la::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lookthoongtv-la-sd-5536",
+    "name": "Look Thoong TV",
+    "slug": "lookthoongtv-la-sd-5536",
+    "logoUrl": "https://i.imgur.com/eT7iE34.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LookThoongTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "look-thoong-tv::la::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "istv-la-sd-4699",
+    "name": "ISTV",
+    "slug": "istv-la-sd-4699",
+    "logoUrl": "https://i.imgur.com/TGAKFcV.jpg",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ISTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "istv::la::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lstv-la-sd-5580",
+    "name": "LS TV",
+    "slug": "lstv-la-sd-5580",
+    "logoUrl": "https://i.imgur.com/fs3dQ6J.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LSTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ls-tv::la::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mvlaotv-la-sd-6273",
+    "name": "MV Lao TV",
+    "slug": "mvlaotv-la-sd-6273",
+    "logoUrl": "https://i.imgur.com/oVlQUKM.png",
+    "streamUrl": "https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
+    "country": {
+      "code": "LA",
+      "name": "Laos"
+    },
+    "languages": [
+      "lao",
+      "tha"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MVLaoTV.la",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mv-lao-tv::la::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "id": "wtvcanal20-ni-sd-11922",
+    "name": "WTV Canal 20",
+    "slug": "wtvcanal20-ni-sd-11922",
+    "logoUrl": "https://i.imgur.com/nb81xeU.png",
+    "streamUrl": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "WTVCanal20.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wtv-canal-20::ni::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tn8-ni-sd-10346",
+    "name": "TN8",
+    "slug": "tn8-ni-sd-10346",
+    "logoUrl": "https://i.imgur.com/m0Zdxiz.png",
+    "streamUrl": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TN8.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tn8::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal15-ni-sd-1833",
+    "name": "Canal 15 Nicaragüense",
+    "slug": "canal15-ni-sd-1833",
+    "logoUrl": "https://i.imgur.com/DGBMuEs.png",
+    "streamUrl": "https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "Canal15.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-15-nicarag-ense::ni::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal7boaco-ni-sd-1785",
+    "name": "Canal 7 Boaco",
+    "slug": "canal7boaco-ni-sd-1785",
+    "logoUrl": "https://i.imgur.com/chXNX9k.jpeg",
+    "streamUrl": "https://cdn.amixtv.com/c7boaco/index.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal7Boaco.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-7-boaco::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cdnn23-ni-sd-2171",
+    "name": "CDNN 23",
+    "slug": "cdnn23-ni-sd-2171",
+    "logoUrl": "https://i.imgur.com/7CNzlB6.png",
+    "streamUrl": "https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CDNN23.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cdnn-23::ni::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "olammetrotv-ni-sd-6918",
+    "name": "Olam Metro TV",
+    "slug": "olammetrotv-ni-sd-6918",
+    "logoUrl": "https://i.imgur.com/dDZnyUA.jpeg",
+    "streamUrl": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "OlamMetroTV.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "olam-metro-tv::ni::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalcvision-ni-sd-1881",
+    "name": "Canal Cvisión",
+    "slug": "canalcvision-ni-sd-1881",
+    "logoUrl": "https://i.imgur.com/WUq3NlG.png",
+    "streamUrl": "https://stream.cvision.live/cvision_stream.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalCvision.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-cvisi-n::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "escuchameradiotv-ni-sd-3373",
+    "name": "Escúchame Radio TV",
+    "slug": "escuchameradiotv-ni-sd-3373",
+    "logoUrl": "https://i.imgur.com/gt6UvG8.png",
+    "streamUrl": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "EscuchameRadioTV.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "esc-chame-radio-tv::ni::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtvchontales-ni-sd-6184",
+    "name": "MTV Chontales",
+    "slug": "mtvchontales-ni-sd-6184",
+    "logoUrl": "https://i.imgur.com/zgUPYdv.png",
+    "streamUrl": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MTVChontales.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtv-chontales::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiovisiondediosstereo-ni-sd-7957",
+    "name": "Radio Visión de Dios Stereo",
+    "slug": "radiovisiondediosstereo-ni-sd-7957",
+    "logoUrl": "https://i.imgur.com/ckY8DRW.jpg",
+    "streamUrl": "https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioVisiondeDiosStereo.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-visi-n-de-dios-stereo::ni::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vostv-ni-sd-11583",
+    "name": "Vos TV",
+    "slug": "vostv-ni-sd-11583",
+    "logoUrl": "https://i.imgur.com/Lbi87xv.png",
+    "streamUrl": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VosTV.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vos-tv::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telenorte-ni-sd-9949",
+    "name": "Telenorte",
+    "slug": "telenorte-ni-sd-9949",
+    "logoUrl": "https://i.imgur.com/rvxjAO6.png",
+    "streamUrl": "http://astrasvip.com:1935/Telenorte/Telenorte/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telenorte.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telenorte::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal4-ni-sd-1764",
+    "name": "Canal 4",
+    "slug": "canal4-ni-sd-1764",
+    "logoUrl": "https://i.imgur.com/nhgtZdt.png",
+    "streamUrl": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Canal4.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-4::ni::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal6-ni-sd-1781",
+    "name": "Canal 6 Nicaragüense",
+    "slug": "canal6-ni-sd-1781",
+    "logoUrl": "https://i.imgur.com/6BWAZdq.png",
+    "streamUrl": "http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal6.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-6-nicarag-ense::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vivatv-ni-sd-11558",
+    "name": "Viva TV Canal 30 San Juan de Río Coco",
+    "slug": "vivatv-ni-sd-11558",
+    "logoUrl": "https://i.imgur.com/n0buXRa.jpeg",
+    "streamUrl": "https://cdn.amixtv.com/vivatv/index.m3u8",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VivaTV.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viva-tv-canal-30-san-juan-de-r-o-coco::ni::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jbn-ni-sd-4777",
+    "name": "JBN Canal 39",
+    "slug": "jbn-ni-sd-4777",
+    "logoUrl": "https://i.imgur.com/vFi0FMZ.png",
+    "streamUrl": "https://hdbox.chunklistv.com/live?stream=jbn39",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "JBN.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 51,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "jbn-canal-39::ni::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "megabox-ni-sd-5846",
+    "name": "MegaBox",
+    "slug": "megabox-ni-sd-5846",
+    "logoUrl": "https://i.imgur.com/JqaW7Ei.png",
+    "streamUrl": "https://hdbox.chunklistv.com/live?stream=megabox",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MegaBox.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 51,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "megabox::ni::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv45-ni-sd-10698",
+    "name": "TV45-3ABN Nicaragua",
+    "slug": "tv45-ni-sd-10698",
+    "logoUrl": "https://i.imgur.com/sI0msrn.png",
+    "streamUrl": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TV45.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 51,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv45-3abn-nicaragua::ni::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvonenicaragua-ni-sd-11008",
+    "name": "TVONE Nicaragua",
+    "slug": "tvonenicaragua-ni-sd-11008",
+    "logoUrl": "https://i.imgur.com/FNk6rdz.png",
+    "streamUrl": "https://hdbox.chunklistv.com/live?stream=tvone",
+    "country": {
+      "code": "NI",
+      "name": "Nicaragua"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TVONENicaragua.ni",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 51,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvone-nicaragua::ni::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

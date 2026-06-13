@@ -1,0 +1,260 @@
+[
+  {
+    "id": "madrasfmtv-gp-sd-5629",
+    "name": "Madras FM TV",
+    "slug": "madrasfmtv-gp-sd-5629",
+    "logoUrl": "https://i.imgur.com/spGg1CZ.png",
+    "streamUrl": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+    "country": {
+      "code": "GP",
+      "name": "Guadeloupe"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MadrasFMTV.gp",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "madras-fm-tv::gp::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tma-gp-sd-10337",
+    "name": "TMA",
+    "slug": "tma-gp-sd-10337",
+    "logoUrl": "https://i.imgur.com/1iOAl2j.png",
+    "streamUrl": "http://hls.tmacaraibes.com/live/index.m3u8",
+    "country": {
+      "code": "GP",
+      "name": "Guadeloupe"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "TMA.gp",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tma::gp::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etv-gp-sd-3432",
+    "name": "ETV",
+    "slug": "etv-gp-sd-3432",
+    "logoUrl": "https://i.imgur.com/m5E2VP0.png",
+    "streamUrl": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8",
+    "country": {
+      "code": "GP",
+      "name": "Guadeloupe"
+    },
+    "languages": [
+      "fra",
+      "gcf"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ETV.gp",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv::gp::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotvbasseterre-gp-sd-7950",
+    "name": "Radio TV Basse-Terre",
+    "slug": "radiotvbasseterre-gp-sd-7950",
+    "logoUrl": "https://i.imgur.com/OvnRplq.png",
+    "streamUrl": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+    "country": {
+      "code": "GP",
+      "name": "Guadeloupe"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTVBasseTerre.gp",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tv-basse-terre::gp::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rhtguadeloupe-gp-sd-8261",
+    "name": "RHT Guadeloupe",
+    "slug": "rhtguadeloupe-gp-sd-8261",
+    "logoUrl": "https://i.imgur.com/hQ0Q6nE.png",
+    "streamUrl": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+    "country": {
+      "code": "GP",
+      "name": "Guadeloupe"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RHTGuadeloupe.gp",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rht-guadeloupe::gp::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

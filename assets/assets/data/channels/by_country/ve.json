@@ -1,0 +1,3181 @@
+[
+  {
+    "id": "telesur-ve-englishhd-10011",
+    "name": "Telesur English HD",
+    "slug": "telesur-ve-englishhd-10011",
+    "logoUrl": "https://i.imgur.com/P50VjRX.png",
+    "streamUrl": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Telesur.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telesur-english::ve::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "telesur-ve-hd-10012",
+    "name": "Telesur HD",
+    "slug": "telesur-ve-hd-10012",
+    "logoUrl": "https://i.imgur.com/P50VjRX.png",
+    "streamUrl": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Telesur.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telesur::ve::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aguacatetv-ve-sd-381",
+    "name": "Aguacate TV",
+    "slug": "aguacatetv-ve-sd-381",
+    "logoUrl": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AguacateTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aguacate-tv::ve::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "as3sporttv-ve-sd-903",
+    "name": "AS3 Sport TV",
+    "slug": "as3sporttv-ve-sd-903",
+    "logoUrl": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+    "streamUrl": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "AS3SportTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "as3-sport-tv::ve::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fortunatv-ve-sd-3735",
+    "name": "Fortuna TV",
+    "slug": "fortunatv-ve-sd-3735",
+    "logoUrl": "https://i.imgur.com/RPiTPnK.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FortunaTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fortuna-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "intertv-ve-sd-4619",
+    "name": "interTV",
+    "slug": "intertv-ve-sd-4619",
+    "logoUrl": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "InterTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "intertv::ve::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "latinatv-ve-sd-5384",
+    "name": "Latina TV",
+    "slug": "latinatv-ve-sd-5384",
+    "logoUrl": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
+    "streamUrl": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LatinaTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "latina-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mastalk-ve-sd-5730",
+    "name": "Más Talk",
+    "slug": "mastalk-ve-sd-5730",
+    "logoUrl": "https://i.imgur.com/unE2LGz.jpg",
+    "streamUrl": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MasTalk.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-s-talk::ve::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ploustv-ve-sd-7305",
+    "name": "Plous TV",
+    "slug": "ploustv-ve-sd-7305",
+    "logoUrl": "https://i.imgur.com/OSet4en.png",
+    "streamUrl": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PlousTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plous-tv::ve::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reformatv-ve-sd-8175",
+    "name": "Reforma TV",
+    "slug": "reformatv-ve-sd-8175",
+    "logoUrl": "https://i.imgur.com/iZMDddR.png",
+    "streamUrl": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ReformaTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "reforma-tv::ve::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmparati-ve-sd-10970",
+    "name": "TVM para ti",
+    "slug": "tvmparati-ve-sd-10970",
+    "logoUrl": "https://intervenhosting.net/imagenes/tvmparati.jpg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMparati.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvm-para-ti::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vpitv-ve-sd-11591",
+    "name": "VPItv",
+    "slug": "vpitv-ve-sd-11591",
+    "logoUrl": "https://i.imgur.com/X5hyKU8.png",
+    "streamUrl": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "VPItv.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vpitv::ve::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "promartv-ve-sd-7695",
+    "name": "PromarTV",
+    "slug": "promartv-ve-sd-7695",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+    "streamUrl": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PromarTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "promartv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvfamilia-ve-sd-10863",
+    "name": "TV Familia",
+    "slug": "tvfamilia-ve-sd-10863",
+    "logoUrl": "https://i.imgur.com/A3bU5e7.png",
+    "streamUrl": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "TVFamilia.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-familia::ve::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "venevisioninternacional-ve-sd-11449",
+    "name": "Venevisión Internacional",
+    "slug": "venevisioninternacional-ve-sd-11449",
+    "logoUrl": "https://i.imgur.com/vtGED07.jpg",
+    "streamUrl": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VenevisionInternacional.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "venevisi-n-internacional::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tamtv-ve-sd-9734",
+    "name": "TAM TV",
+    "slug": "tamtv-ve-sd-9734",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+    "streamUrl": "https://tv.webtuya.com:3726/hybrid/play.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TAMTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tam-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8",
+        "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "telecentro-ve-sd-9858",
+    "name": "Telecentro",
+    "slug": "telecentro-ve-sd-9858",
+    "logoUrl": "https://i.imgur.com/QtRNfaj.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telecentro.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecentro::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alcancetv-ve-sd-441",
+    "name": "Alcance TV",
+    "slug": "alcancetv-ve-sd-441",
+    "logoUrl": "https://i.imgur.com/veeuqS1.png",
+    "streamUrl": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlcanceTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alcance-tv::ve::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btatv-ve-sd-1652",
+    "name": "BTA TV",
+    "slug": "btatv-ve-sd-1652",
+    "logoUrl": "https://i.imgur.com/vygOosC.png",
+    "streamUrl": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "BTATV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bta-tv::ve::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalcdelzulia-ve-hd-1875",
+    "name": "Canal C Del Zulia",
+    "slug": "canalcdelzulia-ve-hd-1875",
+    "logoUrl": "https://i.imgur.com/ew44KOZ.png",
+    "streamUrl": "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalCdelZulia.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-c-del-zulia::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chivacoatvinternacional-ve-sd-2340",
+    "name": "Chivacoa TV Internacional",
+    "slug": "chivacoatvinternacional-ve-sd-2340",
+    "logoUrl": "https://i.imgur.com/9rbwZFY.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ChivacoaTVInternacional.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "chivacoa-tv-internacional::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "guarotv-ve-sd-4116",
+    "name": "Guaro TV",
+    "slug": "guarotv-ve-sd-4116",
+    "logoUrl": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
+    "streamUrl": "https://stream.guarotv.net:3592/hybrid/play.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GuaroTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "guaro-tv::ve::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lgdtelevision-ve-sd-5447",
+    "name": "LGD Television",
+    "slug": "lgdtelevision-ve-sd-5447",
+    "logoUrl": "https://i.imgur.com/a9E0DTY.jpeg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LGDTelevision.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lgd-television::ve::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onzatv-ve-sd-7014",
+    "name": "Onza TV",
+    "slug": "onzatv-ve-sd-7014",
+    "logoUrl": "https://i.imgur.com/usrP6T2.png",
+    "streamUrl": "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OnzaTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "onza-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tnoradio-ve-sd-10357",
+    "name": "TNO Radio",
+    "slug": "tnoradio-ve-sd-10357",
+    "logoUrl": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+    "streamUrl": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TNORadio.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tno-radio::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvs-ve-sd-11134",
+    "name": "TVS",
+    "slug": "tvs-ve-sd-11134",
+    "logoUrl": "https://i.imgur.com/J8ztiAN.png",
+    "streamUrl": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVS.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "un24-ve-untv720-11308",
+    "name": "UN24",
+    "slug": "un24-ve-untv720-11308",
+    "logoUrl": "https://i.imgur.com/nGJlulj.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [],
+    "category": "News",
+    "epg": {
+      "id": "UN24.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "un24::ve::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unitv-ve-sd-11340",
+    "name": "UniTV",
+    "slug": "unitv-ve-sd-11340",
+    "logoUrl": "https://i.imgur.com/KLGeznX.png",
+    "streamUrl": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UniTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unitv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "barinastv-ve-sd-1143",
+    "name": "Barinas TV",
+    "slug": "barinastv-ve-sd-1143",
+    "logoUrl": "https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png",
+    "streamUrl": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BarinasTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "barinas-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "exctv-ve-sd-3515",
+    "name": "Explosión Creativa",
+    "slug": "exctv-ve-sd-3515",
+    "logoUrl": "https://i.imgur.com/Znd1Ml9.png",
+    "streamUrl": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "EXCTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "explosi-n-creativa::ve::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "grandetv-ve-sd-4064",
+    "name": "Grande TV",
+    "slug": "grandetv-ve-sd-4064",
+    "logoUrl": "https://i.imgur.com/jxCirrP.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GrandeTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "grande-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "monagasvision-ve-sd-6052",
+    "name": "Monagas Visión",
+    "slug": "monagasvision-ve-sd-6052",
+    "logoUrl": "https://i.imgur.com/yfgTa2d.png",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MonagasVision.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "monagas-visi-n::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oasistelevision-ve-sd-6856",
+    "name": "Oasis Televisión",
+    "slug": "oasistelevision-ve-sd-6856",
+    "logoUrl": "https://i.imgur.com/TEr1U90.png",
+    "streamUrl": "http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OasisTelevision.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oasis-televisi-n::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "somostv-ve-sd-9250",
+    "name": "Somos TV",
+    "slug": "somostv-ve-sd-9250",
+    "logoUrl": "https://i.imgur.com/jOroeJZ.png",
+    "streamUrl": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SomosTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "somos-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telebocono-ve-sd-9842",
+    "name": "Teleboconó",
+    "slug": "telebocono-ve-sd-9842",
+    "logoUrl": "https://i.imgur.com/YDE4Jsi.jpg",
+    "streamUrl": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telebocono.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telebocon::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "torococotv-ve-sd-10426",
+    "name": "Torococo TV",
+    "slug": "torococotv-ve-sd-10426",
+    "logoUrl": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
+    "streamUrl": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TorococoTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "torococo-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvandes-ve-sd-10726",
+    "name": "TV Andes",
+    "slug": "tvandes-ve-sd-10726",
+    "logoUrl": "https://i.ibb.co/c1YHQ8K/tvandes.png",
+    "streamUrl": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVAndes.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-andes::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "meridianotv-ve-sd-5875",
+    "name": "Meridiano TV",
+    "slug": "meridianotv-ve-sd-5875",
+    "logoUrl": "https://i.imgur.com/I6gsUqD.png",
+    "streamUrl": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "MeridianoTV.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "meridiano-tv::ve::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "venevision-ve-sd-11448",
+    "name": "Venevision",
+    "slug": "venevision-ve-sd-11448",
+    "logoUrl": "https://i.imgur.com/gm1m8hW.png",
+    "streamUrl": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Venevision.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "venevision::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vepacotv-ve-sd-11454",
+    "name": "Vepaco TV",
+    "slug": "vepacotv-ve-sd-11454",
+    "logoUrl": "https://i.imgur.com/0bqJksL.png",
+    "streamUrl": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VepacoTV.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vepaco-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalonce-ve-sd-1923",
+    "name": "Canal Once",
+    "slug": "canalonce-ve-sd-1923",
+    "logoUrl": "https://i.imgur.com/puM9ASa.png",
+    "streamUrl": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalOnce.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-once::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "duacavision-ve-sd-3145",
+    "name": "DuacaVision",
+    "slug": "duacavision-ve-sd-3145",
+    "logoUrl": "https://i.imgur.com/jEqWixv.jpeg",
+    "streamUrl": "https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DuacaVision.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duacavision::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "islatv-ve-sd-4695",
+    "name": "Isla TV",
+    "slug": "islatv-ve-sd-4695",
+    "logoUrl": "https://i.imgur.com/l11Ixhi.jpeg",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IslaTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "isla-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kandelatv-ve-sd-4999",
+    "name": "KandelaTV",
+    "slug": "kandelatv-ve-sd-4999",
+    "logoUrl": "https://i.imgur.com/cCFxyIp.jpg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "KandelaTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kandelatv::ve::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nortenatv-ve-hd-6667",
+    "name": "Norteña TV",
+    "slug": "nortenatv-ve-hd-6667",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
+    "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "NortenaTv.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "norte-a-tv::ve::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telearagua-ve-sd-9836",
+    "name": "TeleAragua",
+    "slug": "telearagua-ve-sd-9836",
+    "logoUrl": "https://i.imgur.com/jPzcb2S.png",
+    "streamUrl": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleAragua.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telearagua::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telecolor-ve-sd-9865",
+    "name": "Telecolor",
+    "slug": "telecolor-ve-sd-9865",
+    "logoUrl": "https://i.imgur.com/YvdzJHj.png",
+    "streamUrl": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telecolor.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telecolor::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trv-ve-sd-10556",
+    "name": "TRV",
+    "slug": "trv-ve-sd-10556",
+    "logoUrl": "https://i.ibb.co/Yt6qyjL/trv.png",
+    "streamUrl": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TRV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "valetv-ve-sd-11394",
+    "name": "Vale TV",
+    "slug": "valetv-ve-sd-11394",
+    "logoUrl": "https://i.imgur.com/NMI2Wed.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ValeTV.ve",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vale-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "globaltv-ve-sd-3979",
+    "name": "GlobalTV",
+    "slug": "globaltv-ve-sd-3979",
+    "logoUrl": "https://imgur.com/hzM9D9L.jpg",
+    "streamUrl": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GlobalTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "globaltv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "portuguesatelevision-ve-sd-7612",
+    "name": "PortuTV",
+    "slug": "portuguesatelevision-ve-sd-7612",
+    "logoUrl": "https://i.imgur.com/jHUSfGz.png",
+    "streamUrl": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PortuguesaTelevision.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "portutv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "proclamaciontv-ve-sd-7691",
+    "name": "Proclamación TV",
+    "slug": "proclamaciontv-ve-sd-7691",
+    "logoUrl": "https://i.imgur.com/8dt7awY.jpeg",
+    "streamUrl": "https://video2.getstreamhosting.com:19360/8000/8000.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ProclamacionTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "proclamaci-n-tv::ve::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "siembratv-ve-sd-9137",
+    "name": "Siembra TV",
+    "slug": "siembratv-ve-sd-9137",
+    "logoUrl": "https://i.imgur.com/zRX91Xr.png",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SiembraTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "siembra-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal21tachira-ve-sd-1837",
+    "name": "Canal 21 Táchira",
+    "slug": "canal21tachira-ve-sd-1837",
+    "logoUrl": "https://i.imgur.com/7Tb7CF4.jpg",
+    "streamUrl": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal21Tachira.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-21-t-chira::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "catatumbotv-ve-sd-2012",
+    "name": "Catatumbo TV",
+    "slug": "catatumbotv-ve-sd-2012",
+    "logoUrl": "https://i.imgur.com/LBI2la0.png",
+    "streamUrl": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CatatumboTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "catatumbo-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televisoradeoriente-ve-sd-10056",
+    "name": "Televisora de Oriente",
+    "slug": "televisoradeoriente-ve-sd-10056",
+    "logoUrl": "https://i.imgur.com/wFC6Xxq.png",
+    "streamUrl": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisoradeOriente.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "televisora-de-oriente::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvoasismonay-ve-sd-10996",
+    "name": "TV Oasis Monay",
+    "slug": "tvoasismonay-ve-sd-10996",
+    "logoUrl": "https://i.imgur.com/hwd7osJ.jpeg",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVOasisMonay.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-oasis-monay::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "anzoateguitv-ve-sd-792",
+    "name": "Anzoátegui TV",
+    "slug": "anzoateguitv-ve-sd-792",
+    "logoUrl": "https://i.imgur.com/SLqrEOz.png",
+    "streamUrl": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AnzoateguiTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anzo-tegui-tv::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "audaztv-ve-sd-1003",
+    "name": "Audaz TV",
+    "slug": "audaztv-ve-sd-1003",
+    "logoUrl": "https://i.imgur.com/QtCgtZq.jpg",
+    "streamUrl": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AudazTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "audaz-tv::ve::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "italianissimo-ve-sd-4709",
+    "name": "Italianissimo",
+    "slug": "italianissimo-ve-sd-4709",
+    "logoUrl": "https://i.imgur.com/JCpbUZB.png",
+    "streamUrl": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Italianissimo.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "italianissimo::ve::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oxigenotv-ve-sd-7079",
+    "name": "Oxigeno TV",
+    "slug": "oxigenotv-ve-sd-7079",
+    "logoUrl": "https://i.imgur.com/n3PweBQ.png",
+    "streamUrl": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "OxigenoTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oxigeno-tv::ve::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trt-ve-sd-10527",
+    "name": "TRT",
+    "slug": "trt-ve-sd-10527",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+    "streamUrl": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TRT.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trt::ve::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

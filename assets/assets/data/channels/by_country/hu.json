@@ -1,0 +1,4578 @@
+[
+  {
+    "id": "m2-hu-sd-5602",
+    "name": "M2",
+    "slug": "m2-hu-sd-5602",
+    "logoUrl": "https://i.imgur.com/B0nYT0l.png",
+    "streamUrl": "http://88.212.15.19/live/m2_hun/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "M2.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m2::hu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://146.59.85.40:89/m2hd/index.m3u8",
+        "http://195.189.60.31:8003/play/a0f1/index.m3u8",
+        "http://146.59.85.40:89/m2/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "m5-hu-sd-5611",
+    "name": "M5",
+    "slug": "m5-hu-sd-5611",
+    "logoUrl": "https://i.imgur.com/y21wFd0.png",
+    "streamUrl": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "M5.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m5::hu::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://146.59.85.40:89/m5/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cooltv-hu-sd-2615",
+    "name": "Cool TV",
+    "slug": "cooltv-hu-sd-2615",
+    "logoUrl": "https://i.imgur.com/rXJtthd.png",
+    "streamUrl": "http://146.59.85.40:89/coolhd/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CoolTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cool-tv::hu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "duna-hu-sd-3164",
+    "name": "Duna TV",
+    "slug": "duna-hu-sd-3164",
+    "logoUrl": "https://i.imgur.com/oPbsSlp.png",
+    "streamUrl": "http://146.59.85.40:89/dunahd/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Duna.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duna-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hirtv-hu-sd-4284",
+    "name": "Hir TV",
+    "slug": "hirtv-hu-sd-4284",
+    "logoUrl": "https://i.imgur.com/xmIUDRN.png",
+    "streamUrl": "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HirTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hir-tv::hu::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kapostv-hu-sd-5007",
+    "name": "Kapos TV",
+    "slug": "kapostv-hu-sd-5007",
+    "logoUrl": "https://i.imgur.com/ZMrj2C5.png",
+    "streamUrl": "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KaposTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kapos-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tveger-hu-sd-10844",
+    "name": "TV Eger",
+    "slug": "tveger-hu-sd-10844",
+    "logoUrl": "https://i.imgur.com/GUVW073.png",
+    "streamUrl": "http://stream.tveger.hu:8010/live.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVEger.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-eger::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alfoldtv-hu-sd-460",
+    "name": "Alföld TV",
+    "slug": "alfoldtv-hu-sd-460",
+    "logoUrl": "https://i.imgur.com/W6jg8iM.png",
+    "streamUrl": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AlfoldTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alf-ld-tv::hu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "berentetv-hu-sd-1403",
+    "name": "Berente TV",
+    "slug": "berentetv-hu-sd-1403",
+    "logoUrl": "https://i.imgur.com/3H3Ct9f.png",
+    "streamUrl": "https://stream.streaming4u.hu/BerenteTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BerenteTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "berente-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "egykertv-hu-sd-3249",
+    "name": "Elsö Kerület TV",
+    "slug": "egykertv-hu-sd-3249",
+    "logoUrl": "https://i.imgur.com/yhMhvPq.png",
+    "streamUrl": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EgykerTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "els-ker-let-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hevizitv-hu-sd-4260",
+    "name": "Hévízi TV",
+    "slug": "hevizitv-hu-sd-4260",
+    "logoUrl": "https://i.imgur.com/zuWQKDm.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HeviziTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "h-v-zi-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "szolnoktv-hu-sd-9699",
+    "name": "Szolnok TV",
+    "slug": "szolnoktv-hu-sd-9699",
+    "logoUrl": "https://i.imgur.com/Eiab9MP.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SzolnokTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "szolnok-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tataitv-hu-sd-9770",
+    "name": "Tatai TV",
+    "slug": "tataitv-hu-sd-9770",
+    "logoUrl": "https://i.imgur.com/skXYntc.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TataiTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tatai-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "komlostv-hu-sd-5185",
+    "name": "Komlós TV",
+    "slug": "komlostv-hu-sd-5185",
+    "logoUrl": "https://i.imgur.com/dnITSUz.png",
+    "streamUrl": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KomlosTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "koml-s-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pilistv-hu-sd-7272",
+    "name": "PilisTV",
+    "slug": "pilistv-hu-sd-7272",
+    "logoUrl": "https://i.imgur.com/5L01wRi.png",
+    "streamUrl": "https://stream.streaming4u.hu/PilisTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PilisTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pilistv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "regioplusztv-hu-sd-8179",
+    "name": "RégióPlusz TV",
+    "slug": "regioplusztv-hu-sd-8179",
+    "logoUrl": "https://i.imgur.com/VXPpukf.png",
+    "streamUrl": "https://stream.streaming4u.hu/RegioPluszTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RegioPluszTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-gi-plusz-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trimediotv-hu-sd-10509",
+    "name": "Trimedio TV",
+    "slug": "trimediotv-hu-sd-10509",
+    "logoUrl": "https://i.imgur.com/P4hxWVZ.png",
+    "streamUrl": "https://stream.streaming4u.hu/TriMedioTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TrimedioTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trimedio-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbudakalasz-hu-sd-10761",
+    "name": "TV Budakalasz",
+    "slug": "tvbudakalasz-hu-sd-10761",
+    "logoUrl": "https://i.imgur.com/97xpqt0.png",
+    "streamUrl": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVBudakalasz.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-budakalasz::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvszentendre-hu-sd-11210",
+    "name": "TV Szentendre",
+    "slug": "tvszentendre-hu-sd-11210",
+    "logoUrl": "https://i.imgur.com/kzzYLdj.png",
+    "streamUrl": "https://stream.streaming4u.hu/TVSzentendre/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSzentendre.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-szentendre::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "csurgotv-hu-sd-2685",
+    "name": "Csurgó TV",
+    "slug": "csurgotv-hu-sd-2685",
+    "logoUrl": "https://i.imgur.com/vVOEYuj.png",
+    "streamUrl": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CsurgoTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "csurg-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bajaitv-hu-sd-1108",
+    "name": "Bajai TV",
+    "slug": "bajaitv-hu-sd-1108",
+    "logoUrl": "https://i.imgur.com/cyReGWh.png",
+    "streamUrl": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BajaiTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bajai-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "darutv-hu-sd-2780",
+    "name": "Daru TV",
+    "slug": "darutv-hu-sd-2780",
+    "logoUrl": "https://i.imgur.com/0P7QHde.png",
+    "streamUrl": "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaruTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "daru-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dstv-hu-sd-3137",
+    "name": "DSTV",
+    "slug": "dstv-hu-sd-3137",
+    "logoUrl": "https://i.imgur.com/xKJoN8L.png",
+    "streamUrl": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DSTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dstv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "grantv-hu-sd-4065",
+    "name": "Gran TV",
+    "slug": "grantv-hu-sd-4065",
+    "logoUrl": "https://i.ibb.co/qJN7Qh2/gran-kicsi.png",
+    "streamUrl": "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GranTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gran-tv::hu::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hangulattv-hu-sd-4179",
+    "name": "Hangulat TV",
+    "slug": "hangulattv-hu-sd-4179",
+    "logoUrl": "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
+    "streamUrl": "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "HangulatTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hangulat-tv::hu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "karcagtv-hu-sd-5009",
+    "name": "Karcag TV",
+    "slug": "karcagtv-hu-sd-5009",
+    "logoUrl": "https://i.imgur.com/QcrVj3Q.png",
+    "streamUrl": "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KarcagTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "karcag-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kiskorostv-hu-sd-5129",
+    "name": "Kiskőrös TV",
+    "slug": "kiskorostv-hu-sd-5129",
+    "logoUrl": "https://i.imgur.com/Y74Mve1.png",
+    "streamUrl": "https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KiskorosTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kisk-r-s-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oroszlanyivarositelevizio-hu-sd-7031",
+    "name": "Oroszlányi Városi Televízió",
+    "slug": "oroszlanyivarositelevizio-hu-sd-7031",
+    "logoUrl": "https://i.imgur.com/P0fxUH5.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OroszlanyiVarosiTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oroszl-nyi-v-rosi-telev-zi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pvtv-hu-sd-7772",
+    "name": "Putnok Városi TV",
+    "slug": "pvtv-hu-sd-7772",
+    "logoUrl": "https://i.imgur.com/eKXPBFb.png",
+    "streamUrl": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PVTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "putnok-v-rosi-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rakosmentetv-hu-sd-8011",
+    "name": "Rákosmente TV",
+    "slug": "rakosmentetv-hu-sd-8011",
+    "logoUrl": "https://i.imgur.com/n39a2DT.png",
+    "streamUrl": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RakosmenteTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-kosmente-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "soltvadkertitelevizio-hu-sd-9248",
+    "name": "Soltvadkerti Televízió",
+    "slug": "soltvadkertitelevizio-hu-sd-9248",
+    "logoUrl": "https://i.imgur.com/ihdk45P.png",
+    "streamUrl": "http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SoltvadkertiTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "soltvadkerti-telev-zi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "szecsenytv-hu-sd-9696",
+    "name": "Szécsény TV",
+    "slug": "szecsenytv-hu-sd-9696",
+    "logoUrl": "https://i.imgur.com/ilRmZtF.png",
+    "streamUrl": "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SzecsenyTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sz-cs-ny-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orszaggyulesogyplenaris-hu-sd-7032",
+    "name": "Országgyűlés (Plenáris)",
+    "slug": "orszaggyulesogyplenaris-hu-sd-7032",
+    "logoUrl": "https://i.imgur.com/hbblRpZ.png",
+    "streamUrl": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OrszaggyulesOGYplenaris.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orsz-ggy-l-s-plen-ris::hu::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "orszaggyulesogytab-hu-sd-7034",
+    "name": "Országgyűlés (Törvényalkotási bizottság)",
+    "slug": "orszaggyulesogytab-hu-sd-7034",
+    "logoUrl": "https://i.imgur.com/hbblRpZ.png",
+    "streamUrl": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "OrszaggyulesOGYTAB.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orsz-ggy-l-s-t-rv-nyalkot-si-bizotts-g::hu::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "dtv-hu-sd-3141",
+    "name": "DTV",
+    "slug": "dtv-hu-sd-3141",
+    "logoUrl": "https://i.imgur.com/YSpqmSO.png",
+    "streamUrl": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dtv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fixtv-hu-sd-3697",
+    "name": "Fix TV",
+    "slug": "fixtv-hu-sd-3697",
+    "logoUrl": "https://i.imgur.com/PLhh0Ps.png",
+    "streamUrl": "https://fixhd.tv:8082/fix/1080i/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FIXTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fix-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "globotv-hu-sd-3982",
+    "name": "Globo TV",
+    "slug": "globotv-hu-sd-3982",
+    "logoUrl": "https://i.imgur.com/PJ4c4jq.png",
+    "streamUrl": "https://stream.streaming4u.hu/GloboTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GloboTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "globo-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtvfuzesabony-hu-sd-11620",
+    "name": "VTV Füzesabony",
+    "slug": "vtvfuzesabony-hu-sd-11620",
+    "logoUrl": "https://i.imgur.com/IoHyW7w.png",
+    "streamUrl": "https://stream.nmih.hu:7962/live.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTVFuzesabony.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv-f-zesabony::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ozdivarositv-hu-sd-7085",
+    "name": "Ózdi Városi TV",
+    "slug": "ozdivarositv-hu-sd-7085",
+    "logoUrl": "https://i.imgur.com/t0Aq3UD.png",
+    "streamUrl": "http://stream.nmih.hu:7980/live.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OzdiVarosiTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zdi-v-rosi-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atv-hu-sd-976",
+    "name": "ATV",
+    "slug": "atv-hu-sd-976",
+    "logoUrl": "https://i.imgur.com/85sIvrX.png",
+    "streamUrl": "http://146.59.85.40:89/atv/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+        "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "m1-hu-sd-5598",
+    "name": "M1",
+    "slug": "m1-hu-sd-5598",
+    "logoUrl": "https://i.imgur.com/r4tgKZK.png",
+    "streamUrl": "http://146.59.85.40:89/m1sd/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "M1.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m1::hu::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://195.189.60.31:8003/play/a09o/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "apostoltv-hu-sd-803",
+    "name": "Apostol TV",
+    "slug": "apostoltv-hu-sd-803",
+    "logoUrl": "https://i.imgur.com/C43Cc9N.png",
+    "streamUrl": "https://live.apostoltv.hu/live/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ApostolTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "apostol-tv::hu::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dikhtv-hu-sd-2994",
+    "name": "Dikh TV",
+    "slug": "dikhtv-hu-sd-2994",
+    "logoUrl": "https://i.imgur.com/aAcORTL.png",
+    "streamUrl": "http://195.189.60.31:8003/play/a0gq/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "DikhTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dikh-tv::hu::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dunaworld-hu-sd-3166",
+    "name": "Duna World",
+    "slug": "dunaworld-hu-sd-3166",
+    "logoUrl": "https://i.imgur.com/uOBQJZS.png",
+    "streamUrl": "http://146.59.85.40:89/dunaworld/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DunaWorld.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duna-world::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "izauratv-hu-sd-4734",
+    "name": "Izaura TV",
+    "slug": "izauratv-hu-sd-4734",
+    "logoUrl": "https://i.imgur.com/p9YFnpw.png",
+    "streamUrl": "http://146.59.85.40:89/izaura/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "IzauraTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "izaura-tv::hu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jockytv-hu-sd-4862",
+    "name": "Jocky TV",
+    "slug": "jockytv-hu-sd-4862",
+    "logoUrl": "https://i.imgur.com/wLawFVP.png",
+    "streamUrl": "http://146.59.85.40:89/jocky/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "JockyTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jocky-tv::hu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "m4sport-hu-sd-5610",
+    "name": "M4 Sport",
+    "slug": "m4sport-hu-sd-5610",
+    "logoUrl": "https://i.imgur.com/TQ4uJZk.png",
+    "streamUrl": "http://88.212.15.19/live/m4_hun/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "M4Sport.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m4-sport::hu::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "max4-hu-sd-5760",
+    "name": "MAX4",
+    "slug": "max4-hu-sd-5760",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png",
+    "streamUrl": "http://146.59.85.40:89/max4/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MAX4.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "max4::hu::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlgold-hu-sd-8411",
+    "name": "RTL Gold",
+    "slug": "rtlgold-hu-sd-8411",
+    "logoUrl": "https://i.imgur.com/PwbLDUQ.png",
+    "streamUrl": "http://195.189.60.31:8003/play/a0dy/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLGold.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtl-gold::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv2kids-hu-sd-10609",
+    "name": "TV2 Kids",
+    "slug": "tv2kids-hu-sd-10609",
+    "logoUrl": "https://i.imgur.com/Zltlezm.png",
+    "streamUrl": "http://146.59.85.40:89/tv2kids/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "TV2Kids.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv2-kids::hu::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atvspirit-hu-sd-991",
+    "name": "ATV Spirit",
+    "slug": "atvspirit-hu-sd-991",
+    "logoUrl": "https://i.imgur.com/JINE5xS.png",
+    "streamUrl": "http://146.59.85.40:89/atvspirit/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATVSpirit.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atv-spirit::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "budapesteuropatelevizio-hu-sd-1679",
+    "name": "Budapest Európa Televízió",
+    "slug": "budapesteuropatelevizio-hu-sd-1679",
+    "logoUrl": "https://i.imgur.com/CqqWtzo.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BudapestEuropaTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "budapest-eur-pa-telev-zi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gyongyositv-hu-sd-4147",
+    "name": "Gyöngyösi TV",
+    "slug": "gyongyositv-hu-sd-4147",
+    "logoUrl": "https://i.imgur.com/RHgaPCk.png",
+    "streamUrl": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GyongyosiTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gy-ngy-si-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "liceumtv-hu-sd-5462",
+    "name": "Liceum TV",
+    "slug": "liceumtv-hu-sd-5462",
+    "logoUrl": "https://i.imgur.com/Hf122ZD.png",
+    "streamUrl": "http://193.225.32.62:8890/live.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "LiceumTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "liceum-tv::hu::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "makoivarositelevizio-hu-sd-5668",
+    "name": "Makói Városi",
+    "slug": "makoivarositelevizio-hu-sd-5668",
+    "logoUrl": "https://i.imgur.com/PF3BP4X.png",
+    "streamUrl": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MakoiVarosiTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mak-i-v-rosi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moranettv-hu-sd-6075",
+    "name": "Móra-Net TV",
+    "slug": "moranettv-hu-sd-6075",
+    "logoUrl": "https://i.imgur.com/yT0RmKi.png",
+    "streamUrl": "https://stream.moranettv.hu/live/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MoraNetTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-ra-net-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vasarhelyitelevizio-hu-sd-11427",
+    "name": "Vásárhelyi Televízió",
+    "slug": "vasarhelyitelevizio-hu-sd-11427",
+    "logoUrl": "https://i.imgur.com/WOEqdmx.png",
+    "streamUrl": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VasarhelyiTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-s-rhelyi-telev-zi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "williamstv-hu-sd-11773",
+    "name": "Williams TV",
+    "slug": "williamstv-hu-sd-11773",
+    "logoUrl": "https://i.imgur.com/vysX07C.png",
+    "streamUrl": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WilliamsTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "williams-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xvtv-hu-sd-12012",
+    "name": "XV TV",
+    "slug": "xvtv-hu-sd-12012",
+    "logoUrl": "https://i.ibb.co/hH2KF6W/4792.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "XVTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xv-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "obudatv-hu-sd-6865",
+    "name": "Óbuda TV",
+    "slug": "obudatv-hu-sd-6865",
+    "logoUrl": "https://i.ibb.co/42C026p/6172.png",
+    "streamUrl": "https://stream.streaming4u.hu/ObudaTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ObudaTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "buda-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "golyatv-hu-sd-4024",
+    "name": "Gólya TV",
+    "slug": "golyatv-hu-sd-4024",
+    "logoUrl": "https://i.imgur.com/TeK6Pzb.png",
+    "streamUrl": "https://stream.streaming4u.hu/GolyaTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "GolyaTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "g-lya-tv::hu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tiszatv-hu-sd-10321",
+    "name": "Tisza TV",
+    "slug": "tiszatv-hu-sd-10321",
+    "logoUrl": "https://i.imgur.com/Q2bShnh.png",
+    "streamUrl": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TiszaTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tisza-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "balatontv-hu-sd-1114",
+    "name": "Balaton TV",
+    "slug": "balatontv-hu-sd-1114",
+    "logoUrl": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+    "streamUrl": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BalatonTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "balaton-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fehervartv-hu-sd-3622",
+    "name": "Fehérvár TV",
+    "slug": "fehervartv-hu-sd-3622",
+    "logoUrl": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FehervarTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "feh-rv-r-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "7tv-hu-sd-67",
+    "name": "TV7 Bekescsaba",
+    "slug": "7tv-hu-sd-67",
+    "logoUrl": "https://i.imgur.com/CnUhAlK.png",
+    "streamUrl": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "7TV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv7-bekescsaba::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zalaegerszegitv-hu-sd-12094",
+    "name": "Zalaegerszegi TV",
+    "slug": "zalaegerszegitv-hu-sd-12094",
+    "logoUrl": "https://i.imgur.com/MLVPf0i.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZalaegerszegiTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zalaegerszegi-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "16tvbudapest-hu-sd-105",
+    "name": "16tv Budapest",
+    "slug": "16tvbudapest-hu-sd-105",
+    "logoUrl": "https://i.imgur.com/04fCzHl.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "16tvBudapest.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "16tv-budapest::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btv-hu-sd-1663",
+    "name": "Bábolnai TV",
+    "slug": "btv-hu-sd-1663",
+    "logoUrl": "https://i.imgur.com/0PKqn3V.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "b-bolnai-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "estv-hu-sd-3416",
+    "name": "ESTV",
+    "slug": "estv-hu-sd-3416",
+    "logoUrl": "https://i.imgur.com/OCZ8CfK.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ESTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "estv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jaszsagitersegitv-hu-sd-4764",
+    "name": "Jászsági Térségi TV",
+    "slug": "jaszsagitersegitv-hu-sd-4764",
+    "logoUrl": "https://i.imgur.com/bsDN0lH.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JaszsagiTersegiTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "j-szs-gi-t-rs-gi-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanizsatv-hu-sd-5001",
+    "name": "Kanizsa TV",
+    "slug": "kanizsatv-hu-sd-5001",
+    "logoUrl": "https://i.imgur.com/l02znlE.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KanizsaTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanizsa-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "komaromitelevizio-hu-sd-5184",
+    "name": "Komáromi Televízió",
+    "slug": "komaromitelevizio-hu-sd-5184",
+    "logoUrl": "https://i.imgur.com/DifVZkz.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KomaromiTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kom-romi-telev-zi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "loversenykozvetites-hu-sd-5559",
+    "name": "Lóverseny közvetítés",
+    "slug": "loversenykozvetites-hu-sd-5559",
+    "logoUrl": "https://i.imgur.com/IGajR6G.png",
+    "streamUrl": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Loversenykozvetites.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "l-verseny-k-zvet-t-s::hu::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mezokovesditelevizio-hu-sd-5895",
+    "name": "Mezőkövesdi Televízió",
+    "slug": "mezokovesditelevizio-hu-sd-5895",
+    "logoUrl": "https://i.imgur.com/2zCOXmH.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MezokovesdiTelevizio.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mez-k-vesdi-telev-zi::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sixotv-hu-sd-9168",
+    "name": "SIXO TV",
+    "slug": "sixotv-hu-sd-9168",
+    "logoUrl": "https://i.ibb.co/GTPs9Xy/9068.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SIXOTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sixo-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telepaks-hu-sd-9964",
+    "name": "TelePaks",
+    "slug": "telepaks-hu-sd-9964",
+    "logoUrl": "https://i.imgur.com/T8ueztB.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelePaks.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telepaks::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvkeszthely-hu-sd-10902",
+    "name": "TV Keszthely",
+    "slug": "tvkeszthely-hu-sd-10902",
+    "logoUrl": "https://i.imgur.com/2LE8xSW.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVKeszthely.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-keszthely::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtvmor-hu-sd-11621",
+    "name": "VTV Mór",
+    "slug": "vtvmor-hu-sd-11621",
+    "logoUrl": "https://i.imgur.com/x8jstsh.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTVMor.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv-m-r::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "volgyhidtv-hu-sd-11578",
+    "name": "Völgyhíd TV",
+    "slug": "volgyhidtv-hu-sd-11578",
+    "logoUrl": "https://i.imgur.com/9krKKgU.png",
+    "streamUrl": "https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VolgyhidTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-lgyh-d-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zuglotv-hu-sd-12224",
+    "name": "Zuglo TV",
+    "slug": "zuglotv-hu-sd-12224",
+    "logoUrl": "https://i.imgur.com/wPqCtwR.png",
+    "streamUrl": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ZugloTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zuglo-tv::hu::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kecskemetitv-hu-sd-5055",
+    "name": "Kecskemeti TV",
+    "slug": "kecskemetitv-hu-sd-5055",
+    "logoUrl": "https://i.imgur.com/yxwrX2N.png",
+    "streamUrl": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KecskemetiTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kecskemeti-tv::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://eurobioinvest.hu:444/live/ktv.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "hatoscsatorna-hu-sd-4206",
+    "name": "Hatoscsatorna",
+    "slug": "hatoscsatorna-hu-sd-4206",
+    "logoUrl": "https://i.imgur.com/XZqg1Pj.png",
+    "streamUrl": "https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Hatoscsatorna.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hatoscsatorna::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtl-hu-sd-8409",
+    "name": "RTL",
+    "slug": "rtl-hu-sd-8409",
+    "logoUrl": "https://i.imgur.com/ruRshE1.png",
+    "streamUrl": "http://46.149.191.217:9005/play/a018",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTL.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "rtl::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlharom-hu-sd-8413",
+    "name": "RTL Harom",
+    "slug": "rtlharom-hu-sd-8413",
+    "logoUrl": "https://i.imgur.com/c4Hhhzs.png",
+    "streamUrl": "http://46.149.191.217:9005/play/a01t",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLHarom.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "rtl-harom::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtlketto-hu-sd-8414",
+    "name": "RTL Ketto",
+    "slug": "rtlketto-hu-sd-8414",
+    "logoUrl": "https://i.imgur.com/IVv0qrI.png",
+    "streamUrl": "http://46.149.191.217:9005/play/a01r",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTLKetto.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "rtl-ketto::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv2-hu-sd-10603",
+    "name": "TV2",
+    "slug": "tv2-hu-sd-10603",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png",
+    "streamUrl": "http://46.149.191.217:9005/play/a01q",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV2.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv2::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "m2petofi-hu-sd-5609",
+    "name": "M2 Petofi (720 p)",
+    "slug": "m2petofi-hu-sd-5609",
+    "logoUrl": "https://i.imgur.com/N7fc9X6.png",
+    "streamUrl": "http://46.149.191.217:9005/play/a016",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "M2Petofi.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "m2-petofi-720-p::hu::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hegyvidektv-hu-sd-4233",
+    "name": "Hegyvidek Tv Budapest",
+    "slug": "hegyvidektv-hu-sd-4233",
+    "logoUrl": "https://i.imgur.com/t5bw1J1.png",
+    "streamUrl": "https://tv.hegyvidek.hu/stream_mpeg.flv",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HegyvidekTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 59,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "hegyvidek-tv-budapest::hu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sport1-hu-sd-9341",
+    "name": "Sport 1",
+    "slug": "sport1-hu-sd-9341",
+    "logoUrl": "https://i.imgur.com/X5X3tKC.png",
+    "streamUrl": "http://46.149.191.217:9005/play/a017",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Sport1.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 62,
+      "badges": [
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "sport-1::hu::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

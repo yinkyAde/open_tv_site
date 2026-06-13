@@ -1,0 +1,156 @@
+[
+  {
+    "id": "vivotv-uy-sd-11561",
+    "name": "VIVO TV",
+    "slug": "vivotv-uy-sd-11561",
+    "logoUrl": "https://i.ibb.co/Drx6fgZ/Logo-white.png",
+    "streamUrl": "https://stream.vivotv.uy/hls/stream.m3u8",
+    "country": {
+      "code": "UY",
+      "name": "Uruguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "VIVOTV.uy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vivo-tv::uy::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ucl-uy-sd-11286",
+    "name": "UCL",
+    "slug": "ucl-uy-sd-11286",
+    "logoUrl": "https://i.imgur.com/BzQphbw.png",
+    "streamUrl": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "country": {
+      "code": "UY",
+      "name": "Uruguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "UCL.uy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ucl::uy::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dsportsuruguay-uy-sd-3135",
+    "name": "DSports Uruguay",
+    "slug": "dsportsuruguay-uy-sd-3135",
+    "logoUrl": "https://i.imgur.com/2PoEm1x.png",
+    "streamUrl": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
+    "country": {
+      "code": "UY",
+      "name": "Uruguay"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "DSportsUruguay.uy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dsports-uruguay::uy::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

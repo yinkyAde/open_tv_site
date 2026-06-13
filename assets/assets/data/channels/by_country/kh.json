@@ -1,0 +1,1554 @@
+[
+  {
+    "id": "msjtv-kh-sd-6143",
+    "name": "MSJ TV",
+    "slug": "msjtv-kh-sd-6143",
+    "logoUrl": "https://i.imgur.com/TilslGU.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/MSJTV_hd_playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MSJTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "msj-tv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://119.15.85.85:8989/hls/MSJHD.m3u8",
+        "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+        "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tv5cambodia-kh-sd-10631",
+    "name": "TV5 Cambodia",
+    "slug": "tv5cambodia-kh-sd-10631",
+    "logoUrl": "https://i.imgur.com/iMZLyoX.png",
+    "streamUrl": "https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV5Cambodia.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv5-cambodia::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ctv9-kh-sd-2704",
+    "name": "CTV 9",
+    "slug": "ctv9-kh-sd-2704",
+    "logoUrl": "https://i.imgur.com/jgVJt2G.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTV9.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctv-9::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nicetv-kh-sd-6587",
+    "name": "Nice TV",
+    "slug": "nicetv-kh-sd-6587",
+    "logoUrl": "https://i.imgur.com/6usooLc.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NiceTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nice-tv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onetvcinema2-kh-sd-6991",
+    "name": "One TV Cinema 2",
+    "slug": "onetvcinema2-kh-sd-6991",
+    "logoUrl": "https://i.imgur.com/H8PiAbA.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "OneTVCinema2.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-tv-cinema-2::kh::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onetvdrama3-kh-sd-6992",
+    "name": "One TV Drama 3",
+    "slug": "onetvdrama3-kh-sd-6992",
+    "logoUrl": "https://i.imgur.com/wHtqMqB.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "OneTVDrama3.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-tv-drama-3::kh::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onetveschoolcambodia-kh-sd-6993",
+    "name": "One TV E-School Cambodia",
+    "slug": "onetveschoolcambodia-kh-sd-6993",
+    "logoUrl": "https://i.imgur.com/wLzVdeT.png",
+    "streamUrl": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "OneTVESchoolCambodia.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-tv-e-school-cambodia::kh::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "seatv-kh-sd-8987",
+    "name": "SEATV",
+    "slug": "seatv-kh-sd-8987",
+    "logoUrl": "https://i.imgur.com/oZPorvg.png",
+    "streamUrl": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SEATV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "seatv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ardbtv-kh-sd-831",
+    "name": "ARDB TV",
+    "slug": "ardbtv-kh-sd-831",
+    "logoUrl": "https://i.imgur.com/yOncWla.png",
+    "streamUrl": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "ARDBTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ardb-tv::kh::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "apsaratv11-kh-sd-807",
+    "name": "Apsara TV11",
+    "slug": "apsaratv11-kh-sd-807",
+    "logoUrl": "https://i.imgur.com/9wJe71I.png",
+    "streamUrl": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ApsaraTV11.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "apsara-tv11::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "eacnewstv-kh-sd-3199",
+    "name": "EAC News TV",
+    "slug": "eacnewstv-kh-sd-3199",
+    "logoUrl": "https://i.imgur.com/EuYhS9Z.png",
+    "streamUrl": "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EACNewsTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eac-news-tv::kh::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://43.252.18.195:5080/LiveApp/streams/eacnews.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "hangmeashdtv-kh-sd-4174",
+    "name": "Hang Meas HDTV",
+    "slug": "hangmeashdtv-kh-sd-4174",
+    "logoUrl": "https://i.imgur.com/P8oOR8I.png",
+    "streamUrl": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HangMeasHDTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hang-meas-hdtv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "btvnews-kh-sd-1674",
+    "name": "BTV News",
+    "slug": "btvnews-kh-sd-1674",
+    "logoUrl": "https://i.imgur.com/sUHiRj3.png",
+    "streamUrl": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "BTVNews.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv-news::kh::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvk-kh-sd-10899",
+    "name": "TVK",
+    "slug": "tvk-kh-sd-10899",
+    "logoUrl": "https://i.imgur.com/5hPxjcl.png",
+    "streamUrl": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVK.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvk::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvk2-kh-sd-10898",
+    "name": "TVK 2",
+    "slug": "tvk2-kh-sd-10898",
+    "logoUrl": "https://i.imgur.com/L36ptO2.png",
+    "streamUrl": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "TVK2.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvk-2::kh::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wikitv-kh-sd-11760",
+    "name": "WIKI TV",
+    "slug": "wikitv-kh-sd-11760",
+    "logoUrl": "https://i.imgur.com/rnV0Ui1.png",
+    "streamUrl": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "WikiTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wiki-tv::kh::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebcgeneraleducation-kh-sd-3205",
+    "name": "EBC General Education",
+    "slug": "ebcgeneraleducation-kh-sd-3205",
+    "logoUrl": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+    "streamUrl": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "EBCGeneralEducation.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebc-general-education::kh::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rasmeyhangmeashdtv-kh-sd-8065",
+    "name": "Rasmey Hang Meas HDTV",
+    "slug": "rasmeyhangmeashdtv-kh-sd-8065",
+    "logoUrl": "https://i.imgur.com/EcqEMMg.png",
+    "streamUrl": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RasmeyHangMeasHDTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rasmey-hang-meas-hdtv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ntv-kh-sd-6795",
+    "name": "NTV",
+    "slug": "ntv-kh-sd-6795",
+    "logoUrl": "https://i.imgur.com/SoBhuIb.png",
+    "streamUrl": "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bayontv-kh-sd-1150",
+    "name": "Bayon TV",
+    "slug": "bayontv-kh-sd-1150",
+    "logoUrl": "https://i.imgur.com/Gry2KEN.jpg",
+    "streamUrl": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BayonTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bayon-tv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "citvchannel-kh-sd-2403",
+    "name": "CITV Channel",
+    "slug": "citvchannel-kh-sd-2403",
+    "logoUrl": "https://i.imgur.com/BxVXPag.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CITVChannel.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "citv-channel::kh::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnc-kh-sd-2516",
+    "name": "CNC",
+    "slug": "cnc-kh-sd-2516",
+    "logoUrl": "https://i.imgur.com/J8YLi0C.png",
+    "streamUrl": "http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CNC.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnc::kh::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctn-kh-sd-2695",
+    "name": "CTN",
+    "slug": "ctn-kh-sd-2695",
+    "logoUrl": "https://i.imgur.com/r523kOq.png",
+    "streamUrl": "http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTN.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctn::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctv8hd-kh-sd-2703",
+    "name": "CTV8 HD",
+    "slug": "ctv8hd-kh-sd-2703",
+    "logoUrl": "https://i.imgur.com/yrdr4Po.png",
+    "streamUrl": "http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTV8HD.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ctv8::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "freshnews-kh-sd-3813",
+    "name": "Fresh News",
+    "slug": "freshnews-kh-sd-3813",
+    "logoUrl": "https://i.imgur.com/bV6sawt.png",
+    "streamUrl": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "FreshNews.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fresh-news::kh::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moitv-kh-sd-6044",
+    "name": "MOI TV",
+    "slug": "moitv-kh-sd-6044",
+    "logoUrl": "https://i.imgur.com/fbI2ybo.png",
+    "streamUrl": "http://202.62.56.22:8080/hls/MOITV.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "MOITV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "moi-tv::kh::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mytv-kh-sd-6307",
+    "name": "My TV",
+    "slug": "mytv-kh-sd-6307",
+    "logoUrl": "https://i.imgur.com/lhxRefQ.png",
+    "streamUrl": "http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MyTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "my-tv::kh::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "towntv-kh-sd-10452",
+    "name": "Town TV",
+    "slug": "towntv-kh-sd-10452",
+    "logoUrl": "https://i.imgur.com/9fUGvVG.png",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TownTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "town-tv::kh::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "komsantv-kh-sd-5189",
+    "name": "Komsan TV",
+    "slug": "komsantv-kh-sd-5189",
+    "logoUrl": "https://i.imgur.com/SNTf2r3.png",
+    "streamUrl": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "KomsanTV.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "komsan-tv::kh::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dmusic-kh-sd-3051",
+    "name": "D Music",
+    "slug": "dmusic-kh-sd-3051",
+    "logoUrl": "",
+    "streamUrl": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+    "country": {
+      "code": "KH",
+      "name": "Cambodia"
+    },
+    "languages": [
+      "khm"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "DMusic.kh",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 75,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "d-music::kh::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

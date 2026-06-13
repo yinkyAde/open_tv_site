@@ -1,0 +1,2143 @@
+[
+  {
+    "id": "redbulltv-at-eumena-8138",
+    "name": "Red Bull TV",
+    "slug": "redbulltv-at-eumena-8138",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8",
+        "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+        "https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8",
+        "https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8",
+        "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "redbulltv-at-br-8131",
+    "name": "Red Bull TV BR",
+    "slug": "redbulltv-at-br-8131",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv-br::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "redbulltv-at-de-8133",
+    "name": "Red Bull TV DE",
+    "slug": "redbulltv-at-de-8133",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv-de::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+        "https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "redbulltv-at-es-8136",
+    "name": "Red Bull TV ES",
+    "slug": "redbulltv-at-es-8136",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv-es::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-67813f893886aa863497733d.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "redbulltv-at-uk-8143",
+    "name": "Red Bull TV UK",
+    "slug": "redbulltv-at-uk-8143",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv-uk::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "okto-at-sd-6912",
+    "name": "Okto TV",
+    "slug": "okto-at-sd-6912",
+    "logoUrl": "https://i.imgur.com/9XfhgbS.png",
+    "streamUrl": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Okto.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "okto-tv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orf2wien-at-sd-7026",
+    "name": "ORF 2 Wien",
+    "slug": "orf2wien-at-sd-7026",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png",
+    "streamUrl": "http://79.127.207.193/ORF2/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ORF2Wien.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orf-2-wien::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redbulltv-at-au-8130",
+    "name": "Red Bull TV AU",
+    "slug": "redbulltv-at-au-8130",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv-au::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redbulltv-at-us-8146",
+    "name": "Red Bull TV US",
+    "slug": "redbulltv-at-us-8146",
+    "logoUrl": "https://i.postimg.cc/8c78JM28/image.png",
+    "streamUrl": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RedBullTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-bull-tv-us::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kronehit-at-sd-5217",
+    "name": "Kronehit",
+    "slug": "kronehit-at-sd-5217",
+    "logoUrl": "https://i.imgur.com/dQJQv1X.png",
+    "streamUrl": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Kronehit.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kronehit::at::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "steiermarktv-at-sd-9447",
+    "name": "Steiermark TV",
+    "slug": "steiermarktv-at-sd-9447",
+    "logoUrl": "https://i.imgur.com/AJrUPze.png",
+    "streamUrl": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SteiermarkTV.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "steiermark-tv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv1oberosterreich-at-sd-10601",
+    "name": "TV 1 Oberösterreich",
+    "slug": "tv1oberosterreich-at-sd-10601",
+    "logoUrl": "https://i.imgur.com/KbMkEIn.png",
+    "streamUrl": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV1Oberosterreich.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-1-ober-sterreich::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "landletv-at-sd-5351",
+    "name": "Ländle TV",
+    "slug": "landletv-at-sd-5351",
+    "logoUrl": "https://i.imgur.com/omLVQ4r.png",
+    "streamUrl": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LandleTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "l-ndle-tv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "servustv-at-sd-9013",
+    "name": "ServusTV",
+    "slug": "servustv-at-sd-9013",
+    "logoUrl": "https://i.imgur.com/6W637Gn.png",
+    "streamUrl": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "ServusTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "servustv::at::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtv-at-sd-8477",
+    "name": "RTV",
+    "slug": "rtv-at-sd-8477",
+    "logoUrl": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",
+    "streamUrl": "http://iptv.rtv-ooe.at/stream.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTV.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "swamijitvamerican-at-sd-9653",
+    "name": "Swamiji TV American",
+    "slug": "swamijitvamerican-at-sd-9653",
+    "logoUrl": "https://i.imgur.com/nrLcuzs.png",
+    "streamUrl": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SwamijiTVAmerican.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "swamiji-tv-american::at::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "swamijitvaustralian-at-sd-9654",
+    "name": "Swamiji TV Australian",
+    "slug": "swamijitvaustralian-at-sd-9654",
+    "logoUrl": "https://i.imgur.com/nrLcuzs.png",
+    "streamUrl": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SwamijiTVAustralian.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "swamiji-tv-australian::at::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "swamijitveuropean-at-sd-9655",
+    "name": "Swamiji TV European",
+    "slug": "swamijitveuropean-at-sd-9655",
+    "logoUrl": "https://i.imgur.com/nrLcuzs.png",
+    "streamUrl": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "SwamijiTVEuropean.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "swamiji-tv-european::at::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hitradioo3-at-sd-4306",
+    "name": "Hitradio O3",
+    "slug": "hitradioo3-at-sd-4306",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png",
+    "streamUrl": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HitradioO3.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hitradio-o3::at::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "comedycentral-at-sd-2570",
+    "name": "Comedy Central",
+    "slug": "comedycentral-at-sd-2570",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/33/Comedy_Central_Austria_2018.svg",
+    "streamUrl": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentral.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central::at::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktv-at-sd-5249",
+    "name": "K-TV",
+    "slug": "ktv-at-sd-5249",
+    "logoUrl": "https://i.imgur.com/RYbR4Sf.png",
+    "streamUrl": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "k-tv::at::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orf2-at-hd-7025",
+    "name": "ORF 2",
+    "slug": "orf2-at-hd-7025",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg",
+    "streamUrl": "https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "ORF2.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orf-2::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orfiii-at-hd-7027",
+    "name": "ORF III HD",
+    "slug": "orfiii-at-hd-7027",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png",
+    "streamUrl": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "ORFIII.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "orf-iii::at::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antennekaernten-at-sd-771",
+    "name": "Antenne Kaernten",
+    "slug": "antennekaernten-at-sd-771",
+    "logoUrl": "https://i.imgur.com/nUKFDsb.jpeg",
+    "streamUrl": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AntenneKaernten.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antenne-kaernten::at::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antennesteiermark-at-sd-773",
+    "name": "Antenne Steiermark",
+    "slug": "antennesteiermark-at-sd-773",
+    "logoUrl": "https://i.imgur.com/qnappvd.jpeg",
+    "streamUrl": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AntenneSteiermark.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antenne-steiermark::at::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kittv-at-sd-5136",
+    "name": "KIT-TV",
+    "slug": "kittv-at-sd-5136",
+    "logoUrl": "https://i.imgur.com/5rDo1Za.png",
+    "streamUrl": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KITTV.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kit-tv::at::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "schladmingdachsteintv-at-sd-8963",
+    "name": "Schladming-Dachstein TV",
+    "slug": "schladmingdachsteintv-at-sd-8963",
+    "logoUrl": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+    "streamUrl": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "SchladmingDachsteinTV.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "schladming-dachstein-tv::at::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hitradioo3-at-sd-4307",
+    "name": "Hitradio Ö3",
+    "slug": "hitradioo3-at-sd-4307",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png",
+    "streamUrl": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "HitradioO3.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hitradio-3::at::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "r9-at-sd-7840",
+    "name": "R9",
+    "slug": "r9-at-sd-7840",
+    "logoUrl": "https://i.imgur.com/SVJiXxh.png",
+    "streamUrl": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "R9.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r9::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tiroltv-at-sd-10319",
+    "name": "Tirol TV",
+    "slug": "tiroltv-at-sd-10319",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png",
+    "streamUrl": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TirolTV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tirol-tv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "w24-at-sd-11632",
+    "name": "W24",
+    "slug": "w24-at-sd-11632",
+    "logoUrl": "https://i.imgur.com/FpVNrxk.png",
+    "streamUrl": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "W24.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "w24::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antennevorarlberg-at-sd-774",
+    "name": "Antenne Vorarlberg",
+    "slug": "antennevorarlberg-at-sd-774",
+    "logoUrl": "https://i.imgur.com/GW750Zc.png",
+    "streamUrl": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "AntenneVorarlberg.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antenne-vorarlberg::at::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "fs1salzburg-at-sd-3820",
+    "name": "FS1 Salzburg",
+    "slug": "fs1salzburg-at-sd-3820",
+    "logoUrl": "https://i.imgur.com/74gMaPK.png",
+    "streamUrl": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FS1Salzburg.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fs1-salzburg::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.fs1.tv/hls/webstream.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "p3tv-at-sd-7087",
+    "name": "P3tv",
+    "slug": "p3tv-at-sd-7087",
+    "logoUrl": "https://i.imgur.com/qUOFiEe.png",
+    "streamUrl": "http://p3-6.mov.at:1935/live/weekstream/master.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "P3tv.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "p3tv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "upperabalkan-at-sd-11364",
+    "name": "Uppera Balkan",
+    "slug": "upperabalkan-at-sd-11364",
+    "logoUrl": "https://i.imgur.com/eqcmi5G.png",
+    "streamUrl": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UpperaBalkan.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uppera-balkan::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "k19-at-sd-4926",
+    "name": "K19",
+    "slug": "k19-at-sd-4926",
+    "logoUrl": "https://i.imgur.com/l4atkvs.png",
+    "streamUrl": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "K19.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "k19::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "balkanradiosalzburg-at-sd-1117",
+    "name": "Balkan Radio Salzburg",
+    "slug": "balkanradiosalzburg-at-sd-1117",
+    "logoUrl": "https://i.imgur.com/UDyxgXf.png",
+    "streamUrl": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "srp"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BalkanRadioSalzburg.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "balkan-radio-salzburg::at::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thecyclingchannel-at-sd-10162",
+    "name": "The Cycling Channel",
+    "slug": "thecyclingchannel-at-sd-10162",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s",
+    "streamUrl": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TheCyclingChannel.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-cycling-channel::at::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "stimmungsgartentv-at-sd-9451",
+    "name": "Stimmungsgarten TV",
+    "slug": "stimmungsgartentv-at-sd-9451",
+    "logoUrl": "",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "StimmungsgartenTV.at",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "stimmungsgarten-tv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atv-at-hd-973",
+    "name": "ATV HD",
+    "slug": "atv-at-hd-973",
+    "logoUrl": "https://i.imgur.com/1pA0Tid.png",
+    "streamUrl": "http://212.186.45.34:9981/stream/channelid/692531719?profile=pass",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATV.at",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "atv::at::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "orfkids-at-sd-7028",
+    "name": "ORF Kids",
+    "slug": "orfkids-at-sd-7028",
+    "logoUrl": "https://i.imgur.com/Zxuah2b.png",
+    "streamUrl": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ORFKids.at",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 66,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "orf-kids::at::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

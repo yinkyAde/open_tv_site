@@ -1,0 +1,472 @@
+[
+  {
+    "id": "prensalatinatv-cu-sd-7663",
+    "name": "Prensa Latina TV",
+    "slug": "prensalatinatv-cu-sd-7663",
+    "logoUrl": "https://i.imgur.com/jbm2S9O.jpg",
+    "streamUrl": "https://eu1.servers10.com:8081/8192/index.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "PrensaLatinaTV.cu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "prensa-latina-tv::cu::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cubavision-cu-sd-2712",
+    "name": "Cubavision HD",
+    "slug": "cubavision-cu-sd-2712",
+    "logoUrl": "https://i.imgur.com/ki9ipMU.png",
+    "streamUrl": "https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Cubavision.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cubavision::cu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://tv.picta.cu/cubavision/cubavision_0.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cubavisioninternacional-cu-sd-2713",
+    "name": "Cubavision Internacional",
+    "slug": "cubavisioninternacional-cu-sd-2713",
+    "logoUrl": "https://i.imgur.com/0ZHm9f6.png",
+    "streamUrl": "https://tv.picta.cu/cvi/cvi_0.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CubavisionInternacional.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cubavision-internacional::cu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalclave-cu-sd-1878",
+    "name": "Canal Clave",
+    "slug": "canalclave-cu-sd-1878",
+    "logoUrl": "https://i.imgur.com/7tMkA4Z.png",
+    "streamUrl": "https://tv.picta.cu/clave/clave_0.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "CanalClave.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-clave::cu::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaleducativo-cu-sd-1902",
+    "name": "Canal Educativo",
+    "slug": "canaleducativo-cu-sd-1902",
+    "logoUrl": "https://i.imgur.com/huBxZpP.png",
+    "streamUrl": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "CanalEducativo.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-educativo::cu::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canaleducativo2-cu-sd-1901",
+    "name": "Canal Educativo 2",
+    "slug": "canaleducativo2-cu-sd-1901",
+    "logoUrl": "https://i.imgur.com/nOl3H5X.png",
+    "streamUrl": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "CanalEducativo2.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-educativo-2::cu::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalhabana-cu-sd-1906",
+    "name": "Canal Habana",
+    "slug": "canalhabana-cu-sd-1906",
+    "logoUrl": "https://i.imgur.com/0EUc52w.png",
+    "streamUrl": "https://tv.picta.cu/infantil/infantil_0.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalHabana.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-habana::cu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multivision-cu-sd-6240",
+    "name": "Multivision",
+    "slug": "multivision-cu-sd-6240",
+    "logoUrl": "https://i.imgur.com/wBX0GNs.png",
+    "streamUrl": "https://tv.picta.cu/multivision/multivision_1.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Multivision.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multivision::cu::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telerebelde-cu-sd-9988",
+    "name": "Tele Rebelde",
+    "slug": "telerebelde-cu-sd-9988",
+    "logoUrl": "https://i.imgur.com/M6wZzuz.png",
+    "streamUrl": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
+    "country": {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TeleRebelde.cu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-rebelde::cu::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

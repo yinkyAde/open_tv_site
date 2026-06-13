@@ -1,0 +1,363 @@
+[
+  {
+    "id": "981pearlfm-sx-sd-178",
+    "name": "98.1 Pearl FM",
+    "slug": "981pearlfm-sx-sd-178",
+    "logoUrl": "https://i.imgur.com/GY750xh.jpg",
+    "streamUrl": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "981PearlFM.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "98-1-pearl-fm::sx::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv15-sx-sd-10686",
+    "name": "TV15",
+    "slug": "tv15-sx-sd-10686",
+    "logoUrl": "https://i.imgur.com/2taY722.png",
+    "streamUrl": "http://198.255.80.170/FTX9_SXM-TV/index.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV15.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv15::sx::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcarib-sx-sd-10775",
+    "name": "TVCARiB",
+    "slug": "tvcarib-sx-sd-10775",
+    "logoUrl": "https://i.imgur.com/fvGlwKo.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVCARiB.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcarib::sx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcaribcinema-sx-sd-10776",
+    "name": "TVCARiB Cinema",
+    "slug": "tvcaribcinema-sx-sd-10776",
+    "logoUrl": "https://i.imgur.com/fvGlwKo.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "nld",
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "TVCARiBCinema.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcarib-cinema::sx::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcaribkidsteens-sx-sd-10778",
+    "name": "TVCARiB Kids & Teens",
+    "slug": "tvcaribkidsteens-sx-sd-10778",
+    "logoUrl": "https://i.imgur.com/fvGlwKo.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "nld",
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "TVCARiBKidsTeens.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcarib-kids-teens::sx::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcariblatino-sx-sd-10779",
+    "name": "TVCARiB Latino",
+    "slug": "tvcariblatino-sx-sd-10779",
+    "logoUrl": "https://i.imgur.com/fvGlwKo.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVCARiBLatino.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcarib-latino::sx::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcaribgospel-sx-sd-10777",
+    "name": "TVCARiB Gospel",
+    "slug": "tvcaribgospel-sx-sd-10777",
+    "logoUrl": "https://i.imgur.com/fvGlwKo.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+    "country": {
+      "code": "SX",
+      "name": "Sint Maarten"
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVCARiBGospel.sx",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvcarib-gospel::sx::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "syriatv-sy-sd-9692",
+    "name": "Syria TV",
+    "slug": "syriatv-sy-sd-9692",
+    "logoUrl": "https://i.imgur.com/FjuVuXF.jpeg",
+    "streamUrl": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SyriaTV.sy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "syria-tv::sy::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+        "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "alsouriyatv-sy-hd-594",
+    "name": "Al-Souriya TV",
+    "slug": "alsouriyatv-sy-hd-594",
+    "logoUrl": "https://i.imgur.com/8FILgXT.jpeg",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Family",
+    "epg": {
+      "id": "AlSouriyaTV.sy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-souriya-tv::sy::family",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "halabtodaytv-sy-sd-4160",
+    "name": "Halab Today TV",
+    "slug": "halabtodaytv-sy-sd-4160",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+    "streamUrl": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HalabTodayTV.sy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "halab-today-tv::sy::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alalamnewschannelsyria-sy-sd-412",
+    "name": "Alalam News Channel Syria",
+    "slug": "alalamnewschannelsyria-sy-sd-412",
+    "logoUrl": "https://i.imgur.com/WQKYPKD.png",
+    "streamUrl": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "AlalamNewsChannelSyria.sy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alalam-news-channel-syria::sy::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "althania-sy-sd-605",
+    "name": "Althania",
+    "slug": "althania-sy-sd-605",
+    "logoUrl": "",
+    "streamUrl": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Althania.sy",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "althania::sy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rojavatv-sy-sd-8306",
+    "name": "Rojava TV",
+    "slug": "rojavatv-sy-sd-8306",
+    "logoUrl": "https://i.imgur.com/42noysO.png",
+    "streamUrl": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara",
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RojavaTV.sy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rojava-tv::sy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ronahitv-sy-sd-8310",
+    "name": "Ronahi TV",
+    "slug": "ronahitv-sy-sd-8310",
+    "logoUrl": "https://i.imgur.com/JSvJpD8.png",
+    "streamUrl": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara",
+      "kur"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RonahiTV.sy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ronahi-tv::sy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "syriaone-sy-hd-9691",
+    "name": "Syria One",
+    "slug": "syriaone-sy-hd-9691",
+    "logoUrl": "https://tv.syriaone.tv/SyriaONETVB.png",
+    "streamUrl": "https://live.syriaone.tv/live/syriaone.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SyriaOne.sy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "syria-one::sy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "welattv-sy-hd-11723",
+    "name": "Welat TV",
+    "slug": "welattv-sy-hd-11723",
+    "logoUrl": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+    "streamUrl": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "WelatTV.sy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "welat-tv::sy::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "damascusradio-sy-sd-2755",
+    "name": "Damascus Radio",
+    "slug": "damascusradio-sy-sd-2755",
+    "logoUrl": "",
+    "streamUrl": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
+    "country": {
+      "code": "SY",
+      "name": "Syria"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DamascusRadio.sy",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "damascus-radio::sy::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

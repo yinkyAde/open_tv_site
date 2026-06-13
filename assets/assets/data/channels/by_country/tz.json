@@ -1,0 +1,357 @@
+[
+  {
+    "id": "tbc1-tz-hd-9776",
+    "name": "TBC1",
+    "slug": "tbc1-tz-hd-9776",
+    "logoUrl": "https://i.imgur.com/OmiVZ1u.png",
+    "streamUrl": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "TBC1.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tbc1::tz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tbc2-tz-hd-9777",
+    "name": "TBC2",
+    "slug": "tbc2-tz-hd-9777",
+    "logoUrl": "https://i.imgur.com/VkUJt2q.png",
+    "streamUrl": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TBC2.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tbc2::tz::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "africatv2-tz-sd-355",
+    "name": "Africa TV 2",
+    "slug": "africatv2-tz-sd-355",
+    "logoUrl": "https://i.imgur.com/GXa37c7.png",
+    "streamUrl": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [
+      "swa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AfricaTV2.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "africa-tv-2::tz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ibntvafrica-tz-sd-4481",
+    "name": "IBN TV Africa",
+    "slug": "ibntvafrica-tz-sd-4481",
+    "logoUrl": "https://i.imgur.com/eKy2ocd.png",
+    "streamUrl": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IBNTVAfrica.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ibn-tv-africa::tz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ibntv-tz-sd-4480",
+    "name": "IBN TV",
+    "slug": "ibntv-tz-sd-4480",
+    "logoUrl": "https://i.imgur.com/hkV51ij.png",
+    "streamUrl": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IBNTV.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ibn-tv::tz::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tanzaniasafarichannel-tz-sd-9742",
+    "name": "Tanzania Safari Channel",
+    "slug": "tanzaniasafarichannel-tz-sd-9742",
+    "logoUrl": "https://i.imgur.com/fcLFYhn.png",
+    "streamUrl": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "category": "Travel",
+    "epg": {
+      "id": "TanzaniaSafariChannel.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tanzania-safari-channel::tz::travel",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dodomatv-tz-sd-3069",
+    "name": "Dodoma TV",
+    "slug": "dodomatv-tz-sd-3069",
+    "logoUrl": "https://i.imgur.com/bLq9eFa.png",
+    "streamUrl": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
+    "country": {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    "languages": [
+      "swa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DodomaTV.tz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dodoma-tv::tz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "qtvgambia-gm-sd-7807",
+    "name": "QTV Gambia",
+    "slug": "qtvgambia-gm-sd-7807",
+    "logoUrl": "https://i.imgur.com/ZsTuADb.png",
+    "streamUrl": "https://player.qtv.gm/hls/live.stream.m3u8",
+    "country": {
+      "code": "GM",
+      "name": "Gambia"
+    },
+    "languages": [
+      "eng",
+      "fuc",
+      "mnk",
+      "wol"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "QTVGambia.gm",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qtv-gambia::gm::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

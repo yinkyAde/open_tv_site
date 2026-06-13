@@ -1,0 +1,4336 @@
+[
+  {
+    "id": "makrodigitaltelevision-ec-sd-5670",
+    "name": "MakroDigital Television",
+    "slug": "makrodigitaltelevision-ec-sd-5670",
+    "logoUrl": "https://makrodigitaltelevision.com/logo.jpg",
+    "streamUrl": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MakroDigitalTelevision.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "makrodigital-television::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "teleamazonas-ec-sd-9832",
+    "name": "Teleamazonas",
+    "slug": "teleamazonas-ec-sd-9832",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "streamUrl": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "Teleamazonas.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleamazonas::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americaestereoquito-ec-sd-635",
+    "name": "América Estéreo Quito",
+    "slug": "americaestereoquito-ec-sd-635",
+    "logoUrl": "https://i.imgur.com/gUqKymM.png",
+    "streamUrl": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaEstereoQuito.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "am-rica-est-reo-quito::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "australtv-ec-sd-1011",
+    "name": "Austral TV",
+    "slug": "australtv-ec-sd-1011",
+    "logoUrl": "https://i.imgur.com/zgGuCYL.png",
+    "streamUrl": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AustralTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "austral-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "coloradosvisiontv-ec-sd-2539",
+    "name": "Colorados Visión TV",
+    "slug": "coloradosvisiontv-ec-sd-2539",
+    "logoUrl": "https://i.imgur.com/vfCTmZv.png",
+    "streamUrl": "http://177.234.247.66:9975/ColoradosTV/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ColoradosVisionTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "colorados-visi-n-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elsolnetworktv-ec-sd-3296",
+    "name": "El Sol Network TV",
+    "slug": "elsolnetworktv-ec-sd-3296",
+    "logoUrl": "https://i.imgur.com/TIH3zlP.png",
+    "streamUrl": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ElSolNetworkTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-sol-network-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fmmundo-ec-sd-3707",
+    "name": "FM Mundo",
+    "slug": "fmmundo-ec-sd-3707",
+    "logoUrl": "https://i.imgur.com/1nNnYQO.png",
+    "streamUrl": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "FMMundo.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fm-mundo::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "infinitatv-ec-sd-4593",
+    "name": "Infinita TV",
+    "slug": "infinitatv-ec-sd-4593",
+    "logoUrl": "https://i.imgur.com/1nHxdkR.png",
+    "streamUrl": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "InfinitaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "infinita-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kasterweymedia-ec-hd-5021",
+    "name": "Kasterwey Media",
+    "slug": "kasterweymedia-ec-hd-5021",
+    "logoUrl": "https://kasterweymedia.com/wp-content/uploads/2026/05/favicon.png",
+    "streamUrl": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "KasterweyMedia.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kasterwey-media::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kchtv-ec-sd-5044",
+    "name": "KCHTV",
+    "slug": "kchtv-ec-sd-5044",
+    "logoUrl": "https://i.imgur.com/CwQmZm7.jpeg",
+    "streamUrl": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KCHTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kchtv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lanuevaradiotv977-ec-sd-5356",
+    "name": "La Nueva Radio TV 97.7",
+    "slug": "lanuevaradiotv977-ec-sd-5356",
+    "logoUrl": "https://i.imgur.com/19FN4Lp.png",
+    "streamUrl": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "LaNuevaRadioTV977.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-nueva-radio-tv-97-7::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "marcatv-ec-sd-5707",
+    "name": "Marca TV",
+    "slug": "marcatv-ec-sd-5707",
+    "logoUrl": "https://i.imgur.com/ez1NxwJ.jpg",
+    "streamUrl": "http://200.7.219.221:8088/live/livetv/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MarcaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "marca-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "magicatv-ec-sd-5636",
+    "name": "Mágica Tv",
+    "slug": "magicatv-ec-sd-5636",
+    "logoUrl": "https://i.imgur.com/h4FQuIz.jpg",
+    "streamUrl": "https://magicatv.4pu.com/hls/stream.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MagicaTv.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-gica-tv::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "puruwatv-ec-sd-7767",
+    "name": "Puruwa TV",
+    "slug": "puruwatv-ec-sd-7767",
+    "logoUrl": "https://i.imgur.com/CYldC2R.png",
+    "streamUrl": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PuruwaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "puruwa-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiofantastica989fm-ec-sd-7883",
+    "name": "Radio Fantástica 98.9 FM",
+    "slug": "radiofantastica989fm-ec-sd-7883",
+    "logoUrl": "https://i.imgur.com/mpcIbrH.jpg",
+    "streamUrl": "http://190.107.232.9:8082/livestream/stream.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioFantastica989FM.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-fant-stica-98-9-fm::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtrtv-ec-sd-8451",
+    "name": "RTRTV",
+    "slug": "rtrtv-ec-sd-8451",
+    "logoUrl": "https://i.imgur.com/dvP2yqB.png",
+    "streamUrl": "https://tv3ecuador.site/hls/stream/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTRTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtrtv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "senalpositivatv-ec-sd-8999",
+    "name": "Señal Positiva TV",
+    "slug": "senalpositivatv-ec-sd-8999",
+    "logoUrl": "https://i.imgur.com/flbMpMP.png",
+    "streamUrl": "https://eu1.servers10.com:8081/8108/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "SenalPositivaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "se-al-positiva-tv::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telepremierplus-ec-sd-9976",
+    "name": "Telepremier Plus",
+    "slug": "telepremierplus-ec-sd-9976",
+    "logoUrl": "https://i.imgur.com/F7ZPcvb.png",
+    "streamUrl": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TelepremierPlus.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telepremier-plus::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcisne-ec-sd-10801",
+    "name": "TV Cisne",
+    "slug": "tvcisne-ec-sd-10801",
+    "logoUrl": "https://i.imgur.com/xIuFSnx.png",
+    "streamUrl": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCisne.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-cisne::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unsiontv-ec-sd-11354",
+    "name": "Unsion TV",
+    "slug": "unsiontv-ec-sd-11354",
+    "logoUrl": "https://i.imgur.com/HQGBqGU.png",
+    "streamUrl": "http://provedores.unsion.tv:8081/srt/1/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UnsionTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unsion-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vitotvo-ec-sd-11554",
+    "name": "VitoTVO",
+    "slug": "vitotvo-ec-sd-11554",
+    "logoUrl": "https://i.imgur.com/QoJ2gD0.png",
+    "streamUrl": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VitoTVO.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vitotvo::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecuavisa-ec-guayaquil-3234",
+    "name": "Ecuavisa Guayaquil",
+    "slug": "ecuavisa-ec-guayaquil-3234",
+    "logoUrl": "https://i.imgur.com/Hl5wowk.png",
+    "streamUrl": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Ecuavisa.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecuavisa-guayaquil::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecuavisa-ec-quito-3235",
+    "name": "Ecuavisa Quito",
+    "slug": "ecuavisa-ec-quito-3235",
+    "logoUrl": "https://i.imgur.com/Hl5wowk.png",
+    "streamUrl": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Ecuavisa.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecuavisa-quito::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "intitv-ec-sd-4621",
+    "name": "Inti TV",
+    "slug": "intitv-ec-sd-4621",
+    "logoUrl": "https://i.imgur.com/2WirGqb.png",
+    "streamUrl": "https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "IntiTV.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "inti-tv::ec::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleamazonas-ec-quito-9831",
+    "name": "Teleamazonas Quito",
+    "slug": "teleamazonas-ec-quito-9831",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "streamUrl": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Teleamazonas.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teleamazonas-quito::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hechosecuador-ec-sd-4232",
+    "name": "Hechos Ecuador",
+    "slug": "hechosecuador-ec-sd-4232",
+    "logoUrl": "https://i.imgur.com/koMQZNX.png",
+    "streamUrl": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HechosEcuador.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hechos-ecuador::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtu-ec-sd-8468",
+    "name": "RTU",
+    "slug": "rtu-ec-sd-8468",
+    "logoUrl": "https://i.imgur.com/1OWvMP4.png",
+    "streamUrl": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RTU.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtu::ec::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlegislativa-ec-sd-10911",
+    "name": "TV Legislativa",
+    "slug": "tvlegislativa-ec-sd-10911",
+    "logoUrl": "https://i.imgur.com/3Y6Lp5l.png",
+    "streamUrl": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "TVLegislativa.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-legislativa::ec::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zaracaytv-ec-sd-12097",
+    "name": "Zaracay TV",
+    "slug": "zaracaytv-ec-sd-12097",
+    "logoUrl": "https://i.imgur.com/6q0Gp9R.png",
+    "streamUrl": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZaracayTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zaracay-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecuadortv-ec-sd-3232",
+    "name": "Ecuador TV",
+    "slug": "ecuadortv-ec-sd-3232",
+    "logoUrl": "https://i.imgur.com/hj6EYwe.png",
+    "streamUrl": "https://samson.streamerr.co:8081/shogun/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "EcuadorTV.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecuador-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americaestereoibarra-ec-sd-634",
+    "name": "América Estéreo Ibarra",
+    "slug": "americaestereoibarra-ec-sd-634",
+    "logoUrl": "https://i.imgur.com/gUqKymM.png",
+    "streamUrl": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaEstereoIbarra.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "am-rica-est-reo-ibarra::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalsur-ec-sd-1944",
+    "name": "Canal Sur",
+    "slug": "canalsur-ec-sd-1944",
+    "logoUrl": "https://i.imgur.com/LMoIpU2.jpg",
+    "streamUrl": "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanalSur.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-sur::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "curiquinguetv-ec-sd-2722",
+    "name": "Curiquingue TV",
+    "slug": "curiquinguetv-ec-sd-2722",
+    "logoUrl": "https://i.imgur.com/oukGx28.png",
+    "streamUrl": "https://video2.lhdserver.es/pjtv/live.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CuriquingueTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "curiquingue-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecoteltv-ec-sd-3230",
+    "name": "Ecotel TV",
+    "slug": "ecoteltv-ec-sd-3230",
+    "logoUrl": "https://i.imgur.com/pVlZUSV.png",
+    "streamUrl": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EcotelTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecotel-tv::ec::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ieanjesusecuador-ec-sd-4511",
+    "name": "IeanJesus Ecuador",
+    "slug": "ieanjesusecuador-ec-sd-4511",
+    "logoUrl": "https://i.imgur.com/TyckDSV.png",
+    "streamUrl": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "IeanJesusEcuador.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ieanjesus-ecuador::ec::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "imperiotvcanal6-ec-sd-4549",
+    "name": "Imperio TV Canal 6",
+    "slug": "imperiotvcanal6-ec-sd-4549",
+    "logoUrl": "https://i.imgur.com/NrsNljx.png",
+    "streamUrl": "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ImperioTVCanal6.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "imperio-tv-canal-6::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "loretotv-ec-sd-5537",
+    "name": "Loreto TV",
+    "slug": "loretotv-ec-sd-5537",
+    "logoUrl": "https://i.imgur.com/3qGSAT3.png",
+    "streamUrl": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LoretoTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "loreto-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "majestadtelevision-ec-sd-5659",
+    "name": "Majestad Televisión",
+    "slug": "majestadtelevision-ec-sd-5659",
+    "logoUrl": "https://i.imgur.com/d1GWRnm.png",
+    "streamUrl": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MajestadTelevision.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "majestad-televisi-n::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "metropolimediostv-ec-sd-5885",
+    "name": "Metropoli Medios TV",
+    "slug": "metropolimediostv-ec-sd-5885",
+    "logoUrl": "https://i.imgur.com/yID5T2S.jpg",
+    "streamUrl": "https://eu1.servers10.com:8081/8214/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MetropoliMediosTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "metropoli-medios-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nortvision-ec-sd-6670",
+    "name": "Nortvisión",
+    "slug": "nortvision-ec-sd-6670",
+    "logoUrl": "https://i.imgur.com/MLzcPgT.jpg",
+    "streamUrl": "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Nortvision.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nortvisi-n::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oromartv-ec-sd-7030",
+    "name": "Oromar TV",
+    "slug": "oromartv-ec-sd-7030",
+    "logoUrl": "https://i.imgur.com/j5Vvxd5.png",
+    "streamUrl": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OromarTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oromar-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pjdigitalradiotv-ec-sd-7289",
+    "name": "PJ Digital Radio TV",
+    "slug": "pjdigitalradiotv-ec-sd-7289",
+    "logoUrl": "https://i.imgur.com/m92oDuB.png",
+    "streamUrl": "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "PJDigitalRadioTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pj-digital-radio-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioalegria985fm-ec-sd-7868",
+    "name": "Radio Alegria 98.5 FM",
+    "slug": "radioalegria985fm-ec-sd-7868",
+    "logoUrl": "https://i.imgur.com/N00aS3x.png",
+    "streamUrl": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioAlegria985FM.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-alegria-98-5-fm::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiobonita1067-ec-sd-7872",
+    "name": "Radio Bonita 106.7",
+    "slug": "radiobonita1067-ec-sd-7872",
+    "logoUrl": "https://i.imgur.com/IvZtqyz.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioBonita1067.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-bonita-106-7::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiocuencaestereo-ec-sd-7880",
+    "name": "Radio Cuenca Estéreo",
+    "slug": "radiocuencaestereo-ec-sd-7880",
+    "logoUrl": "https://i.imgur.com/qZzSOeU.png",
+    "streamUrl": "https://eu1.servers10.com:8081/8074/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioCuencaEstereo.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-cuenca-est-reo::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sonoondatv-ec-sd-9259",
+    "name": "Sono Onda TV",
+    "slug": "sonoondatv-ec-sd-9259",
+    "logoUrl": "https://i.imgur.com/HWHeqWY.png",
+    "streamUrl": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SonoOndaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sono-onda-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telemar-ec-sd-9913",
+    "name": "Telemar",
+    "slug": "telemar-ec-sd-9913",
+    "logoUrl": "https://i.imgur.com/0vX9oJF.png",
+    "streamUrl": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telemar.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemar::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvcolorcanal36-ec-sd-10805",
+    "name": "TV Color Canal 36",
+    "slug": "tvcolorcanal36-ec-sd-10805",
+    "logoUrl": "https://i.imgur.com/QJW6khK.jpg",
+    "streamUrl": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVColorCanal36.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-color-canal-36::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvuniversalecuador-ec-sd-11230",
+    "name": "TV Universal Ecuador",
+    "slug": "tvuniversalecuador-ec-sd-11230",
+    "logoUrl": "https://i.imgur.com/TIsk5zN.png",
+    "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVUniversalEcuador.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-universal-ecuador::ec::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gamavision-ec-sd-3858",
+    "name": "Gamavisión",
+    "slug": "gamavision-ec-sd-3858",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "streamUrl": "https://stream.esradioecuador.com/hls/stream.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Gamavision.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gamavisi-n::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "caprichotv-ec-sd-1984",
+    "name": "Capricho TV",
+    "slug": "caprichotv-ec-sd-1984",
+    "logoUrl": "https://i.imgur.com/eUoj9bG.png",
+    "streamUrl": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CaprichoTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "capricho-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ciracutv-ec-sd-2392",
+    "name": "Ciracu TV",
+    "slug": "ciracutv-ec-sd-2392",
+    "logoUrl": "https://i.imgur.com/mkf2TJ6.png",
+    "streamUrl": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CiracuTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ciracu-tv::ec::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "duendetv-ec-sd-3161",
+    "name": "Duende Tv",
+    "slug": "duendetv-ec-sd-3161",
+    "logoUrl": "https://i.imgur.com/6125FPV.jpg",
+    "streamUrl": "https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DuendeTv.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "duende-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecuamundoradiotv-ec-sd-3233",
+    "name": "EcuaMundo Radio TV",
+    "slug": "ecuamundoradiotv-ec-sd-3233",
+    "logoUrl": "https://i.imgur.com/EMe5oWn.jpg",
+    "streamUrl": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "EcuaMundoRadioTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecuamundo-radio-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "educatv-ec-sd-3239",
+    "name": "Educa TV",
+    "slug": "educatv-ec-sd-3239",
+    "logoUrl": "https://i.imgur.com/lY9Bx2u.png",
+    "streamUrl": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "EducaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "educa-tv::ec::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gm7digital-ec-hd-3987",
+    "name": "GM7 Digital",
+    "slug": "gm7digital-ec-hd-3987",
+    "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg",
+    "streamUrl": "https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GM7Digital.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gm7-digital::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "laperlaradiotv-ec-sd-5362",
+    "name": "La Perla Radio TV",
+    "slug": "laperlaradiotv-ec-sd-5362",
+    "logoUrl": "https://i.imgur.com/8wDMgmB.jpg",
+    "streamUrl": "https://eu1.servers10.com:8081/8068/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "LaPerlaRadioTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "la-perla-radio-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mariopintotv-ec-sd-5712",
+    "name": "Mario Pinto TV",
+    "slug": "mariopintotv-ec-sd-5712",
+    "logoUrl": "https://i.imgur.com/9rU6yWo.jpg",
+    "streamUrl": "https://eu1.servers10.com:8081/8028/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MarioPintoTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mario-pinto-tv::ec::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multicanalcatamayo-ec-sd-6225",
+    "name": "Multicanal Catamayo",
+    "slug": "multicanalcatamayo-ec-sd-6225",
+    "logoUrl": "https://i.imgur.com/IHKBGmu.png",
+    "streamUrl": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MulticanalCatamayo.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multicanal-catamayo::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ondasquevedenastv-ec-sd-6965",
+    "name": "Ondas Quevedeñas TV",
+    "slug": "ondasquevedenastv-ec-sd-6965",
+    "logoUrl": "https://i.imgur.com/K9pW0LA.jpeg",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OndasQuevedenasTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ondas-quevede-as-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plustv-ec-sd-7309",
+    "name": "Plus TV",
+    "slug": "plustv-ec-sd-7309",
+    "logoUrl": "https://i.imgur.com/TZqOINg.png",
+    "streamUrl": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PlusTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plus-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiomonumentaltv-ec-sd-7906",
+    "name": "Radio Monumental TV",
+    "slug": "radiomonumentaltv-ec-sd-7906",
+    "logoUrl": "https://i.imgur.com/a97MaV2.png",
+    "streamUrl": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioMonumentalTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-monumental-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtv-ec-sd-8481",
+    "name": "RTV Riobamba",
+    "slug": "rtv-ec-sd-8481",
+    "logoUrl": "https://i.imgur.com/DzxGHRZ.png",
+    "streamUrl": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-riobamba::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telesucesos-ec-sd-10007",
+    "name": "Telesucesos",
+    "slug": "telesucesos-ec-sd-10007",
+    "logoUrl": "https://i.imgur.com/D1BBTv8.png",
+    "streamUrl": "https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telesucesos.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telesucesos::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uebitvonline-ec-sd-11290",
+    "name": "UEBI TV Online",
+    "slug": "uebitvonline-ec-sd-11290",
+    "logoUrl": "https://i.imgur.com/Tf0BF2q.jpg",
+    "streamUrl": "https://ventaxtv.com:3575/live/uebilive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "UEBITVOnline.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uebi-tv-online::ec::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uniandestv-ec-sd-11317",
+    "name": "UNIANDES TV",
+    "slug": "uniandestv-ec-sd-11317",
+    "logoUrl": "https://i.imgur.com/1rluyB7.png",
+    "streamUrl": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "UNIANDESTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uniandes-tv::ec::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vosytv-ec-sd-11584",
+    "name": "Vos y TV",
+    "slug": "vosytv-ec-sd-11584",
+    "logoUrl": "https://i.imgur.com/294FDCB.png",
+    "streamUrl": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VosyTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vos-y-tv::ec::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nukatv-ec-sd-6829",
+    "name": "Ñuka TV",
+    "slug": "nukatv-ec-sd-6829",
+    "logoUrl": "https://i.imgur.com/4r2Ycju.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NukaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uka-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rts-ec-sd-8459",
+    "name": "RTS",
+    "slug": "rts-ec-sd-8459",
+    "logoUrl": "https://i.imgur.com/PML8cJA.png",
+    "streamUrl": "https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTS.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rts::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manavision-ec-sd-5691",
+    "name": "Manavisión",
+    "slug": "manavision-ec-sd-5691",
+    "logoUrl": "https://i.imgur.com/mZkW342.png",
+    "streamUrl": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "Manavision.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "manavisi-n::ec::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "planetachannel-ec-sd-7294",
+    "name": "Planeta Channel",
+    "slug": "planetachannel-ec-sd-7294",
+    "logoUrl": "https://i.imgur.com/XyBKaXI.png",
+    "streamUrl": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PlanetaChannel.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "planeta-channel::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvc-ec-sd-10763",
+    "name": "TVC",
+    "slug": "tvc-ec-sd-10763",
+    "logoUrl": "https://i.imgur.com/k6h5Cz2.png",
+    "streamUrl": "https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVC.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvc::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "durantv-ec-sd-3178",
+    "name": "Durán TV",
+    "slug": "durantv-ec-sd-3178",
+    "logoUrl": "https://i.imgur.com/8k8DsBL.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8074/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DuranTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dur-n-tv::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "clictv-ec-sd-2474",
+    "name": "Clic TV",
+    "slug": "clictv-ec-sd-2474",
+    "logoUrl": "https://i.imgur.com/bvSLm9U.png",
+    "streamUrl": "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ClicTV.ec",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "clic-tv::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americaestereoguayaquil-ec-sd-633",
+    "name": "América Estéreo Guayaquil",
+    "slug": "americaestereoguayaquil-ec-sd-633",
+    "logoUrl": "https://i.imgur.com/gUqKymM.png",
+    "streamUrl": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaEstereoGuayaquil.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "am-rica-est-reo-guayaquil::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "americaestereotulcan-ec-sd-636",
+    "name": "América Estéreo Tulcán",
+    "slug": "americaestereotulcan-ec-sd-636",
+    "logoUrl": "https://i.imgur.com/gUqKymM.png",
+    "streamUrl": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AmericaEstereoTulcan.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "am-rica-est-reo-tulc-n::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antenaunoradiovideo-ec-sd-765",
+    "name": "Antena Uno RadioVideo",
+    "slug": "antenaunoradiovideo-ec-sd-765",
+    "logoUrl": "https://i.imgur.com/PCN6iZJ.png",
+    "streamUrl": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AntenaUnoRadiovideo.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antena-uno-radiovideo::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "asomavision-ec-sd-932",
+    "name": "Asomavisión",
+    "slug": "asomavision-ec-sd-932",
+    "logoUrl": "https://i.imgur.com/VqwyCV1.png",
+    "streamUrl": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Asomavision.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asomavisi-n::ec::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bacanteveo-ec-sd-1091",
+    "name": "Bacán Te Veo",
+    "slug": "bacanteveo-ec-sd-1091",
+    "logoUrl": "https://i.imgur.com/m1LK6rY.png",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BacanTeVeo.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bac-n-te-veo::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "latacungatv-ec-sd-5377",
+    "name": "Latacunga TV",
+    "slug": "latacungatv-ec-sd-5377",
+    "logoUrl": "https://i.imgur.com/YjgYYH3.png",
+    "streamUrl": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "LatacungaTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "latacunga-tv::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "melradiotv-ec-sd-5860",
+    "name": "Mel Radio TV",
+    "slug": "melradiotv-ec-sd-5860",
+    "logoUrl": "https://i.imgur.com/uu8Clh2.png",
+    "streamUrl": "https://eu1.servers10.com:8081/8334/index.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "MelRadioTV.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mel-radio-tv::ec::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "redtveventanas-ec-sd-8169",
+    "name": "Red TVE Ventanas",
+    "slug": "redtveventanas-ec-sd-8169",
+    "logoUrl": "https://i.imgur.com/Pzf2ZAW.png",
+    "streamUrl": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RedTVEVentanas.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "red-tve-ventanas::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pantallaclasicaec-ec-sd-7114",
+    "name": "Pantalla Clásica EC",
+    "slug": "pantallaclasicaec-ec-sd-7114",
+    "logoUrl": "https://i.imgur.com/mhbERF9.jpg",
+    "streamUrl": "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "PantallaClasicaEC.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pantalla-cl-sica-ec::ec::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioimpacto2-ec-sd-7896",
+    "name": "Radio Impacto 2",
+    "slug": "radioimpacto2-ec-sd-7896",
+    "logoUrl": "https://i.imgur.com/YvK1hm7.png",
+    "streamUrl": "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioImpacto2.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-impacto-2::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telerama-ec-sd-9985",
+    "name": "Telerama",
+    "slug": "telerama-ec-sd-9985",
+    "logoUrl": "https://i.imgur.com/J6Mc42H.png",
+    "streamUrl": "https://play.once.net.ec/telerama/live.tv/538.m3u8",
+    "country": {
+      "code": "EC",
+      "name": "Ecuador"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Telerama.ec",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telerama::ec::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

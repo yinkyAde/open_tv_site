@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "taiwanplustv-tw-sd-9719",
+    "name": "Taiwan Plus TV",
+    "slug": "taiwanplustv-tw-sd-9719",
+    "logoUrl": "https://i.imgur.com/SfcZyqm.png",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TaiwanPlusTV.tw",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "taiwan-plus-tv::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbsasia-tw-sd-10758",
+    "name": "TVBS Asia",
+    "slug": "tvbsasia-tw-sd-10758",
+    "logoUrl": "https://i.imgur.com/4S1rkhm.png",
+    "streamUrl": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVBSAsia.tw",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvbs-asia::tw::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cgntvchinese-tw-sd-2197",
+    "name": "CGNTV Chinese",
+    "slug": "cgntvchinese-tw-sd-2197",
+    "logoUrl": "https://i.imgur.com/bPoPAbR.png",
+    "streamUrl": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "CGNTVChinese.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cgntv-chinese::tw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebcfinancialnews-tw-sd-3204",
+    "name": "EBC Financial News (東森財經新聞台)",
+    "slug": "ebcfinancialnews-tw-sd-3204",
+    "logoUrl": "https://i.imgur.com/uFDkOhV.png",
+    "streamUrl": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EBCFinancialNews.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebc-financial-news::tw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ebcnews-tw-sd-3206",
+    "name": "EBC News (東森新聞台)",
+    "slug": "ebcnews-tw-sd-3206",
+    "logoUrl": "https://i.imgur.com/QFZs80p.png",
+    "streamUrl": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "EBCNews.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ebc-news::tw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "setnews-tw-sd-9016",
+    "name": "SET News (三立新聞)",
+    "slug": "setnews-tw-sd-9016",
+    "logoUrl": "https://i.imgur.com/EGVbAvJ.png",
+    "streamUrl": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SETNews.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "set-news::tw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "daai1-tw-sd-2742",
+    "name": "DaAi1 (大愛1)",
+    "slug": "daai1-tw-sd-2742",
+    "logoUrl": "https://i.imgur.com/KdJi9af.png",
+    "streamUrl": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaAi1.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "daai1-1::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "daai2-tw-sd-2743",
+    "name": "DaAi2 (大愛2)",
+    "slug": "daai2-tw-sd-2743",
+    "logoUrl": "https://i.imgur.com/KdJi9af.png",
+    "streamUrl": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaAi2.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "daai2-2::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dalitv-tw-sd-2751",
+    "name": "Dali TV (大立電視台)",
+    "slug": "dalitv-tw-sd-2751",
+    "logoUrl": "https://i.imgur.com/pFIMLsA.png",
+    "streamUrl": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "nan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaliTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dali-tv::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "good2-tw-sd-4027",
+    "name": "GOOD TV CH2 真理台",
+    "slug": "good2-tw-sd-4027",
+    "logoUrl": "https://i.imgur.com/YxFRoft.png",
+    "streamUrl": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Good2.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "good-tv-ch2::tw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "indigenoustv-tw-sd-4577",
+    "name": "Indigenous TV",
+    "slug": "indigenoustv-tw-sd-4577",
+    "logoUrl": "https://i.imgur.com/vmk4F9u.png",
+    "streamUrl": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "IndigenousTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "indigenous-tv::tw::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suprememastertv-tw-sd-9606",
+    "name": "Supreme Master TV",
+    "slug": "suprememastertv-tw-sd-9606",
+    "logoUrl": "https://i.imgur.com/kFMHayP.png",
+    "streamUrl": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SupremeMasterTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "supreme-master-tv::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "taiwanindigenoustv-tw-sd-9718",
+    "name": "Taiwan Indigenous TV (原住民電視)",
+    "slug": "taiwanindigenoustv-tw-sd-9718",
+    "logoUrl": "https://i.imgur.com/QqIdVqz.png",
+    "streamUrl": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TaiwanIndigenousTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "taiwan-indigenous-tv::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ttv-tw-sd-10570",
+    "name": "台视",
+    "slug": "ttv-tw-sd-10570",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+    "streamUrl": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "goodtv-tw-sd-4037",
+    "name": "GOOD TV CH1 綜合台",
+    "slug": "goodtv-tw-sd-4037",
+    "logoUrl": "https://i.imgur.com/k28Kc3o.png",
+    "streamUrl": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GoodTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "good-tv-ch1::tw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beautifullifetv-tw-sd-1356",
+    "name": "Beautiful Life TV",
+    "slug": "beautifullifetv-tw-sd-1356",
+    "logoUrl": "https://i.imgur.com/hkwcBM9.png",
+    "streamUrl": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "BeautifulLifeTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beautiful-life-tv::tw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wxtv-tw-sd-11943",
+    "name": "唯心電視",
+    "slug": "wxtv-tw-sd-11943",
+    "logoUrl": "https://i.imgur.com/s8tiTeb.png",
+    "streamUrl": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "WXTV.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::tw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbsnews-tw-sd-10759",
+    "name": "TVBS News (TVBS新聞台)",
+    "slug": "tvbsnews-tw-sd-10759",
+    "logoUrl": "https://i.imgur.com/171lwfg.png",
+    "streamUrl": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVBSNews.tw",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvbs-news-tvbs::tw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctsnews-tw-sd-2700",
+    "name": "CTS News (華視新聞資訊)",
+    "slug": "ctsnews-tw-sd-2700",
+    "logoUrl": "https://i.imgur.com/V1EVtRm.png",
+    "streamUrl": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CTSNews.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cts-news::tw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctivariety-tw-sd-2694",
+    "name": "CTi Variety (中天綜合台)",
+    "slug": "ctivariety-tw-sd-2694",
+    "logoUrl": "https://i.imgur.com/tqsKObw.png",
+    "streamUrl": "http://23.237.10.66:16372",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CTiVariety.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 66,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "cti-variety::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ftv-tw-sd-3825",
+    "name": "FTV (民視)",
+    "slug": "ftv-tw-sd-3825",
+    "logoUrl": "https://i.imgur.com/q8ahtbT.png",
+    "streamUrl": "http://seb.sason.top/ptv/ftv.php?id=ms",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FTV.tw",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 61,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ftv::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ftvone-tw-sd-3827",
+    "name": "FTV One (民視第一台)",
+    "slug": "ftvone-tw-sd-3827",
+    "logoUrl": "https://i.imgur.com/HBT2o0I.png",
+    "streamUrl": "http://seb.sason.top/ptv/ftv.php?id=dy",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FTVOne.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 51,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ftv-one::tw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ftvtaiwan-tw-sd-3828",
+    "name": "FTV Taiwan (民視台灣台)",
+    "slug": "ftvtaiwan-tw-sd-3828",
+    "logoUrl": "https://i.imgur.com/p108I5g.png",
+    "streamUrl": "http://seb.sason.top/ptv/ftv.php?id=tw",
+    "country": {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "FTVTaiwan.tw",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 51,
+      "badges": [
+        "HD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "ftv-taiwan::tw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

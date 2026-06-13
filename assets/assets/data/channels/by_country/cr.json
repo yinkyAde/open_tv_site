@@ -1,0 +1,3052 @@
+[
+  {
+    "id": "agrotendenciatv-cr-sd-378",
+    "name": "Agrotendencia TV",
+    "slug": "agrotendenciatv-cr-sd-378",
+    "logoUrl": "https://i.imgur.com/frd60hR.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Outdoor",
+    "epg": {
+      "id": "AgrotendenciaTV.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "agrotendencia-tv::cr::outdoor",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gextv-cr-hd-3944",
+    "name": "Gex TV",
+    "slug": "gextv-cr-hd-3944",
+    "logoUrl": "https://gextv.com/LOGO-WHITE.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "GexTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gex-tv::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sanjosetv-cr-sd-8892",
+    "name": "San José TV",
+    "slug": "sanjosetv-cr-sd-8892",
+    "logoUrl": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+    "streamUrl": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SanJoseTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "san-jos-tv::cr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsurcanal14-cr-sd-11205",
+    "name": "TV Sur Canal 14",
+    "slug": "tvsurcanal14-cr-sd-11205",
+    "logoUrl": "https://i.imgur.com/OpHYYZA.png",
+    "streamUrl": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSurCanal14.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sur-canal-14::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zonamusictv-cr-sd-12205",
+    "name": "Zona Music TV",
+    "slug": "zonamusictv-cr-sd-12205",
+    "logoUrl": "https://i.imgur.com/TJ5l9iI.png",
+    "streamUrl": "https://acceso.radiosportstv.online:3022/stream/play.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ZonaMusicTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zona-music-tv::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "limontv-cr-sd-5475",
+    "name": "Limón TV",
+    "slug": "limontv-cr-sd-5475",
+    "logoUrl": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
+    "streamUrl": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LimonTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lim-n-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "opa-cr-sd-7016",
+    "name": "¡OPA!",
+    "slug": "opa-cr-sd-7016",
+    "logoUrl": "https://i.imgur.com/300c1ZH.png",
+    "streamUrl": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "OPA.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "opa::cr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "enlace-cr-sd-3332",
+    "name": "Enlace",
+    "slug": "enlace-cr-sd-3332",
+    "logoUrl": "https://i.imgur.com/YwUVTmS.png",
+    "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Enlace.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "enlace::cr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioturrialbatvsports-cr-sd-7949",
+    "name": "Radio Turrialba TV Sports",
+    "slug": "radioturrialbatvsports-cr-sd-7949",
+    "logoUrl": "https://i.imgur.com/2ZcUXbE.png",
+    "streamUrl": "https://sc2.escuela4.com/live/92974f62a8d5e5caf8f6d1c98fe9b2615f2238c5.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "RadioTurrialbaTVSports.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-turrialba-tv-sports::cr::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
+        "https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal3kmktv-cr-sd-1757",
+    "name": "Canal 3 KMK TV",
+    "slug": "canal3kmktv-cr-sd-1757",
+    "logoUrl": "https://i.imgur.com/sgRDRBK.jpg",
+    "streamUrl": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Canal3KMKTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-3-kmk-tv::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cotobrustv-cr-sd-2637",
+    "name": "Coto Brus TV",
+    "slug": "cotobrustv-cr-sd-2637",
+    "logoUrl": "https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CotoBrusTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "coto-brus-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "extrematv-cr-sd-3531",
+    "name": "Extrema TV",
+    "slug": "extrematv-cr-sd-3531",
+    "logoUrl": "https://i.imgur.com/E9AuhOU.png",
+    "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ExtremaTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "extrema-tv::cr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gamtvcr-cr-sd-3867",
+    "name": "GAMTV.cr",
+    "slug": "gamtvcr-cr-sd-3867",
+    "logoUrl": "https://i.ibb.co/xFCS7wM/GAMTVCR.png",
+    "streamUrl": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GAMTVcr.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gamtv-cr::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "garabitotv-cr-sd-3872",
+    "name": "Garabito TV",
+    "slug": "garabitotv-cr-sd-3872",
+    "logoUrl": "https://i.imgur.com/sAYNKJ8.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "GarabitoTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "garabito-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "iqchannel-cr-sd-4652",
+    "name": "IQ Channel",
+    "slug": "iqchannel-cr-sd-4652",
+    "logoUrl": "https://i.imgur.com/hwuaomt.png",
+    "streamUrl": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "IQChannel.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "iq-channel::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lossantostv-cr-sd-5542",
+    "name": "Los Santos TV",
+    "slug": "lossantostv-cr-sd-5542",
+    "logoUrl": "https://i.imgur.com/5xw86wu.png",
+    "streamUrl": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LosSantosTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "los-santos-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtvchirripo-cr-sd-8488",
+    "name": "RTV Chirripó",
+    "slug": "rtvchirripo-cr-sd-8488",
+    "logoUrl": "https://i.imgur.com/XWmwwbj.jpg",
+    "streamUrl": "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTVChirripo.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtv-chirrip::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "soyplanchatv-cr-sd-9317",
+    "name": "SOY Plancha TV",
+    "slug": "soyplanchatv-cr-sd-9317",
+    "logoUrl": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SOYPlanchaTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "soy-plancha-tv::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tdtv-cr-sd-9804",
+    "name": "TDtv",
+    "slug": "tdtv-cr-sd-9804",
+    "logoUrl": "https://i.imgur.com/OFSOvpd.jpg",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TDtv.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tdtv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telefides-cr-sd-9883",
+    "name": "Telefides",
+    "slug": "telefides-cr-sd-9883",
+    "logoUrl": "https://i.ibb.co/yn5M8dw/telefides-costa-rica.png",
+    "streamUrl": "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Telefides.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telefides::cr::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trivision36-cr-sd-10514",
+    "name": "Trivision 36",
+    "slug": "trivision36-cr-sd-10514",
+    "logoUrl": "https://i.imgur.com/aadWnIx.jpg",
+    "streamUrl": "https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Trivision36.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trivision-36::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "urbanotv-cr-sd-11369",
+    "name": "Urbano TV",
+    "slug": "urbanotv-cr-sd-11369",
+    "logoUrl": "https://i.imgur.com/KVVU9PI.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "UrbanoTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "urbano-tv::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vintagemusic-cr-sd-11536",
+    "name": "Vintage Music",
+    "slug": "vintagemusic-cr-sd-11536",
+    "logoUrl": "https://i.imgur.com/KImqYnN.jpeg",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VintageMusic.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vintage-music::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "voiceoverradiotv-cr-sd-11573",
+    "name": "VoiceOver Radio TV",
+    "slug": "voiceoverradiotv-cr-sd-11573",
+    "logoUrl": "https://i.imgur.com/HzGs1Eh.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VoiceOverRadioTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "voiceover-radio-tv::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zurquitv-cr-sd-12225",
+    "name": "Zurquí TV",
+    "slug": "zurquitv-cr-sd-12225",
+    "logoUrl": "https://i.imgur.com/XvktUBB.jpg",
+    "streamUrl": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZurquiTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zurqu-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal11-cr-sd-1812",
+    "name": "Canal 11",
+    "slug": "canal11-cr-sd-1812",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
+    "streamUrl": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal11.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-11::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal4-cr-sd-1763",
+    "name": "Canal 4",
+    "slug": "canal4-cr-sd-1763",
+    "logoUrl": "https://i.imgur.com/5arZEgO.png",
+    "streamUrl": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal4.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-4::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal6-cr-sd-1780",
+    "name": "Canal 6",
+    "slug": "canal6-cr-sd-1780",
+    "logoUrl": "https://i.imgur.com/nfKJftW.png",
+    "streamUrl": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal6.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-6::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal8-cr-sd-1793",
+    "name": "Canal 8",
+    "slug": "canal8-cr-sd-1793",
+    "logoUrl": "https://i.imgur.com/nefPi2Y.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal8.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-8::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teletica7-cr-sd-10018",
+    "name": "Teletica 7",
+    "slug": "teletica7-cr-sd-10018",
+    "logoUrl": "https://i.imgur.com/ctnvE3c.png",
+    "streamUrl": "https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Teletica7.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teletica-7::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tigosports-cr-sd-10283",
+    "name": "Tigo Sports",
+    "slug": "tigosports-cr-sd-10283",
+    "logoUrl": "https://i.imgur.com/UrsLSRs.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TigoSports.cr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tigo-sports::cr::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bestclasicostv-cr-sd-1409",
+    "name": "BestClasicosTV",
+    "slug": "bestclasicostv-cr-sd-1409",
+    "logoUrl": "https://i.imgur.com/a/BRb8AVL.png",
+    "streamUrl": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BestClasicosTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bestclasicostv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canal10-cr-sd-1804",
+    "name": "Canal 10",
+    "slug": "canal10-cr-sd-1804",
+    "logoUrl": "https://i.imgur.com/TO6WQbW.png",
+    "streamUrl": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal10.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-10::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cartagomediostv-cr-sd-2004",
+    "name": "Cartago Medios TV",
+    "slug": "cartagomediostv-cr-sd-2004",
+    "logoUrl": "https://i.imgur.com/Vcd40AL.png",
+    "streamUrl": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CartagoMediosTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cartago-medios-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "colosaltv-cr-sd-2565",
+    "name": "Colosal TV",
+    "slug": "colosaltv-cr-sd-2565",
+    "logoUrl": "https://i.imgur.com/0DZB3eB.png",
+    "streamUrl": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ColosalTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "colosal-tv::cr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "quinceucr-cr-sd-7813",
+    "name": "Quince UCR",
+    "slug": "quinceucr-cr-sd-7813",
+    "logoUrl": "https://i.imgur.com/U7DUlem.png",
+    "streamUrl": "http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "QuinceUCR.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "quince-ucr::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "retroxtv-cr-sd-8230",
+    "name": "Retrox TV",
+    "slug": "retroxtv-cr-sd-8230",
+    "logoUrl": "https://i.imgur.com/viJBL6f.png",
+    "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "RetroxTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retrox-tv::cr::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sarapiquitv-cr-sd-8922",
+    "name": "Sarapiqui TV",
+    "slug": "sarapiquitv-cr-sd-8922",
+    "logoUrl": "https://i.imgur.com/obTnd32.png",
+    "streamUrl": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SarapiquiTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sarapiqui-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lstv.duckdns.org:449/hls/stv.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "teleuno-cr-sd-10031",
+    "name": "Tele Uno",
+    "slug": "teleuno-cr-sd-10031",
+    "logoUrl": "https://i.imgur.com/eRwYxc2.png",
+    "streamUrl": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleUno.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-uno::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "telemas-cr-sd-9914",
+    "name": "TeleMas",
+    "slug": "telemas-cr-sd-9914",
+    "logoUrl": "https://i.imgur.com/5Rc8mA5.png",
+    "streamUrl": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TeleMas.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telemas::cr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "88stereo-cr-sd-153",
+    "name": "88 Stereo",
+    "slug": "88stereo-cr-sd-153",
+    "logoUrl": "https://i.imgur.com/i3YwORV.png",
+    "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "88Stereo.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "88-stereo::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antenaseistv-cr-sd-761",
+    "name": "Antena Seis TV",
+    "slug": "antenaseistv-cr-sd-761",
+    "logoUrl": "https://i.imgur.com/9Nh2mo9.png",
+    "streamUrl": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AntenaSeisTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antena-seis-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal1-cr-sd-1742",
+    "name": "Canal 1",
+    "slug": "canal1-cr-sd-1742",
+    "logoUrl": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
+    "streamUrl": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal1.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-1::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvn14-cr-sd-10978",
+    "name": "Canal 14 San Carlos",
+    "slug": "tvn14-cr-sd-10978",
+    "logoUrl": "https://i.imgur.com/1aNEo6U.png",
+    "streamUrl": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVN14.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-14-san-carlos::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "extremakidstv-cr-hd-3530",
+    "name": "Extrema Kids TV",
+    "slug": "extremakidstv-cr-hd-3530",
+    "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
+    "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "ExtremaKidsTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "extrema-kids-tv::cr::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nicoyatv-cr-sd-6619",
+    "name": "Nicoya TV",
+    "slug": "nicoyatv-cr-sd-6619",
+    "logoUrl": "https://i.imgur.com/Lj2jRn3.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NicoyaTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nicoya-tv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rttv-cr-sd-8467",
+    "name": "RTTV",
+    "slug": "rttv-cr-sd-8467",
+    "logoUrl": "https://i.imgur.com/eTfsCCq.png",
+    "streamUrl": "https://cloudvideo.servers10.com:19360/8212/8212.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rttv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telebrunca-cr-sd-9845",
+    "name": "TeleBrunca",
+    "slug": "telebrunca-cr-sd-9845",
+    "logoUrl": "https://i.imgur.com/m3xu6Ms.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleBrunca.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telebrunca::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telesurcostarica-cr-sd-10015",
+    "name": "TeleSUR Costa Rica",
+    "slug": "telesurcostarica-cr-sd-10015",
+    "logoUrl": "https://i.imgur.com/KUpgeOf.png",
+    "streamUrl": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleSURCostaRica.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telesur-costa-rica::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vmlatino-cr-sd-11565",
+    "name": "VM Latino",
+    "slug": "vmlatino-cr-sd-11565",
+    "logoUrl": "https://i.imgur.com/Dvo1b82.png",
+    "streamUrl": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VMLatino.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vm-latino::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "supercable-cr-sd-9581",
+    "name": "Super Cable",
+    "slug": "supercable-cr-sd-9581",
+    "logoUrl": "https://i.postimg.cc/PJ46GHTH/SC.jpg",
+    "streamUrl": "http://191.102.39.254:5000/live/5up3r5/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "SuperCable.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "super-cable::cr::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ticavision-cr-sd-10279",
+    "name": "TicaVision",
+    "slug": "ticavision-cr-sd-10279",
+    "logoUrl": "https://i.imgur.com/mev90pC.jpg",
+    "streamUrl": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TicaVision.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ticavision::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "360rftv-cr-sd-170",
+    "name": "360 RFTV",
+    "slug": "360rftv-cr-sd-170",
+    "logoUrl": "https://i.imgur.com/EBtgnxR.png",
+    "streamUrl": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "360RFTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "360-rftv::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canal2-cr-sd-1745",
+    "name": "Canal 2",
+    "slug": "canal2-cr-sd-1745",
+    "logoUrl": "https://i.imgur.com/Nn8BtH5.png",
+    "streamUrl": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Canal2.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-2::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "costaricachannel-cr-sd-2635",
+    "name": "Costa Rica Channel",
+    "slug": "costaricachannel-cr-sd-2635",
+    "logoUrl": "https://i.imgur.com/N4pFVVF.png",
+    "streamUrl": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "CostaRicaChannel.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "costa-rica-channel::cr::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teleredtelevision-cr-sd-9989",
+    "name": "Telered Television",
+    "slug": "teleredtelevision-cr-sd-9989",
+    "logoUrl": "https://i.imgur.com/cIvfnsa.jpg",
+    "streamUrl": "https://k20.usastreams.com:8081/telered/index.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleredTelevision.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telered-television::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "videotourchannel-cr-sd-11524",
+    "name": "Video Tour Channel",
+    "slug": "videotourchannel-cr-sd-11524",
+    "logoUrl": "https://i.imgur.com/zEi8eMC.png",
+    "streamUrl": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "VideoTourChannel.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "video-tour-channel::cr::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "norteinformativotv-cr-sd-6666",
+    "name": "Norte Informativo TV",
+    "slug": "norteinformativotv-cr-sd-6666",
+    "logoUrl": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
+    "streamUrl": "https://videohd.live:19360/8076/8076.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "NorteInformativoTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "norte-informativo-tv::cr::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsurcanal9-cr-sd-11204",
+    "name": "TV Sur Canal 9",
+    "slug": "tvsurcanal9-cr-sd-11204",
+    "logoUrl": "https://i.imgur.com/7HbISMV.png",
+    "streamUrl": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSurCanal9.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sur-canal-9::cr::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

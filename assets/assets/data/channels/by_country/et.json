@@ -1,0 +1,107 @@
+[
+  {
+    "id": "merejatv-et-sd-5873",
+    "name": "Mereja TV",
+    "slug": "merejatv-et-sd-5873",
+    "logoUrl": "https://i.imgur.com/PaAacxF.png",
+    "streamUrl": "https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8",
+    "country": {
+      "code": "ET",
+      "name": "Ethiopia"
+    },
+    "languages": [
+      "amh"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "MerejaTV.et",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mereja-tv::et::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "addistv-et-sd-319",
+    "name": "Addis TV",
+    "slug": "addistv-et-sd-319",
+    "logoUrl": "https://i.imgur.com/kqHWrZ9.png",
+    "streamUrl": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8",
+    "country": {
+      "code": "ET",
+      "name": "Ethiopia"
+    },
+    "languages": [
+      "amh"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AddisTV.et",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "addis-tv::et::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

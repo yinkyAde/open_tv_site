@@ -1,0 +1,266 @@
+[
+  {
+    "id": "telesahel-ne-sd-9995",
+    "name": "Tele Sahel",
+    "slug": "telesahel-ne-sd-9995",
+    "logoUrl": "https://i.imgur.com/vboq428.png",
+    "streamUrl": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
+    "country": {
+      "code": "NE",
+      "name": "Niger"
+    },
+    "languages": [
+      "fra",
+      "hau",
+      "dje",
+      "tmh"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleSahel.ne",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-sahel::ne::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cs2.push2stream.com/TELESAHELTV-DVR/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "taltv-ne-sd-9727",
+    "name": "Tal TV",
+    "slug": "taltv-ne-sd-9727",
+    "logoUrl": "https://i.imgur.com/KWMP0t1.png",
+    "streamUrl": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
+    "country": {
+      "code": "NE",
+      "name": "Niger"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TalTV.ne",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tal-tv::ne::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "douniatv-ne-sd-3105",
+    "name": "Dounia TV",
+    "slug": "douniatv-ne-sd-3105",
+    "logoUrl": "https://i.imgur.com/ENBCDaQ.png",
+    "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
+    "country": {
+      "code": "NE",
+      "name": "Niger"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DouniaTV.ne",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dounia-tv::ne::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "saraouniatv-ne-sd-8921",
+    "name": "Saraounia TV",
+    "slug": "saraouniatv-ne-sd-8921",
+    "logoUrl": "https://i.imgur.com/O8XIcpH.png",
+    "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8",
+    "country": {
+      "code": "NE",
+      "name": "Niger"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SaraouniaTV.ne",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "saraounia-tv::ne::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telesahel-ne-sd-9997",
+    "name": "Télé Sahel",
+    "slug": "telesahel-ne-sd-9997",
+    "logoUrl": "https://i.imgur.com/vboq428.png",
+    "streamUrl": "http://69.64.57.208/telesahel/playlist.m3u8",
+    "country": {
+      "code": "NE",
+      "name": "Niger"
+    },
+    "languages": [
+      "fra",
+      "hau",
+      "dje",
+      "tmh"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleSahel.ne",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-l-sahel::ne::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

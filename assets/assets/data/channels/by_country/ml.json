@@ -1,0 +1,366 @@
+[
+  {
+    "id": "ortm2-ml-sd-7040",
+    "name": "ORTM 2",
+    "slug": "ortm2-ml-sd-7040",
+    "logoUrl": "https://i.imgur.com/GQ4fHsv.png",
+    "streamUrl": "http://69.64.57.208/tm2/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra",
+      "bam"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ORTM2.ml",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ortm-2::ml::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ortm1-ml-sd-7039",
+    "name": "ORTM 1",
+    "slug": "ortm1-ml-sd-7039",
+    "logoUrl": "https://i.imgur.com/eKUpcls.png",
+    "streamUrl": "https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra",
+      "bam"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ORTM1.ml",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ortm-1::ml::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://69.64.57.208/ortm/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "d3tv-ml-sd-2741",
+    "name": "D3 TV",
+    "slug": "d3tv-ml-sd-2741",
+    "logoUrl": "https://i.imgur.com/uFEIBtB.png",
+    "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "D3TV.ml",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "d3-tv::ml::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nietatv-ml-sd-6627",
+    "name": "Nieta TV",
+    "slug": "nietatv-ml-sd-6627",
+    "logoUrl": "https://i.imgur.com/5RoXTaN.png",
+    "streamUrl": "http://69.64.57.208/nieta/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra",
+      "bam"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "NietaTV.ml",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nieta-tv::ml::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cheriflatv-ml-sd-2330",
+    "name": "Cherifla TV",
+    "slug": "cheriflatv-ml-sd-2330",
+    "logoUrl": "https://i.imgur.com/V8nuoEW.png",
+    "streamUrl": "http://69.64.57.208/cherifla/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra",
+      "bam"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CheriflaTV.ml",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cherifla-tv::ml::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "africabletv-ml-sd-351",
+    "name": "Africable TV",
+    "slug": "africabletv-ml-sd-351",
+    "logoUrl": "https://i.imgur.com/iQE57Z2.png",
+    "streamUrl": "http://69.64.57.208/africable/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra",
+      "bam"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AfricableTV.ml",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "africable-tv::ml::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tm1tv-ml-sd-10336",
+    "name": "TM1",
+    "slug": "tm1tv-ml-sd-10336",
+    "logoUrl": "https://i.imgur.com/83BgaBa.png",
+    "streamUrl": "http://69.64.57.208/tm1/playlist.m3u8",
+    "country": {
+      "code": "ML",
+      "name": "Mali"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TM1TV.ml",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tm1::ml::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

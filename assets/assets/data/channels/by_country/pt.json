@@ -1,0 +1,2388 @@
+[
+  {
+    "id": "fueltv-pt-au-3832",
+    "name": "Fuel TV",
+    "slug": "fueltv-pt-au-3832",
+    "logoUrl": "https://i.imgur.com/I8mviBy.png",
+    "streamUrl": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "FUELTV.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fuel-tv::pt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+        "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8?ads.vf=rPs_7NoEsnu",
+        "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8?ads.vf=gbdyvfXODOK",
+        "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sic-pt-sd-9124",
+    "name": "SIC",
+    "slug": "sic-pt-sd-9124",
+    "logoUrl": "https://i.imgur.com/SPMqiDG.png",
+    "streamUrl": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SIC.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sic::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://sic.live.impresa.pt/sic.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "disneychannel-pt-sd-3008",
+    "name": "Disney Channel",
+    "slug": "disneychannel-pt-sd-3008",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "streamUrl": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "DisneyChannel.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "disney-channel::pt::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kuriakostv-pt-sd-5282",
+    "name": "Kuriakos TV",
+    "slug": "kuriakostv-pt-sd-5282",
+    "logoUrl": "https://i.imgur.com/xdAW0D5.png",
+    "streamUrl": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KuriakosTV.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kuriakos-tv::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sicaltadefinicao-pt-sd-9125",
+    "name": "SIC Alta Definição",
+    "slug": "sicaltadefinicao-pt-sd-9125",
+    "logoUrl": "https://i.imgur.com/VdPwyQv.png",
+    "streamUrl": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SICAltaDefinicao.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sic-alta-defini-o::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sicreplay-pt-sd-9134",
+    "name": "SIC Replay",
+    "slug": "sicreplay-pt-sd-9134",
+    "logoUrl": "https://i.imgur.com/fj84mXz.png",
+    "streamUrl": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SICReplay.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sic-replay::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "adbtv-pt-sd-318",
+    "name": "ADB TV",
+    "slug": "adbtv-pt-sd-318",
+    "logoUrl": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
+    "streamUrl": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ADBTV.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "adb-tv::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kuriakoscine-pt-sd-5279",
+    "name": "Kuriakos Cine",
+    "slug": "kuriakoscine-pt-sd-5279",
+    "logoUrl": "https://i.imgur.com/CZViCwB.jpg",
+    "streamUrl": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "KuriakosCine.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kuriakos-cine::pt::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kuriakoskids-pt-sd-5280",
+    "name": "Kuriakos Kids",
+    "slug": "kuriakoskids-pt-sd-5280",
+    "logoUrl": "https://i.imgur.com/SRX6EPY.png",
+    "streamUrl": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "KuriakosKids.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kuriakos-kids::pt::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kuriakosmusic-pt-sd-5281",
+    "name": "Kuriakos Music",
+    "slug": "kuriakosmusic-pt-sd-5281",
+    "logoUrl": "https://i.imgur.com/Zl40NYi.jpg",
+    "streamUrl": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "KuriakosMusic.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kuriakos-music::pt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmana1-pt-sd-10935",
+    "name": "TV Maná 1",
+    "slug": "tvmana1-pt-sd-10935",
+    "logoUrl": "https://i.imgur.com/6jNqpTP.png",
+    "streamUrl": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVMana1.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-1::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmana2-pt-sd-10936",
+    "name": "TV Maná 2",
+    "slug": "tvmana2-pt-sd-10936",
+    "logoUrl": "https://i.imgur.com/VYNjVov.png",
+    "streamUrl": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVMana2.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-2::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmanabrasil-pt-sd-10938",
+    "name": "TV Maná Brasil",
+    "slug": "tvmanabrasil-pt-sd-10938",
+    "logoUrl": "https://i.imgur.com/AFb712e.png",
+    "streamUrl": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVManaBrasil.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-brasil::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmanaenglish-pt-sd-10939",
+    "name": "TV Maná English",
+    "slug": "tvmanaenglish-pt-sd-10939",
+    "logoUrl": "https://i.imgur.com/I66IkCw.png",
+    "streamUrl": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVManaEnglish.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-english::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmanaespanhol-pt-sd-10940",
+    "name": "TV Maná Español",
+    "slug": "tvmanaespanhol-pt-sd-10940",
+    "logoUrl": "https://i.imgur.com/sUlrSwP.png",
+    "streamUrl": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVManaEspanhol.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-espa-ol::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmanarusskiy-pt-sd-10942",
+    "name": "TV Maná Russkiy",
+    "slug": "tvmanarusskiy-pt-sd-10942",
+    "logoUrl": "https://i.imgur.com/fACHqmY.png",
+    "streamUrl": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TVManaRusskiy.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-man-russkiy::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sicnoticias-pt-sd-9133",
+    "name": "SIC Notícias",
+    "slug": "sicnoticias-pt-sd-9133",
+    "logoUrl": "https://i.imgur.com/Gi6Q26M.png",
+    "streamUrl": "https://sicnot.live.impresa.pt/sicnot.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "SICNoticias.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sic-not-cias::pt::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "famatv-pt-sd-3569",
+    "name": "Famatv",
+    "slug": "famatv-pt-sd-3569",
+    "logoUrl": "https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg",
+    "streamUrl": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Famatv.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "famatv::pt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manachurchonline-pt-sd-5683",
+    "name": "Maná Church Online",
+    "slug": "manachurchonline-pt-sd-5683",
+    "logoUrl": "https://i.imgur.com/FRDJSim.png",
+    "streamUrl": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ManaChurchOnline.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "man-church-online::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manacirkevonline-pt-sd-5684",
+    "name": "Maná Cirkev Online",
+    "slug": "manacirkevonline-pt-sd-5684",
+    "logoUrl": "https://i.imgur.com/tYhXeRq.png",
+    "streamUrl": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ManaCirkevOnline.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "man-cirkev-online::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manaiglesiaonline-pt-sd-5687",
+    "name": "Maná Iglesia Online",
+    "slug": "manaiglesiaonline-pt-sd-5687",
+    "logoUrl": "https://i.imgur.com/0IUvfcJ.png",
+    "streamUrl": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ManaIglesiaOnline.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "man-iglesia-online::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manaigrejaonline-pt-sd-5688",
+    "name": "Maná Igreja Online",
+    "slug": "manaigrejaonline-pt-sd-5688",
+    "logoUrl": "https://i.imgur.com/0IUvfcJ.png",
+    "streamUrl": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ManaIgrejaOnline.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "man-igreja-online::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manatserkovonlayn-pt-sd-5690",
+    "name": "Maná Tserkov' Onlayn",
+    "slug": "manatserkovonlayn-pt-sd-5690",
+    "logoUrl": "https://i.imgur.com/PruXLqS.png",
+    "streamUrl": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ManaTserkovOnlayn.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "man-tserkov-onlayn::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "manaegliseonline-pt-sd-5686",
+    "name": "Maná Église Online",
+    "slug": "manaegliseonline-pt-sd-5686",
+    "logoUrl": "https://i.imgur.com/xQYly8O.png",
+    "streamUrl": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ManaEgliseOnline.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "man-glise-online::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "portocanal-pt-sd-7611",
+    "name": "Porto Canal",
+    "slug": "portocanal-pt-sd-7611",
+    "logoUrl": "https://i.imgur.com/DwziwMY.png",
+    "streamUrl": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PortoCanal.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "porto-canal::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvi-pt-sd-10883",
+    "name": "TVI",
+    "slug": "tvi-pt-sd-10883",
+    "logoUrl": "https://i.imgur.com/H8Tgl7m.png",
+    "streamUrl": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVI.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvi::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvificcao-pt-sd-10885",
+    "name": "TVI Ficção",
+    "slug": "tvificcao-pt-sd-10885",
+    "logoUrl": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
+    "streamUrl": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "TVIFiccao.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvi-fic-o::pt::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vplustvi-pt-sd-11592",
+    "name": "V+ TVI",
+    "slug": "vplustvi-pt-sd-11592",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png",
+    "streamUrl": "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VPlusTVI.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-tvi::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "npcradioetv-pt-sd-6746",
+    "name": "NPC Rádio e TV",
+    "slug": "npcradioetv-pt-sd-6746",
+    "logoUrl": "https://i.imgur.com/mw1lYWE.png",
+    "streamUrl": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "NPCRadioeTV.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "npc-r-dio-e-tv::pt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "onfm-pt-sd-6994",
+    "name": "ON FM",
+    "slug": "onfm-pt-sd-6994",
+    "logoUrl": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+    "streamUrl": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "ONFM.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "on-fm::pt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtpacores-pt-hd-8434",
+    "name": "RTP Açores",
+    "slug": "rtpacores-pt-hd-8434",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTPAcores.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-a-ores::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rtpnoticias-pt-hd-8441",
+    "name": "RTP Noticias",
+    "slug": "rtpnoticias-pt-hd-8441",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RTPNoticias.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-noticias::pt::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "artv-pt-sd-893",
+    "name": "ARTV Canal Parlamento",
+    "slug": "artv-pt-sd-893",
+    "logoUrl": "https://i.imgur.com/y00t9hr.png",
+    "streamUrl": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ARTV.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "artv-canal-parlamento::pt::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtp1-pt-hd-8430",
+    "name": "RTP 1",
+    "slug": "rtp1-pt-hd-8430",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTP1.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-1::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtp2-pt-hd-8431",
+    "name": "RTP 2",
+    "slug": "rtp2-pt-hd-8431",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTP2.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-2::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvireality-pt-sd-10892",
+    "name": "TVI Reality",
+    "slug": "tvireality-pt-sd-10892",
+    "logoUrl": "https://i.imgur.com/C9rxqA5.png",
+    "streamUrl": "https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "TVIReality.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvi-reality::pt::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiosines-pt-sd-7920",
+    "name": "Rádio Sines",
+    "slug": "radiosines-pt-sd-7920",
+    "logoUrl": "https://i.imgur.com/Oe6F1nL.png",
+    "streamUrl": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioSines.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-dio-sines::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "waytv-pt-sd-11666",
+    "name": "Way TV",
+    "slug": "waytv-pt-sd-11666",
+    "logoUrl": "https://i.ibb.co/gdpvKpS/cropped-Asset-1.png",
+    "streamUrl": "https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "WayTV.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "way-tv::pt::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtpmundo-pt-sd-8439",
+    "name": "RTP Mundo",
+    "slug": "rtpmundo-pt-sd-8439",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTPMundo.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-mundo::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rfptv-pt-sd-8258",
+    "name": "RFPtv",
+    "slug": "rfptv-pt-sd-8258",
+    "logoUrl": "https://i.imgur.com/I60nQuR.png",
+    "streamUrl": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RFPtv.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rfptv::pt::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtpmadeira-pt-sd-8437",
+    "name": "RTP Madeira",
+    "slug": "rtpmadeira-pt-sd-8437",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTPMadeira.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-madeira::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtpmemoria-pt-sd-8438",
+    "name": "RTP Memória",
+    "slug": "rtpmemoria-pt-sd-8438",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTPMemoria.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-mem-ria::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtpafrica-pt-sd-8436",
+    "name": "RTP África",
+    "slug": "rtpafrica-pt-sd-8436",
+    "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png",
+    "streamUrl": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTPAfrica.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtp-frica::pt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sporttv1-pt-sd-9366",
+    "name": "Sport TV1",
+    "slug": "sporttv1-pt-sd-9366",
+    "logoUrl": "https://i.imgur.com/YWic36u.png",
+    "streamUrl": "https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SportTV1.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "sport-tv1::pt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sporttv5-pt-sd-9367",
+    "name": "Sport TV5",
+    "slug": "sporttv5-pt-sd-9367",
+    "logoUrl": "https://i.imgur.com/4w4vuad.png",
+    "streamUrl": "https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SportTV5.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "sport-tv5::pt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sporttv7-pt-sd-9368",
+    "name": "Sport TV7",
+    "slug": "sporttv7-pt-sd-9368",
+    "logoUrl": "https://i.imgur.com/2HmCAm5.png",
+    "streamUrl": "https://test.946985.filegear-sg.me/proxy/a8c7608240dec023",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "SportTV7.pt",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "sport-tv7::pt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

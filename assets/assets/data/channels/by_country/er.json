@@ -1,0 +1,56 @@
+[
+  {
+    "id": "eritv1-er-sd-3359",
+    "name": "ERi-TV 1",
+    "slug": "eritv1-er-sd-3359",
+    "logoUrl": "https://i.imgur.com/bTR0Huw.png",
+    "streamUrl": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+    "country": {
+      "code": "ER",
+      "name": "Eritrea"
+    },
+    "languages": [
+      "tir",
+      "tig",
+      "ara",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ERiTV1.er",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eri-tv-1::er::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

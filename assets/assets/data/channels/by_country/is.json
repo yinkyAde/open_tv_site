@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ruv2-is-sd-8787",
+    "name": "RÚV 2",
+    "slug": "ruv2-is-sd-8787",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R%C3%9AV_2_2019_logo.svg/960px-R%C3%9AV_2_2019_logo.svg.png",
+    "streamUrl": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8",
+    "country": {
+      "code": "IS",
+      "name": "Iceland"
+    },
+    "languages": [
+      "isl"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RUV2.is",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-v-2::is::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "visir-is-sd-11548",
+    "name": "Vísir",
+    "slug": "visir-is-sd-11548",
+    "logoUrl": "https://i.imgur.com/07Vlt6i.jpg",
+    "streamUrl": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+    "country": {
+      "code": "IS",
+      "name": "Iceland"
+    },
+    "languages": [
+      "isl"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "Visir.is",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-sir::is::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "althingi-is-sd-606",
+    "name": "Althingi",
+    "slug": "althingi-is-sd-606",
+    "logoUrl": "https://i.imgur.com/tKNPdea.png",
+    "streamUrl": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
+    "country": {
+      "code": "IS",
+      "name": "Iceland"
+    },
+    "languages": [
+      "isl",
+      "eng"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "Althingi.is",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "althingi::is::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ruv-is-sd-8788",
+    "name": "RÚV",
+    "slug": "ruv-is-sd-8788",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/960px-R%C3%9AV_ohf_2019_logo.svg.png",
+    "streamUrl": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+    "country": {
+      "code": "IS",
+      "name": "Iceland"
+    },
+    "languages": [
+      "isl"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RUV.is",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-v::is::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

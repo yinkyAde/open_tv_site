@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "cnaoriginals-sg-sd-2499",
+    "name": "CNA Originals",
+    "slug": "cnaoriginals-sg-sd-2499",
+    "logoUrl": "https://i.imgur.com/hlFQTrB.png",
+    "streamUrl": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CNAOriginals.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cna-originals::sg::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74"
+      ]
+    }
+  },
+  {
+    "id": "zoomoo-sg-sd-12214",
+    "name": "Zoo Moo",
+    "slug": "zoomoo-sg-sd-12214",
+    "logoUrl": "https://i.imgur.com/ciTJrnl.png",
+    "streamUrl": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ZooMoo.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoo-moo::sg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "zoomoo-sg-sd-12212",
+    "name": "Zoo Moo (Australia)",
+    "slug": "zoomoo-sg-sd-12212",
+    "logoUrl": "https://i.imgur.com/ciTJrnl.png",
+    "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ZooMoo.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoo-moo-australia::sg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zoomoo-sg-sd-12216",
+    "name": "ZooMoo",
+    "slug": "zoomoo-sg-sd-12216",
+    "logoUrl": "https://i.imgur.com/ciTJrnl.png",
+    "streamUrl": "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ZooMoo.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoomoo::sg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zoomoo-sg-sd-12213",
+    "name": "ZooMoo Asia",
+    "slug": "zoomoo-sg-sd-12213",
+    "logoUrl": "https://i.imgur.com/ciTJrnl.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ZooMoo.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zoomoo-asia::sg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "animaxasia-sg-india-726",
+    "name": "Animax Asia India",
+    "slug": "animaxasia-sg-india-726",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+    "streamUrl": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "jpn",
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimaxAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "animax-asia-india::sg::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cna-sg-sd-2498",
+    "name": "CNA",
+    "slug": "cna-sg-sd-2498",
+    "logoUrl": "https://i.imgur.com/awIDugE.png",
+    "streamUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CNA.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cna::sg::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kcm-sg-india-5046",
+    "name": "KCM",
+    "slug": "kcm-sg-india-5046",
+    "logoUrl": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
+    "streamUrl": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "KCM.sg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kcm::sg::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cnbcasia-sg-sd-2504",
+    "name": "CNBC Asia",
+    "slug": "cnbcasia-sg-sd-2504",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Business",
+    "epg": {
+      "id": "CNBCAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cnbc-asia::sg::business",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aniplusasia-sg-sd-733",
+    "name": "Aniplus Asia",
+    "slug": "aniplusasia-sg-sd-733",
+    "logoUrl": "https://i.imgur.com/Im3MePy.png",
+    "streamUrl": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AniplusAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aniplus-asia::sg::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crimeplusinvestigationasia-sg-sd-2670",
+    "name": "Crime + Investigation Asia HD",
+    "slug": "crimeplusinvestigationasia-sg-sd-2670",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "streamUrl": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "CrimePlusInvestigationAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crime-investigation-asia::sg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "techstorm-sg-sd-9810",
+    "name": "Tech Storm",
+    "slug": "techstorm-sg-sd-9810",
+    "logoUrl": "https://i.imgur.com/fAprFBJ.png",
+    "streamUrl": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TechStorm.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tech-storm::sg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channel5-sg-sd-2246",
+    "name": "Channel 5",
+    "slug": "channel5-sg-sd-2246",
+    "logoUrl": "https://i.imgur.com/9NKp5aV.png",
+    "streamUrl": "https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel5.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-5::sg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8",
+        "https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "suria-sg-sd-9615",
+    "name": "Suria",
+    "slug": "suria-sg-sd-9615",
+    "logoUrl": "https://i.imgur.com/9xWAwzy.png",
+    "streamUrl": "https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Suria.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suria::sg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "vasantham-sg-sd-11424",
+    "name": "Vasantham",
+    "slug": "vasantham-sg-sd-11424",
+    "logoUrl": "https://i.imgur.com/vqVEcuT.png",
+    "streamUrl": "https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "tam",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Vasantham.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vasantham::sg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "channel8-sg-sd-2260",
+    "name": "Channel 8",
+    "slug": "channel8-sg-sd-2260",
+    "logoUrl": "https://i.imgur.com/6YPZc24.png",
+    "streamUrl": "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Channel8.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-8::sg::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "channelu-sg-sd-2305",
+    "name": "Channel U",
+    "slug": "channelu-sg-sd-2305",
+    "logoUrl": "https://i.imgur.com/9MzEjoY.png",
+    "streamUrl": "https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "zho",
+      "kor",
+      "tha",
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ChannelU.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "channel-u::sg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "axnasia-sg-indonesia-1041",
+    "name": "AXN Asia Indonesia",
+    "slug": "axnasia-sg-indonesia-1041",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "streamUrl": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "AXNAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "axn-asia-indonesia::sg::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mewatchlive1-sg-sd-5893",
+    "name": "meWATCH LIVE 1",
+    "slug": "mewatchlive1-sg-sd-5893",
+    "logoUrl": "https://i.imgur.com/ppxUDxB.png",
+    "streamUrl": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng",
+      "mal",
+      "zho"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "meWATCHLIVE1.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "mewatch-1::sg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hits-sg-sd-4309",
+    "name": "HITS",
+    "slug": "hits-sg-sd-4309",
+    "logoUrl": "https://i.imgur.com/IM8Gy1l.png",
+    "streamUrl": "https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "HITS.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "hits::sg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hitsmovies-sg-hd-4310",
+    "name": "HITS Movies HD",
+    "slug": "hitsmovies-sg-hd-4310",
+    "logoUrl": "https://i.imgur.com/kyE3vXf.png",
+    "streamUrl": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "HITSMovies.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "hits-movies::sg::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nickelodeonasia-sg-indonesia-6600",
+    "name": "Nickelodeon Asia Indonesia",
+    "slug": "nickelodeonasia-sg-indonesia-6600",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "streamUrl": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "ind",
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "NickelodeonAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "nickelodeon-asia-indonesia::sg::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rockaction-sg-sd-8291",
+    "name": "ROCK Action",
+    "slug": "rockaction-sg-sd-8291",
+    "logoUrl": "https://i.imgur.com/l6lmlqG.png",
+    "streamUrl": "https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ROCKAction.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "rock-action::sg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rockentertainment-sg-sd-8293",
+    "name": "ROCK Entertainment",
+    "slug": "rockentertainment-sg-sd-8293",
+    "logoUrl": "https://i.imgur.com/PWzq0aU.png",
+    "streamUrl": "http://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "ROCKEntertainment.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "rock-entertainment::sg::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

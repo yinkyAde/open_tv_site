@@ -1,0 +1,3612 @@
+[
+  {
+    "id": "angermanagementchannel-us-sd-710",
+    "name": "Anger Management Channel",
+    "slug": "angermanagementchannel-us-sd-710",
+    "logoUrl": "https://i.imgur.com/VXZgrNy.png",
+    "streamUrl": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "AngerManagementChannel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anger-management-channel::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "comedydynamics-us-sd-2583",
+    "name": "Comedy Dynamics",
+    "slug": "comedydynamics-us-sd-2583",
+    "logoUrl": "https://i.imgur.com/1lEvUOa.png",
+    "streamUrl": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyDynamics.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-dynamics::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8",
+        "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "humormill-us-sd-4448",
+    "name": "Humor Mill",
+    "slug": "humormill-us-sd-4448",
+    "logoUrl": "https://i.imgur.com/e5W91v2.png",
+    "streamUrl": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "HumorMill.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "humor-mill::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "justforlaughsgags-us-sd-4919",
+    "name": "Just for Laughs Gags",
+    "slug": "justforlaughsgags-us-sd-4919",
+    "logoUrl": "https://i.imgur.com/HjVEVMJ.png",
+    "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "JustforLaughsGags.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "15 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "just-for-laughs-gags::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/playlist.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-mx.samsung.wurl.tv/playlist.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-nl.samsung.wurl.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-61781878a3580d0008967df8.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-no.samsung.wurl.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-61780ce4c215ad0007a66ab2.m3u8",
+        "https://distributionsjustepourrire-justforlaughsgags-1-se.samsung.wurl.tv/playlist.m3u8",
+        "https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8",
+        "https://jmp2.uk/plu-6177fd9812fe0c000726f9eb.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kevinhartslolnetwork-us-sd-5072",
+    "name": "LOL Network",
+    "slug": "kevinhartslolnetwork-us-sd-5072",
+    "logoUrl": "https://i.imgur.com/Tiy3Ur2.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "KevinHartsLOLNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lol-network::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mrbeanliveaction-uk-english-6130",
+    "name": "Mr Bean Live Action",
+    "slug": "mrbeanliveaction-uk-english-6130",
+    "logoUrl": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+    "streamUrl": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [],
+    "category": "Comedy",
+    "epg": {
+      "id": "MrBeanLiveAction.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mr-bean-action::uk::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mysterysciencetheater3000-us-sd-6286",
+    "name": "Mystery Science Theater 3000",
+    "slug": "mysterysciencetheater3000-us-sd-6286",
+    "logoUrl": "https://i.imgur.com/8KWjY4o.png",
+    "streamUrl": "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "MysteryScienceTheater3000.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mystery-science-theater-3000::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "snlvault-us-sd-9225",
+    "name": "SNL Vault",
+    "slug": "snlvault-us-sd-9225",
+    "logoUrl": "https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
+    "streamUrl": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "SNLVault.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "snl-vault::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "comedycentral-us-east-2573",
+    "name": "Comedy Central",
+    "slug": "comedycentral-us-east-2573",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "streamUrl": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentral.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentrallatinamerica-us-panregional-2576",
+    "name": "Comedy Central Latin America",
+    "slug": "comedycentrallatinamerica-us-panregional-2576",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "streamUrl": "http://181.119.93.83:8000/play/a1di/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentralLatinAmerica.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central-latin-america::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "humormill-us-sd-4450",
+    "name": "Humor Mill TV",
+    "slug": "humormill-us-sd-4450",
+    "logoUrl": "https://i.imgur.com/e5W91v2.png",
+    "streamUrl": "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "HumorMill.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "humor-mill-tv::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nbccomedyvault-us-sd-6406",
+    "name": "NBC Comedy Vault",
+    "slug": "nbccomedyvault-us-sd-6406",
+    "logoUrl": "https://i.imgur.com/nydZWwg.png",
+    "streamUrl": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "NBCComedyVault.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nbc-comedy-vault::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "royacomedy-jo-sd-8330",
+    "name": "Roya Comedy",
+    "slug": "royacomedy-jo-sd-8330",
+    "logoUrl": "https://i.imgur.com/oIThcM8.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "RoyaComedy.jo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "roya-comedy::jo::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zeecomedynation-in-hd-12138",
+    "name": "Zee Comedy Nation",
+    "slug": "zeecomedynation-in-hd-12138",
+    "logoUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
+    "streamUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ZeeComedyNation.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zee-comedy-nation::in::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thechatshowchannel-uk-sd-10152",
+    "name": "The Chat Show Channel",
+    "slug": "thechatshowchannel-uk-sd-10152",
+    "logoUrl": "https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TheChatShowChannel.uk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-chat-show-channel::uk::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8",
+        "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvoyetvyumor-ru-sd-11012",
+    "name": "Твое ТВ Юмор",
+    "slug": "tvoyetvyumor-ru-sd-11012",
+    "logoUrl": "https://smotret.tv/images/tvoe-tv-yumor.webp",
+    "streamUrl": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TvoyeTVYumor.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://31.148.48.15/KVN_TV/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "3catelbunquer-es-sd-30",
+    "name": "3Cat El búnquer",
+    "slug": "3catelbunquer-es-sd-30",
+    "logoUrl": "https://i.imgur.com/wiqdIjd.png",
+    "streamUrl": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "3CatElbunquer.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3cat-el-b-nquer::es::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alphacinema-ru-hd-562",
+    "name": "alpha Cinema",
+    "slug": "alphacinema-ru-hd-562",
+    "logoUrl": "https://i.imgur.com/146OgfU.png",
+    "streamUrl": "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "alphaCinema.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alpha-cinema::ru::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alphafunny-ru-hd-564",
+    "name": "alpha Funny",
+    "slug": "alphafunny-ru-hd-564",
+    "logoUrl": "https://i.ibb.co/ZcCXw5P/alphaf.png",
+    "streamUrl": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "alphaFunny.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alpha-funny::ru::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alphamoretime-ru-hd-565",
+    "name": "alpha Moretime",
+    "slug": "alphamoretime-ru-hd-565",
+    "logoUrl": "https://i.imgur.com/ibQfUr7.png",
+    "streamUrl": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "alphaMoretime.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alpha-moretime::ru::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afv-us-sd-369",
+    "name": "America’s Funniest Home Videos",
+    "slug": "afv-us-sd-369",
+    "logoUrl": "https://i.imgur.com/TOB9vmW.png",
+    "streamUrl": "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "AFV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "america-s-funniest-home-videos::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etvcomedy-in-hd-3439",
+    "name": "ETV Comedy",
+    "slug": "etvcomedy-in-hd-3439",
+    "logoUrl": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png",
+    "streamUrl": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tel"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ETVComedy.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv-comedy::in::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jordancomedy-jo-sd-4872",
+    "name": "Jordan Comedy",
+    "slug": "jordancomedy-jo-sd-4872",
+    "logoUrl": "https://i.imgur.com/DuwwoO2.png",
+    "streamUrl": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+    "country": {
+      "code": "JO",
+      "name": "Jordan"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "JordanComedy.jo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jordan-comedy::jo::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanacomedy-sa-sd-8321",
+    "name": "Rotana Comedy",
+    "slug": "rotanacomedy-sa-sd-8321",
+    "logoUrl": "https://i.imgur.com/IlT8U6S.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "RotanaComedy.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-comedy::sa::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentralplutotv-us-us-2578",
+    "name": "Comedy Central Pluto TV",
+    "slug": "comedycentralplutotv-us-us-2578",
+    "logoUrl": "https://i.imgur.com/9y6TtjF.png",
+    "streamUrl": "https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentralPlutoTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central-pluto-tv::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8",
+        "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "drybarcomedyplus-us-sd-3131",
+    "name": "Dry Bar Comedy",
+    "slug": "drybarcomedyplus-us-sd-3131",
+    "logoUrl": "https://i.imgur.com/3N2C60N.png",
+    "streamUrl": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "DryBarComedyPlus.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dry-bar-comedy::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "failarmy-us-uk-3542",
+    "name": "FailArmy",
+    "slug": "failarmy-us-uk-3542",
+    "logoUrl": "https://i.imgur.com/VIpQJxL.png",
+    "streamUrl": "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "FailArmy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "12 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "failarmy::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-6177f6bf7693550007531275.m3u8",
+        "https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8",
+        "https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8",
+        "https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8",
+        "https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8",
+        "https://jmp2.uk/plu-61781077929e930007c194ee.m3u8",
+        "https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8",
+        "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8",
+        "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8",
+        "https://jmp2.uk/plu-6178037c35922000072a2ff5.m3u8",
+        "https://jmp2.uk/plu-554158e864526b29254ff105.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "failarmy-us-us-3543",
+    "name": "Failarmy International",
+    "slug": "failarmy-us-us-3543",
+    "logoUrl": "https://i.imgur.com/VIpQJxL.png",
+    "streamUrl": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "FailArmy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "7 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "failarmy-international::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8",
+        "https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8",
+        "https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8",
+        "https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8",
+        "https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8",
+        "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
+        "https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rifftrax-us-us-8267",
+    "name": "RiffTrax",
+    "slug": "rifftrax-us-us-8267",
+    "logoUrl": "https://i.imgur.com/hM4yKMn.png",
+    "streamUrl": "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "RiffTrax.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rifftrax::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "comedycentral-at-sd-2570",
+    "name": "Comedy Central",
+    "slug": "comedycentral-at-sd-2570",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/33/Comedy_Central_Austria_2018.svg",
+    "streamUrl": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8",
+    "country": {
+      "code": "AT",
+      "name": "Austria"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentral.at",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central::at::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "failarmy-us-poland-3541",
+    "name": "Fail Army",
+    "slug": "failarmy-us-poland-3541",
+    "logoUrl": "https://i.imgur.com/VIpQJxL.png",
+    "streamUrl": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "FailArmy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fail-army::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "novocomedy-fr-sd-6711",
+    "name": "Novo Comedy",
+    "slug": "novocomedy-fr-sd-6711",
+    "logoUrl": "https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "Novocomedy.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "novo-comedy::fr::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvscomedynetwork-us-sd-11147",
+    "name": "TVS Comedy Network",
+    "slug": "tvscomedynetwork-us-sd-11147",
+    "logoUrl": "https://i.imgur.com/rXORbti.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TVSComedyNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-comedy-network::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "30aridiculoustv-us-sd-133",
+    "name": "30A Ridiculous TV",
+    "slug": "30aridiculoustv-us-sd-133",
+    "logoUrl": "https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+    "streamUrl": "https://30a-tv.com/feeds/720p/63.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "30ARidiculousTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "30a-ridiculous-tv::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afv-us-sd-368",
+    "name": "AFV",
+    "slug": "afv-us-sd-368",
+    "logoUrl": "https://i.imgur.com/TOB9vmW.png",
+    "streamUrl": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "AFV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afv::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedyplay-ro-sd-2588",
+    "name": "Comedy Play",
+    "slug": "comedyplay-ro-sd-2588",
+    "logoUrl": "https://i.imgur.com/6kAeVOk.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyPlay.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-play::ro::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "foratediotv-br-sd-3721",
+    "name": "Fora Tedio TV",
+    "slug": "foratediotv-br-sd-3721",
+    "logoUrl": "https://i.imgur.com/R9ul4T1.png",
+    "streamUrl": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ForaTedioTV.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fora-tedio-tv::br::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmaticcomedy-br-sd-10950",
+    "name": "TVMatic Comedy",
+    "slug": "tvmaticcomedy-br-sd-10950",
+    "logoUrl": "https://i.imgur.com/l5PBcKN.png",
+    "streamUrl": "http://cdn.tvmatic.net/comedy.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TVMaticComedy.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvmatic-comedy::br::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "topmilliondollaragent-pl-fast-10419",
+    "name": "Top Million Dollar Agent",
+    "slug": "topmilliondollaragent-pl-fast-10419",
+    "logoUrl": "",
+    "streamUrl": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TopMillionDollarAgent.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "top-million-dollar-agent::pl::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "afvespanol-us-sd-370",
+    "name": "AFV en Español",
+    "slug": "afvespanol-us-sd-370",
+    "logoUrl": "https://i.imgur.com/HUK4WXC.png",
+    "streamUrl": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "AFVEspanol.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "afv-en-espa-ol::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "angermanagementchannel-us-sd-711",
+    "name": "Anger Management",
+    "slug": "angermanagementchannel-us-sd-711",
+    "logoUrl": "https://i.imgur.com/VXZgrNy.png",
+    "streamUrl": "https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "AngerManagementChannel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anger-management::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8",
+        "https://jmp2.uk/plu-6964b6f5f7f6b0334bbf6cdb.m3u8",
+        "https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8",
+        "https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "drybarcomedyplus-us-sd-3132",
+    "name": "DryBar Comedy",
+    "slug": "drybarcomedyplus-us-sd-3132",
+    "logoUrl": "https://i.imgur.com/3N2C60N.png",
+    "streamUrl": "https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "DryBarComedyPlus.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "drybar-comedy::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "funnyaf-us-sd-3841",
+    "name": "Funny AF",
+    "slug": "funnyaf-us-sd-3841",
+    "logoUrl": "https://i.imgur.com/UCwjdtQ.png",
+    "streamUrl": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "FunnyAF.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "funny-af::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvsitcoms-us-germany-7516",
+    "name": "Pluto TV Sitcoms",
+    "slug": "plutotvsitcoms-us-germany-7516",
+    "logoUrl": "https://i.imgur.com/YzrUL8P.png",
+    "streamUrl": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PlutoTVSitcoms.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-sitcoms::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sirippolitv-in-sd-9160",
+    "name": "Sirippoli TV",
+    "slug": "sirippolitv-in-sd-9160",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
+    "streamUrl": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tam"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "SirippoliTV.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sirippoli-tv::in::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ccplutotv-us-germany-2118",
+    "name": "CC Pluto TV",
+    "slug": "ccplutotv-us-germany-2118",
+    "logoUrl": "https://i.imgur.com/MjC40At.png",
+    "streamUrl": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "CCPlutoTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cc-pluto-tv::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classictvcomedy-us-sd-2467",
+    "name": "Classic TV Comedy",
+    "slug": "classictvcomedy-us-sd-2467",
+    "logoUrl": "https://i.imgur.com/wg5I5Fb.png",
+    "streamUrl": "https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ClassicTVComedy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "classic-tv-comedy::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentralenespanol-us-sd-2575",
+    "name": "Comedy Central en español",
+    "slug": "comedycentralenespanol-us-sd-2575",
+    "logoUrl": "https://i.imgur.com/6xTD3G8.png",
+    "streamUrl": "https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentralenEspanol.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central-en-espa-ol::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedytv-ge-sd-2589",
+    "name": "Comedy TV",
+    "slug": "comedytv-ge-sd-2589",
+    "logoUrl": "https://i.imgur.com/i1TANKv.png",
+    "streamUrl": "http://31.146.5.178:8087/play/a00b/index.m3u8",
+    "country": {
+      "code": "GE",
+      "name": "Georgia"
+    },
+    "languages": [
+      "kat"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyTV.ge",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-tv::ge::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "moretvsitcoms-us-sd-6079",
+    "name": "More TV Sitcoms",
+    "slug": "moretvsitcoms-us-sd-6079",
+    "logoUrl": "https://i.imgur.com/4mbhOEo.png",
+    "streamUrl": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "MoreTVSitcoms.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "more-tv-sitcoms::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvclassictv-us-uk-7355",
+    "name": "Pluto TV Classic TV",
+    "slug": "plutotvclassictv-us-uk-7355",
+    "logoUrl": "https://i.imgur.com/hGdXRMd.png",
+    "streamUrl": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PlutoTVClassicTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-classic-tv::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvcomedy-us-us-7358",
+    "name": "Pluto TV Comedy",
+    "slug": "plutotvcomedy-us-us-7358",
+    "logoUrl": "https://i.imgur.com/MTVrbd5.png",
+    "streamUrl": "https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PlutoTVComedy.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-comedy::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvcomedie-us-france-7357",
+    "name": "Pluto TV Comédie",
+    "slug": "plutotvcomedie-us-france-7357",
+    "logoUrl": "https://i.imgur.com/1e4IFrS.png",
+    "streamUrl": "https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PlutoTVComedie.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-com-die::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "scherzierisate-us-italy-8961",
+    "name": "Pluto TV Scherzi e risate",
+    "slug": "scherzierisate-us-italy-8961",
+    "logoUrl": "https://i.imgur.com/jVWPVvJ.png",
+    "streamUrl": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "Scherzierisate.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-scherzi-e-risate::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "takeshiscastle-us-germany-9720",
+    "name": "Takeshi's Castle",
+    "slug": "takeshiscastle-us-germany-9720",
+    "logoUrl": "https://i.imgur.com/KuK72kL.png",
+    "streamUrl": "https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TakeshisCastle.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "takeshi-s-castle::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlandsitcoms-us-sd-10910",
+    "name": "TV Land Sitcoms",
+    "slug": "tvlandsitcoms-us-sd-10910",
+    "logoUrl": "https://i.imgur.com/phHHs7l.png",
+    "streamUrl": "https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "TVLandSitcoms.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-land-sitcoms::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vayasemanita-us-spain-11430",
+    "name": "Vaya semanita",
+    "slug": "vayasemanita-us-spain-11430",
+    "logoUrl": "https://i.imgur.com/0bCLNUG.png",
+    "streamUrl": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "Vayasemanita.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vaya-semanita::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "camerasmiletv-us-sd-1734",
+    "name": "Camera Smile",
+    "slug": "camerasmiletv-us-sd-1734",
+    "logoUrl": "https://i.imgur.com/V5h4R83.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "CameraSmileTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "camera-smile::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentralanimation-us-sd-2574",
+    "name": "Comedy Central Animation",
+    "slug": "comedycentralanimation-us-sd-2574",
+    "logoUrl": "https://i.imgur.com/uENch0P.png",
+    "streamUrl": "https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentralAnimation.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central-animation::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gemcomedy-tr-sd-3904",
+    "name": "GEM Comedy",
+    "slug": "gemcomedy-tr-sd-3904",
+    "logoUrl": "https://i.imgur.com/FuscfJW.png",
+    "streamUrl": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "GEMComedy.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gem-comedy::tr::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvkenanykel-us-sd-7425",
+    "name": "Kenan y Kel",
+    "slug": "plutotvkenanykel-us-sd-7425",
+    "logoUrl": "https://i.imgur.com/9PAY5Xz.png",
+    "streamUrl": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PlutoTVKenanyKel.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kenan-y-kel::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "persianacomedy-fr-sd-7220",
+    "name": "Persiana Comedy",
+    "slug": "persianacomedy-fr-sd-7220",
+    "logoUrl": "https://i.imgur.com/DBZ3Pi5.png",
+    "streamUrl": "https://comedyhls.persiana.live/hls/stream.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PersianaComedy.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "persiana-comedy::fr::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "britishcomedy-us-sd-1636",
+    "name": "Pluto TV British Comedy",
+    "slug": "britishcomedy-us-sd-1636",
+    "logoUrl": "https://i.imgur.com/LlwoR74.png",
+    "streamUrl": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "BritishComedy.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-british-comedy::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comediamadeinspain-us-sd-2569",
+    "name": "Pluto TV Comedia made in Spain",
+    "slug": "comediamadeinspain-us-sd-2569",
+    "logoUrl": "https://i.imgur.com/8ddFdSQ.png",
+    "streamUrl": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComediaMadeinSpain.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-comedia-made-in-spain::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedymovies-es-sd-2587",
+    "name": "Pluto TV Comedy Movies",
+    "slug": "comedymovies-es-sd-2587",
+    "logoUrl": "https://i.imgur.com/BpsDY37.png",
+    "streamUrl": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyMovies.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-comedy-movies::es::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvseriescomedia-us-spain-7511",
+    "name": "Pluto TV Séries Comédia",
+    "slug": "plutotvseriescomedia-us-spain-7511",
+    "logoUrl": "https://i.imgur.com/INcTSkj.png",
+    "streamUrl": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "PlutoTVSeriesComedia.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-s-ries-com-dia::us::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentral-de-sd-2571",
+    "name": "Comedy Central",
+    "slug": "comedycentral-de-sd-2571",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "streamUrl": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31302/index.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentral.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central::de::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "comedycentral-ro-sd-2572",
+    "name": "Comedy Central",
+    "slug": "comedycentral-ro-sd-2572",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Comedy",
+    "epg": {
+      "id": "ComedyCentral.ro",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "comedy-central::ro::comedy",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

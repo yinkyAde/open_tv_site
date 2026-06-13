@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "tv1-my-sd-10595",
+    "name": "TV1",
+    "slug": "tv1-my-sd-10595",
+    "logoUrl": "https://i.imgur.com/wSyPmiY.png",
+    "streamUrl": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV1.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv1::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tv2-my-sd-10605",
+    "name": "TV2",
+    "slug": "tv2-my-sd-10605",
+    "logoUrl": "https://i.imgur.com/LGEdeyJ.png",
+    "streamUrl": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV2.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv2::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+        "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd"
+      ]
+    }
+  },
+  {
+    "id": "tvikim-my-sd-10886",
+    "name": "TVIKIM",
+    "slug": "tvikim-my-sd-10886",
+    "logoUrl": "https://i.imgur.com/X6JKNEE.png",
+    "streamUrl": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVIKIM.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvikim::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "duniasinema-my-sd-3169",
+    "name": "Dunia Sinema",
+    "slug": "duniasinema-my-sd-3169",
+    "logoUrl": "",
+    "streamUrl": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "DuniaSinema.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dunia-sinema::my::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "selangortv-my-sd-8990",
+    "name": "SelangorTV",
+    "slug": "selangortv-my-sd-8990",
+    "logoUrl": "https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",
+    "streamUrl": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SelangorTV.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "selangortv::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cinemaworld-my-sd-2375",
+    "name": "CinemaWorld",
+    "slug": "cinemaworld-my-sd-2375",
+    "logoUrl": "https://i.imgur.com/D2qNVZ7.png",
+    "streamUrl": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "CinemaWorld.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cinemaworld::my::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maahtv-my-sd-5615",
+    "name": "Maah TV",
+    "slug": "maahtv-my-sd-5615",
+    "logoUrl": "https://i.imgur.com/FkyueH6.png",
+    "streamUrl": "https://hls.maahtv.live/hls/stream.m3u8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "MaahTV.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maah-tv::my::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "suketv-my-sd-9563",
+    "name": "Suke TV",
+    "slug": "suketv-my-sd-9563",
+    "logoUrl": "https://i.imgur.com/hCwH3s0.png",
+    "streamUrl": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "SukeTV.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "suke-tv::my::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "prosportinternational-my-sd-7703",
+    "name": "PRO Sport International",
+    "slug": "prosportinternational-my-sd-7703",
+    "logoUrl": "",
+    "streamUrl": "https://proshls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "PROSportInternational.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pro-sport-international::my::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "8tv-my-sd-72",
+    "name": "8TV",
+    "slug": "8tv-my-sd-72",
+    "logoUrl": "https://i.imgur.com/Jkx9W88.png",
+    "streamUrl": "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "8TV.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "8tv::my::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://cdn6.163189.xyz/163189/8tv"
+      ]
+    }
+  },
+  {
+    "id": "ntv7-my-sd-6791",
+    "name": "NTV7",
+    "slug": "ntv7-my-sd-6791",
+    "logoUrl": "https://i.imgur.com/jDWR3xI.png",
+    "streamUrl": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "eng",
+      "mal"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NTV7.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ntv7::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv9-my-sd-10663",
+    "name": "TV9",
+    "slug": "tv9-my-sd-10663",
+    "logoUrl": "https://i.imgur.com/Krh1F8d.png",
+    "streamUrl": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV9.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv9::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtmasean-my-sd-8421",
+    "name": "RTM ASEAN",
+    "slug": "rtmasean-my-sd-8421",
+    "logoUrl": "https://i.imgur.com/skAiUxg.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "RTMASEAN.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtm-asean::my::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "beritartm-my-sd-1405",
+    "name": "Berita RTM",
+    "slug": "beritartm-my-sd-1405",
+    "logoUrl": "https://i.imgur.com/1Xzxsgl.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BeritaRTM.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "berita-rtm::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "okey-my-sd-6896",
+    "name": "Okey",
+    "slug": "okey-my-sd-6896",
+    "logoUrl": "https://i.imgur.com/V2jREQ5.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa",
+      "eng",
+      "zho"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Okey.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "okey::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv6-my-sd-10647",
+    "name": "TV6",
+    "slug": "tv6-my-sd-10647",
+    "logoUrl": "https://i.imgur.com/bK8UH9D.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV6.my",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv6::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "awesometv-my-sd-1039",
+    "name": "Awesome TV",
+    "slug": "awesometv-my-sd-1039",
+    "logoUrl": "https://i.imgur.com/x90U1Bf.png",
+    "streamUrl": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AwesomeTV.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "awesome-tv::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtmparlimendewannegara-my-sd-8422",
+    "name": "RTM Parlimen (Dewan Negara)",
+    "slug": "rtmparlimendewannegara-my-sd-8422",
+    "logoUrl": "https://i.postimg.cc/mgrVsTMY/header.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "RTMParlimenDewanNegara.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtm-parlimen-dewan-negara::my::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtmparlimendewanrakyat-my-sd-8423",
+    "name": "RTM Parlimen (Dewan Rakyat)",
+    "slug": "rtmparlimendewanrakyat-my-sd-8423",
+    "logoUrl": "https://i.postimg.cc/mgrVsTMY/header.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "RTMParlimenDewanRakyat.my",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtm-parlimen-dewan-rakyat::my::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sukanrtm-my-sd-9562",
+    "name": "Sukan RTM",
+    "slug": "sukanrtm-my-sd-9562",
+    "logoUrl": "https://i.imgur.com/1pYYSu2.png",
+    "streamUrl": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+    "country": {
+      "code": "MY",
+      "name": "Malaysia"
+    },
+    "languages": [
+      "msa"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SukanRTM.my",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 63,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "sukan-rtm::my::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

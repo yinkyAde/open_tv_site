@@ -1,0 +1,6657 @@
+[
+  {
+    "id": "adventureearth-de-sd-331",
+    "name": "Adventure Earth",
+    "slug": "adventureearth-de-sd-331",
+    "logoUrl": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+    "streamUrl": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AdventureEarth.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "adventure-earth::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "autentichistory-de-sd-1013",
+    "name": "Autentic History",
+    "slug": "autentichistory-de-sd-1013",
+    "logoUrl": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+    "streamUrl": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AutenticHistory.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "autentic-history::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "backstage-us-sd-1092",
+    "name": "Backstage",
+    "slug": "backstage-us-sd-1092",
+    "logoUrl": "https://i.imgur.com/qcTNvNU.png",
+    "streamUrl": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Backstage.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "backstage::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bbcearth-uk-us-1175",
+    "name": "BBC Earth",
+    "slug": "bbcearth-uk-us-1175",
+    "logoUrl": "https://i.imgur.com/nGSsUd4.png",
+    "streamUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BBCEarth.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbc-earth::uk::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+        "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
+        "https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bloombergoriginals-us-sd-1523",
+    "name": "Bloomberg Originals",
+    "slug": "bloombergoriginals-us-sd-1523",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+    "streamUrl": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BloombergOriginals.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "7 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bloomberg-originals::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8",
+        "https://bloomberg.com/media-manifest/streams/qt.m3u8",
+        "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-quicktake/bloombergqt.m3u8?ads.vf=HprVacPhrxy",
+        "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
+        "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "britboxmysteries-us-sd-1635",
+    "name": "BritBox Mysteries",
+    "slug": "britboxmysteries-us-sd-1635",
+    "logoUrl": "https://i.imgur.com/PJdzoLN.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BritBoxMysteries.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "britbox-mysteries::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8",
+        "https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cgtndocumentary-cn-sd-2209",
+    "name": "CGTN Documentary",
+    "slug": "cgtndocumentary-cn-sd-2209",
+    "logoUrl": "https://i.imgur.com/JHv0WxM.png",
+    "streamUrl": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CGTNDocumentary.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cgtn-documentary::cn::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8",
+        "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+        "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
+        "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cnaoriginals-sg-sd-2499",
+    "name": "CNA Originals",
+    "slug": "cnaoriginals-sg-sd-2499",
+    "logoUrl": "https://i.imgur.com/hlFQTrB.png",
+    "streamUrl": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CNAOriginals.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cna-originals::sg::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cna-originals/playlist.m3u8?ads.vf=P3eUYyWBR74"
+      ]
+    }
+  },
+  {
+    "id": "courttv-us-sd-2640",
+    "name": "Court TV",
+    "slug": "courttv-us-sd-2640",
+    "logoUrl": "https://i.imgur.com/qkfe3o9.png",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CourtTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "court-tv::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8",
+        "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
+        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "dateline247-us-sd-2785",
+    "name": "Dateline 24/7",
+    "slug": "dateline247-us-sd-2785",
+    "logoUrl": "https://i.imgur.com/8mAJuut.png",
+    "streamUrl": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Dateline247.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dateline-24-7::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+        "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
+        "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8",
+        "https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "deadlywomen-us-uk-2900",
+    "name": "Deadly Women",
+    "slug": "deadlywomen-us-uk-2900",
+    "logoUrl": "https://i.imgur.com/dDVZ5Vd.png",
+    "streamUrl": "https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DeadlyWomen.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "deadly-women::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "documentaryplus-us-us-3065",
+    "name": "Documentary+",
+    "slug": "documentaryplus-us-us-3065",
+    "logoUrl": "https://i.imgur.com/x57klfS.png",
+    "streamUrl": "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DocumentaryPlus.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "documentary::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "docurama-us-sd-3067",
+    "name": "Docurama",
+    "slug": "docurama-us-sd-3067",
+    "logoUrl": "https://i.imgur.com/2248nxX.png",
+    "streamUrl": "https://docurama-plex-ingest.cinedigm.com/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Docurama.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "docurama::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://docurama-tcl.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "historyhit-uk-sd-4295",
+    "name": "History Hit",
+    "slug": "historyhit-uk-sd-4295",
+    "logoUrl": "https://i.imgur.com/ulHoqlP.png",
+    "streamUrl": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HistoryHit.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-hit::uk::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "historytv18-in-hd-4300",
+    "name": "History TV18 HD",
+    "slug": "historytv18-in-hd-4300",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://103.154.3.101:5001/live/577.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HistoryTV18.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-tv18::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
+        "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+        "http://103.72.101.252:8080/live/1471.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "inwild-nl-sd-4635",
+    "name": "INWILD",
+    "slug": "inwild-nl-sd-4635",
+    "logoUrl": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
+    "streamUrl": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "INWILD.nl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "inwild::nl::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "lovepets-ca-us-5555",
+    "name": "Love Pets",
+    "slug": "lovepets-ca-us-5555",
+    "logoUrl": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
+    "streamUrl": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LovePets.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-pets::ca::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8",
+        "https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8",
+        "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "lovetheplanet-es-en-5563",
+    "name": "Love the Planet",
+    "slug": "lovetheplanet-es-en-5563",
+    "logoUrl": "https://i.imgur.com/RBcD49X.png",
+    "streamUrl": "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LoveThePlanet.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-the-planet::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "magellantvnow-us-sd-5632",
+    "name": "MagellanTV Now",
+    "slug": "magellantvnow-us-sd-5632",
+    "logoUrl": "https://i.imgur.com/gEraSp5.png",
+    "streamUrl": "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "MagellanTVNow.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "magellantv-now::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "naturetime-ca-es-6379",
+    "name": "Nature Time",
+    "slug": "naturetime-ca-es-6379",
+    "logoUrl": "https://i.imgur.com/72JmyjM.png",
+    "streamUrl": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NatureTime.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nature-time::ca::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8",
+        "https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8",
+        "https://jmp2.uk/plu-63d91c9c8795f30008678e62.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "naturetime-ca-au-6375",
+    "name": "NatureTime",
+    "slug": "naturetime-ca-au-6375",
+    "logoUrl": "https://i.imgur.com/72JmyjM.png",
+    "streamUrl": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NatureTime.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "naturetime::ca::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8",
+        "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8",
+        "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+        "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8",
+        "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rtdocumentary-ru-russian-8371",
+    "name": "RT Documentary Russian",
+    "slug": "rtdocumentary-ru-russian-8371",
+    "logoUrl": "https://i.imgur.com/aeu5zIC.png",
+    "streamUrl": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "RTDocumentary.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rt-documentary-russian::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://streaming.thestream.cyou/live/554.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "terramaterwild-de-german-10100",
+    "name": "Terra Mater WILD",
+    "slug": "terramaterwild-de-german-10100",
+    "logoUrl": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
+    "streamUrl": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "TerraMaterWILD.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "terra-mater-wild::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8",
+        "https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nauka-ru-sd-6389",
+    "name": "НАУКА",
+    "slug": "nauka-ru-sd-6389",
+    "logoUrl": "https://i.imgur.com/ZZxzueO.png",
+    "streamUrl": "http://31.148.48.15/Nauka_2.0/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Nauka.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8",
+        "http://31.148.48.15/Istoriya/index.m3u8",
+        "http://s1.tv-nano.com/Nano_rec/index.m3u8",
+        "https://vod.tuva.ru/nauka2/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "asharqdiscovery-sa-sd-906",
+    "name": "Asharq Discovery",
+    "slug": "asharqdiscovery-sa-sd-906",
+    "logoUrl": "https://i.imgur.com/Czxi7yk.png",
+    "streamUrl": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AsharqDiscovery.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-discovery::sa::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "asharqdocumentary-sa-sd-907",
+    "name": "Asharq Documentary",
+    "slug": "asharqdocumentary-sa-sd-907",
+    "logoUrl": "https://i.imgur.com/v6VsFEt.png",
+    "streamUrl": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AsharqDocumentary.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "asharq-documentary::sa::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bbcfour-uk-ukhd-1181",
+    "name": "BBC Four UK HD",
+    "slug": "bbcfour-uk-ukhd-1181",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
+    "streamUrl": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BBCFour.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbc-four-uk::uk::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "chinatravel-cn-sd-2336",
+    "name": "China Travel",
+    "slug": "chinatravel-cn-sd-2336",
+    "logoUrl": "https://i.imgur.com/vSgY3CD.png",
+    "streamUrl": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ChinaTravel.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "china-travel::cn::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crime360-us-sd-2663",
+    "name": "Crime360",
+    "slug": "crime360-us-sd-2663",
+    "logoUrl": "https://i.imgur.com/IjtaG1m.png",
+    "streamUrl": "https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZTM2MF9ITFM/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Crime360.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crime360::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "curiositynow-de-en-2721",
+    "name": "Curiosity Now",
+    "slug": "curiositynow-de-en-2721",
+    "logoUrl": "https://i.imgur.com/gJ9eMaG.png",
+    "streamUrl": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CuriosityNOW.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "curiosity-now::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "discoveringchina-cn-sd-3003",
+    "name": "Discovering China",
+    "slug": "discoveringchina-cn-sd-3003",
+    "logoUrl": "https://i.imgur.com/wr2bLaA.png",
+    "streamUrl": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DiscoveringChina.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "discovering-china::cn::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "documentaryplus-us-international-3064",
+    "name": "Documentary+ International",
+    "slug": "documentaryplus-us-international-3064",
+    "logoUrl": "https://i.imgur.com/x57klfS.png",
+    "streamUrl": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DocumentaryPlus.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "documentary-international::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gzt-tr-sd-4148",
+    "name": "GZT",
+    "slug": "gzt-tr-sd-4148",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
+    "streamUrl": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "GZT.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gzt::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "historytv18-in-hd-4303",
+    "name": "History TV18 HD Tamil",
+    "slug": "historytv18-in-hd-4303",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://103.72.101.252:8080/live/579.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HistoryTV18.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-tv18-tamil::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationalgeographicwild-in-hd-6363",
+    "name": "National Geographic Wild HD",
+    "slug": "nationalgeographicwild-in-hd-6363",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://149.71.34.166:8002/play/a012/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "kan",
+      "mal",
+      "tel",
+      "tam",
+      "ben",
+      "mar"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NationalGeographicWild.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-geographic-wild::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "naturetime-ca-france-6381",
+    "name": "Nature Time France",
+    "slug": "naturetime-ca-france-6381",
+    "logoUrl": "https://i.imgur.com/72JmyjM.png",
+    "streamUrl": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NatureTime.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nature-time-france::ca::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "naturetime-ca-sd-6384",
+    "name": "NatureTime Finland",
+    "slug": "naturetime-ca-sd-6384",
+    "logoUrl": "https://i.imgur.com/72JmyjM.png",
+    "streamUrl": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NatureTime.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "naturetime-finland::ca::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "reelz-us-sd-8173",
+    "name": "REELZ Famous & Infamous",
+    "slug": "reelz-us-sd-8173",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
+    "streamUrl": "https://d3serb1fmh623s.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Reelz.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "reelz-famous-infamous::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "storiecriminali-es-it-9500",
+    "name": "Storie Criminali",
+    "slug": "storiecriminali-es-it-9500",
+    "logoUrl": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
+    "streamUrl": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "StorieCriminali.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "storie-criminali::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "terramaterwild-de-english-10098",
+    "name": "Terra Mater WILD English",
+    "slug": "terramaterwild-de-english-10098",
+    "logoUrl": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
+    "streamUrl": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "TerraMaterWILD.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "terra-mater-wild-english::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "totalcrime-ca-ca-10436",
+    "name": "Total Crime",
+    "slug": "totalcrime-ca-ca-10436",
+    "logoUrl": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+    "country": {
+      "code": "CA",
+      "name": "Canada"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "TotalCrime.ca",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "total-crime::ca::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "unidentified-us-sd-11322",
+    "name": "Unidentified",
+    "slug": "unidentified-us-sd-11322",
+    "logoUrl": "https://i.imgur.com/naYszow.jpg",
+    "streamUrl": "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Unidentified.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "unidentified::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "waterbear-ch-sd-11658",
+    "name": "WaterBear",
+    "slug": "waterbear-ch-sd-11658",
+    "logoUrl": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+    "streamUrl": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+    "country": {
+      "code": "CH",
+      "name": "Switzerland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "WaterBear.ch",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "waterbear::ch::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "intocrime-fr-sd-4622",
+    "name": "Zylo Into Crime",
+    "slug": "intocrime-fr-sd-4622",
+    "logoUrl": "https://i.imgur.com/43at4M2.png",
+    "streamUrl": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "IntoCrime.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zylo-into-crime::fr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btbinfo-pl-sd-1655",
+    "name": "BTB Info",
+    "slug": "btbinfo-pl-sd-1655",
+    "logoUrl": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+    "streamUrl": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BTBInfo.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btb-info::pl::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctvweapontechnology-cn-hd-2162",
+    "name": "CCTV-Weapon & Technology",
+    "slug": "cctvweapontechnology-cn-hd-2162",
+    "logoUrl": "https://i.imgur.com/QlF96eS.png",
+    "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CCTVWeaponTechnology.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-weapon-technology::cn::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dokusat-de-sd-3081",
+    "name": "Dokusat",
+    "slug": "dokusat-de-sd-3081",
+    "logoUrl": "https://i.imgur.com/GadfTwF.png",
+    "streamUrl": "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Dokusat.de",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dokusat::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "francophonie24-fr-sd-3801",
+    "name": "Francophonie24",
+    "slug": "francophonie24-fr-sd-3801",
+    "logoUrl": "https://i.imgur.com/uM1v1sd.png",
+    "streamUrl": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Francophonie24.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "francophonie24::fr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "history-si-hd-4291",
+    "name": "History Channel",
+    "slug": "history-si-hd-4291",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "streamUrl": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+    "country": {
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "languages": [
+      "slv"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "History.si",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-channel::si::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktootv33-us-hd-5242",
+    "name": "KTOO 360TV 3 (FNX)",
+    "slug": "ktootv33-us-hd-5242",
+    "logoUrl": "https://i.imgur.com/ppn5oJy.png",
+    "streamUrl": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "KTOOTV33.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktoo-360tv-3-fnx::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ozbekistontarixi-uz-sd-7084",
+    "name": "O'zbekiston Tarixi",
+    "slug": "ozbekistontarixi-uz-sd-7084",
+    "logoUrl": "https://i.imgur.com/iTTd3Ir.png",
+    "streamUrl": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+    "country": {
+      "code": "UZ",
+      "name": "Uzbekistan"
+    },
+    "languages": [
+      "uzb"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "OzbekistonTarixi.uz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "o-zbekiston-tarixi::uz::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "aljazeeradocumentary-qa-sd-502",
+    "name": "Al Jazeera Documentary",
+    "slug": "aljazeeradocumentary-qa-sd-502",
+    "logoUrl": "https://i.imgur.com/5dNJlLo.png",
+    "streamUrl": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+    "country": {
+      "code": "QA",
+      "name": "Qatar"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AlJazeeraDocumentary.qa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-jazeera-documentary::qa::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "rtdocumentary-ru-english-8368",
+    "name": "RT Documentary English",
+    "slug": "rtdocumentary-ru-english-8368",
+    "logoUrl": "https://i.imgur.com/aeu5zIC.png",
+    "streamUrl": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "RTDocumentary.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rt-documentary-english::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "historytv18-in-hd-4302",
+    "name": "History TV18 HD Hindi",
+    "slug": "historytv18-in-hd-4302",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HistoryTV18.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-tv18-hindi::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lovetheplanet-es-de-5561",
+    "name": "Love The Planet DE",
+    "slug": "lovetheplanet-es-de-5561",
+    "logoUrl": "https://i.imgur.com/RBcD49X.png",
+    "streamUrl": "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LoveThePlanet.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-the-planet-de::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lovetheplanet-es-es-5564",
+    "name": "Love The Planet ES",
+    "slug": "lovetheplanet-es-es-5564",
+    "logoUrl": "https://i.imgur.com/RBcD49X.png",
+    "streamUrl": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LoveThePlanet.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-the-planet-es::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lovetheplanet-es-it-5565",
+    "name": "Love The Planet IT",
+    "slug": "lovetheplanet-es-it-5565",
+    "logoUrl": "https://i.imgur.com/RBcD49X.png",
+    "streamUrl": "https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LoveThePlanet.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "love-the-planet-it::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "magellantvnow-us-sd-5634",
+    "name": "MagellanTV TV Now",
+    "slug": "magellantvnow-us-sd-5634",
+    "logoUrl": "https://i.imgur.com/gEraSp5.png",
+    "streamUrl": "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "MagellanTVNow.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "magellantv-tv-now::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationalgeographic-tr-sd-6362",
+    "name": "National Geographic",
+    "slug": "nationalgeographic-tr-sd-6362",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "streamUrl": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NationalGeographic.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-geographic::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationalgeographicwild-tr-sd-6364",
+    "name": "National Geographic Wild",
+    "slug": "nationalgeographicwild-tr-sd-6364",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "streamUrl": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NationalGeographicWild.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-geographic-wild::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "indiatvaapkiadalat-in-sd-4571",
+    "name": "India TV Aap Ki Adalat",
+    "slug": "indiatvaapkiadalat-in-sd-4571",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Aap_Ki_Adalat.png",
+    "streamUrl": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "IndiaTVAapKiAdalat.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "india-tv-aap-ki-adalat::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crime360-us-sd-2659",
+    "name": "Crime 360",
+    "slug": "crime360-us-sd-2659",
+    "logoUrl": "https://i.imgur.com/IjtaG1m.png",
+    "streamUrl": "https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Crime360.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crime-360::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8",
+        "https://jmp2.uk/plu-6578848a6e4f6a0008741910.m3u8",
+        "https://jmp2.uk/plu-6578875614fbe400086e319e.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "lawcrime-us-sd-5399",
+    "name": "Law & Crime",
+    "slug": "lawcrime-us-sd-5399",
+    "logoUrl": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8?ads.vf=uF_BpgvA1oi",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LawCrime.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "law-crime::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
+        "https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8",
+        "https://cdn.lawandcrime.net/rewind/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "teenmom-us-sd-9812",
+    "name": "Teen Mom",
+    "slug": "teenmom-us-sd-9812",
+    "logoUrl": "https://i.imgur.com/8o3ClCV.png",
+    "streamUrl": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "TeenMom.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "teen-mom::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
+        "https://jmp2.uk/plu-62d550d81054990007db7798.m3u8",
+        "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "terra-ru-sd-10097",
+    "name": "Terra HD",
+    "slug": "terra-ru-sd-10097",
+    "logoUrl": "https://i.imgur.com/ZxUjCpF.png",
+    "streamUrl": "http://31.148.48.15/Terra_HD/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "TERRA.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "terra::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8",
+        "http://31.148.48.15/Terra/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "crime360-us-sd-2664",
+    "name": "A&E Crime 360",
+    "slug": "crime360-us-sd-2664",
+    "logoUrl": "https://i.imgur.com/IjtaG1m.png",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Crime360.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "a-e-crime-360::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crimenhistoria-es-sd-2669",
+    "name": "Crimen & Historia",
+    "slug": "crimenhistoria-es-sd-2669",
+    "logoUrl": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
+    "streamUrl": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CrimenHistoria.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crimen-historia::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dangertv-us-sd-2774",
+    "name": "DangerTV",
+    "slug": "dangertv-us-sd-2774",
+    "logoUrl": "https://i.imgur.com/4aTk45R.png",
+    "streamUrl": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DangerTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dangertv::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "getfactual-us-uk-3942",
+    "name": "Get.Factual",
+    "slug": "getfactual-us-uk-3942",
+    "logoUrl": "https://i.imgur.com/4oVcjLd.png",
+    "streamUrl": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Getfactual.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "get-factual::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hdl-ru-sd-4223",
+    "name": "HDL",
+    "slug": "hdl-ru-sd-4223",
+    "logoUrl": "https://i.imgur.com/tKgmhxh.png",
+    "streamUrl": "http://31.148.48.15/HD_Life/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HDL.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hdl::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "historiayvida-es-sd-4290",
+    "name": "Historia y Vida",
+    "slug": "historiayvida-es-sd-4290",
+    "logoUrl": "https://i.imgur.com/3lbh2X6.png",
+    "streamUrl": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HistoriaYVida.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "historia-y-vida::es::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "luckydog-us-sd-5589",
+    "name": "Lucky Dog",
+    "slug": "luckydog-us-sd-5589",
+    "logoUrl": "https://i.imgur.com/1j4gwL3.png",
+    "streamUrl": "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "LuckyDog.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lucky-dog::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "trtbelgesel-tr-sd-10530",
+    "name": "TRT Belgesel",
+    "slug": "trtbelgesel-tr-sd-10530",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
+    "streamUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "TRTBelgesel.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "trt-belgesel::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "clicktvchile-cl-sd-2473",
+    "name": "Click TV (Coronel)",
+    "slug": "clicktvchile-cl-sd-2473",
+    "logoUrl": "https://i.imgur.com/H0XNbMS.png",
+    "streamUrl": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ClickTVChile.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "click-tv-coronel::cl::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ecovision-do-sd-3231",
+    "name": "Ecovisión",
+    "slug": "ecovision-do-sd-3231",
+    "logoUrl": "https://imgur.com/a/pUlIJZX.png",
+    "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Ecovision.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ecovisi-n::do::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bbcfour-uk-uk-1176",
+    "name": "BBC Four HD",
+    "slug": "bbcfour-uk-uk-1176",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
+    "streamUrl": "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BBCFour.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbc-four::uk::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+        "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
+        "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
+      ]
+    }
+  },
+  {
+    "id": "nationalgeographic-fi-sd-6360",
+    "name": "National Geographic (Finland)",
+    "slug": "nationalgeographic-fi-sd-6360",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "streamUrl": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+    "country": {
+      "code": "FI",
+      "name": "Finland"
+    },
+    "languages": [
+      "fin"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NationalGeographic.fi",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-geographic-finland::fi::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "persianatravel-fr-sd-7236",
+    "name": "Persiana Travel",
+    "slug": "persianatravel-fr-sd-7236",
+    "logoUrl": "",
+    "streamUrl": "https://ptravelhls.persiana.live/hls/stream.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PersianaTravel.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 108,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "persiana-travel::fr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://mardomhls.wns.live/hls/stream.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "eplanettv-ir-sd-3355",
+    "name": "EPlanet TV",
+    "slug": "eplanettv-ir-sd-3355",
+    "logoUrl": "",
+    "streamUrl": "https://eplhls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "EPlanetTV.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "eplanet-tv::ir::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "persianadocs-fr-hd-7221",
+    "name": "Persiana Docs",
+    "slug": "persianadocs-fr-hd-7221",
+    "logoUrl": "",
+    "streamUrl": "https://scihls.persiana.live/hls/stream.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PersianaDocs.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "persiana-docs::fr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "archivosforenses-us-spain-827",
+    "name": "Archivos Forenses",
+    "slug": "archivosforenses-us-spain-827",
+    "logoUrl": "https://i.imgur.com/Pxrl9Ug.png",
+    "streamUrl": "https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ArchivosForenses.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "archivos-forenses::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cazadordehomicidas-us-spain-2022",
+    "name": "Cazador de Homicidas",
+    "slug": "cazadordehomicidas-us-spain-2022",
+    "logoUrl": "https://i.imgur.com/hy6FJLe.png",
+    "streamUrl": "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CazadordeHomicidas.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cazador-de-homicidas::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "dallascowboyscheerleaders-us-sd-2752",
+    "name": "Dallas Cowboys Cheerleaders",
+    "slug": "dallascowboyscheerleaders-us-sd-2752",
+    "logoUrl": "https://i.imgur.com/73HlRCg.png",
+    "streamUrl": "https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DallasCowboysCheerleaders.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dallas-cowboys-cheerleaders::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-64e77016324d190008291c13.m3u8",
+        "https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "fbifiles-us-uk-3608",
+    "name": "FBI Files",
+    "slug": "fbifiles-us-uk-3608",
+    "logoUrl": "https://i.imgur.com/vzYDSLo.png",
+    "streamUrl": "https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "FBIFiles.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fbi-files::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-61814659533163000748aa04.m3u8",
+        "https://jmp2.uk/plu-61815067b9802500076e16e0.m3u8",
+        "https://jmp2.uk/plu-61814b9a9704450007e52316.m3u8",
+        "https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "forensicfiles-us-sd-3722",
+    "name": "Forensic Files",
+    "slug": "forensicfiles-us-sd-3722",
+    "logoUrl": "https://i.imgur.com/V5vvuLK.png",
+    "streamUrl": "https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ForensicFiles.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "forensic-files::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8",
+        "https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8",
+        "https://jmp2.uk/plu-6181262dc68b92000780fed2.m3u8",
+        "https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8",
+        "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "inkmaster-us-sd-4604",
+    "name": "Ink Master",
+    "slug": "inkmaster-us-sd-4604",
+    "logoUrl": "https://i.imgur.com/DiBojYh.png",
+    "streamUrl": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "InkMaster.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ink-master::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "onthecase-us-uk-7004",
+    "name": "On the Case",
+    "slug": "onthecase-us-uk-7004",
+    "logoUrl": "https://i.imgur.com/TAmVjUL.png",
+    "streamUrl": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "OnTheCase.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "on-the-case::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8",
+        "https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8",
+        "https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvanimals-us-germany-7317",
+    "name": "Pluto TV Animals",
+    "slug": "plutotvanimals-us-germany-7317",
+    "logoUrl": "https://i.imgur.com/N00seOn.png",
+    "streamUrl": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVAnimals.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-animals::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvcrime-us-germany-7361",
+    "name": "Pluto TV Crime",
+    "slug": "plutotvcrime-us-germany-7361",
+    "logoUrl": "https://i.imgur.com/QwEpDY9.png",
+    "streamUrl": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVCrime.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-crime::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvhistory-us-germany-7404",
+    "name": "Pluto TV History",
+    "slug": "plutotvhistory-us-germany-7404",
+    "logoUrl": "https://i.imgur.com/XkQD5kM.png",
+    "streamUrl": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVHistory.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-history::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
+        "https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvparanormal-us-germany-7461",
+    "name": "Pluto TV Paranormal",
+    "slug": "plutotvparanormal-us-germany-7461",
+    "logoUrl": "https://i.imgur.com/ApN6nfw.png",
+    "streamUrl": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVParanormal.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "8 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-paranormal::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8",
+        "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
+        "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
+        "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8",
+        "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
+        "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8",
+        "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8",
+        "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "safaritv-in-sd-8835",
+    "name": "Safari TV",
+    "slug": "safaritv-in-sd-8835",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/3c2e9882d1f4b1e5a93bf9194fdd21ec.png",
+    "streamUrl": "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "SafariTV.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "safari-tv::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "365daystv-ru-sd-176",
+    "name": "365 Дней",
+    "slug": "365daystv-ru-sd-176",
+    "logoUrl": "https://i.imgur.com/NfnAiTR.png",
+    "streamUrl": "http://31.148.48.15/365_dney/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "365daysTV.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "365::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctv9-cn-sd-2136",
+    "name": "CCTV-9",
+    "slug": "cctv9-cn-sd-2136",
+    "logoUrl": "https://i.imgur.com/3tivvMm.png",
+    "streamUrl": "https://xykt-fix.github.io/Y77.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CCTV9.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-9::cn::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dossiersfbi-us-france-3102",
+    "name": "Dossiers FBI",
+    "slug": "dossiersfbi-us-france-3102",
+    "logoUrl": "https://i.imgur.com/8Zx6dA7.png",
+    "streamUrl": "https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DossiersFBI.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dossiers-fbi::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "historyasia-us-sd-4292",
+    "name": "History Asia",
+    "slug": "historyasia-us-sd-4292",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "HistoryAsia.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "history-asia::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "n24doku-de-sd-6312",
+    "name": "N24 Doku",
+    "slug": "n24doku-de-sd-6312",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png",
+    "streamUrl": "https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "N24Doku.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "n24-doku::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationalgeographic-in-hd-6361",
+    "name": "National Geographic HD",
+    "slug": "nationalgeographic-in-hd-6361",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "http://149.71.34.166:8002/play/a013/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "kan",
+      "mal",
+      "tel",
+      "tam",
+      "ben",
+      "mar"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "NationalGeographic.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-geographic::in::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvdocumentari-us-italy-7373",
+    "name": "Pluto TV Documentari",
+    "slug": "plutotvdocumentari-us-italy-7373",
+    "logoUrl": "https://i.imgur.com/o7KVAIH.png",
+    "streamUrl": "https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVDocumentari.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-documentari::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvinside-us-germany-7418",
+    "name": "Pluto TV Inside",
+    "slug": "plutotvinside-us-germany-7418",
+    "logoUrl": "https://i.imgur.com/Tb4GNml.png",
+    "streamUrl": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVInside.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-inside::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvinvestigation-us-france-7420",
+    "name": "Pluto TV Investigation",
+    "slug": "plutotvinvestigation-us-france-7420",
+    "logoUrl": "https://i.imgur.com/8LdACfR.png",
+    "streamUrl": "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVInvestigation.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-investigation::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvinvestigacao-us-brazil-7419",
+    "name": "Pluto TV Investigação",
+    "slug": "plutotvinvestigacao-us-brazil-7419",
+    "logoUrl": "https://i.imgur.com/JlQq0YJ.png",
+    "streamUrl": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVInvestigacao.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-investiga-o::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvmystery-us-germany-7452",
+    "name": "Pluto TV Mystery",
+    "slug": "plutotvmystery-us-germany-7452",
+    "logoUrl": "https://i.imgur.com/oXpLEXI.png",
+    "streamUrl": "https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVMystery.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-mystery::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvnatura-us-italy-7453",
+    "name": "Pluto TV Natura",
+    "slug": "plutotvnatura-us-italy-7453",
+    "logoUrl": "https://i.imgur.com/bGZkH6b.png",
+    "streamUrl": "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "PlutoTVNatura.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-natura::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtdocumentary-ru-russian-8370",
+    "name": "RTД",
+    "slug": "rtdocumentary-ru-russian-8370",
+    "logoUrl": "https://i.imgur.com/aeu5zIC.png",
+    "streamUrl": "https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "RTDocumentary.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rt::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sensingmurder-us-uk-9005",
+    "name": "Sensing Murder",
+    "slug": "sensingmurder-us-uk-9005",
+    "logoUrl": "https://i.imgur.com/HYEABSt.png",
+    "streamUrl": "https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "SensingMurder.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sensing-murder::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "spikeplutotv-us-sd-9337",
+    "name": "Spike Pluto TV",
+    "slug": "spikeplutotv-us-sd-9337",
+    "logoUrl": "https://i.imgur.com/woY8Ecb.png",
+    "streamUrl": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "SpikePlutoTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "spike-pluto-tv::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasatexplore-tr-sd-11504",
+    "name": "Viasat Explore",
+    "slug": "viasatexplore-tr-sd-11504",
+    "logoUrl": "https://i.imgur.com/DyT5pKB.png",
+    "streamUrl": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatExplore.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-explore::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ct2-cz-sd-2688",
+    "name": "ČT 2",
+    "slug": "ct2-cz-sd-2688",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
+    "streamUrl": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CT2.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-2::cz::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atlas-us-sd-958",
+    "name": "Atlas",
+    "slug": "atlas-us-sd-958",
+    "logoUrl": "https://whiplash.cc/assets/img/channels/atlas.png",
+    "streamUrl": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Atlas.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atlas::us::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cgtndocumentary-tr-sd-2214",
+    "name": "CGTN Documentary",
+    "slug": "cgtndocumentary-tr-sd-2214",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png",
+    "streamUrl": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur",
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CGTNDocumentary.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cgtn-documentary::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gemnature-tr-sd-3916",
+    "name": "GEM Nature",
+    "slug": "gemnature-tr-sd-3916",
+    "logoUrl": "https://i.imgur.com/ENvOMDQ.png",
+    "streamUrl": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "GEMNature.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gem-nature::tr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rlprotv-cd-sd-8280",
+    "name": "RL PRO TV",
+    "slug": "rlprotv-cd-sd-8280",
+    "logoUrl": "https://i.imgur.com/PIBtCEN.jpeg",
+    "streamUrl": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+    "country": {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "RLPROTV.cd",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rl-pro-tv::cd::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cndfilmdiscoverychannel-cn-sd-2525",
+    "name": "发现之旅",
+    "slug": "cndfilmdiscoverychannel-cn-sd-2525",
+    "logoUrl": "https://i.imgur.com/2FJfPDx.png",
+    "streamUrl": "http://125.210.152.18:9090/live/FXZL_750.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CNDFilmDiscoveryChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "docubox-nl-sd-3062",
+    "name": "DocuBox",
+    "slug": "docubox-nl-sd-3062",
+    "logoUrl": "https://i.imgur.com/pX4U9OG.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "DocuBox.nl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "docubox::nl::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasatexplore-se-sd-11503",
+    "name": "Viasat Explore",
+    "slug": "viasatexplore-se-sd-11503",
+    "logoUrl": "https://i.imgur.com/DyT5pKB.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatExplore.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-explore::se::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasathistory-se-sd-11506",
+    "name": "Viasat History",
+    "slug": "viasathistory-se-sd-11506",
+    "logoUrl": "https://i.imgur.com/wRP9XA7.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatHistory.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-history::se::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viasatnature-se-sd-11511",
+    "name": "Viasat Nature",
+    "slug": "viasatnature-se-sd-11511",
+    "logoUrl": "https://i.imgur.com/ousRqqD.png",
+    "streamUrl": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
+    "country": {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "ViasatNature.se",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "viasat-nature::se::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alarabiyaprograms-ae-sd-424",
+    "name": "Al Arabiya Programs",
+    "slug": "alarabiyaprograms-ae-sd-424",
+    "logoUrl": "https://i.imgur.com/Hoc3cfO.png",
+    "streamUrl": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+    "country": {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "AlArabiyaPrograms.ae",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "al-arabiya-programs::ae::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "francophonie24-fr-sd-3800",
+    "name": "Francophonie",
+    "slug": "francophonie24-fr-sd-3800",
+    "logoUrl": "https://i.imgur.com/uM1v1sd.png",
+    "streamUrl": "http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Francophonie24.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "francophonie::fr::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jail-uk-sd-4743",
+    "name": "Jail",
+    "slug": "jail-uk-sd-4743",
+    "logoUrl": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+    "streamUrl": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [],
+    "category": "Documentary",
+    "epg": {
+      "id": "Jail.uk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jail::uk::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kabeleinsdoku-de-sd-4931",
+    "name": "kabel eins Doku",
+    "slug": "kabeleinsdoku-de-sd-4931",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+    "streamUrl": "http://79.232.88.203:9981/stream/channelid/81078517",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "kabeleinsDoku.de",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 74,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "kabel-eins-doku::de::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "smotrim100fakty-ru-sd-9217",
+    "name": "Смотрим 100% Факты",
+    "slug": "smotrim100fakty-ru-sd-9217",
+    "logoUrl": "https://i.imgur.com/dB3cJzO.png",
+    "streamUrl": "https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "Smotrim100Fakty.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "100::ru::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bbcfour-uk-uk-1180",
+    "name": "BBC Four HD (1080p) (HEVC)",
+    "slug": "bbcfour-uk-uk-1180",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
+    "streamUrl": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "BBCFour.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 59,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "bbc-four-1080p-hevc::uk::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "rtg1-gn-hd-8379",
+    "name": "RTG 1",
+    "slug": "rtg1-gn-hd-8379",
+    "logoUrl": "https://i.imgur.com/E1sMcXz.png",
+    "streamUrl": "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8",
+    "country": {
+      "code": "GN",
+      "name": "Guinea"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "RTG1.gn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtg-1::gn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://69.64.57.208/rtg/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kalactv-gn-sd-4940",
+    "name": "Kalac TV",
+    "slug": "kalactv-gn-sd-4940",
+    "logoUrl": "https://i.imgur.com/FgKJiHZ.png",
+    "streamUrl": "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8",
+    "country": {
+      "code": "GN",
+      "name": "Guinea"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KalacTV.gn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kalac-tv::gn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kabacktv-gn-sd-4928",
+    "name": "Kaback TV",
+    "slug": "kabacktv-gn-sd-4928",
+    "logoUrl": "https://i.imgur.com/oIe98p4.png",
+    "streamUrl": "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8",
+    "country": {
+      "code": "GN",
+      "name": "Guinea"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KabackTV.gn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kaback-tv::gn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "atv-gn-sd-975",
+    "name": "ATV",
+    "slug": "atv-gn-sd-975",
+    "logoUrl": "https://i.imgur.com/YkJPCfR.jpeg",
+    "streamUrl": "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+    "country": {
+      "code": "GN",
+      "name": "Guinea"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ATV.gn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "atv::gn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

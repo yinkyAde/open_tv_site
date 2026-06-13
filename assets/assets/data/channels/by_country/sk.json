@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "24-sk-sd-121",
+    "name": ":24",
+    "slug": "24-sk-sd-121",
+    "logoUrl": "https://i.imgur.com/tTCuczU.png",
+    "streamUrl": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "24.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "24::sk::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sport-sk-sd-9343",
+    "name": ":Šport",
+    "slug": "sport-sk-sd-9343",
+    "logoUrl": "https://i.imgur.com/oAtcxNZ.png",
+    "streamUrl": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "Sport.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "port::sk::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lifetv-sk-sd-5469",
+    "name": "LifeTv",
+    "slug": "lifetv-sk-sd-5469",
+    "logoUrl": "https://i.imgur.com/jO8kAY2.png",
+    "streamUrl": "https://lifetv.mpks.sk/s.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "LifeTv.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lifetv::sk::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mtr-sk-sd-6167",
+    "name": "MTR",
+    "slug": "mtr-sk-sd-6167",
+    "logoUrl": "https://www.mtr.sk/img/logo-mtr-0.png",
+    "streamUrl": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MTR.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mtr::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvliptov-sk-sd-10917",
+    "name": "TV Liptov",
+    "slug": "tvliptov-sk-sd-10917",
+    "logoUrl": "https://i.imgur.com/CkvB3af.png",
+    "streamUrl": "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVLiptov.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-liptov::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvruzinov-sk-sd-11131",
+    "name": "TV Ružinov",
+    "slug": "tvruzinov-sk-sd-11131",
+    "logoUrl": "https://i.imgur.com/bUGuntH.png",
+    "streamUrl": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRuzinov.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-ru-inov::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ducktv-sk-sd-3157",
+    "name": "ducktv",
+    "slug": "ducktv-sk-sd-3157",
+    "logoUrl": "https://i.imgur.com/gRFQ35W.png",
+    "streamUrl": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "ducktv.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ducktv::sk::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+        "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "https://jmp2.uk/stvp-ESBC4700001GR"
+      ]
+    }
+  },
+  {
+    "id": "senzi-sk-sd-9007",
+    "name": "Senzi",
+    "slug": "senzi-sk-sd-9007",
+    "logoUrl": "https://i.imgur.com/1qJMmBu.png",
+    "streamUrl": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Senzi.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "senzi::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvromana-sk-sd-11124",
+    "name": "TV Romana",
+    "slug": "tvromana-sk-sd-11124",
+    "logoUrl": "https://i.imgur.com/r7avFBX.png",
+    "streamUrl": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRomana.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-romana::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televiziamocenok-sk-sd-10057",
+    "name": "Televízia Močenok",
+    "slug": "televiziamocenok-sk-sd-10057",
+    "logoUrl": "https://i.imgur.com/psb8GxZ.png",
+    "streamUrl": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleviziaMocenok.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telev-zia-mo-enok::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlux-sk-sd-10922",
+    "name": "TV Lux",
+    "slug": "tvlux-sk-sd-10922",
+    "logoUrl": "https://i.imgur.com/mAMyTkq.png",
+    "streamUrl": "https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVLux.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 113,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-lux::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "jednotka-sk-sd-4786",
+    "name": "Jednotka STV1",
+    "slug": "jednotka-sk-sd-4786",
+    "logoUrl": "https://i.imgur.com/aqVki9i.png",
+    "streamUrl": "https://n4.stv.livebox.sk/stv-tv/fe09ae603df84846978c9d960f699900/stv1.smil/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Jednotka.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jednotka-stv1::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvraj-sk-sd-11070",
+    "name": "Raj TV",
+    "slug": "tvraj-sk-sd-11070",
+    "logoUrl": "https://i.imgur.com/CGckMyx.png",
+    "streamUrl": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVRaj.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "raj-tv::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnrsr-sk-sd-10991",
+    "name": "TV NRSR",
+    "slug": "tvnrsr-sk-sd-10991",
+    "logoUrl": "https://i.imgur.com/hsJsu3I.png",
+    "streamUrl": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "TVNRSR.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nrsr::sk::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv8-sk-sd-10656",
+    "name": "Televízia OSEM",
+    "slug": "tv8-sk-sd-10656",
+    "logoUrl": "https://i.imgur.com/Z7URrp1.png",
+    "streamUrl": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV8.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "telev-zia-osem::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tvcentral-sk-sd-10785",
+    "name": "TV Central",
+    "slug": "tvcentral-sk-sd-10785",
+    "logoUrl": "https://i.imgur.com/LqGT8o9.png",
+    "streamUrl": "https://dash4.antik.sk/live/test_central/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVCentral.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-central::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "jednotka-sk-sd-4785",
+    "name": "Jednotka",
+    "slug": "jednotka-sk-sd-4785",
+    "logoUrl": "https://i.imgur.com/aqVki9i.png",
+    "streamUrl": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Jednotka.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jednotka::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv8-sk-sd-10658",
+    "name": "TV8",
+    "slug": "tv8-sk-sd-10658",
+    "logoUrl": "https://i.imgur.com/Z7URrp1.png",
+    "streamUrl": "https://dash3.antik.sk/live/test_osem/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV8.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv8::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvlocall-sk-sd-10920",
+    "name": "TV LocAll",
+    "slug": "tvlocall-sk-sd-10920",
+    "logoUrl": "https://i.imgur.com/xN1CJol.png",
+    "streamUrl": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVLocAll.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-locall::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://tv.geniusnet.sk:8081/localltv/pl.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nztv-sk-sd-6849",
+    "name": "NZTV",
+    "slug": "nztv-sk-sd-6849",
+    "logoUrl": "https://i.imgur.com/jGZlnzT.png",
+    "streamUrl": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NZTV.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "nztv::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "regiotv-sk-sd-8181",
+    "name": "Regio TV",
+    "slug": "regiotv-sk-sd-8181",
+    "logoUrl": "https://i.imgur.com/WlF6tlZ.png",
+    "streamUrl": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RegioTV.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "regio-tv::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmistral-sk-sd-10964",
+    "name": "TV Mistral",
+    "slug": "tvmistral-sk-sd-10964",
+    "logoUrl": "https://i.imgur.com/IOJ6rcb.jpeg",
+    "streamUrl": "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMistral.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-mistral::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvnitricka-sk-sd-10987",
+    "name": "TV Nitricka",
+    "slug": "tvnitricka-sk-sd-10987",
+    "logoUrl": "https://i.imgur.com/iwWyG1A.png",
+    "streamUrl": "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVNitricka.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nitricka::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvvita-sk-sd-11237",
+    "name": "TV Vita",
+    "slug": "tvvita-sk-sd-11237",
+    "logoUrl": "https://i.imgur.com/Cx1GLbo.png",
+    "streamUrl": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "TVVita.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-vita::sk::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv9-sk-sd-10664",
+    "name": "TV9",
+    "slug": "tv9-sk-sd-10664",
+    "logoUrl": "https://i.imgur.com/Sco4x8t.png",
+    "streamUrl": "https://dash4.antik.sk/live/test_tv9/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TV9.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv9::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "viotv-sk-sd-11537",
+    "name": "VIO TV",
+    "slug": "viotv-sk-sd-11537",
+    "logoUrl": "https://i.imgur.com/7EL3VZ5.png",
+    "streamUrl": "http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VIOTV.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vio-tv::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zapadoslovenskatv-sk-sd-12096",
+    "name": "Zapadoslovenska TV",
+    "slug": "zapadoslovenskatv-sk-sd-12096",
+    "logoUrl": "https://i.imgur.com/D72Y1IB.png",
+    "streamUrl": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZapadoslovenskaTV.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zapadoslovenska-tv::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvseverka-sk-sd-11155",
+    "name": "TV Severka",
+    "slug": "tvseverka-sk-sd-11155",
+    "logoUrl": "https://i.imgur.com/oQSee9S.png",
+    "streamUrl": "http://88.212.7.11/live/test_severka_web_player/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSeverka.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-severka::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvvega-sk-sd-11233",
+    "name": "TV Vega",
+    "slug": "tvvega-sk-sd-11233",
+    "logoUrl": "https://i.imgur.com/Qw3NeLA.png",
+    "streamUrl": "http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVVega.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-vega::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "regiotv-sk-sd-8180",
+    "name": "Régió TV",
+    "slug": "regiotv-sk-sd-8180",
+    "logoUrl": "https://i.imgur.com/WlF6tlZ.png",
+    "streamUrl": "http://tv.geniusnet.sk:8081/regiotv/pl.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RegioTV.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "r-gi-tv::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbrezova-sk-sd-10749",
+    "name": "TV Brezová",
+    "slug": "tvbrezova-sk-sd-10749",
+    "logoUrl": "https://i.imgur.com/59LpYoF.png",
+    "streamUrl": "http://95.105.193.219:88/hls/tvb.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVBrezova.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-brezov::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmyjava-sk-sd-10976",
+    "name": "TV Myjava",
+    "slug": "tvmyjava-sk-sd-10976",
+    "logoUrl": "https://i.imgur.com/9f9VmvF.png",
+    "streamUrl": "http://95.105.193.219:88/hls/tvm.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVMyjava.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-myjava::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsen-sk-sd-11152",
+    "name": "TV Sen",
+    "slug": "tvsen-sk-sd-11152",
+    "logoUrl": "https://i.imgur.com/ckm2oLD.png",
+    "streamUrl": "http://95.105.193.219:88/hls/tvsen.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSen.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-sen::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvskalica-sk-sd-11167",
+    "name": "TV Skalica",
+    "slug": "tvskalica-sk-sd-11167",
+    "logoUrl": "https://i.imgur.com/GB8fMoJ.png",
+    "streamUrl": "http://95.105.193.219:88/hls/tvs.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVSkalica.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-skalica::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvstaratura-sk-sd-11194",
+    "name": "TV Stará Turá",
+    "slug": "tvstaratura-sk-sd-11194",
+    "logoUrl": "https://i.imgur.com/kerkvRX.png",
+    "streamUrl": "http://95.105.193.219:88/hls/tvst.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVStaraTura.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-star-tur::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvt-sk-sd-11212",
+    "name": "TVT",
+    "slug": "tvt-sk-sd-11212",
+    "logoUrl": "https://i.imgur.com/QG0iZlG.png",
+    "streamUrl": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVT.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvt::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvdk-sk-sd-10838",
+    "name": "TV DK",
+    "slug": "tvdk-sk-sd-10838",
+    "logoUrl": "https://i.imgur.com/qTOnPXe.png",
+    "streamUrl": "http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVDK.sk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-dk::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "nztv-sk-sd-6848",
+    "name": "TV Nové Zámky",
+    "slug": "nztv-sk-sd-6848",
+    "logoUrl": "https://i.imgur.com/jGZlnzT.png",
+    "streamUrl": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NZTV.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-nov-z-mky::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpoprad-sk-sd-11047",
+    "name": "TV Poprad",
+    "slug": "tvpoprad-sk-sd-11047",
+    "logoUrl": "https://i.imgur.com/x6ZvOp6.png",
+    "streamUrl": "http://213.81.153.221:8080/poprad",
+    "country": {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    "languages": [
+      "slk"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPoprad.sk",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 53,
+      "badges": [
+        "FHD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 550
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tv-poprad::sk::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

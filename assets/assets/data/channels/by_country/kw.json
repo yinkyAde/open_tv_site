@@ -1,0 +1,576 @@
+[
+  {
+    "id": "ktv1-kw-sd-5246",
+    "name": "KTV 1",
+    "slug": "ktv1-kw-sd-5246",
+    "logoUrl": "https://i.imgur.com/kG0d8Ay.png",
+    "streamUrl": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KTV1.kw",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-1::kw::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ktv2-kw-sd-5248",
+    "name": "KTV 2",
+    "slug": "ktv2-kw-sd-5248",
+    "logoUrl": "https://i.imgur.com/hB57mNh.png",
+    "streamUrl": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KTV2.kw",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-2::kw::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvnews-kw-sd-5258",
+    "name": "KTV News",
+    "slug": "ktvnews-kw-sd-5258",
+    "logoUrl": "https://i.imgur.com/erZ0Ol1.png",
+    "streamUrl": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "KTVNews.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-news::kw::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ch4teendocumentary-kw-sd-2232",
+    "name": "Ch4Teen Documentary",
+    "slug": "ch4teendocumentary-kw-sd-2232",
+    "logoUrl": "https://i.imgur.com/pHpFGeg.png",
+    "streamUrl": "https://ch14.tv/live/ch4teendoc/playlist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Ch4TeenDocumentary.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ch4teen-documentary::kw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvalqurain-kw-sd-5253",
+    "name": "KTV Al Qurain",
+    "slug": "ktvalqurain-kw-sd-5253",
+    "logoUrl": "https://i.imgur.com/naVEZtj.png",
+    "streamUrl": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KTVAlQurain.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-al-qurain::kw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvarabe-kw-sd-5254",
+    "name": "KTV Arabe",
+    "slug": "ktvarabe-kw-sd-5254",
+    "logoUrl": "https://i.imgur.com/jg3VAxO.png",
+    "streamUrl": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Culture",
+    "epg": {
+      "id": "KTVArabe.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-arabe::kw::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvethraa-kw-sd-5257",
+    "name": "KTV Ethraa",
+    "slug": "ktvethraa-kw-sd-5257",
+    "logoUrl": "https://i.imgur.com/hqEbc49.png",
+    "streamUrl": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "KTVEthraa.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-ethraa::kw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvsport-kw-sd-5261",
+    "name": "KTV Sport",
+    "slug": "ktvsport-kw-sd-5261",
+    "logoUrl": "https://i.imgur.com/R1hGX1d.png",
+    "streamUrl": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "eng",
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "KTVSport.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-sport::kw::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ktvsportplus-kw-sd-5262",
+    "name": "KTV Sport Plus",
+    "slug": "ktvsportplus-kw-sd-5262",
+    "logoUrl": "https://i.imgur.com/l4oX0gf.png",
+    "streamUrl": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "KTVSportPlus.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ktv-sport-plus::kw::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "marinatv-kw-sd-5711",
+    "name": "Marina TV",
+    "slug": "marinatv-kw-sd-5711",
+    "logoUrl": "https://i.imgur.com/F2PzEaw.png",
+    "streamUrl": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "MarinaTV.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "marina-tv::kw::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ch4teen-kw-sd-2230",
+    "name": "Ch4Teen",
+    "slug": "ch4teen-kw-sd-2230",
+    "logoUrl": "https://i.imgur.com/pHpFGeg.png",
+    "streamUrl": "https://ch14.tv/live/ch4teen1/playlist.m3u8",
+    "country": {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "Ch4Teen.kw",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ch4teen::kw::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://ch14.tv/live/ch4teenclip/playlist.m3u8"
+      ]
+    }
+  }
+]

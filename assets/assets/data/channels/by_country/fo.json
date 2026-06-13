@@ -1,0 +1,106 @@
+[
+  {
+    "id": "kringvarpforoya-fo-sd-5212",
+    "name": "KVF",
+    "slug": "kringvarpforoya-fo-sd-5212",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/b/b6/KVF_2019.svg",
+    "streamUrl": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+    "country": {
+      "code": "FO",
+      "name": "Faroe Islands"
+    },
+    "languages": [
+      "fao"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KringvarpForoya.fo",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kvf::fo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kvfsjonvarp-fo-sd-5287",
+    "name": "KVF Sjonvarp",
+    "slug": "kvfsjonvarp-fo-sd-5287",
+    "logoUrl": "",
+    "streamUrl": "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8",
+    "country": {
+      "code": "FO",
+      "name": "Faroe Islands"
+    },
+    "languages": [
+      "fao",
+      "dan"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KVFSjonvarp.fo",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 102,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kvf-sjonvarp::fo::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

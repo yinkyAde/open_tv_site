@@ -1,0 +1,672 @@
+[
+  {
+    "id": "kantipurtv-np-sd-5004",
+    "name": "Kantipur TV",
+    "slug": "kantipurtv-np-sd-5004",
+    "logoUrl": "https://i.imgur.com/HEVo2Gc.png",
+    "streamUrl": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep",
+      "mai"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KantipurTV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kantipur-tv::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "capitaltvhd-np-sd-1983",
+    "name": "Capital TV",
+    "slug": "capitaltvhd-np-sd-1983",
+    "logoUrl": "https://i.imgur.com/hb4bq1t.png",
+    "streamUrl": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CapitalTVHD.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "capital-tv::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cityonetelevision-np-sd-2435",
+    "name": "City One Television",
+    "slug": "cityonetelevision-np-sd-2435",
+    "logoUrl": "https://i.imgur.com/AxBreI5.png",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CityOneTelevision.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "city-one-television::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "metvhd-np-sd-5892",
+    "name": "METV HD",
+    "slug": "metvhd-np-sd-5892",
+    "logoUrl": "https://i.imgur.com/Zud862h.png",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "METVHD.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "metv::np::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mithilanepaltv-np-sd-5990",
+    "name": "Mithila Nepal TV",
+    "slug": "mithilanepaltv-np-sd-5990",
+    "logoUrl": "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
+    "streamUrl": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MithilaNepalTV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mithila-nepal-tv::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "news24-np-sd-6524",
+    "name": "News 24",
+    "slug": "news24-np-sd-6524",
+    "logoUrl": "https://i.imgur.com/7PgAPMU.png",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "News24.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "news-24::np::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ap1tv-np-sd-793",
+    "name": "AP1 TV",
+    "slug": "ap1tv-np-sd-793",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AP1TV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ap1-tv::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "divyadarshantv-np-sd-3025",
+    "name": "Divya Darshan TV",
+    "slug": "divyadarshantv-np-sd-3025",
+    "logoUrl": "https://i.imgur.com/EwDQ12F.png",
+    "streamUrl": "http://live.divyadarshantv.com/hls/stream.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DivyaDarshanTV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "divya-darshan-tv::np::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "indigenoustelevision-np-sd-4576",
+    "name": "Indigenous Television",
+    "slug": "indigenoustelevision-np-sd-4576",
+    "logoUrl": "https://i.ibb.co/2MByL1X/indigenous-television.png",
+    "streamUrl": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "IndigenousTelevision.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "indigenous-television::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bagmatitv-np-sd-1099",
+    "name": "Bagmati TV",
+    "slug": "bagmatitv-np-sd-1099",
+    "logoUrl": "https://i.imgur.com/2K6qEvh.jpg",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BagmatiTV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bagmati-tv::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dhaulagiritelevision-np-sd-2973",
+    "name": "Dhaulagiri Television",
+    "slug": "dhaulagiritelevision-np-sd-2973",
+    "logoUrl": "https://i.imgur.com/1tTudCH.png",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DhaulagiriTelevision.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dhaulagiri-television::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jmusictv-np-sd-4856",
+    "name": "J Music TV",
+    "slug": "jmusictv-np-sd-4856",
+    "logoUrl": "https://i.imgur.com/57dVOP5.jpg",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "JMusicTV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "j-music-tv::np::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nationalgoldtv-np-sd-6365",
+    "name": "National Gold TV",
+    "slug": "nationalgoldtv-np-sd-6365",
+    "logoUrl": "https://i.imgur.com/p0Wwf20.jpg",
+    "streamUrl": "http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8",
+    "country": {
+      "code": "NP",
+      "name": "Nepal"
+    },
+    "languages": [
+      "nep"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NationalGoldTV.np",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "national-gold-tv::np::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

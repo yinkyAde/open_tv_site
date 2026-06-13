@@ -1,0 +1,3167 @@
+[
+  {
+    "id": "anninhtv-vn-hd-742",
+    "name": "ANTV",
+    "slug": "anninhtv-vn-hd-742",
+    "logoUrl": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AnNinhTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "qpvn-vn-hd-7798",
+    "name": "QPVN HD",
+    "slug": "qpvn-vn-hd-7798",
+    "logoUrl": "https://i.imgur.com/GQO7UNu.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "QPVN.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qpvn::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://qpvn.vn/live/qpvn/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "canthotv-vn-sd-1971",
+    "name": "Cần Thơ TV1",
+    "slug": "canthotv-vn-sd-1971",
+    "logoUrl": "https://i.ibb.co/MDhNH26J/cantho1-2025.png",
+    "streamUrl": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanThoTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-n-th-tv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canthotv2-vn-sd-1969",
+    "name": "Cần Thơ TV2",
+    "slug": "canthotv2-vn-sd-1969",
+    "logoUrl": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png",
+    "streamUrl": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Science",
+    "epg": {
+      "id": "CanThoTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-n-th-tv2::vn::science",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canthotv3-vn-sd-1970",
+    "name": "Cần Thơ TV3",
+    "slug": "canthotv3-vn-sd-1970",
+    "logoUrl": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png",
+    "streamUrl": "https://live.canthotv.vn/cs3/tv/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CanThoTV3.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-n-th-tv3::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "htv7-vn-hd-4436",
+    "name": "HTV7 HD",
+    "slug": "htv7-vn-hd-4436",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "HTV7.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "htv7::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "laocaitv-vn-hd-5357",
+    "name": "Lào Cai TV",
+    "slug": "laocaitv-vn-hd-5357",
+    "logoUrl": "https://i.imgur.com/TLvrDHa.png",
+    "streamUrl": "https://live.baolaocai.vn/channel2/stream.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "LaoCaiTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "l-o-cai-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ngheantv-vn-hd-6574",
+    "name": "Nghệ An TV",
+    "slug": "ngheantv-vn-hd-6574",
+    "logoUrl": "https://i.imgur.com/d9YEEwC.png",
+    "streamUrl": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "NgheAnTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ngh-an-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "quangngaitv-vn-hd-7809",
+    "name": "Quảng Ngãi TV1",
+    "slug": "quangngaitv-vn-hd-7809",
+    "logoUrl": "https://i.imgur.com/QckiN3H.png",
+    "streamUrl": "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "QuangNgaiTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qu-ng-ng-i-tv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vietnamtoday-vn-hd-11526",
+    "name": "Vietnam Today",
+    "slug": "vietnamtoday-vn-hd-11526",
+    "logoUrl": "https://i.imgur.com/xW9rY7s.png",
+    "streamUrl": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VietnamToday.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vietnam-today::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv5taynambo-vn-hd-11605",
+    "name": "VTV5 Tây Nam Bộ HD",
+    "slug": "vtv5taynambo-vn-hd-11605",
+    "logoUrl": "https://i.imgur.com/xiuHjEQ.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV5TayNamBo.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv5-t-y-nam-b::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv5taynguyen-vn-hd-11606",
+    "name": "VTV5 Tây Nguyên HD",
+    "slug": "vtv5taynguyen-vn-hd-11606",
+    "logoUrl": "https://i.imgur.com/Hlcnqqt.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV5TayNguyen.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv5-t-y-nguy-n::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hanoitv1-vn-sd-4180",
+    "name": "HanoiTV1",
+    "slug": "hanoitv1-vn-sd-4180",
+    "logoUrl": "https://i.imgur.com/Je3K25E.png",
+    "streamUrl": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HanoiTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hanoitv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "hanoitv2-vn-sd-4182",
+    "name": "HanoiTV2",
+    "slug": "hanoitv2-vn-sd-4182",
+    "logoUrl": "https://i.imgur.com/szivqh2.png",
+    "streamUrl": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HanoiTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hanoitv2::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "sctv6-vn-sd-8978",
+    "name": "SCTV6",
+    "slug": "sctv6-vn-sd-8978",
+    "logoUrl": "https://i.imgur.com/2oOVS42.png",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV6.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 105,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv6::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "angiangtv1-vn-sd-718",
+    "name": "An Giang TV1",
+    "slug": "angiangtv1-vn-sd-718",
+    "logoUrl": "https://i.imgur.com/mgp6RAU.png",
+    "streamUrl": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "AnGiangTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "an-giang-tv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "angiangtv2-vn-sd-719",
+    "name": "An Giang TV2",
+    "slug": "angiangtv2-vn-sd-719",
+    "logoUrl": "https://i.imgur.com/efrauLr.png",
+    "streamUrl": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AnGiangTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "an-giang-tv2::vn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "angiangtv3-vn-sd-720",
+    "name": "An Giang TV3",
+    "slug": "angiangtv3-vn-sd-720",
+    "logoUrl": "https://i.imgur.com/gZUV4z8.png",
+    "streamUrl": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "AnGiangTV3.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "an-giang-tv3::vn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "htvsports-vn-sd-4440",
+    "name": "HTV Thể thao",
+    "slug": "htvsports-vn-sd-4440",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "HTVSports.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "htv-th-thao::vn::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "htv9-vn-hd-4437",
+    "name": "HTV9 HD",
+    "slug": "htv9-vn-hd-4437",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "News",
+    "epg": {
+      "id": "HTV9.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "htv9::vn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv1-vn-hd-11600",
+    "name": "VTV1 HD",
+    "slug": "vtv1-vn-hd-11600",
+    "logoUrl": "https://i.imgur.com/vZYlGIW.png",
+    "streamUrl": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv2-vn-hd-11601",
+    "name": "VTV2 HD",
+    "slug": "vtv2-vn-hd-11601",
+    "logoUrl": "https://i.imgur.com/qWWpYRR.png",
+    "streamUrl": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv2::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv3-vn-hd-11602",
+    "name": "VTV3 HD",
+    "slug": "vtv3-vn-hd-11602",
+    "logoUrl": "https://i.imgur.com/4lJG1fu.png",
+    "streamUrl": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV3.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv3::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv4-vn-hd-11603",
+    "name": "VTV4 HD",
+    "slug": "vtv4-vn-hd-11603",
+    "logoUrl": "https://i.imgur.com/WsLLmR2.png",
+    "streamUrl": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV4.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv4::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv5-vn-hd-11604",
+    "name": "VTV5 HD",
+    "slug": "vtv5-vn-hd-11604",
+    "logoUrl": "https://i.imgur.com/Vnnna1C.png",
+    "streamUrl": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV5.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv5::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv7-vn-hd-11607",
+    "name": "VTV7 HD",
+    "slug": "vtv7-vn-hd-11607",
+    "logoUrl": "https://i.imgur.com/ZwoP823.png",
+    "streamUrl": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV7.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv7::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv8-vn-hd-11608",
+    "name": "VTV8 HD",
+    "slug": "vtv8-vn-hd-11608",
+    "logoUrl": "https://i.imgur.com/rf9adGJ.png",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV8.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv8::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vtv9-vn-hd-11609",
+    "name": "VTV9 HD",
+    "slug": "vtv9-vn-hd-11609",
+    "logoUrl": "https://i.imgur.com/QiY55sy.png",
+    "streamUrl": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VTV9.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "vtv9::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vinhlongtv1-vn-hd-11535",
+    "name": "Vĩnh Long TV1",
+    "slug": "vinhlongtv1-vn-hd-11535",
+    "logoUrl": "https://i.imgur.com/5YFsqPx.png",
+    "streamUrl": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "News",
+    "epg": {
+      "id": "VinhLongTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-nh-long-tv1::vn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "travinhtv-vn-hd-10495",
+    "name": "Vĩnh Long TV5",
+    "slug": "travinhtv-vn-hd-10495",
+    "logoUrl": "https://i.imgur.com/F12VdKO.png",
+    "streamUrl": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "Culture",
+    "epg": {
+      "id": "TraVinhTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-nh-long-tv5::vn::culture",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "danangtv1-vn-sd-2757",
+    "name": "Đà Nẵng TV1",
+    "slug": "danangtv1-vn-sd-2757",
+    "logoUrl": "https://i.imgur.com/EOMuO1z.png",
+    "streamUrl": "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaNangTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "n-ng-tv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "danangtv2-vn-sd-2758",
+    "name": "Đà Nẵng TV2",
+    "slug": "danangtv2-vn-sd-2758",
+    "logoUrl": "",
+    "streamUrl": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DaNangTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 91,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "n-ng-tv2::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dongthaptv-vn-sd-3093",
+    "name": "Đồng Tháp TV1",
+    "slug": "dongthaptv-vn-sd-3093",
+    "logoUrl": "https://i.ibb.co/XFX7yw0/logo2-1.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DongThapTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ng-th-p-tv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "caobangtv-vn-sd-1978",
+    "name": "Cao Bằng TV",
+    "slug": "caobangtv-vn-sd-1978",
+    "logoUrl": "https://i.imgur.com/dGonewm.png",
+    "streamUrl": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CaoBangTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cao-b-ng-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "htvkey-vn-sd-4438",
+    "name": "HTV Key",
+    "slug": "htvkey-vn-sd-4438",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Education",
+    "epg": {
+      "id": "HTVKey.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "htv-key::vn::education",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hatinhtv-vn-sd-4205",
+    "name": "Hà Tĩnh TV",
+    "slug": "hatinhtv-vn-sd-4205",
+    "logoUrl": "https://i.imgur.com/4yIgKKx.png",
+    "streamUrl": "https://wse.hatinhtv.net/live/httv1/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HaTinhTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "h-t-nh-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "khanhhoatv-vn-sd-5084",
+    "name": "Khánh Hòa TV",
+    "slug": "khanhhoatv-vn-sd-5084",
+    "logoUrl": "https://i.imgur.com/qLMcGPT.png",
+    "streamUrl": "https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "KhanhHoaTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kh-nh-h-a-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ninhthuantv-vn-sd-6641",
+    "name": "Khánh Hòa TV1",
+    "slug": "ninhthuantv-vn-sd-6641",
+    "logoUrl": "https://i.imgur.com/HIyUzLM.png",
+    "streamUrl": "https://livektv2.baokhanhhoa.vn/hls/ktv1.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NinhThuanTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kh-nh-h-a-tv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctvphimtonghop-vn-sd-8985",
+    "name": "SCTV Phim Tong Hop",
+    "slug": "sctvphimtonghop-vn-sd-8985",
+    "logoUrl": "https://i.imgur.com/R8EBxJj.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTVPhimTongHop.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv-phim-tong-hop::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv1-vn-sd-8974",
+    "name": "SCTV1",
+    "slug": "sctv1-vn-sd-8974",
+    "logoUrl": "https://i.imgur.com/UcMXcHF.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv1::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv10-vn-sd-8982",
+    "name": "SCTV10",
+    "slug": "sctv10-vn-sd-8982",
+    "logoUrl": "https://i.imgur.com/46OxCQG.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV10.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv10::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv16-vn-sd-8983",
+    "name": "SCTV16",
+    "slug": "sctv16-vn-sd-8983",
+    "logoUrl": "https://i.imgur.com/ldCYtvt.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV16.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv16::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv2-vn-sd-8975",
+    "name": "SCTV2",
+    "slug": "sctv2-vn-sd-8975",
+    "logoUrl": "https://i.imgur.com/8i5DXIg.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv2::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv3-vn-sd-8976",
+    "name": "SCTV3",
+    "slug": "sctv3-vn-sd-8976",
+    "logoUrl": "https://i.imgur.com/tfk298I.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV3.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv3::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv4-vn-sd-8977",
+    "name": "SCTV4",
+    "slug": "sctv4-vn-sd-8977",
+    "logoUrl": "https://i.imgur.com/qkZhzQq.png",
+    "streamUrl": "https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV4.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv4::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv7-vn-sd-8980",
+    "name": "SCTV7",
+    "slug": "sctv7-vn-sd-8980",
+    "logoUrl": "https://i.imgur.com/xbIUZYd.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV7.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv7::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sctv8-vn-sd-8981",
+    "name": "SCTV8",
+    "slug": "sctv8-vn-sd-8981",
+    "logoUrl": "https://i.imgur.com/eVWgfRS.png",
+    "streamUrl": "https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SCTV8.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sctv8::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "teatv-vn-sd-9809",
+    "name": "Tea TV",
+    "slug": "teatv-vn-sd-9809",
+    "logoUrl": "https://i.imgur.com/WorbnyD.jpg",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "TeaTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tea-tv::vn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thainguyentv-vn-sd-10121",
+    "name": "Thái Nguyên TV",
+    "slug": "thainguyentv-vn-sd-10121",
+    "logoUrl": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",
+    "streamUrl": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ThaiNguyenTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "th-i-nguy-n-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tayninhtv-vn-sd-9775",
+    "name": "Tây Ninh TV",
+    "slug": "tayninhtv-vn-sd-9775",
+    "logoUrl": "https://tayninhtv.vn/static/images/logo.png",
+    "streamUrl": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TayNinhTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-y-ninh-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uniquelythai-vn-sd-11331",
+    "name": "Uniquely Thai",
+    "slug": "uniquelythai-vn-sd-11331",
+    "logoUrl": "https://i.imgur.com/cTSDB8O.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "UniquelyThai.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "uniquely-thai::vn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "daklaktv-vn-hd-2750",
+    "name": "Đắk Lắk TV",
+    "slug": "daklaktv-vn-hd-2750",
+    "logoUrl": "https://i.imgur.com/gFfZvTW.png",
+    "streamUrl": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [],
+    "category": "General",
+    "epg": {
+      "id": "DakLakTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "k-l-k-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thuathienhuetv-vn-sd-10265",
+    "name": "Huế TV",
+    "slug": "thuathienhuetv-vn-sd-10265",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png",
+    "streamUrl": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ThuaThienHueTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hu-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "camautv-vn-sd-1732",
+    "name": "Cà Mau TV",
+    "slug": "camautv-vn-sd-1732",
+    "logoUrl": "",
+    "streamUrl": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CaMauTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 89,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-mau-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "htv2-vn-sd-4433",
+    "name": "HTV2",
+    "slug": "htv2-vn-sd-4433",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png",
+    "streamUrl": "http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "HTV2.vn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "htv2::vn::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "htv3-vn-sd-4435",
+    "name": "HTV3",
+    "slug": "htv3-vn-sd-4435",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",
+    "streamUrl": "https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Series",
+    "epg": {
+      "id": "HTV3.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "htv3::vn::series",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "laosvtv-vn-sd-5359",
+    "name": "Lao SV TV",
+    "slug": "laosvtv-vn-sd-5359",
+    "logoUrl": "https://i.imgur.com/ZIXtazI.png",
+    "streamUrl": "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Shop",
+    "epg": {
+      "id": "LaoSVTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lao-sv-tv::vn::shop",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lamdongtv-vn-sd-5345",
+    "name": "Lâm Đồng TV",
+    "slug": "lamdongtv-vn-sd-5345",
+    "logoUrl": "https://i.imgur.com/lSMoGlv.png",
+    "streamUrl": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "LamDongTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "l-m-ng-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dongnaitv1-vn-sd-3091",
+    "name": "Đồng Nai 1",
+    "slug": "dongnaitv1-vn-sd-3091",
+    "logoUrl": "https://i.imgur.com/oQyioVa.png",
+    "streamUrl": "http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "DongNaiTV1.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ng-nai-1::vn::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dongnaitv2-vn-sd-3092",
+    "name": "Đồng Nai 2",
+    "slug": "dongnaitv2-vn-sd-3092",
+    "logoUrl": "https://i.imgur.com/tNKPSkO.png",
+    "streamUrl": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "DongNaiTV2.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ng-nai-2::vn::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dienbientv-vn-sd-2981",
+    "name": "Điện Biên TV",
+    "slug": "dienbientv-vn-sd-2981",
+    "logoUrl": "https://i.imgur.com/u308o8q.png",
+    "streamUrl": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "DienBienTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "i-n-bi-n-tv::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tiengiangtv-vn-sd-10282",
+    "name": "Đồng Tháp TV2",
+    "slug": "tiengiangtv-vn-sd-10282",
+    "logoUrl": "https://i.imgur.com/yonKxgZ.png",
+    "streamUrl": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8",
+    "country": {
+      "code": "VN",
+      "name": "Vietnam"
+    },
+    "languages": [
+      "vie"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TienGiangTV.vn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ng-th-p-tv2::vn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

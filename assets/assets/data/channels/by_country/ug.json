@@ -1,0 +1,882 @@
+[
+  {
+    "id": "arktv-ug-sd-871",
+    "name": "Ark TV",
+    "slug": "arktv-ug-sd-871",
+    "logoUrl": "https://i.imgur.com/yCHNZXD.png",
+    "streamUrl": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "ArkTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ark-tv::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "farajatelevision-ug-sd-3583",
+    "name": "Faraja Television",
+    "slug": "farajatelevision-ug-sd-3583",
+    "logoUrl": "https://i.imgur.com/NmnOGHI.jpg",
+    "streamUrl": "https://panel.freedomflixtv.org:3868/hybrid/play.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "FarajaTelevision.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "faraja-television::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "salttv-ug-sd-8860",
+    "name": "Salt TV",
+    "slug": "salttv-ug-sd-8860",
+    "logoUrl": "https://i.imgur.com/AK9nE6Y.png",
+    "streamUrl": "https://live.salttelevision.com/app/stream/abr.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng",
+      "lug"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "SaltTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "salt-tv::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvwest-ug-sd-11241",
+    "name": "TV West",
+    "slug": "tvwest-ug-sd-11241",
+    "logoUrl": "https://i.imgur.com/EiJzkIz.png",
+    "streamUrl": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "nyn",
+      "cgg",
+      "nyo",
+      "ttj"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVWest.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-west::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "3abntvuganda-ug-sd-27",
+    "name": "3ABN TV Uganda",
+    "slug": "3abntvuganda-ug-sd-27",
+    "logoUrl": "https://i.imgur.com/mml9lI2.png",
+    "streamUrl": "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "3ABNTVUganda.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3abn-tv-uganda::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "galaxytv-ug-sd-3855",
+    "name": "Galaxy TV",
+    "slug": "galaxytv-ug-sd-3855",
+    "logoUrl": "https://i.imgur.com/P5OABe5.png",
+    "streamUrl": "https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "GalaxyTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "galaxy-tv::ug::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btv-ug-sd-1667",
+    "name": "BTV",
+    "slug": "btv-ug-sd-1667",
+    "logoUrl": "https://i.imgur.com/rcHZ1al.png",
+    "streamUrl": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "BTV.ug",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btv::ug::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "acwugtv-ug-sd-317",
+    "name": "ACW UG TV",
+    "slug": "acwugtv-ug-sd-317",
+    "logoUrl": "https://i.imgur.com/8pzEmcJ.jpeg",
+    "streamUrl": "https://live.acwugtv.com/hls/stream.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ACWUGTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "acw-ug-tv::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "alphadigital-ug-sd-563",
+    "name": "Alpha Digital",
+    "slug": "alphadigital-ug-sd-563",
+    "logoUrl": "https://i.imgur.com/sLt242H.png",
+    "streamUrl": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "AlphaDigital.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alpha-digital::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bukeddetv1-ug-sd-1682",
+    "name": "Bukedde TV 1",
+    "slug": "bukeddetv1-ug-sd-1682",
+    "logoUrl": "https://i.imgur.com/HFq5QlJ.png",
+    "streamUrl": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "lug"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BukeddeTV1.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bukedde-tv-1::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dreamtv-ug-sd-3121",
+    "name": "Dream TV",
+    "slug": "dreamtv-ug-sd-3121",
+    "logoUrl": "https://i.imgur.com/XRUDhqQ.png",
+    "streamUrl": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng",
+      "lug"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "DreamTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dream-tv::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "forttv-ug-sd-3733",
+    "name": "FORT TV",
+    "slug": "forttv-ug-sd-3733",
+    "logoUrl": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+    "streamUrl": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "FORTTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fort-tv::ug::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "guguddetv-ug-sd-4121",
+    "name": "Gugudde TV",
+    "slug": "guguddetv-ug-sd-4121",
+    "logoUrl": "https://i.imgur.com/XEakc6Q.png",
+    "streamUrl": "https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng",
+      "lug"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "GuguddeTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gugudde-tv::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "praisejesustowertv-ug-sd-7637",
+    "name": "Praise Jesus Tower TV",
+    "slug": "praisejesustowertv-ug-sd-7637",
+    "logoUrl": "https://i.imgur.com/KT4qIve.png",
+    "streamUrl": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "PraiseJesusTowerTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "praise-jesus-tower-tv::ug::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wanluotv-ug-sd-11645",
+    "name": "Wan Luo TV",
+    "slug": "wanluotv-ug-sd-11645",
+    "logoUrl": "https://i.imgur.com/4PUUp3E.png",
+    "streamUrl": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "ach",
+      "laj",
+      "adh",
+      "alz",
+      "kdi",
+      "luo"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "WanLuoTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wan-luo-tv::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "btmtv-ug-sd-1659",
+    "name": "BTM TV",
+    "slug": "btmtv-ug-sd-1659",
+    "logoUrl": "https://i.imgur.com/NUvA2jf.png",
+    "streamUrl": "https://btmug.zerocdn.org/hls/stream.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng",
+      "lug"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BTMTV.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "btm-tv::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bukeddetv2-ug-sd-1683",
+    "name": "Bukedde TV 2",
+    "slug": "bukeddetv2-ug-sd-1683",
+    "logoUrl": "https://i.imgur.com/ukwPZeY.png",
+    "streamUrl": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+    "country": {
+      "code": "UG",
+      "name": "Uganda"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "BukeddeTV2.ug",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bukedde-tv-2::ug::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "id": "puntlandtv-so-sd-7756",
+    "name": "Puntland TV",
+    "slug": "puntlandtv-so-sd-7756",
+    "logoUrl": "https://i.imgur.com/C8EvQUo.png",
+    "streamUrl": "http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PuntlandTV.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "puntland-tv::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sbctv-so-sd-8948",
+    "name": "SBC TV",
+    "slug": "sbctv-so-sd-8948",
+    "logoUrl": "https://i.imgur.com/VLhgTIA.png",
+    "streamUrl": "http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SBCTV.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sbc-tv::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "arlaaditv-so-sd-872",
+    "name": "Arlaadi TV",
+    "slug": "arlaaditv-so-sd-872",
+    "logoUrl": "https://i.imgur.com/2tlFMXF.png",
+    "streamUrl": "https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ArlaadiTV.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "arlaadi-tv::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hirshabelletv-so-sd-4283",
+    "name": "Hirshabelle TV",
+    "slug": "hirshabelletv-so-sd-4283",
+    "logoUrl": "https://i.imgur.com/Kk0A2o7.png",
+    "streamUrl": "http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "HirshabelleTV.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hirshabelle-tv::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "saabtv-so-sd-8811",
+    "name": "Saab TV",
+    "slug": "saabtv-so-sd-8811",
+    "logoUrl": "https://i.imgur.com/JEC1J89.png",
+    "streamUrl": "https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SaabTV.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "saab-tv::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sntvdaljir-so-sd-9230",
+    "name": "SNTV Daljir",
+    "slug": "sntvdaljir-so-sd-9230",
+    "logoUrl": "https://i.imgur.com/zmVKI26.jpg",
+    "streamUrl": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SNTVDaljir.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sntv-daljir::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "somalinationaltv-so-sd-9249",
+    "name": "Somali National TV",
+    "slug": "somalinationaltv-so-sd-9249",
+    "logoUrl": "https://i.imgur.com/2y8gv7V.png",
+    "streamUrl": "https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8",
+    "country": {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    "languages": [
+      "som"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SomaliNationalTV.so",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "somali-national-tv::so::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

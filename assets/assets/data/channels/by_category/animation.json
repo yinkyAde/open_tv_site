@@ -1,0 +1,3192 @@
+[
+  {
+    "id": "animexhidive-us-sd-729",
+    "name": "ANIME x HIDIVE",
+    "slug": "animexhidive-us-sd-729",
+    "logoUrl": "https://i.imgur.com/v0BlxCa.png",
+    "streamUrl": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimexHIDIVE.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anime-x-hidive::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cartoonclassics-pl-fast-2006",
+    "name": "Cartoon Classics",
+    "slug": "cartoonclassics-pl-fast-2006",
+    "logoUrl": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
+    "streamUrl": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "CartoonClassics.pl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cartoon-classics::pl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mrbeananimated-uk-english-6125",
+    "name": "Mr Bean Animated",
+    "slug": "mrbeananimated-uk-english-6125",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "streamUrl": "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "MrBeanAnimated.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mr-bean-animated::uk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8",
+        "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "naruto-us-us-6341",
+    "name": "Naruto",
+    "slug": "naruto-us-us-6341",
+    "logoUrl": "https://i.imgur.com/M8X3Kvc.png",
+    "streamUrl": "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Naruto.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "naruto::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
+        "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8",
+        "https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8",
+        "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "yugioh-us-sd-12073",
+    "name": "Yu Gi Oh",
+    "slug": "yugioh-us-sd-12073",
+    "logoUrl": "https://i.imgur.com/Tl6aW2u.png",
+    "streamUrl": "https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "YuGiOh.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "8 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yu-gi-oh::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+        "https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8",
+        "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
+        "https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8",
+        "https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8",
+        "https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8",
+        "https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8",
+        "https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "mrbeananimated-uk-fr-6128",
+    "name": "Banijay Mr Bean Animé",
+    "slug": "mrbeananimated-uk-fr-6128",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "streamUrl": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "MrBeanAnimated.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "banijay-mr-bean-anim::uk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fan-ru-sd-3577",
+    "name": "FAN",
+    "slug": "fan-ru-sd-3577",
+    "logoUrl": "https://i.imgur.com/mDeTbaF.png",
+    "streamUrl": "http://31.148.48.15/Fan/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "FAN.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fan::ru::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gong-fr-sd-4025",
+    "name": "Gong",
+    "slug": "gong-fr-sd-4025",
+    "logoUrl": "https://i.imgur.com/lA9UFMG.png",
+    "streamUrl": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Gong.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gong::fr::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrbeananimated-uk-english-6124",
+    "name": "Mr. Bean Anime",
+    "slug": "mrbeananimated-uk-english-6124",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "streamUrl": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "MrBeanAnimated.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mr-bean-anime::uk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrbeananimated-uk-it-6129",
+    "name": "Mr. Bean Anime Italy",
+    "slug": "mrbeananimated-uk-it-6129",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "streamUrl": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "MrBeanAnimated.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mr-bean-anime-italy::uk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mrbeananimated-uk-es-6127",
+    "name": "Mr. Bean Anime Spain",
+    "slug": "mrbeananimated-uk-es-6127",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "streamUrl": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "MrBeanAnimated.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "mr-bean-anime-spain::uk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pixeltv-pl-hd-7285",
+    "name": "Pixel.tv",
+    "slug": "pixeltv-pl-hd-7285",
+    "logoUrl": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
+    "streamUrl": "https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8",
+    "country": {
+      "code": "PL",
+      "name": "Poland"
+    },
+    "languages": [
+      "pol"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "PixelTV.pl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pixel-tv::pl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8",
+        "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "animevision-es-sd-727",
+    "name": "Anime Vision",
+    "slug": "animevision-es-sd-727",
+    "logoUrl": "https://i.imgur.com/pUpKznl.png",
+    "streamUrl": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimeVision.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anime-vision::es::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "animevisionclassics-es-sd-728",
+    "name": "Anime Vision Classics",
+    "slug": "animevisionclassics-es-sd-728",
+    "logoUrl": "https://i.imgur.com/mTaiEE1.png",
+    "streamUrl": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimeVisionClassics.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anime-vision-classics::es::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "energeekfan-cl-sd-3322",
+    "name": "EnerGeek Fan",
+    "slug": "energeekfan-cl-sd-3322",
+    "logoUrl": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "EnerGeekFAN.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "energeek-fan::cl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "japanimtv-be-sd-4762",
+    "name": "Japanim TV",
+    "slug": "japanimtv-be-sd-4762",
+    "logoUrl": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+    "streamUrl": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "country": {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "JapanimTV.be",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "japanim-tv::be::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kanade-cl-sd-4956",
+    "name": "Kanade",
+    "slug": "kanade-cl-sd-4956",
+    "logoUrl": "https://static.kanade.cl/assets/img/profilepic_512px.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa",
+      "jpn"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Kanade.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kanade::cl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kuriakoskids-pt-sd-5280",
+    "name": "Kuriakos Kids",
+    "slug": "kuriakoskids-pt-sd-5280",
+    "logoUrl": "https://i.imgur.com/SRX6EPY.png",
+    "streamUrl": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "country": {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "KuriakosKids.pt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kuriakos-kids::pt::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sx3-es-sd-9687",
+    "name": "SX3",
+    "slug": "sx3-es-sd-9687",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png",
+    "streamUrl": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "SX3.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 115,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sx3::es::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "animationplus-us-sd-725",
+    "name": "Animation+",
+    "slug": "animationplus-us-sd-725",
+    "logoUrl": "https://i.imgur.com/OIFK6JB.png",
+    "streamUrl": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimationPlus.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "animation::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "animaxasia-sg-india-726",
+    "name": "Animax Asia India",
+    "slug": "animaxasia-sg-india-726",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+    "streamUrl": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "jpn",
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimaxAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "animax-asia-india::sg::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "disneyjr-tr-sd-3011",
+    "name": "Disney Jr.",
+    "slug": "disneyjr-tr-sd-3011",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "streamUrl": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DisneyJr.tr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "disney-jr::tr::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sonyyay-in-sd-9291",
+    "name": "Sony Yay!",
+    "slug": "sonyyay-in-sd-9291",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin",
+      "tam",
+      "tel",
+      "ben",
+      "mar",
+      "mal",
+      "kan",
+      "ori"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "SonyYay.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sony-yay::in::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "placid-us-easthd-7292",
+    "name": "Placid",
+    "slug": "placid-us-easthd-7292",
+    "logoUrl": "https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg",
+    "streamUrl": "https://toy.vcdn.fyi/placid/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Placid.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "placid::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "lastortugasninja-us-spain-5373",
+    "name": "Las Tortugas Ninja",
+    "slug": "lastortugasninja-us-spain-5373",
+    "logoUrl": "https://i.imgur.com/urJdNc9.png",
+    "streamUrl": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "LasTortugasNinja.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "las-tortugas-ninja::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "onepiece-us-br-6982",
+    "name": "One Piece",
+    "slug": "onepiece-us-br-6982",
+    "logoUrl": "https://i.imgur.com/XsvbAWR.png",
+    "streamUrl": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "jap"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "OnePiece.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one-piece::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8",
+        "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
+        "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
+        "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8",
+        "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8",
+        "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvanime-us-canada-7322",
+    "name": "Pluto TV Anime",
+    "slug": "plutotvanime-us-canada-7322",
+    "logoUrl": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+    "streamUrl": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng",
+      "jap"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "PlutoTVAnime.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-anime::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
+        "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
+        "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
+        "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
+        "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
+        "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvpokemon-us-uk-7471",
+    "name": "Pokémon",
+    "slug": "plutotvpokemon-us-uk-7471",
+    "logoUrl": "https://i.imgur.com/GEbRABE.png",
+    "streamUrl": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "PlutoTVPokemon.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pok-mon::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8",
+        "https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8",
+        "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
+        "https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aniplusasia-sg-sd-733",
+    "name": "Aniplus Asia",
+    "slug": "aniplusasia-sg-sd-733",
+    "logoUrl": "https://i.imgur.com/Im3MePy.png",
+    "streamUrl": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AniplusAsia.sg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "aniplus-asia::sg::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "crunchyroll-us-sd-2677",
+    "name": "Crunchyroll",
+    "slug": "crunchyroll-us-sd-2677",
+    "logoUrl": "https://i.imgur.com/2FlIQUO.png",
+    "streamUrl": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng",
+      "jap"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Crunchyroll.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "crunchyroll::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "filmriseanime-us-sd-3673",
+    "name": "FilmRise Anime",
+    "slug": "filmriseanime-us-sd-3673",
+    "logoUrl": "https://i.imgur.com/3wqeGXM.png",
+    "streamUrl": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng",
+      "jap"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "FilmRiseAnime.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "filmrise-anime::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvanimemovies-us-sd-7329",
+    "name": "Pluto TV Anime Movies",
+    "slug": "plutotvanimemovies-us-sd-7329",
+    "logoUrl": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png",
+    "streamUrl": "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng",
+      "jap"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "PlutoTVAnimeMovies.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-anime-movies::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pingviins-lv-sd-7279",
+    "name": "Пингвин",
+    "slug": "pingviins-lv-sd-7279",
+    "logoUrl": "https://i.imgur.com/hfXoJIY.png",
+    "streamUrl": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Pingviins.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::lv::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "narutoshippuden-us-latam-6343",
+    "name": "Naruto Shippuden",
+    "slug": "narutoshippuden-us-latam-6343",
+    "logoUrl": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
+    "streamUrl": "https://jmp2.uk/plu-64c92f965580090008084968.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "NarutoShippuden.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 118,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "naruto-shippuden::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "adntvplus-fr-sd-326",
+    "name": "ADN TV+",
+    "slug": "adntvplus-fr-sd-326",
+    "logoUrl": "https://i.imgur.com/HQZQyWt.png",
+    "streamUrl": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "ADNTVPlus.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "adn-tv::fr::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "anione-hk-sd-732",
+    "name": "Ani-Blast",
+    "slug": "anione-hk-sd-732",
+    "logoUrl": "https://www.medialink.com.hk/img/anione/AOYC1.png",
+    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8",
+    "country": {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    "languages": [],
+    "category": "Animation",
+    "epg": {
+      "id": "AniOne.hk",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ani-blast::hk::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "detectiveconan-us-spain-2962",
+    "name": "Detective Conan",
+    "slug": "detectiveconan-us-spain-2962",
+    "logoUrl": "https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png?w=512",
+    "streamUrl": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DetectiveConan.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "detective-conan::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "detectiveconan-us-france-2961",
+    "name": "Detective Conan France",
+    "slug": "detectiveconan-us-france-2961",
+    "logoUrl": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
+    "streamUrl": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DetectiveConan.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "detective-conan-france::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "geekdot-br-sd-3898",
+    "name": "Geekdot",
+    "slug": "geekdot-br-sd-3898",
+    "logoUrl": "https://i.imgur.com/jML1u4O.png",
+    "streamUrl": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Geekdot.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "geekdot::br::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "dreikotv-pa-sd-3122",
+    "name": "DreikoTv",
+    "slug": "dreikotv-pa-sd-3122",
+    "logoUrl": "https://i.imgur.com/k8U0e0b.png",
+    "streamUrl": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+    "country": {
+      "code": "PA",
+      "name": "Panama"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DreikoTV.pa",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dreikotv::pa::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "energeek-cl-sd-3321",
+    "name": "EnerGeek",
+    "slug": "energeek-cl-sd-3321",
+    "logoUrl": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "EnerGeek.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "energeek::cl::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "extremakidstv-cr-hd-3530",
+    "name": "Extrema Kids TV",
+    "slug": "extremakidstv-cr-hd-3530",
+    "logoUrl": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
+    "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "ExtremaKidsTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "extrema-kids-tv::cr::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tigueritotv-do-hd-10288",
+    "name": "Tiguerito TV",
+    "slug": "tigueritotv-do-hd-10288",
+    "logoUrl": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
+    "streamUrl": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "TigueritoTV.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tiguerito-tv::do::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "southpark-us-france-9306",
+    "name": "South Park",
+    "slug": "southpark-us-france-9306",
+    "logoUrl": "https://i.imgur.com/qA3KsTh.png",
+    "streamUrl": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "SouthPark.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "south-park::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
+        "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
+        "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8",
+        "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
+        "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "tokusato-us-brazil-10382",
+    "name": "Tokusato",
+    "slug": "tokusato-us-brazil-10382",
+    "logoUrl": "https://i.imgur.com/tWpjXtl.png",
+    "streamUrl": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Tokusato.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tokusato::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "solnce-ru-sd-9238",
+    "name": "Солнце",
+    "slug": "solnce-ru-sd-9238",
+    "logoUrl": "https://i.imgur.com/HCefxaK.png",
+    "streamUrl": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Solnce.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+        "http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+        "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "disneyjrlatinamerica-ar-south-3012",
+    "name": "Disney Jr. Latin America South",
+    "slug": "disneyjrlatinamerica-ar-south-3012",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "streamUrl": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "DisneyJrLatinAmerica.ar",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "disney-jr-latin-america-south::ar::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvanimeacao-us-brazil-7328",
+    "name": "Pluto TV Anime Ação",
+    "slug": "plutotvanimeacao-us-brazil-7328",
+    "logoUrl": "https://i.imgur.com/d8PpfB3.png",
+    "streamUrl": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "PlutoTVAnimeAcao.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-anime-a-o::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "spacetoonarabic-ae-sd-9329",
+    "name": "Spacetoon Arabic",
+    "slug": "spacetoonarabic-ae-sd-9329",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+    "streamUrl": "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8",
+    "country": {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "SpacetoonArabic.ae",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "spacetoon-arabic::ae::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "toonamiaftermath-us-east-10393",
+    "name": "Toonami Aftermath East",
+    "slug": "toonamiaftermath-us-east-10393",
+    "logoUrl": "https://i.imgur.com/aSjhZK7.png",
+    "streamUrl": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "ToonamiAftermath.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "toonami-aftermath-east::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "youmancartoonchannel-cn-sd-12051",
+    "name": "优漫卡通",
+    "slug": "youmancartoonchannel-cn-sd-12051",
+    "logoUrl": "https://i.imgur.com/GZInf2W.png",
+    "streamUrl": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "YouManCartoonChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8",
+        "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+        "http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8",
+        "http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "animezonetv-do-sd-731",
+    "name": "Anime Zone TV",
+    "slug": "animezonetv-do-sd-731",
+    "logoUrl": "https://i.imgur.com/AHaXlCh.png",
+    "streamUrl": "http://animezonetv.net/hls/stream.m3u8",
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "AnimeZoneTV.do",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "anime-zone-tv::do::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kmbyld275-us-sd-5146",
+    "name": "Blues TV",
+    "slug": "kmbyld275-us-sd-5146",
+    "logoUrl": "https://i.imgur.com/px0CSti.png",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "KMBYLD275.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "blues-tv::us::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "goldeneaglecartoon-cn-sd-4008",
+    "name": "Golden Eagle Cartoon",
+    "slug": "goldeneaglecartoon-cn-sd-4008",
+    "logoUrl": "https://i.imgur.com/xfVHrKQ.png",
+    "streamUrl": "http://1.24.190.98:10080/hls/51/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "GoldenEagleCartoon.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "golden-eagle-cartoon::cn::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "multimania-lv-sd-6228",
+    "name": "Multimania (Latvia)",
+    "slug": "multimania-lv-sd-6228",
+    "logoUrl": "https://i.imgur.com/J9Lwc0T.png",
+    "streamUrl": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Multimania.lv",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "multimania-latvia::lv::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pingviin-ee-sd-7277",
+    "name": "Pingviin",
+    "slug": "pingviin-ee-sd-7277",
+    "logoUrl": "https://i.imgur.com/b6xupqO.png",
+    "streamUrl": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "est"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Pingviin.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pingviin::ee::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "xtremacartoons-ar-sd-12006",
+    "name": "Xtrema Cartoons",
+    "slug": "xtremacartoons-ar-sd-12006",
+    "logoUrl": "https://i.imgur.com/X2d8y4e.png",
+    "streamUrl": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+    "country": {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "XtremaCartoons.ar",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "xtrema-cartoons::ar::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pingviins-lv-sd-7278",
+    "name": "Pingvīns",
+    "slug": "pingviins-lv-sd-7278",
+    "logoUrl": "https://i.imgur.com/hfXoJIY.png",
+    "streamUrl": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+    "country": {
+      "code": "LV",
+      "name": "Latvia"
+    },
+    "languages": [
+      "lav"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Pingviins.lv",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pingv-ns::lv::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "slime-br-sd-9202",
+    "name": "Slime",
+    "slug": "slime-br-sd-9202",
+    "logoUrl": "https://x1co.com.br/slimelogo.png",
+    "streamUrl": "https://slime.x1co.com.br/hls/stream.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Slime.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "slime::br::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nickelodeon-ee-sd-6593",
+    "name": "Nickelodeon",
+    "slug": "nickelodeon-ee-sd-6593",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png",
+    "streamUrl": "http://195.64.140.147:10121/121",
+    "country": {
+      "code": "EE",
+      "name": "Estonia"
+    },
+    "languages": [
+      "eng",
+      "est",
+      "rus"
+    ],
+    "category": "Animation",
+    "epg": {
+      "id": "Nickelodeon.ee",
+      "available": false
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 64,
+      "badges": [
+        "SD",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 700
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "nickelodeon::ee::animation",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

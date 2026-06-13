@@ -1,0 +1,104 @@
+[
+  {
+    "id": "televisioncaribbean-kn-sd-10046",
+    "name": "Television Caribbean",
+    "slug": "televisioncaribbean-kn-sd-10046",
+    "logoUrl": "https://i.imgur.com/Ogw0COv.png",
+    "streamUrl": "https://live.kingdom-tv.com:3545/stream/play.m3u8",
+    "country": {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TelevisionCaribbean.kn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "television-caribbean::kn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ziztv-kn-sd-12197",
+    "name": "ZIZ TV",
+    "slug": "ziztv-kn-sd-12197",
+    "logoUrl": "https://i.imgur.com/fB09i6X.png",
+    "streamUrl": "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8",
+    "country": {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ZIZTV.kn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ziz-tv::kn::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

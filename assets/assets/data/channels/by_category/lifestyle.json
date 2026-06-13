@@ -1,0 +1,4533 @@
+[
+  {
+    "id": "antiquesroadtrip-us-sd-785",
+    "name": "Antiques Road Trip",
+    "slug": "antiquesroadtrip-us-sd-785",
+    "logoUrl": "https://i.imgur.com/kkm7VqV.png",
+    "streamUrl": "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AntiquesRoadTrip.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antiques-road-trip::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
+        "https://jmp2.uk/plu-6364f6cd308d210007b5eee9.m3u8",
+        "https://jmp2.uk/plu-66f135b45e4a6e0008b80606.m3u8",
+        "https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "autentictravel-de-sd-1015",
+    "name": "Autentic Travel",
+    "slug": "autentictravel-de-sd-1015",
+    "logoUrl": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+    "streamUrl": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "country": {
+      "code": "DE",
+      "name": "Germany"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AutenticTravel.de",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "autentic-travel::de::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cinelife-us-sd-2368",
+    "name": "CineLife",
+    "slug": "cinelife-us-sd-2368",
+    "logoUrl": "https://i.imgur.com/RIUNuMQ.png",
+    "streamUrl": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CineLife.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cinelife::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8?ads.vf=rfg60ruFgWy"
+      ]
+    }
+  },
+  {
+    "id": "infast-nl-sd-4585",
+    "name": "INFAST",
+    "slug": "infast-nl-sd-4585",
+    "logoUrl": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "streamUrl": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "INFAST.nl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "7 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "infast::nl::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8",
+        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+        "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+        "https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8",
+        "https://lifestyle-rakuten.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "localish-us-sd-5517",
+    "name": "Localish",
+    "slug": "localish-us-sd-5517",
+    "logoUrl": "https://i.imgur.com/ACEbGD5.png",
+    "streamUrl": "https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "Localish.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "localish::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "ndtvgoodtimes-in-sd-6438",
+    "name": "NDTV Good Times",
+    "slug": "ndtvgoodtimes-in-sd-6438",
+    "logoUrl": "https://i.imgur.com/7cruYvo.png",
+    "streamUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "NDTVGoodTimes.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ndtv-good-times::in::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "antiquesroadtrip-us-sd-781",
+    "name": "PBS Antiques Road Trip",
+    "slug": "antiquesroadtrip-us-sd-781",
+    "logoUrl": "https://i.imgur.com/kkm7VqV.png",
+    "streamUrl": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AntiquesRoadTrip.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pbs-antiques-road-trip::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "revry-us-sd-8241",
+    "name": "Revry",
+    "slug": "revry-us-sd-8241",
+    "logoUrl": "https://i.imgur.com/XuTUaq4.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry/playlist.m3u8?ads.vf=qWDpCZ1Hina",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "Revry.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "5 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "revry::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8",
+        "https://d36jpyyja698yd.cloudfront.net/playlist.m3u8",
+        "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8",
+        "https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8",
+        "https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "thedesignnetwork-us-poland-10163",
+    "name": "The Design Network",
+    "slug": "thedesignnetwork-us-poland-10163",
+    "logoUrl": "https://i.imgur.com/J5YJ3r3.png",
+    "streamUrl": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "TheDesignNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "4 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-design-network::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8",
+        "https://amg00441-amg00441c1-samsung-au-6606.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "thejamieoliverchannel-us-sd-10186",
+    "name": "The Jamie Oliver Channel",
+    "slug": "thejamieoliverchannel-us-sd-10186",
+    "logoUrl": "https://i.imgur.com/4v93XUB.png",
+    "streamUrl": "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "TheJamieOliverChannel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-jamie-oliver-channel::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jamieoliver-xumo.amagi.tv/playlist.m3u8",
+        "https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "zeezest-in-hd-12171",
+    "name": "Zee Zest HD",
+    "slug": "zeezest-in-hd-12171",
+    "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZKWY.png?lock=720x540",
+    "streamUrl": "http://103.72.101.252:8080/live/2757.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "mar"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "ZeeZest.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zee-zest::in::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://103.229.254.25:7001/play/a0dp/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "zhivi-ru-sd-12192",
+    "name": "ЖИВИ!",
+    "slug": "zhivi-ru-sd-12192",
+    "logoUrl": "https://i.imgur.com/LPqySGk.png",
+    "streamUrl": "http://31.148.48.15/Zhivi/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "Zhivi.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "6 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8",
+        "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
+        "http://31.148.48.15/Zdorovoe_TV/index.m3u8",
+        "https://cdn.ntv.ru/th_style/playlist.m3u8",
+        "https://v4.proofix.ru/0mir/index.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "10bold-au-sydney-91",
+    "name": "10 Bold Adelaide",
+    "slug": "10bold-au-sydney-91",
+    "logoUrl": "https://i.imgur.com/2xglh33.png",
+    "streamUrl": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "10Bold.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "10-bold-adelaide::au::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bbchomegarden-us-sd-1182",
+    "name": "BBC Home & Garden",
+    "slug": "bbchomegarden-us-sd-1182",
+    "logoUrl": "https://i.imgur.com/rC0pi1D.png",
+    "streamUrl": "https://d11r33s5i066xh.cloudfront.net/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "BBCHomeGarden.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbc-home-garden::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctvhealth-cn-hd-2154",
+    "name": "CCTV-Health",
+    "slug": "cctvhealth-cn-hd-2154",
+    "logoUrl": "https://i.imgur.com/AzpRtCz.png",
+    "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CCTVHealth.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-health::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctvwomensfashion-cn-sd-2164",
+    "name": "CCTV-Women's Fashion",
+    "slug": "cctvwomensfashion-cn-sd-2164",
+    "logoUrl": "https://i.imgur.com/FVbP0aP.png",
+    "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CCTVWomensFashion.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-women-s-fashion::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cooltv-hu-sd-2615",
+    "name": "Cool TV",
+    "slug": "cooltv-hu-sd-2615",
+    "logoUrl": "https://i.imgur.com/rXJtthd.png",
+    "streamUrl": "http://146.59.85.40:89/coolhd/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CoolTV.hu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cool-tv::hu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashionbox-nl-sd-3596",
+    "name": "FashionBox",
+    "slug": "fashionbox-nl-sd-3596",
+    "logoUrl": "https://i.imgur.com/Taqj4yi.png",
+    "streamUrl": "https://iptv.prosto.tv/ch369/index.m3u8",
+    "country": {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FashionBox.nl",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashionbox::nl::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashiontveurope-fr-sd-3600",
+    "name": "FashionTV Europe",
+    "slug": "fashiontveurope-fr-sd-3600",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
+    "streamUrl": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FashionTVEurope.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashiontv-europe::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "luxetv-lu-sd-5594",
+    "name": "Luxe TV",
+    "slug": "luxetv-lu-sd-5594",
+    "logoUrl": "https://i.imgur.com/24ehonx.png",
+    "streamUrl": "http://103.154.3.101:5001/live/1736.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "eng",
+      "zho",
+      "fra",
+      "rus"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "LuxeTV.lu",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "luxe-tv::lu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "pbstravel-us-sd-7176",
+    "name": "PBS Travel",
+    "slug": "pbstravel-us-sd-7176",
+    "logoUrl": "https://i.imgur.com/A6GXhta.png",
+    "streamUrl": "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PBSTravel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pbs-travel::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "superyachttv-mc-sd-9604",
+    "name": "Superyacht TV",
+    "slug": "superyachttv-mc-sd-9604",
+    "logoUrl": "https://i.imgur.com/cgjgjE1.png",
+    "streamUrl": "https://sy.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "MC",
+      "name": "Monaco"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "SuperyachtTV.mc",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "superyacht-tv::mc::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "biztv-us-sd-1505",
+    "name": "Biz TV",
+    "slug": "biztv-us-sd-1505",
+    "logoUrl": "https://i.imgur.com/yaNXOnO.png",
+    "streamUrl": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "BizTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "biz-tv::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "aparttv-lu-sd-795",
+    "name": "apart TV",
+    "slug": "aparttv-lu-sd-795",
+    "logoUrl": "https://i.imgur.com/IBcMIcZ.png",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+    "country": {
+      "code": "LU",
+      "name": "Luxembourg"
+    },
+    "languages": [
+      "ltz"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "apartTV.lu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "apart-tv::lu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "biznetlifestyle-id-sd-1504",
+    "name": "Biznet Lifestyle",
+    "slug": "biznetlifestyle-id-sd-1504",
+    "logoUrl": "https://i.imgur.com/XqUfQKA.png",
+    "streamUrl": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "BiznetLifestyle.id",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "biznet-lifestyle::id::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashionlifestyle-ru-sd-3598",
+    "name": "FASHION & LIFESTYLE",
+    "slug": "fashionlifestyle-ru-sd-3598",
+    "logoUrl": "https://i.imgur.com/ETmpllL.png",
+    "streamUrl": "http://31.148.48.15/Fashion_One_HD/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FashionLifeStyle.ru",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashion-lifestyle::ru::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashiontvparisloriginal-fr-sd-3601",
+    "name": "FashionTV Paris L'Original",
+    "slug": "fashiontvparisloriginal-fr-sd-3601",
+    "logoUrl": "https://i.imgur.com/GFTAN5Q.png",
+    "streamUrl": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FashionTVParisLOriginal.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashiontv-paris-l-original::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashiontvsecrets-fr-hd-3602",
+    "name": "FashionTV Secrets",
+    "slug": "fashiontvsecrets-fr-hd-3602",
+    "logoUrl": "https://i.ibb.co/fVGJyCC8/w512.png",
+    "streamUrl": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FashionTVSecrets.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashiontv-secrets::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "globalfashionchannel-us-sd-3971",
+    "name": "Global Fashion Channel",
+    "slug": "globalfashionchannel-us-sd-3971",
+    "logoUrl": "https://i.imgur.com/s4eGYEP.jpg",
+    "streamUrl": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "GlobalFashionChannel.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "global-fashion-channel::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "montecarlodigitaltelevision-fr-hd-6062",
+    "name": "Monte Carlo Digital Television",
+    "slug": "montecarlodigitaltelevision-fr-hd-6062",
+    "logoUrl": "https://i.imgur.com/99h8F1y.jpeg",
+    "streamUrl": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "MonteCarloDigitalTelevision.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "monte-carlo-digital-television::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ploustv-ve-sd-7305",
+    "name": "Plous TV",
+    "slug": "ploustv-ve-sd-7305",
+    "logoUrl": "https://i.imgur.com/OSet4en.png",
+    "streamUrl": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+    "country": {
+      "code": "VE",
+      "name": "Venezuela"
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PlousTV.ve",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plous-tv::ve::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qs24tv-ch-sd-7800",
+    "name": "QS24.tv",
+    "slug": "qs24tv-ch-sd-7800",
+    "logoUrl": "https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png",
+    "streamUrl": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "country": {
+      "code": "CH",
+      "name": "Switzerland"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "QS24tv.ch",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qs24-tv::ch::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv5mondechefs-fr-sd-10637",
+    "name": "TV5MONDE Chefs",
+    "slug": "tv5mondechefs-fr-sd-10637",
+    "logoUrl": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+    "streamUrl": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "TV5MONDEChefs.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv5monde-chefs::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "uafashiontv-ua-sd-11278",
+    "name": "UA Fashion TV",
+    "slug": "uafashiontv-ua-sd-11278",
+    "logoUrl": "https://i.imgur.com/e0YfI90.png",
+    "streamUrl": "https://iptv.prosto.tv/ch216/index.m3u8",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "ukr"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "UAFashionTV.ua",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ua-fashion-tv::ua::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "yachtingtv-cz-sd-12014",
+    "name": "Yachting TV",
+    "slug": "yachtingtv-cz-sd-12014",
+    "logoUrl": "https://i.imgur.com/YxO60B1.png",
+    "streamUrl": "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "YachtingTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yachting-tv::cz::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thejamieoliverchannel-us-sd-10188",
+    "name": "Jamie Oliver",
+    "slug": "thejamieoliverchannel-us-sd-10188",
+    "logoUrl": "https://i.imgur.com/4v93XUB.png",
+    "streamUrl": "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "TheJamieOliverChannel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jamie-oliver::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tv5mondestyle-fr-sd-10643",
+    "name": "TV5Monde Style",
+    "slug": "tv5mondestyle-fr-sd-10643",
+    "logoUrl": "https://i.imgur.com/cwC7Q2V.png",
+    "streamUrl": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "TV5MondeStyle.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv5monde-style::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "soreal-us-us-9298",
+    "name": "So... Real",
+    "slug": "soreal-us-us-9298",
+    "logoUrl": "https://i.imgur.com/wZ2uj9d.png",
+    "streamUrl": "https://cineverse-all3-soreal-1-us.ono.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "SoReal.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "so-real::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "bbclifestyle-uk-asia-1184",
+    "name": "BBC Lifestyle Asia",
+    "slug": "bbclifestyle-uk-asia-1184",
+    "logoUrl": "https://i.imgur.com/9mzJJ3y.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "ind",
+      "eng",
+      "tha"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "BBCLifestyle.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbc-lifestyle-asia::uk::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cctv12-cn-sd-2141",
+    "name": "CCTV-12",
+    "slug": "cctv12-cn-sd-2141",
+    "logoUrl": "https://i.imgur.com/3yTuiOM.png",
+    "streamUrl": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CCTV12.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-12::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "elmueble-es-sd-3284",
+    "name": "El Mueble",
+    "slug": "elmueble-es-sd-3284",
+    "logoUrl": "https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png",
+    "streamUrl": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "ElMueble.es",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "el-mueble::es::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hobbymaker-uk-sd-4346",
+    "name": "Hobby Maker",
+    "slug": "hobbymaker-uk-sd-4346",
+    "logoUrl": "https://i.imgur.com/VWHp5Tl.png",
+    "streamUrl": "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8",
+    "country": {
+      "code": "UK",
+      "name": "United Kingdom"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "HobbyMaker.uk",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hobby-maker::uk::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kaloopytv-us-sd-4951",
+    "name": "Kaloopy",
+    "slug": "kaloopytv-us-sd-4951",
+    "logoUrl": "https://i.imgur.com/XPyOTZF.jpeg",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "KaloopyTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kaloopy::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "smartlifestyletv-us-sd-9205",
+    "name": "Lighting Lives Blessing Nations Smart Life Style TV (LLBN)",
+    "slug": "smartlifestyletv-us-sd-9205",
+    "logoUrl": "https://i.imgur.com/kHFlTEy.png",
+    "streamUrl": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "SmartLifeStyleTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "lighting-lives-blessing-nations-smart-life-style-tv-llbn::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "domashniyinternational-ru-sd-3084",
+    "name": "Домашний International",
+    "slug": "domashniyinternational-ru-sd-3084",
+    "logoUrl": "https://i.imgur.com/nf7GRXb.png",
+    "streamUrl": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "DomashniyInternational.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "international::ru::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "30aluxelifediscovered-us-sd-130",
+    "name": "30A Luxe Life Discovered",
+    "slug": "30aluxelifediscovered-us-sd-130",
+    "logoUrl": "https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg",
+    "streamUrl": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "30ALuxeLifeDiscovered.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "30a-luxe-life-discovered::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "antenamonden-ro-sd-760",
+    "name": "Antena Monden",
+    "slug": "antenamonden-ro-sd-760",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "streamUrl": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AntenaMonden.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "antena-monden::ro::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "catine-ro-sd-2015",
+    "name": "CaTine",
+    "slug": "catine-ro-sd-2015",
+    "logoUrl": "https://i.imgur.com/eFNHuIh.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CaTine.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "catine::ro::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fortunatv-tr-sd-3734",
+    "name": "Fortuna TV",
+    "slug": "fortunatv-tr-sd-3734",
+    "logoUrl": "https://i.imgur.com/ZbUSlOC.png",
+    "streamUrl": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "tur"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FortunaTV.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fortuna-tv::tr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "guidelovetv-ci-sd-4122",
+    "name": "Guide Love TV",
+    "slug": "guidelovetv-ci-sd-4122",
+    "logoUrl": "https://i.ibb.co/9gS2Y4G/guidelove-logo.png",
+    "streamUrl": "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8",
+    "country": {
+      "code": "CI",
+      "name": "Ivory Coast"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "GuideLoveTV.ci",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "guide-love-tv::ci::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "hangulattv-hu-sd-4179",
+    "name": "Hangulat TV",
+    "slug": "hangulattv-hu-sd-4179",
+    "logoUrl": "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
+    "streamUrl": "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8",
+    "country": {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    "languages": [
+      "hun"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "HangulatTV.hu",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "hangulat-tv::hu::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "healthmediatv-us-sd-4224",
+    "name": "Health Media TV",
+    "slug": "healthmediatv-us-sd-4224",
+    "logoUrl": "https://i.imgur.com/x3lIyG9.png",
+    "streamUrl": "https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "HealthMediaTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "health-media-tv::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "medicooltv-ro-sd-5839",
+    "name": "MediCOOL TV",
+    "slug": "medicooltv-ro-sd-5839",
+    "logoUrl": "https://i.imgur.com/Xe7x1k2.png",
+    "streamUrl": "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8",
+    "country": {
+      "code": "RO",
+      "name": "Romania"
+    },
+    "languages": [
+      "ron"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "MediCOOLTV.ro",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "medicool-tv::ro::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "9life-au-sydney-77",
+    "name": "9Life",
+    "slug": "9life-au-sydney-77",
+    "logoUrl": "https://i.imgur.com/HlJOrGI.png",
+    "streamUrl": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+    "country": {
+      "code": "AU",
+      "name": "Australia"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "9Life.au",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 109,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "9life::au::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "revryqueer-us-sd-8250",
+    "name": "Revry Queer",
+    "slug": "revryqueer-us-sd-8250",
+    "logoUrl": "",
+    "streamUrl": "https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "RevryQueer.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 108,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "revry-queer::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "logostvsalud-es-sd-5527",
+    "name": "Logos TV Salud",
+    "slug": "logostvsalud-es-sd-5527",
+    "logoUrl": "https://i.imgur.com/qkHrttj.png",
+    "streamUrl": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "LogosTVSalud.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "logos-tv-salud::es::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "revrynews-us-sd-8249",
+    "name": "Revry News",
+    "slug": "revrynews-us-sd-8249",
+    "logoUrl": "https://i.imgur.com/lKMYCkb.png",
+    "streamUrl": "https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "RevryNews.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "revry-news::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thebeachchannel-us-sd-10140",
+    "name": "The Beach Channel",
+    "slug": "thebeachchannel-us-sd-10140",
+    "logoUrl": "https://i.imgur.com/KShaqAp.png",
+    "streamUrl": "https://stream.castr.com/67320cbb6b3df3c4694581ce/live_a80e55b0a03411efa6eeb56ae1378053/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "TheBeachChannel.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-beach-channel::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ayushtv-in-sd-1048",
+    "name": "Ayush TV",
+    "slug": "ayushtv-in-sd-1048",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://cdn-6.pishow.tv/live/221/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "kan"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AyushTV.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ayush-tv::in::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvfood-us-germany-7396",
+    "name": "Pluto TV Food",
+    "slug": "plutotvfood-us-germany-7396",
+    "logoUrl": "https://i.imgur.com/HTLo1GG.png",
+    "streamUrl": "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PlutoTVFood.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-food::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cctvwomensfashion-cn-sd-2163",
+    "name": "女性时尚",
+    "slug": "cctvwomensfashion-cn-sd-2163",
+    "logoUrl": "https://i.imgur.com/FVbP0aP.png",
+    "streamUrl": "http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CCTVWomensFashion.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "almatv-it-sd-554",
+    "name": "Alma TV",
+    "slug": "almatv-it-sd-554",
+    "logoUrl": "https://i.imgur.com/MfFOnJp.png",
+    "streamUrl": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AlmaTV.it",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "alma-tv::it::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bbctravel-us-germany-1323",
+    "name": "BBC Travel",
+    "slug": "bbctravel-us-germany-1323",
+    "logoUrl": "https://i.imgur.com/QiuYWs9.png",
+    "streamUrl": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "deu"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "BBCTravel.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bbc-travel::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cbcsofra-eg-sd-2037",
+    "name": "CBC Sofra",
+    "slug": "cbcsofra-eg-sd-2037",
+    "logoUrl": "https://i.imgur.com/YAdk2WR.png",
+    "streamUrl": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+    "country": {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CBCSofra.eg",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cbc-sofra::eg::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "etvlife-in-sd-3442",
+    "name": "ETV Life",
+    "slug": "etvlife-in-sd-3442",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s143029_ld_h15_aa.png?lock=720x540",
+    "streamUrl": "https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tel"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "ETVLife.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "etv-life::in::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "fashiontv-ua-sd-3599",
+    "name": "Fashion TV",
+    "slug": "fashiontv-ua-sd-3599",
+    "logoUrl": "https://i.imgur.com/Bk7W39G.png",
+    "streamUrl": "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw",
+    "country": {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "FashionTV.ua",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "fashion-tv::ua::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "kappatv-in-sd-5008",
+    "name": "Kappa TV",
+    "slug": "kappatv-in-sd-5008",
+    "logoUrl": "https://i.imgur.com/e9qTjgB.png",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1123/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "mal"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "KappaTV.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "kappa-tv::in::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvcucina-us-italy-7367",
+    "name": "Pluto TV Cucina",
+    "slug": "plutotvcucina-us-italy-7367",
+    "logoUrl": "https://i.imgur.com/cwkrxcS.png",
+    "streamUrl": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PlutoTVCucina.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-cucina::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvcuisine-us-france-7368",
+    "name": "Pluto TV Cuisine",
+    "slug": "plutotvcuisine-us-france-7368",
+    "logoUrl": "https://i.imgur.com/OuAi5ef.png",
+    "streamUrl": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PlutoTVCuisine.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-cuisine::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "sosdocteurtv-tg-sd-9301",
+    "name": "SOS Docteur TV",
+    "slug": "sosdocteurtv-tg-sd-9301",
+    "logoUrl": "https://i.imgur.com/wQpooHw.png",
+    "streamUrl": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sosdocteurtv.m3u8",
+    "country": {
+      "code": "TG",
+      "name": "Togo"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "SOSDocteurTV.tg",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "sos-docteur-tv::tg::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "betterhealthtv-us-sd-1426",
+    "name": "Better Health TV",
+    "slug": "betterhealthtv-us-sd-1426",
+    "logoUrl": "https://i.imgur.com/qnwJiji.png",
+    "streamUrl": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "BetterHealthTV.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "better-health-tv::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cvrhealth-in-sd-2733",
+    "name": "CVR Health",
+    "slug": "cvrhealth-in-sd-2733",
+    "logoUrl": "https://i.imgur.com/bCyW32I.png",
+    "streamUrl": "https://cdn-6.pishow.tv/live/395/master.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "tel"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "CVRHealth.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cvr-health::in::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gemlife-tr-sd-3913",
+    "name": "GEM Life",
+    "slug": "gemlife-tr-sd-3913",
+    "logoUrl": "https://i.imgur.com/gI8qePa.png",
+    "streamUrl": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "GEMLife.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gem-life::tr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "handicaptv-fr-sd-4172",
+    "name": "HANDICAP TV France",
+    "slug": "handicaptv-fr-sd-4172",
+    "logoUrl": "https://i.imgur.com/vXbAeD0.png",
+    "streamUrl": "https://srv.webtvmanager.fr:3697/stream/play.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "HANDICAPTV.fr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "handicap-tv-france::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jilincitychannel-cn-sd-4841",
+    "name": "Jilin City Channel",
+    "slug": "jilincitychannel-cn-sd-4841",
+    "logoUrl": "https://www.tvchinese.net/uploads/tv/jldspd.jpg",
+    "streamUrl": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "JilinCityChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jilin-city-channel::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jilinlifestylechannel-cn-sd-4842",
+    "name": "Jilin Lifestyle Channel",
+    "slug": "jilinlifestylechannel-cn-sd-4842",
+    "logoUrl": "https://www.tvchinese.net/uploads/tv/jlshpd.jpg",
+    "streamUrl": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "JilinLifestyleChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jilin-lifestyle-channel::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jilinruralchannel-cn-sd-4844",
+    "name": "Jilin Rural Channel",
+    "slug": "jilinruralchannel-cn-sd-4844",
+    "logoUrl": "https://www.tvchinese.net/uploads/tv/jlxcpd.jpg",
+    "streamUrl": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "JilinRuralChannel.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jilin-rural-channel::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvestilodevida-us-brazil-7380",
+    "name": "Pluto TV Estilo de Vida",
+    "slug": "plutotvestilodevida-us-brazil-7380",
+    "logoUrl": "https://i.imgur.com/SNfys9r.png",
+    "streamUrl": "https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "PlutoTVEstilodeVida.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-estilo-de-vida::us::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qtv2-cn-sd-7802",
+    "name": "QTV-2",
+    "slug": "qtv2-cn-sd-7802",
+    "logoUrl": "https://www.tvchinese.net/uploads/tv/qdtv2.jpg",
+    "streamUrl": "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "QTV2.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qtv-2::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "qtv6-cn-sd-7806",
+    "name": "QTV-6",
+    "slug": "qtv6-cn-sd-7806",
+    "logoUrl": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg",
+    "streamUrl": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "QTV6.cn",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "qtv-6::cn::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "densplay-id-sd-2945",
+    "name": "Dens Play",
+    "slug": "densplay-id-sd-2945",
+    "logoUrl": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg",
+    "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "DensPlay.id",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dens-play::id::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "denslifestyle-id-sd-2944",
+    "name": "Dens Life & Style",
+    "slug": "denslifestyle-id-sd-2944",
+    "logoUrl": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",
+    "streamUrl": "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8",
+    "country": {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    "languages": [
+      "ind"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "DensLifeStyle.id",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 107,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "dens-life-style::id::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "maisontravauxtv-fr-sd-5658",
+    "name": "Maison & Travaux TV",
+    "slug": "maisontravauxtv-fr-sd-5658",
+    "logoUrl": "https://i.imgur.com/uYpc6nE.png",
+    "streamUrl": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8",
+    "country": {
+      "code": "FR",
+      "name": "France"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "MaisonTravauxTV.fr",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "maison-travaux-tv::fr::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nova-es-sd-6702",
+    "name": "Nova",
+    "slug": "nova-es-sd-6702",
+    "logoUrl": "https://i.imgur.com/Vx1F4o5.png",
+    "streamUrl": "http://92.176.119.180:2095/play/a1eh",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "Nova.es",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 82,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "nova::es::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://92.176.119.180:2095/play/a16o"
+      ]
+    }
+  },
+  {
+    "id": "divinity-es-sd-3024",
+    "name": "Divinity",
+    "slug": "divinity-es-sd-3024",
+    "logoUrl": "https://i.imgur.com/o7fvEr6.png",
+    "streamUrl": "http://92.176.119.180:2095/play/a1g1",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "Divinity.es",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 78,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "divinity::es::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "almatv-it-sd-555",
+    "name": "AlmaTV",
+    "slug": "almatv-it-sd-555",
+    "logoUrl": "https://i.imgur.com/MfFOnJp.png",
+    "streamUrl": "http://80.79.6.221:25461/smash/public/27",
+    "country": {
+      "code": "IT",
+      "name": "Italy"
+    },
+    "languages": [
+      "ita"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "AlmaTV.it",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 59,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "almatv::it::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": "tvm-mt-sd-10927",
+    "name": "TVM",
+    "slug": "tvm-mt-sd-10927",
+    "logoUrl": "https://i.imgur.com/V0iMsED.png",
+    "streamUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVM.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvm::mt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://80.79.6.221:25461/smash/public/19"
+      ]
+    }
+  },
+  {
+    "id": "parliamentofmalta-mt-sd-7134",
+    "name": "Parliament of Malta",
+    "slug": "parliamentofmalta-mt-sd-7134",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+    "streamUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ParliamentofMalta.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "parliament-of-malta::mt::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmsportplus-mt-sd-10971",
+    "name": "TVMsport+",
+    "slug": "tvmsportplus-mt-sd-10971",
+    "logoUrl": "https://i.imgur.com/YIreFti.png",
+    "streamUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt",
+      "eng"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "TVMsportPlus.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvmsport::mt::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "net-mt-sd-6466",
+    "name": "NET",
+    "slug": "net-mt-sd-6466",
+    "logoUrl": "https://i.imgur.com/K4Uve1n.png",
+    "streamUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NET.mt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "net::mt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://80.79.6.221:25461/smash/public/22"
+      ]
+    }
+  },
+  {
+    "id": "smashtv-mt-sd-9206",
+    "name": "Smash TV",
+    "slug": "smashtv-mt-sd-9206",
+    "logoUrl": "https://i.imgur.com/Yg6ZWKu.png",
+    "streamUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "SmashTV.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "smash-tv::mt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://80.79.6.221:25461/smash/public/1"
+      ]
+    }
+  },
+  {
+    "id": "one-mt-sd-6971",
+    "name": "One",
+    "slug": "one-mt-sd-6971",
+    "logoUrl": "https://i.imgur.com/UPlfzFx.png",
+    "streamUrl": "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "One.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "one::mt::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://80.79.6.221:25461/smash/public/21"
+      ]
+    }
+  },
+  {
+    "id": "parliamentofmalta-mt-sd-7135",
+    "name": "Parliament TV",
+    "slug": "parliamentofmalta-mt-sd-7135",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+    "streamUrl": "http://80.79.6.221:25461/smash/public/23",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt"
+    ],
+    "category": "Legislative",
+    "epg": {
+      "id": "ParliamentofMalta.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 59,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "parliament-tv::mt::legislative",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvmnewsplus-mt-sd-10965",
+    "name": "TVM News+",
+    "slug": "tvmnewsplus-mt-sd-10965",
+    "logoUrl": "https://i.imgur.com/CFcst4g.png",
+    "streamUrl": "http://80.79.6.221:25461/smash/public/20",
+    "country": {
+      "code": "MT",
+      "name": "Malta"
+    },
+    "languages": [
+      "mlt"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "TVMnewsPlus.mt",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 59,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "tvm-news::mt::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

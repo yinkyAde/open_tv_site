@@ -1,0 +1,881 @@
+[
+  {
+    "id": "telelouange-ht-sd-9907",
+    "name": "Tele Louange",
+    "slug": "telelouange-ht-sd-9907",
+    "logoUrl": "https://i.imgur.com/DjnMUuL.png",
+    "streamUrl": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "TeleLouange.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-louange::ht::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotele4veh-ht-sd-7927",
+    "name": "Radio Télé 4VEH",
+    "slug": "radiotele4veh-ht-sd-7927",
+    "logoUrl": "https://i.imgur.com/AnOjqaS.png",
+    "streamUrl": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioTele4VEH.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-t-l-4veh::ht::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tnh-ht-sd-10355",
+    "name": "TNH",
+    "slug": "tnh-ht-sd-10355",
+    "logoUrl": "https://i.imgur.com/8nvCXzt.png",
+    "streamUrl": "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TNH.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tnh::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "haitinewschannel-ht-sd-4159",
+    "name": "Haiti News Channel",
+    "slug": "haitinewschannel-ht-sd-4159",
+    "logoUrl": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+    "streamUrl": "https://haititivi.com/website/haitinews/index.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "HaitiNewsChannel.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "haiti-news-channel::ht::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "netalkoletv-ht-sd-6468",
+    "name": "NETALKOLE TV",
+    "slug": "netalkoletv-ht-sd-6468",
+    "logoUrl": "https://i.imgur.com/SdVrpzY.png",
+    "streamUrl": "https://watch.haitilive.net/naktvhd/index.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "NetalkoleTV.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "netalkole-tv::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioteleplanetcompas-ht-sd-7937",
+    "name": "Radio Tele Planet Compas",
+    "slug": "radioteleplanetcompas-ht-sd-7937",
+    "logoUrl": "https://i.imgur.com/ddb4lsa.png",
+    "streamUrl": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTelePlanetCompas.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tele-planet-compas::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotelevisionshilo-ht-sd-7941",
+    "name": "Radio Télévision Shilo",
+    "slug": "radiotelevisionshilo-ht-sd-7941",
+    "logoUrl": "https://cdn.onlineradiobox.com/img/l/0/98960.v3.png",
+    "streamUrl": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTelevisionShilo.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-t-l-vision-shilo::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvpanou-ht-sd-11023",
+    "name": "TV Panou",
+    "slug": "tvpanou-ht-sd-11023",
+    "logoUrl": "https://i.imgur.com/zee6sWn.png",
+    "streamUrl": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVPanou.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-panou::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioteleeclair-ht-sd-7931",
+    "name": "Radio Tele Eclair",
+    "slug": "radioteleeclair-ht-sd-7931",
+    "logoUrl": "https://i.imgur.com/jV30pSq.png",
+    "streamUrl": "https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTeleEclair.ht",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tele-eclair::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotele6univers-ht-sd-7928",
+    "name": "Radio Tele 6 Univers",
+    "slug": "radiotele6univers-ht-sd-7928",
+    "logoUrl": "https://i.imgur.com/aeVXn7p.jpeg",
+    "streamUrl": "https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTele6Univers.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tele-6-univers::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotelefullgospel-ht-sd-7933",
+    "name": "Radio Tele Full Gospel",
+    "slug": "radiotelefullgospel-ht-sd-7933",
+    "logoUrl": "https://i.imgur.com/WbwIp9y.jpeg",
+    "streamUrl": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioTeleFullGospel.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tele-full-gospel::ht::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioteleginen-ht-sd-7934",
+    "name": "Radio Tele Ginen",
+    "slug": "radioteleginen-ht-sd-7934",
+    "logoUrl": "https://i.imgur.com/ESlt16G.png",
+    "streamUrl": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RadioTeleGinen.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-tele-ginen::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radiotelehit-ht-sd-7935",
+    "name": "Radio Télé Hit",
+    "slug": "radiotelehit-ht-sd-7935",
+    "logoUrl": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
+    "streamUrl": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RadioTeleHit.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-t-l-hit::ht::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "televariete-ht-sd-10035",
+    "name": "Tele Variete",
+    "slug": "televariete-ht-sd-10035",
+    "logoUrl": "https://i.imgur.com/0J5MzTB.png",
+    "streamUrl": "https://acwstream.com/hb/chaine30/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleVariete.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-variete::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "canalplushaiti-ht-sd-1930",
+    "name": "Canal+ Haiti",
+    "slug": "canalplushaiti-ht-sd-1930",
+    "logoUrl": "https://i.imgur.com/Gad5qrd.png",
+    "streamUrl": "https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Entertainment",
+    "epg": {
+      "id": "CanalPlusHaiti.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "canal-haiti::ht::entertainment",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "radioteleamenfm-ht-sd-7930",
+    "name": "Radio Télé Amen FM",
+    "slug": "radioteleamenfm-ht-sd-7930",
+    "logoUrl": "https://i.imgur.com/MTaFdHE.png",
+    "streamUrl": "http://184.173.179.163:1935/daniel/daniel/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra"
+    ],
+    "category": "Religious",
+    "epg": {
+      "id": "RadioTeleAmenFM.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "radio-t-l-amen-fm::ht::religious",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "telehaiti-ht-sd-9895",
+    "name": "Tele Haiti",
+    "slug": "telehaiti-ht-sd-9895",
+    "logoUrl": "https://i.imgur.com/Hso9j58.png",
+    "streamUrl": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
+    "country": {
+      "code": "HT",
+      "name": "Haiti"
+    },
+    "languages": [
+      "fra",
+      "hat",
+      "eng"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleHaiti.ht",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 85,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": false,
+      "sortWeight": 650
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-haiti::ht::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

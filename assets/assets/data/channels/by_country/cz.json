@@ -1,0 +1,1763 @@
+[
+  {
+    "id": "currenttimetv-cz-sd-2724",
+    "name": "Настоящее Время",
+    "slug": "currenttimetv-cz-sd-2724",
+    "logoUrl": "https://i.imgur.com/hKo8ApU.png",
+    "streamUrl": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CurrentTimeTV.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::cz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "currenttimetv-cz-sd-2723",
+    "name": "Current Time TV",
+    "slug": "currenttimetv-cz-sd-2723",
+    "logoUrl": "https://i.imgur.com/hKo8ApU.png",
+    "streamUrl": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CurrentTimeTV.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "current-time-tv::cz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "mnautv-cz-sd-6007",
+    "name": "Mňau TV",
+    "slug": "mnautv-cz-sd-6007",
+    "logoUrl": "https://i.imgur.com/deVHJKS.png",
+    "streamUrl": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "MnauTV.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "m-au-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "prima-cz-sd-7672",
+    "name": "Prima",
+    "slug": "prima-cz-sd-7672",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png",
+    "streamUrl": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Prima.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "prima::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "primastar-cz-sd-7678",
+    "name": "Prima Star",
+    "slug": "primastar-cz-sd-7678",
+    "logoUrl": "https://i.imgur.com/ppqgNDA.png",
+    "streamUrl": "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PrimaStar.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "prima-star::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ct24-cz-sd-2689",
+    "name": "ČT24",
+    "slug": "ct24-cz-sd-2689",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+    "streamUrl": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CT24.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t24::cz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctdecko-cz-sd-2693",
+    "name": "ČT:D/ČT art",
+    "slug": "ctdecko-cz-sd-2693",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+    "streamUrl": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "CTDecko.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-d-t-art::cz::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polartv-cz-sd-7573",
+    "name": "Polar TV",
+    "slug": "polartv-cz-sd-7573",
+    "logoUrl": "https://i.imgur.com/pTJHIX1.png",
+    "streamUrl": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PolarTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 120,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "polar-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "elektrikatv-cz-sd-3274",
+    "name": "Elektrika TV",
+    "slug": "elektrikatv-cz-sd-3274",
+    "logoUrl": "https://i.imgur.com/OLd5od5.png",
+    "streamUrl": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "ElektrikaTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "elektrika-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jihoceskatelevize-cz-sd-4840",
+    "name": "Jihočeská televize",
+    "slug": "jihoceskatelevize-cz-sd-4840",
+    "logoUrl": "https://i.imgur.com/Hi8hZzl.png",
+    "streamUrl": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Jihoceskatelevize.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "jiho-esk-televize::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "jc1-cz-sd-4781",
+    "name": "JČ1",
+    "slug": "jc1-cz-sd-4781",
+    "logoUrl": "https://i.imgur.com/AM8YtcV.png",
+    "streamUrl": "https://stream.jc1.cz/hls/jc1.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "JC1.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "j-1::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plzentv-cz-sd-7556",
+    "name": "Plzeň TV",
+    "slug": "plzentv-cz-sd-7556",
+    "logoUrl": "https://i.imgur.com/TxLKSqL.png",
+    "streamUrl": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PlzenTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "plze-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "polar2-cz-sd-7572",
+    "name": "Polar2 TV",
+    "slug": "polar2-cz-sd-7572",
+    "logoUrl": "https://i.imgur.com/hCPiMYZ.png",
+    "streamUrl": "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "Polar2.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "polar2-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvbrno1-cz-sd-10756",
+    "name": "TV Brno 1",
+    "slug": "tvbrno1-cz-sd-10756",
+    "logoUrl": "https://i.imgur.com/8Xm3WSn.png",
+    "streamUrl": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TVBrno1.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv-brno-1::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "vychodoceskatv-cz-sd-11628",
+    "name": "Východočeská TV",
+    "slug": "vychodoceskatv-cz-sd-11628",
+    "logoUrl": "https://i.imgur.com/4Wwptd3.png",
+    "streamUrl": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "VychodoceskaTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "v-chodo-esk-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "yachtingtv-cz-sd-12014",
+    "name": "Yachting TV",
+    "slug": "yachtingtv-cz-sd-12014",
+    "logoUrl": "https://i.imgur.com/YxO60B1.png",
+    "streamUrl": "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Lifestyle",
+    "epg": {
+      "id": "YachtingTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "yachting-tv::cz::lifestyle",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "utv-cz-sd-11383",
+    "name": "ÚTV",
+    "slug": "utv-cz-sd-11383",
+    "logoUrl": "https://i.imgur.com/ulfeIwM.png",
+    "streamUrl": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "UTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "primalove-cz-sd-7676",
+    "name": "Prima Love",
+    "slug": "primalove-cz-sd-7676",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png",
+    "streamUrl": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "PrimaLove.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "prima-love::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ctsport-cz-sd-2701",
+    "name": "ČT Sport",
+    "slug": "ctsport-cz-sd-2701",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png",
+    "streamUrl": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Sports",
+    "epg": {
+      "id": "CTSport.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-sport::cz::sports",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "oiktv-cz-sd-6883",
+    "name": "OIK TV",
+    "slug": "oiktv-cz-sd-6883",
+    "logoUrl": "https://i.imgur.com/1mXxQ02.png",
+    "streamUrl": "https://streamer05.low-latency.cz/oiktv/index.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "OIKTV.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "oik-tv::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rtmplus-cz-sd-8424",
+    "name": "RTM Plus",
+    "slug": "rtmplus-cz-sd-8424",
+    "logoUrl": "https://i.imgur.com/RNdcP2J.png",
+    "streamUrl": "https://www.rtmplus.cz/live/1-playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "RTMPlus.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 99,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rtm-plus::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ct24-cz-sd-2690",
+    "name": "CT24",
+    "slug": "ct24-cz-sd-2690",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+    "streamUrl": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "News",
+    "epg": {
+      "id": "CT24.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ct24::cz::news",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "minimaxcee-cz-sd-5943",
+    "name": "Minimax (576p)",
+    "slug": "minimaxcee-cz-sd-5943",
+    "logoUrl": "https://i.imgur.com/WWOlm1x.png",
+    "streamUrl": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Kids",
+    "epg": {
+      "id": "MinimaxCEE.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "minimax-576p::cz::kids",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "slagermuzika-cz-sd-9199",
+    "name": "Slager Muzika",
+    "slug": "slagermuzika-cz-sd-9199",
+    "logoUrl": "https://i.imgur.com/hKdXwrW.png",
+    "streamUrl": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SlagerMuzika.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "slager-muzika::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "slageroriginal-cz-sd-9200",
+    "name": "Slager Original",
+    "slug": "slageroriginal-cz-sd-9200",
+    "logoUrl": "https://i.imgur.com/0YjeWcq.png",
+    "streamUrl": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "SlagerOriginal.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "slager-original::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ct1-cz-sd-2687",
+    "name": "ČT 1",
+    "slug": "ct1-cz-sd-2687",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png",
+    "streamUrl": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "CT1.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-1::cz::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ct2-cz-sd-2688",
+    "name": "ČT 2",
+    "slug": "ct2-cz-sd-2688",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
+    "streamUrl": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Documentary",
+    "epg": {
+      "id": "CT2.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "t-2::cz::documentary",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ocko-cz-sd-6867",
+    "name": "Óčko",
+    "slug": "ocko-cz-sd-6867",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "streamUrl": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "Ocko.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ko::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "retromusictv-cz-sd-8226",
+    "name": "Retro Music Television",
+    "slug": "retromusictv-cz-sd-8226",
+    "logoUrl": "https://i.imgur.com/pyOjdZs.png",
+    "streamUrl": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RetroMusicTV.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retro-music-television::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "retromusictv-cz-sd-8227",
+    "name": "Retro Music TV",
+    "slug": "retromusictv-cz-sd-8227",
+    "logoUrl": "https://i.imgur.com/pyOjdZs.png",
+    "streamUrl": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RetroMusicTV.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retro-music-tv::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "retromusictv-cz-sd-8228",
+    "name": "RetroMusicTV",
+    "slug": "retromusictv-cz-sd-8228",
+    "logoUrl": "https://i.imgur.com/pyOjdZs.png",
+    "streamUrl": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "RetroMusicTV.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retromusictv::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ockoexpres-cz-sd-6869",
+    "name": "Óčko Expres",
+    "slug": "ockoexpres-cz-sd-6869",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
+    "streamUrl": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "OckoExpres.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ko-expres::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "ockogold-cz-sd-6871",
+    "name": "Óčko Gold",
+    "slug": "ockogold-cz-sd-6871",
+    "logoUrl": "https://i.imgur.com/nrWNyLc.jpg",
+    "streamUrl": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Music",
+    "epg": {
+      "id": "OckoGold.cz",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "ko-gold::cz::music",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "kinobarrandov-cz-sd-5117",
+    "name": "Kino Barrandov",
+    "slug": "kinobarrandov-cz-sd-5117",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png",
+    "streamUrl": "http://83.167.253.107/hdmi1_ext",
+    "country": {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    "languages": [
+      "ces"
+    ],
+    "category": "Movies",
+    "epg": {
+      "id": "KinoBarrandov.cz",
+      "available": true
+    },
+    "stream": {
+      "type": "unknown",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 76,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Unverified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "unverified",
+      "isVerified": false,
+      "hasVideo": false,
+      "hasAudio": false,
+      "failureReason": "Stream is listed but has not passed a health probe yet"
+    },
+    "duplicates": {
+      "groupId": "kino-barrandov::cz::movies",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

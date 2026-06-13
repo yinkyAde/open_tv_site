@@ -1,0 +1,54 @@
+[
+  {
+    "id": "teletchad-td-sd-10017",
+    "name": "Tele Tchad",
+    "slug": "teletchad-td-sd-10017",
+    "logoUrl": "https://i.imgur.com/udSzfHD.png",
+    "streamUrl": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+    "country": {
+      "code": "TD",
+      "name": "Chad"
+    },
+    "languages": [
+      "fra",
+      "ara"
+    ],
+    "category": "General",
+    "epg": {
+      "id": "TeleTchad.td",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tele-tchad::td::general",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]

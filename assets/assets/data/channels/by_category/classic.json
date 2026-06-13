@@ -1,0 +1,2400 @@
+[
+  {
+    "id": "retrocrush-us-sd-8224",
+    "name": "RetroCrush",
+    "slug": "retrocrush-us-sd-8224",
+    "logoUrl": "https://i.imgur.com/M40b4YI.png",
+    "streamUrl": "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "RetroCrush.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retrocrush::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "thecarolburnettshow-us-sd-10149",
+    "name": "The Carol Burnett Show",
+    "slug": "thecarolburnettshow-us-sd-10149",
+    "logoUrl": "https://i.imgur.com/1a03FlX.png",
+    "streamUrl": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TheCarolBurnettShow.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-carol-burnett-show::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "thikrayattv-sa-sd-10255",
+    "name": "Thikrayat TV",
+    "slug": "thikrayattv-sa-sd-10255",
+    "logoUrl": "https://i.imgur.com/AKa1X9d.png",
+    "streamUrl": "https://aloula-redirect.vercel.app/3/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ThikrayatTV.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 130,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "thikrayat-tv::sa::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "cctvnostalgiatheater-cn-hd-2155",
+    "name": "CCTV-Nostalgia Theater",
+    "slug": "cctvnostalgiatheater-cn-hd-2155",
+    "logoUrl": "https://i.imgur.com/TVs9PBc.png",
+    "streamUrl": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+    "country": {
+      "code": "CN",
+      "name": "China"
+    },
+    "languages": [
+      "zho"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "CCTVNostalgiaTheater.cn",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cctv-nostalgia-theater::cn::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "samuelgoldwynclassics-us-sd-8877",
+    "name": "Samuel Goldwyn Classics",
+    "slug": "samuelgoldwynclassics-us-sd-8877",
+    "logoUrl": "https://i.imgur.com/XC30JAF.png",
+    "streamUrl": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "SamuelGoldwynClassics.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "samuel-goldwyn-classics::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "3catplatsbruts-es-sd-38",
+    "name": "3Cat Plats bruts",
+    "slug": "3catplatsbruts-es-sd-38",
+    "logoUrl": "https://i.imgur.com/49ZENis.png",
+    "streamUrl": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+    "country": {
+      "code": "ES",
+      "name": "Spain"
+    },
+    "languages": [
+      "cat"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "3CatPlatsbruts.es",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "3cat-plats-bruts::es::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zeecineclassic-in-sd-12130",
+    "name": "Zee Cine Classic",
+    "slug": "zeecineclassic-in-sd-12130",
+    "logoUrl": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ZeeCineClassic.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 116,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zee-cine-classic::in::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "rotanaclassic-sa-sd-8319",
+    "name": "Rotana Classic",
+    "slug": "rotanaclassic-sa-sd-8319",
+    "logoUrl": "https://i.imgur.com/pMMUvkt.png",
+    "streamUrl": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "country": {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    "languages": [
+      "ara"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "RotanaClassic.sa",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 111,
+      "badges": [
+        "FHD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 850
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "rotana-classic::sa::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "thearchive-us-sd-10136",
+    "name": "The Archive",
+    "slug": "thearchive-us-sd-10136",
+    "logoUrl": "",
+    "streamUrl": "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TheArchive.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 106,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-archive::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "awtv-br-hd-1040",
+    "name": "AWTV",
+    "slug": "awtv-br-hd-1040",
+    "logoUrl": "https://i.imgur.com/2tdMyef.png",
+    "streamUrl": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "country": {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    "languages": [
+      "por"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "AWTV.br",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "awtv::br::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvn3-cl-sd-10977",
+    "name": "TVN3",
+    "slug": "tvn3-cl-sd-10977",
+    "logoUrl": "https://i.imgur.com/9LEiQPJ.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+    "country": {
+      "code": "CL",
+      "name": "Chile"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVN3.cl",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Geo-blocked"
+    },
+    "quality": {
+      "label": "FHD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 101,
+      "badges": [
+        "FHD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvn3::cl::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cinevaultwesterns-us-sd-2386",
+    "name": "Cinevault Westerns",
+    "slug": "cinevaultwesterns-us-sd-2386",
+    "logoUrl": "https://i.imgur.com/K1W137J.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "CinevaultWesterns.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "cinevault-westerns::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "plutotvthetwilightzone-us-sd-7533",
+    "name": "The Twilight Zone",
+    "slug": "plutotvthetwilightzone-us-sd-7533",
+    "logoUrl": "https://i.imgur.com/FiIRQAR.png",
+    "streamUrl": "https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "PlutoTVTheTwilightZone.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 128,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified",
+        "3 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-twilight-zone::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8",
+        "https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8",
+        "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "filmriseclassictv-us-sd-3674",
+    "name": "FilmRise Classic TV",
+    "slug": "filmriseclassictv-us-sd-3674",
+    "logoUrl": "https://i.imgur.com/8j2npVc.png",
+    "streamUrl": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "FilmRiseClassicTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "filmrise-classic-tv::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsquizshownetwork-us-sd-11187",
+    "name": "TVS Quiz Show Network",
+    "slug": "tvsquizshownetwork-us-sd-11187",
+    "logoUrl": "https://i.imgur.com/5ljQwx2.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSQuizShowNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-quiz-show-network::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wanteddeadoralive-us-sd-11646",
+    "name": "Wanted: Dead or Alive",
+    "slug": "wanteddeadoralive-us-sd-11646",
+    "logoUrl": "https://i.imgur.com/vaSXaFp.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "WantedDeadorAlive.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 124,
+      "badges": [
+        "HD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wanted-dead-or-alive::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsretro-gt-sd-11188",
+    "name": "TVS Retro",
+    "slug": "tvsretro-gt-sd-11188",
+    "logoUrl": "https://i.imgur.com/jdnHci0.png",
+    "streamUrl": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+    "country": {
+      "code": "GT",
+      "name": "Guatemala"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSRetro.gt",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-retro::gt::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "zbcinema-in-hd-12104",
+    "name": "ZB Cinema",
+    "slug": "zbcinema-in-hd-12104",
+    "logoUrl": "https://i.imgur.com/kUg6WSk.jpeg",
+    "streamUrl": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "ben"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ZBCinema.in",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 114,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zb-cinema::in::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classictv-ir-sd-2466",
+    "name": "Classic TV",
+    "slug": "classictv-ir-sd-2466",
+    "logoUrl": "",
+    "streamUrl": "https://clshls.wns.live/hls/stream.m3u8",
+    "country": {
+      "code": "IR",
+      "name": "Iran"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ClassicTV.ir",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 104,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "classic-tv::ir::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "retroxtv-cr-sd-8230",
+    "name": "Retrox TV",
+    "slug": "retroxtv-cr-sd-8230",
+    "logoUrl": "https://i.imgur.com/viJBL6f.png",
+    "streamUrl": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+    "country": {
+      "code": "CR",
+      "name": "Costa Rica"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "RetroxTV.cr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "HD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 103,
+      "badges": [
+        "HD",
+        "Live",
+        "Verified",
+        "2 backups"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retrox-tv::cr::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "theandygriffithshow-us-sd-10134",
+    "name": "The Andy Griffith Show",
+    "slug": "theandygriffithshow-us-sd-10134",
+    "logoUrl": "https://i.imgur.com/1QpMJJT.png",
+    "streamUrl": "https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TheAndyGriffithShow.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-andy-griffith-show::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "theloveboat-us-sd-10194",
+    "name": "The Love Boat",
+    "slug": "theloveboat-us-sd-10194",
+    "logoUrl": "https://i.imgur.com/7ad6NQ8.png",
+    "streamUrl": "https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TheLoveBoat.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "the-love-boat::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "zeeclassic-in-sd-12136",
+    "name": "Zee Classic",
+    "slug": "zeeclassic-in-sd-12136",
+    "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540",
+    "streamUrl": "http://103.72.101.252:8080/live/1691.m3u8",
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "languages": [
+      "hin"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ZeeClassic.in",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 126,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified",
+        "1 backup"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "zee-classic::in::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": [
+        "http://103.229.254.25:7001/play/a09w/index.m3u8"
+      ]
+    }
+  },
+  {
+    "id": "beverlyhillbillies-us-us-1429",
+    "name": "Beverly Hillbillies",
+    "slug": "beverlyhillbillies-us-us-1429",
+    "logoUrl": "https://i.imgur.com/OV9hT93.png",
+    "streamUrl": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "BeverlyHillbillies.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "beverly-hillbillies::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "bridgeclassic-ru-sd-1626",
+    "name": "BRIDGE Classic",
+    "slug": "bridgeclassic-ru-sd-1626",
+    "logoUrl": "https://i.imgur.com/JJTQq81.png",
+    "streamUrl": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "BRIDGEClassic.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "bridge-classic::ru::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classictvdrama-us-sd-2468",
+    "name": "Classic TV Drama",
+    "slug": "classictvdrama-us-sd-2468",
+    "logoUrl": "https://i.imgur.com/XHQxv0x.png",
+    "streamUrl": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ClassicTVDrama.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "classic-tv-drama::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classictvfamilies-us-sd-2470",
+    "name": "Classic TV: Families",
+    "slug": "classictvfamilies-us-sd-2470",
+    "logoUrl": "https://i.imgur.com/llAZ49f.png",
+    "streamUrl": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ClassicTVFamilies.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "classic-tv-families::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "classictvfamilies-us-sd-2469",
+    "name": "Pluto TV Classic TV Families",
+    "slug": "classictvfamilies-us-sd-2469",
+    "logoUrl": "https://i.imgur.com/llAZ49f.png",
+    "streamUrl": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "ClassicTVFamilies.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-classic-tv-families::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "retro-ru-sd-8223",
+    "name": "Retro",
+    "slug": "retro-ru-sd-8223",
+    "logoUrl": "https://i.imgur.com/p21co1w.png",
+    "streamUrl": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "Retro.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "retro::ru::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsnostalgiamovies-us-sd-11182",
+    "name": "TVS Nostalgia Movies",
+    "slug": "tvsnostalgiamovies-us-sd-11182",
+    "logoUrl": "https://i.imgur.com/w4fxiKi.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSNostalgiaMovies.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-nostalgia-movies::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvstavern-us-sd-11195",
+    "name": "TVS Tavern",
+    "slug": "tvstavern-us-sd-11195",
+    "logoUrl": "https://i.imgur.com/3GTIs4j.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSTavern.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-tavern::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "westerntv-us-sd-11730",
+    "name": "Western TV",
+    "slug": "westerntv-us-sd-11730",
+    "logoUrl": "https://i.imgur.com/nNy9oTx.png",
+    "streamUrl": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "WesternTV.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "western-tv::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "nostalgia-ru-sd-6686",
+    "name": "Ностальгия",
+    "slug": "nostalgia-ru-sd-6686",
+    "logoUrl": "https://i.imgur.com/YBdBc0J.png",
+    "streamUrl": "http://31.148.48.15/Nostalgiya/index.m3u8",
+    "country": {
+      "code": "RU",
+      "name": "Russia"
+    },
+    "languages": [
+      "rus"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "Nostalgia.ru",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 122,
+      "badges": [
+        "SD",
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 1000
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "::ru::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "gemclassic-tr-sd-3903",
+    "name": "GEM Classic",
+    "slug": "gemclassic-tr-sd-3903",
+    "logoUrl": "https://i.imgur.com/25BhuOf.png",
+    "streamUrl": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
+    "country": {
+      "code": "TR",
+      "name": "Turkiye"
+    },
+    "languages": [
+      "fas"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "GEMClassic.tr",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "gem-classic::tr::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "plutotvseriesretro-us-sd-7513",
+    "name": "Pluto TV Series Retro",
+    "slug": "plutotvseriesretro-us-sd-7513",
+    "logoUrl": "https://i.imgur.com/UpgGZJ1.png",
+    "streamUrl": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "PlutoTVSeriesRetro.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 112,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "pluto-tv-series-retro::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "cucutaretrotv-co-sd-2714",
+    "name": "Cúcuta Retro TV",
+    "slug": "cucutaretrotv-co-sd-2714",
+    "logoUrl": "https://i.imgur.com/GltIfWW.jpeg",
+    "streamUrl": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8",
+    "country": {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    "languages": [
+      "spa"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "CucutaRetroTV.co",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "SD",
+      "confidence": "medium",
+      "source": "iptv_org_feeds"
+    },
+    "ux": {
+      "score": 97,
+      "badges": [
+        "SD",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "c-cuta-retro-tv::co::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsciphernetwork-us-sd-11144",
+    "name": "TVS Cipher Network",
+    "slug": "tvsciphernetwork-us-sd-11144",
+    "logoUrl": "https://i.imgur.com/yyz1S2W.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSCipherNetwork.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-cipher-network::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsclassicmovies-us-sd-11145",
+    "name": "TVS Classic Movies",
+    "slug": "tvsclassicmovies-us-sd-11145",
+    "logoUrl": "https://i.imgur.com/st1xMsw.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSClassicMovies.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-classic-movies::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvshollywoodhistory-us-sd-11161",
+    "name": "TVS Hollywood History",
+    "slug": "tvshollywoodhistory-us-sd-11161",
+    "logoUrl": "https://i.imgur.com/QtQGyMS.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSHollywoodHistory.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-hollywood-history::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsnostalgia-us-sd-11181",
+    "name": "TVS Nostalgia",
+    "slug": "tvsnostalgia-us-sd-11181",
+    "logoUrl": "https://i.imgur.com/q72FCCQ.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSNostalgia.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-nostalgia::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvstallyho-us-sd-11193",
+    "name": "TVS Tally Ho",
+    "slug": "tvstallyho-us-sd-11193",
+    "logoUrl": "https://i.imgur.com/JlFwnDD.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSTallyHo.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-tally-ho::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvswesternmovie-us-sd-11207",
+    "name": "TVS Western Movie",
+    "slug": "tvswesternmovie-us-sd-11207",
+    "logoUrl": "https://i.imgur.com/dwr98qb.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSWesternMovie.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-western-movie::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "wjlp332-us-sd-11815",
+    "name": "WJLP-DT2",
+    "slug": "wjlp332-us-sd-11815",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",
+    "streamUrl": "https://e3.thetvapp.to/hls/metv-toons/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "WJLP332.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 110,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 900
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "wjlp-dt2::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvspetparadenetwork-us-sd-11185",
+    "name": "TVS Pet Parade Network",
+    "slug": "tvspetparadenetwork-us-sd-11185",
+    "logoUrl": "https://i.imgur.com/oGE1MOP.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSPetParadeNetwork.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-pet-parade-network::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvstalknetwork-us-sd-11192",
+    "name": "TVS Talk Network",
+    "slug": "tvstalknetwork-us-sd-11192",
+    "logoUrl": "https://i.imgur.com/WsaVAhx.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSTalkNetwork.us",
+      "available": false
+    },
+    "stream": {
+      "type": "hls",
+      "status": "listed",
+      "label": ""
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 100,
+      "badges": [
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 800
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-talk-network::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  },
+  {
+    "id": "tvsmainstreet-us-sd-11176",
+    "name": "TVS Mainstreet",
+    "slug": "tvsmainstreet-us-sd-11176",
+    "logoUrl": "https://i.imgur.com/N9nQpnP.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "languages": [
+      "eng"
+    ],
+    "category": "Classic",
+    "epg": {
+      "id": "TVSMainstreet.us",
+      "available": true
+    },
+    "stream": {
+      "type": "hls",
+      "status": "limited",
+      "label": "Not 24/7"
+    },
+    "quality": {
+      "label": "",
+      "confidence": "unknown",
+      "source": "iptv_org_streams"
+    },
+    "ux": {
+      "score": 95,
+      "badges": [
+        "EPG",
+        "Live",
+        "Verified"
+      ],
+      "isFeatured": true,
+      "sortWeight": 750
+    },
+    "health": {
+      "status": "verified",
+      "isVerified": true,
+      "hasVideo": true,
+      "hasAudio": true,
+      "failureReason": null
+    },
+    "duplicates": {
+      "groupId": "tvs-mainstreet::us::classic",
+      "isPrimaryVariant": true,
+      "backupStreamUrls": []
+    }
+  }
+]
